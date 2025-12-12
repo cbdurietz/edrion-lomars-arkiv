@@ -2,21 +2,21 @@
 
 Detta repository innehåller material till en kampanjvärld för rollspel, presenterad i form av ett arkiv.
 
-I stället för en objektiv och fullständig beskrivning av världen består materialet av kartor, krönikor, brev, anteckningar, marginalkommentarer och motsägande källor – sådant som bevarats, sammanställts och ibland missförståtts över tid.
+I stället för en objektiv och fullständig beskrivning av världen består materialet av kartor, krönikor, brev, anteckningar, marginalkommentarer och andra dokument – sådant som bevarats, sammanställts och ibland missförståtts över tid. Dokumenten är sålunda varken kompletta eller objektiva sanningar utan fragmentariska och motsägelsefulla.
 
-Arkivet tillskrivs Edrion Lomar, lärd samlare och krönikör, men gör inga anspråk på att vara vare sig heltäckande eller sant. Det som finns här är vad som råkat överleva nedteckningen.
+Arkivet tillskrivs Edrion Lomar, lärd krönikör, men gör inga anspråk på att vara vare sig heltäckande eller sanna. Det som finns här är vad som upptäckts i Lomars arkiv över tid.
 
 ## Vad detta är
 
--   Ett arbetsarkiv för världsbärande rollspelsmaterial
--   En samling fragment och volymer som kan användas oberoende av varandra
--   Ett försök att beskriva en värld genom hur den har dokumenterats, inte hur den “egentligen är”
+-   Ett arbetsarkiv för världsbärande rollspelsmaterial.
+-   En samling fragment och volymer som kan användas oberoende av varandra.
+-   Ett försök att beskriva en värld genom hur den har dokumenterats, inte hur den “egentligen är”.
 
 ## Vad detta inte är
 
--   En atlas med definitiva svar
--   En färdig metaplot
--   En uttömmande encyklopedi
+-   En atlas med definitiva svar.
+-   En färdig metaplot.
+-   En uttömmande encyklopedi.
 
 Spelledaren förväntas själv tolka, välja, kombinera – eller bortse från – materialet.
 

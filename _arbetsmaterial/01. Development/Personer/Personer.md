@@ -1,0 +1,9 @@
+- [[Edrion Lomar]]
+- [[Alaric Vernhart]]
+- [[Armael den Vise]]
+- [[Kejsar Asthon IV]]
+- [[Mäster Taron]]
+- [[Mesthar]]
+- [[Nalia]]
+- [[Serah]]
+- 

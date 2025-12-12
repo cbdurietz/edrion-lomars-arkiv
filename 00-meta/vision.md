@@ -110,4 +110,4 @@ Världen ska kännas större än det som spelas.
 - känns ofullständig
 - känns befolkad av människor som försökt förstå den
 
-Det är spelledarens uppgift att avgöra vad som till slut blir sant.
+Det är spelledarens uppgift att avgöra vad som är "sant".
