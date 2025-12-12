@@ -1,0 +1,35 @@
+edrion-lomars-arkiv/
+├─ README.md
+├─ LICENSE
+├─ CONTRIBUTING.md                (valfritt)
+├─ STYLEGUIDE.md                  (kort, viktigt)
+├─ .github/
+│  └─ ISSUE_TEMPLATE/             (valfritt)
+├─ 00-meta/
+│  ├─ vision.md                   (elevator pitch + principer)
+│  ├─ canon-policy.md             (vad är “sant”, vad är “källor”?)
+│  └─ glossary.md                 (termer, namnstandard)
+├─ 01-arkiv/
+│  ├─ index.md                    (katalog: vad finns var)
+│  ├─ fragment/                   (brev, anteckningar, kuriosa)
+│  ├─ kartor/                     (karthänvisningar, tolkningar)
+│  └─ kronikor/                   (krönikeutdrag)
+├─ 02-volymer/
+│  ├─ ardenar/
+│  │  ├─ _index.md
+│  │  ├─ regioner/
+│  │  ├─ hav-och-farder.md
+│  │  └─ dramatiska-tryck.md      (konflikter, fronter, “vad driver spel?”)
+│  ├─ nordmark/
+│  │  ├─ _index.md
+│  │  └─ ...
+│  └─ solarith/
+│     ├─ _index.md
+│     └─ ...
+├─ 03-spelledare/
+│  ├─ verktyg.md                  (hur man använder arkivet i spel)
+│  ├─ hemligheter-moduler.md       (valbara “sanningar”, om du vill)
+│  └─ friktionstabeller.md         (rykten, omen, handelsstörningar)
+└─ assets/
+   ├─ images/
+   └─ maps/
