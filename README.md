@@ -22,10 +22,11 @@ Spelledaren förväntas själv tolka, välja, kombinera – eller bortse från �
 
 ## Struktur (översikt)
 
--   `00-meta/` – Projektets ramverk, principer och språk
--   `01-arkiv/` – Arkivmaterial: fragment, krönikor, kartanteckningar
--   `02-volymer/` – Samlade texter rörande specifika regioner eller teman
--   `03-spelledare/` – Verktyg och resonemang för användning i spel
+- `_arbetsmaterial/` – Interna dokument.
+- `00-meta/` – Projektets ramverk, principer och språk.
+- `01-arkiv/` – Arkivmaterial: fragment, krönikor, kartanteckningar.
+- `02-volymer/` – Samlade texter rörande specifika regioner eller teman.
+- `03-spelledare/` – Verktyg och resonemang för användning i spel.
 
 ## Status
 

@@ -1,0 +1,3 @@
+#Plats 
+
+Under [[Vernedia|Vernedias]] huvudstad finns ett nätverk av tunnlar och katakomber som är kända som **[[Skuggornas Hov]]**. Detta underjordiska rike styrs av ett hemligt sällskap av smugglare, lönnmördare och andra kriminella element. [[Skuggornas Hov]] har varit i konflikt med brödraskapet i århundraden, och här kan spelarna finna både ledtrådar och farliga fiender. Dess ledare, **[[Mäster Taron]]**, har information om brödraskapet men litar inte på någon utom sig själv.

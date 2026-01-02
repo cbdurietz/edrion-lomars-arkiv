@@ -40,7 +40,7 @@ Norr om floden Amunir breder de **Stora Slätterna** ut sig, ett enormt, gräsbe
 #### Ytharbergen
 Centrala Ythea domineras av den massiva bergskedjan **Ytharbergen**, en rad höga och svårgenomträngliga berg som markerar en naturlig gräns mellan norra och södra Ythea. Ytharbergen är inte bara svåra att korsa, utan de är också hem för flera mystiska och isolerade kloster, samt gamla ruiner som en gång tillhörde uråldriga imperier. Många tror att bergen fortfarande ruvar på hemligheter och gömda skatter, men de flesta expeditioner har försvunnit spårlöst i de farliga passagen.
 #### Djupa skogar
-På den centrala delen av kontinenten finns också de **Djupa Skogarna**, stora skogsmarker som sträcker sig över flera hundra mil. Dessa skogar är kända för sina magiska väsen, inklusive gamla trädandar och andra varelser som sägs ha bott där sedan urminnes tider. Folket som bor i dessa skogar har utvecklat en nära relation till naturen och använder sig ofta av naturmagi för att överleva och försvara sig mot inkräktare.
+På den centrala delen av kontinenten finns också de **[[Djupa Skogarna]]**, stora skogsmarker som sträcker sig över flera hundra mil. Dessa skogar är kända för sina magiska väsen, inklusive gamla trädandar och andra varelser som sägs ha bott där sedan urminnes tider. Folket som bor i dessa skogar har utvecklat en nära relation till naturen och använder sig ofta av naturmagi för att överleva och försvara sig mot inkräktare.
 
 ### Södra Ythea: Öknar och Halvtorra Landskap
 

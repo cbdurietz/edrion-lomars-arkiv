@@ -29,7 +29,7 @@ Prästerna i Xenthar har ett starkt inflytande över både det politiska och det
 
 ## Politiskt System
 
-Xenthar är ett imperium med en lång och komplex historia av både **monarki och teokrati**. Kejsaren, som anses vara en halvgud, har absolut makt och regerar över hela riket från sin tron i Xenthara. Den nuvarande kejsaren, **Valerion XI**, ses som en vis och mäktig ledare, men hans regeringstid har också kantats av intriger och maktspel inom hovet. Kejsarens makt är inte oinskränkt, då han ofta måste navigera genom de inflytelserika prästerskapets krav och den aristokratiska eliten som kontrollerar mycket av landets rikedomar och militära resurser.
+Xenthar är ett imperium med en lång och komplex historia av både **monarki och teokrati**. Kejsaren, som anses vara en halvgud, har absolut makt och regerar över hela riket från sin tron i Xenthara. Den nuvarande kejsaren, **[[Valerion XI]]**, ses som en vis och mäktig ledare, men hans regeringstid har också kantats av intriger och maktspel inom hovet. Kejsarens makt är inte oinskränkt, då han ofta måste navigera genom de inflytelserika prästerskapets krav och den aristokratiska eliten som kontrollerar mycket av landets rikedomar och militära resurser.
 
 Det politiska systemet i Xenthar är starkt centraliserat kring kejsarens makt, men det finns också en **hierarki av ämbetsmän** och lokala guvernörer som ansvarar för de olika provinserna i imperiet. Guvernörerna är ofta lojala adelsmän eller krigsherrar som har belönats med land och titlar i utbyte mot deras tjänster och lojalitet till tronen. Dessa guvernörer har betydande makt i sina provinser, men de är skyldiga att betala skatt och förse kejsaren med soldater och resurser vid behov.
 
@@ -65,10 +65,10 @@ Samtidigt har Xenthar också många **fiender**, särskilt de riken som ligger u
 
 ### Relation till [[01. Development/Platser/Aeteras/Aeterion/Prima/Ardenar/Ardenar|Ardenar]]
 
-Xenthar har också ett komplicerat förhållande till kontinenten **[[01. Development/Platser/Aeteras/Aeterion/Prima/Ardenar/Ardenar|Ardenar]]**, som ligger bortom Solhavet. Handeln mellan Xenthar och [[01. Development/Platser/Aeteras/Aeterion/Prima/Ardenar/Ardenar|Ardenar]] har varit lukrativ för båda parter, och Xenthars flotta har varit avgörande för att upprätthålla dessa handelsvägar. Det finns dock spänningar mellan Xenthar och vissa av de mer självständiga stadsstaterna och kungadömena på [[Prima]], som ser imperiets expansionistiska politik med oro.
+Xenthar har också ett komplicerat förhållande till kontinenten **[[01. Development/Platser/Aeteras/Aeterion/Prima/Ardenar/Ardenar|Ardenar]]**, som ligger bortom [[Stjärnhavet]]. Handeln mellan Xenthar och [[01. Development/Platser/Aeteras/Aeterion/Prima/Ardenar/Ardenar|Ardenar]] har varit lukrativ för båda parter, och Xenthars flotta har varit avgörande för att upprätthålla dessa handelsvägar. Det finns dock spänningar mellan Xenthar och vissa av de mer självständiga stadsstaterna och kungadömena på [[Prima]], som ser imperiets expansionistiska politik med oro.
 
 ## Mysterier och Legender
 
 Xenthar är ett rike fyllt med **legender och myter**, särskilt kring dess grundande och kejsarens gudomliga status. En av de mest kända legenderna handlar om **Solens Krigare**, en grupp uråldriga kämpar som sägs ha fått sin styrka från solguden själv. Enligt myten grundade dessa krigare det första Xenthar, och deras arv lever vidare i dagens legioner.
 
-En annan populär legend berättar om **Månens Tempel**, en hemlig plats djupt i Amunirbergen, där det sägs att mångudens kraft vilar. Endast ett fåtal utvalda präster och prästerinnor tillåts närma sig templet, och de som har försökt utan tillstånd sägs ha försvunnit i skuggorna.
+En annan populär legend berättar om **Månens Tempel**, en hemlig plats djupt i [[Amunirbergen]], där det sägs att mångudens kraft vilar. Endast ett fåtal utvalda präster och prästerinnor tillåts närma sig templet, och de som har försökt utan tillstånd sägs ha försvunnit i skuggorna.

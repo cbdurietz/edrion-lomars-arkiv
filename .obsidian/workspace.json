@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Serthara/Serthara.md",
+                "file": "_arbetsmaterial/01. Development/Äventyr/Den Stulna Stjärnans Fall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serthara"
+              "title": "Den Stulna Stjärnans Fall"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Skuggornas hov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Serthara/Serthara.md",
+                "file": "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kyrathis/Kyrathis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Serthara"
+              "title": "Backlinks for Kyrathis"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Serthara/Serthara.md",
+                "file": "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kyrathis/Kyrathis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Serthara"
+              "title": "Outgoing links from Kyrathis"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Serthara/Serthara.md",
+                "file": "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kyrathis/Kyrathis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Serthara"
+              "title": "Outline of Kyrathis"
             }
           }
         ]
@@ -185,13 +186,31 @@
   },
   "active": "35bb55708ec24cb2",
   "lastOpenFiles": [
-    "_arbetsmaterial/01. Development/Äventyr/Den Stulna Stjärnans Fall.md",
-    "_arbetsmaterial/01. Development/Äventyr/Demonfurstens Förbannelse.md",
-    "_arbetsmaterial/01. Development/Äventyr/De Svarta Tårarnas Klagan.md",
-    "_arbetsmaterial/01. Development/Äventyr/Äventyr.md",
-    "_arbetsmaterial/02. Release/Part I - Introduction/Part I - Introduction.md",
+    "Glömda Klostret Kharos.md",
+    "Skuggornas Hov.md",
+    "_arbetsmaterial/01. Development/Äventyr/Det Glömda Brödraskapets Hämnd.md",
+    "Lutharions Fästning.md",
+    "Stormfurste Kaeralis.md",
+    "Domens Grav.md",
+    "Valendis.md",
+    "Altarum.md",
+    "General Illyra Vayn.md",
+    "Thezar.md",
+    "Lutharion.md",
+    "_arbetsmaterial/01. Development/Äventyr/Frostkungens Tron.md",
+    "Stormsiare Khelryn.md",
+    "_arbetsmaterial/01. Development/Personer/Kejsar Asthon IV.md",
+    "Thaleia av Arkhelen.md",
+    "assets/assets.md",
+    "README.md",
+    "STYLEGUIDE.md",
+    "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Ardenar/Frostslätten.md",
+    "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Ardenar/Drakhjärta.md",
+    "_arbetsmaterial/01. Development/Personer/Caius II.md",
     "00-meta/vision.md",
+    "00-meta/canon-policy.md",
     "00-meta/glossary.md",
-    "00-meta/canon-policy.md"
+    "_arbetsmaterial/01. Development/Personer/Edrion Lomar/Edrion Lomar.md",
+    "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kyrathis/Kyrathis.md"
   ]
 }
