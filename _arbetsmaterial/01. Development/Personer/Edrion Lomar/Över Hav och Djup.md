@@ -10,10 +10,10 @@ _Över Hav och Djup_ är indelad i flera kapitel, var och en fokuserad på en sp
 
 ### Del I: De Kända Vägarna
 
-Den första delen av boken är relativt kartlagd och tar läsaren genom de mest kända sjövägarna och hamnstäderna på [[Prima]]. Här dokumenterar Lomar sina resor längs de kända kusterna på kontinenter som **[[01. Development/Platser/Aeteras/Aeterion/Prima/Ardenar/Ardenar|Ardenar]]** och **[[01. Development/Platser/Aeteras/Aeterion/Prima/Kyrathis/Kyrathis|Kyrathis]]** och beskriver de många sjöfartskulturerna han möter. Även om dessa platser är relativt bekanta för läsarna, lyckas Lomar belysa detaljer och insikter som många förbiser.
+Den första delen av boken är relativt kartlagd och tar läsaren genom de mest kända sjövägarna och hamnstäderna på [[Prima]]. Här dokumenterar Lomar sina resor längs de kända kusterna på kontinenter som **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** och **[[Kyrathis|Kyrathis]]** och beskriver de många sjöfartskulturerna han möter. Även om dessa platser är relativt bekanta för läsarna, lyckas Lomar belysa detaljer och insikter som många förbiser.
 
 - **Exempel på kapitel:**
-    - _"Stormarna över [[Det Gryende Havet]]"_ – Lomars erfarenheter av att segla över de farliga vattnen mellan [[01. Development/Platser/Aeteras/Aeterion/Prima/Ardenar/Ardenar|Ardenar]] och [[01. Development/Platser/Aeteras/Aeterion/Prima/Kyrathis/Kyrathis|Kyrathis]], där han diskuterar de förödande stormar som regelbundet drabbar området och de vidskepelser sjömännen bär med sig.
+    - _"Stormarna över [[Skymningshavet]]"_ – Lomars erfarenheter av att segla över de farliga vattnen mellan [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] och [[Kyrathis|Kyrathis]], där han diskuterar de förödande stormar som regelbundet drabbar området och de vidskepelser sjömännen bär med sig.
     - _"[[Lornhaven]]: Hamnen vid [[Vandrarskogen]]"_ – Ett tidigt kapitel som beskriver [[Lornhaven]] som Lomar besökte under dess blomstringstid, innan stadens tystnad. Han beskriver dess rika handelsliv, men hintar också om de faror som lurar i [[Vandrarskogen]].
 
 ### Del II: Vid Gränsen till Det Okända
@@ -21,7 +21,7 @@ Den första delen av boken är relativt kartlagd och tar läsaren genom de mest 
 Den andra delen av boken för läsaren till de mer okända eller farliga områdena på [[Prima]]. Här utforskar Lomar sjövägar som få vågat sig på, ofta med stor risk för sina egna liv. Det är i denna del som de mest mystiska och skrämmande skildringarna återfinns – Lomar beskriver platser där naturlagarna verkar brytas, eller där förlorade civilisationer lämnat kvar outgrundliga ruiner.
 
 - **Exempel på kapitel:**
-    - _"De Ljusfyllda Djupen: En Seglats över [[Stjärnhavet]]"_ – Lomar beskriver sin resa över [[Stjärnhavet]] mellan [[01. Development/Platser/Aeteras/Aeterion/Prima/Serthara/Serthara|Serthara]] och [[01. Development/Platser/Aeteras/Aeterion/Prima/Ythea/Ythea|Ythea]], och här möter han de skrämmande ljusfenomen som detta hav är känt för. Han reflekterar över både naturliga och övernaturliga orsaker till fenomenen, och han hintar om legender om sjömän som förlorat sina sinnen efter att ha seglat under de lysande kometerna.
+    - _"De Ljusfyllda Djupen: En Seglats över [[Stjärnhavet]]"_ – Lomar beskriver sin resa över [[Stjärnhavet]] mellan [[Serthara|Serthara]] och [[Ythea|Ythea]], och här möter han de skrämmande ljusfenomen som detta hav är känt för. Han reflekterar över både naturliga och övernaturliga orsaker till fenomenen, och han hintar om legender om sjömän som förlorat sina sinnen efter att ha seglat under de lysande kometerna.
     - _"Ytheas Dimbankar"_ – En skildring av hans första kontakt med Ytheas dimmiga kuster, där han och hans besättning under flera dagar var fångade i en oförklarlig dimma, under vilken de började se skuggor och höra röster. Han beskriver Ytheas befolkning som sluten och mystisk, och hur de tror att deras land är beskyddat av osynliga krafter.
 
 ### Del III: Havets Hemligheter

@@ -1,0 +1,3 @@
+#Plats 
+
+De centrala delarna av [[Thalios]] präglas av **[[Thaliosplatån]]**, en imponerande bergsformation som sträcker sig över stora delar av landet och skapar en hög, platt yta där starka krigarsamhällen har växt fram. [[Thaliosplatån]] har spelat en central roll i landets historia som både ett skydd och en strategisk fördel, vilket har bidragit till Thalios rykte som ett land av oövervinneliga krigare. Här uppe är luften tunnare och vindarna hårda, men de bofasta har anpassat sig till denna karga miljö genom generationer av överlevnad, krig och ära.

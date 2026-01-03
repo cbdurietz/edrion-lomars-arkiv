@@ -1,0 +1,3 @@
+#Plats 
+
+Det mest kända geografiska kännetecknet i norra [[Ythea]] är den mäktiga **floden [[Amunir]]**, som slingrar sig genom flera riken och spelar en avgörande roll för jordbruk och handel. Floden har skapat ett bördigt flodområde som är hem för några av de mest utvecklade och befolkade regionerna på [[Ythea]]. Längs dess stränder finns flera gamla städer, tempel och fästningar, var och en med sin egen historia och kultur.

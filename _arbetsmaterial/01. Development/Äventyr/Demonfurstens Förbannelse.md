@@ -6,7 +6,7 @@ En mäktig demonfurste har återvänt från sitt fängelse i underjorden och spr
 
 #### **Handling och Premiss**
 
-I **"Demonfurstens Förbannelse"**, ställs spelarna inför en uråldrig ondskefull kraft som varit fängslad i årtusenden men som nu börjar bryta sig fri. Historien utspelar sig i den isolerade bergsstaten **[[Otharam]]**, djupt i **[[Ytharbergen]]** på kontinenten **[[01. Development/Platser/Aeteras/Aeterion/Prima/Ythea/Ythea|Ythea]]**. Riket, som har levt i relativ fred i flera generationer, står nu inför ett katastrofalt hot. Någonting mörkt har börjat röra sig i bergen – en kraft som det talas om i skräckinjagande viskningar: **Demonfursten [[Azarath]]**.
+I **"Demonfurstens Förbannelse"**, ställs spelarna inför en uråldrig ondskefull kraft som varit fängslad i årtusenden men som nu börjar bryta sig fri. Historien utspelar sig i den isolerade bergsstaten **[[Otharam]]**, djupt i **[[Ytharbergen]]** på kontinenten **[[Ythea|Ythea]]**. Riket, som har levt i relativ fred i flera generationer, står nu inför ett katastrofalt hot. Någonting mörkt har börjat röra sig i bergen – en kraft som det talas om i skräckinjagande viskningar: **Demonfursten [[Azarath]]**.
 
 För länge sedan besegrades [[Azarath]], en mäktig demonfurste, av [[Otharam|Otharams]] första kung, som lyckades binda hans kraft till bergen genom en förbannelse. Under århundraden har denna förbannelse varit en välsignelse för riket, då den skyddade dem från demonens återkomst. Men något har hänt. Förbannelsen försvagas, och märkliga olyckor, sjukdomar och förvridna monster börjar dyka upp i de avlägsna byarna kring **[[Galdaroth]]**, Otharams huvudstad. Skräcken sprider sig som en löpeld, och ryktena om att [[Azarath]] åter är på väg att bryta sig fri blir allt vanligare.
 

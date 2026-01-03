@@ -1,0 +1,3 @@
+#Plats 
+
+  Den södra delen av [[Kyrathis]] domineras av en stor och karg **öken** som kallas **[[Kyrelöknen]]**. Detta är ett av de mest ogästvänliga områdena på kontinenten, men ändå finns här små oaser och gömda städer som har lärt sig att överleva i de hårda förhållandena. Öknen döljer också många hemligheter – från underjordiska städer till uråldriga gravplatser och mystiska krafter som enligt legenderna har påverkat regionen i årtusenden.

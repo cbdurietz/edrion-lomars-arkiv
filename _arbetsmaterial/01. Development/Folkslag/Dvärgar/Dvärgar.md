@@ -1,3 +1,5 @@
+#Folk 
+
 **Dvärgar** är ett ståndaktigt och arbetssamt folk känt över hela riket för sitt exceptionella hantverk, sin handelsskicklighet och sina tillbakadragna bergsbosättningar. Organiserat i mäktiga handelsgiller kretsar dvärgarnas samhälle kring gruvdrift, metallurgi och handel, med deras varor—särskilt metallarbeten, stenhantverk och ädla material—som kommenderar förstklassiga priser på marknader över alla länder.
 
 ## Bosättningar och territorium

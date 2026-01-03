@@ -1,0 +1,2 @@
+#Plats 
+Städer som **[[Solaris]]** på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] och **[[Stormhamn]]** på [[Kyrathis|Kyrathis]] har blivit viktiga hamnar och handelscentrum, där varor från hela [[Prima]] passerar.

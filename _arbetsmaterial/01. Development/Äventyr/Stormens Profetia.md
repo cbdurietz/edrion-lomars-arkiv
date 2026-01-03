@@ -6,11 +6,11 @@ En uråldrig profetia talar om en kommande storm som kan sopa bort hela riken. M
 
 #### **Handling och Premiss**
 
-**"Stormens Profetia"** utspelar sig på **kontinenten [[01. Development/Platser/Aeteras/Aeterion/Prima/Ythea/Ythea|Ythea]]**, där en serie allt mer våldsamma stormar har börjat härja längs kusterna och in i landets hjärta. Dessa stormar är inte av naturlig karaktär; de är enorma, fyllda med blixtar och vridna vindar, och de har förstört städer och fört med sig stora översvämningar och förödelse. Händelserna har lett till spekulationer om att en gammal profetia håller på att gå i uppfyllelse – **Stormens Profetia**, en mytisk förutsägelse som talar om att världen en dag ska svepas bort av stormgudarnas vrede.
+**"Stormens Profetia"** utspelar sig på **kontinenten [[Ythea|Ythea]]**, där en serie allt mer våldsamma stormar har börjat härja längs kusterna och in i landets hjärta. Dessa stormar är inte av naturlig karaktär; de är enorma, fyllda med blixtar och vridna vindar, och de har förstört städer och fört med sig stora översvämningar och förödelse. Händelserna har lett till spekulationer om att en gammal profetia håller på att gå i uppfyllelse – **Stormens Profetia**, en mytisk förutsägelse som talar om att världen en dag ska svepas bort av stormgudarnas vrede.
 
 Profetian har länge setts som en uråldrig varning, förseglad i de gamla texterna från förlorade civilisationer, men få trodde att den faktiskt skulle kunna bli verklighet. Nu börjar allt fler inse att profetian kan vara äkta, och om stormarna inte stoppas kommer de att växa i styrka och till slut förstöra hela världen. Men profetian är splittrad och delad mellan flera fragment, och den enda möjligheten att stoppa stormarna är att samla dessa fragment och avslöja den fullständiga profetians innebörd.
 
-Spelarna dras in i äventyret som den sista utvägen för att stoppa katastrofen. De måste inte bara kämpa mot de förödande stormarna och deras kaotiska effekter, utan också avslöja hemligheter som länge varit begravda – hemligheter som kan förändra hur världen ser på stormgudarna och de uråldriga krafter som en gång formade [[01. Development/Platser/Aeteras/Aeterion/Prima/Ythea/Ythea|Ythea]].
+Spelarna dras in i äventyret som den sista utvägen för att stoppa katastrofen. De måste inte bara kämpa mot de förödande stormarna och deras kaotiska effekter, utan också avslöja hemligheter som länge varit begravda – hemligheter som kan förändra hur världen ser på stormgudarna och de uråldriga krafter som en gång formade [[Ythea|Ythea]].
 
 #### **Centrala Platser i Äventyret**
 
@@ -20,7 +20,7 @@ Spelarna dras in i äventyret som den sista utvägen för att stoppa katastrofen
     
 3. **[[Stormarnas Skugga]]** – Ett mystiskt område i havet där stormarna är som starkast och där ett permanent åskväder rasar över ett vattenmassiv. Det sägs att en del av profetians sista fragment finns gömda här, skyddade av uråldriga väktare och omgivna av ett oöverkomligt väderkaos. Spelarna måste använda både magi och navigationsskicklighet för att ta sig genom detta område och komma åt hemligheterna som stormarna döljer.
     
-4. **[[Profetians Högkvarter]]** – En hemlig orden, känd som **[[Profetians Väktare]]**, har i århundraden skyddat fragment av den ursprungliga profetian. **Högkvarteret**, som ligger dolt djupt under en av de stora huvudstäderna i [[01. Development/Platser/Aeteras/Aeterion/Prima/Ythea/Ythea|Ythea]], är ett bibliotek fyllt med uråldriga texter och skrifter om stormgudarna. Väktarna har dock splittrats internt om hur profetian ska tolkas, och vissa av dem kanske motarbetar spelarna om de tror att stormarna borde få härska.
+4. **[[Profetians Högkvarter]]** – En hemlig orden, känd som **[[Profetians Väktare]]**, har i århundraden skyddat fragment av den ursprungliga profetian. **Högkvarteret**, som ligger dolt djupt under en av de stora huvudstäderna i [[Ythea|Ythea]], är ett bibliotek fyllt med uråldriga texter och skrifter om stormgudarna. Väktarna har dock splittrats internt om hur profetian ska tolkas, och vissa av dem kanske motarbetar spelarna om de tror att stormarna borde få härska.
     
 
 #### **Äventyrets Nyckelkaraktärer**
@@ -43,7 +43,7 @@ Atmosfären är ständigt laddad med hot och spänning, och stormarna fungerar s
 #### **Äventyrets Utveckling och Spelstruktur**
 
 1. **Introduktion och De Första Tecknen på Stormar:**  
-    Äventyret börjar när spelarna dras in i kampen mot de fruktansvärda stormarna som ödelägger Ytheas kuster. De får höra om profetian som talar om stormarnas återkomst, och de tvingas snart konfrontera både stormarnas effekter och de krafter som försöker utnyttja kaoset. Spelarna får i uppdrag att samla de olika fragmenten av **Stormens Profetia**, som är utspridda över [[01. Development/Platser/Aeteras/Aeterion/Prima/Ythea/Ythea|Ythea]].
+    Äventyret börjar när spelarna dras in i kampen mot de fruktansvärda stormarna som ödelägger Ytheas kuster. De får höra om profetian som talar om stormarnas återkomst, och de tvingas snart konfrontera både stormarnas effekter och de krafter som försöker utnyttja kaoset. Spelarna får i uppdrag att samla de olika fragmenten av **Stormens Profetia**, som är utspridda över [[Ythea|Ythea]].
     
 2. **Utforskning av Heliga Platser och Samlande av Fragment:**  
     Spelarna ger sig ut på en resa för att hitta fragmenten av profetian. Detta leder dem till **[[Vindens Klippa]]**, **[[Tordönets Tempel]]**, och andra farliga och mystiska platser. Under resan måste de slåss mot stormandar och andra faror som försöker hindra dem, och samtidigt navigera genom de politiska och religiösa intriger som stormarna har skapat.
@@ -55,7 +55,7 @@ Atmosfären är ständigt laddad med hot och spänning, och stormarna fungerar s
     Äventyret kulminerar i en episk kamp vid **Stormarnas Skugga**, där stormarna är som starkast och där det sista fragmentet av profetian är gömt. Här måste spelarna slåss mot både stormandar och Kaeralis styrkor för att nå profetians fulla innebörd. De ställs inför avgörande beslut – ska de försöka stoppa stormarna, eller låta ödet ha sin gång? Och vad händer om de själva försöker ta kontroll över stormarnas kraft?
     
 5. **Avslutning och Efterdyningar:**  
-    Hur äventyret slutar beror på spelarnas val. Om de lyckas stoppa stormarna kan världen räddas från förödelse, men om de misslyckas – eller om de själva försöker använda stormarnas kraft – kan de släppa lös en katastrof som sveper bort hela [[01. Development/Platser/Aeteras/Aeterion/Prima/Ythea/Ythea|Ythea]]. Spelarnas handlingar kan förändra världens framtid och staka ut en ny väg för stormarnas arv.
+    Hur äventyret slutar beror på spelarnas val. Om de lyckas stoppa stormarna kan världen räddas från förödelse, men om de misslyckas – eller om de själva försöker använda stormarnas kraft – kan de släppa lös en katastrof som sveper bort hela [[Ythea|Ythea]]. Spelarnas handlingar kan förändra världens framtid och staka ut en ny väg för stormarnas arv.
     
 
 ### **Sammanfattning**

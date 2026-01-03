@@ -1,0 +1,3 @@
+#Plats 
+
+Huvudstaden i [[Nordmark]] är **[[Varghall]]**, en imponerande stad som ligger inbäddad i en dal vid foten av [[Iskronans Rygg]]. Varghall är både ett militärt fäste och ett kulturellt centrum för Nordmarks klaner. Staden är omgiven av massiva murar och är känd för sitt imponerande fästningsverk och sina torn som sticker upp som tänder mot den grå himlen. Här håller stridskungen hov och leder sitt rike i tider av fred och konflikt.

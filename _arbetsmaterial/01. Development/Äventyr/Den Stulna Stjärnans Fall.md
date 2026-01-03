@@ -6,13 +6,13 @@ En stjärna har fallit från himlen och krossat en hel by. Men i kratern finner 
 
 #### **Handling och Premiss**
 
-**"Den Stulna Stjärnans Fall"** utspelar sig på kontinenten **[[01. Development/Platser/Aeteras/Aeterion/Prima/Serthara/Serthara|Serthara]]**, känd för sin stora geografiska mångfald och sina mäktiga riken. I centrum för berättelsen står **stjärnfragmentet**, en del av en uråldrig stjärna som för tusentals år sedan föll från himlen och kraschade i bergen i centrala [[01. Development/Platser/Aeteras/Aeterion/Prima/Serthara/Serthara|Serthara]]. Detta fragment, känt som **[[Stjärnans Hjärta]]**, innehåller en makalös kraft – den anses vara en del av själva universums skapelseenergi, och kan användas för att forma verkligheten, förändra materiens struktur och ge oöverträffad makt till den som kontrollerar det.
+**"Den Stulna Stjärnans Fall"** utspelar sig på kontinenten **[[Serthara|Serthara]]**, känd för sin stora geografiska mångfald och sina mäktiga riken. I centrum för berättelsen står **stjärnfragmentet**, en del av en uråldrig stjärna som för tusentals år sedan föll från himlen och kraschade i bergen i centrala [[Serthara|Serthara]]. Detta fragment, känt som **[[Stjärnans Hjärta]]**, innehåller en makalös kraft – den anses vara en del av själva universums skapelseenergi, och kan användas för att forma verkligheten, förändra materiens struktur och ge oöverträffad makt till den som kontrollerar det.
 
 Stjärnfragmentet har i århundraden varit under strikt bevakning i **[[Valendis]]**, en stad i det mäktiga riket **[[Arkhelen]]**, där det förvarats i ett heligt tempel. Fragmentet har vördats som en källa till visdom och kraft, men har också varit strängt skyddat, eftersom det anses vara både en välsignelse och en förbannelse. Under en särskild ceremoni där stjärnans kraft skulle förnyas, försvinner fragmentet spårlöst – någon har stulit det.
 
 Kaos bryter ut i Arkhelen, och riket kastas in i politisk oordning. Kungar och makthavare börjar genast anklaga varandra, och rykten sprids om att fragmentet kan ha hamnat i händerna på dem som vill använda dess kraft för egna mörka syften. Spelarna dras in i den desperata jakten på den stulna stjärnan, och tvingas att navigera genom ett nät av konspirationer, mörka ritualer och uråldriga fiender som alla är ute efter samma sak.
 
-Deras mål är enkelt, men livsfarligt: att hitta stjärnfragmentet innan det används för att släppa lös en kosmisk katastrof över [[01. Development/Platser/Aeteras/Aeterion/Prima/Serthara/Serthara|Serthara]] och världen.
+Deras mål är enkelt, men livsfarligt: att hitta stjärnfragmentet innan det används för att släppa lös en kosmisk katastrof över [[Serthara|Serthara]] och världen.
 
 #### **Centrala Platser i Äventyret**
 

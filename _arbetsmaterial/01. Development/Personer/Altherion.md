@@ -1,0 +1,3 @@
+#Person 
+
+Solens Förbund uppstod under en tid av **kaos och krig** på [[Kyrathis|Kyrathis]], där småstater och nomadiska stammar stred om territorium och makt. Under denna period framträdde en profet och mystiker vid namn **[[Altherion]]**, som hävdade att han fått uppenbarelser från solen själv – en gudomlig entitet han kallade **[[Aetheria]]**, ljusets och livets gud. Altherion samlade följare och grundade en ordning som skulle bli kärnan i Solens Förbund. Genom sin karismatiska ledarstil och löftet om ordning och ljus i en mörk tid växte hans rörelse snabbt.

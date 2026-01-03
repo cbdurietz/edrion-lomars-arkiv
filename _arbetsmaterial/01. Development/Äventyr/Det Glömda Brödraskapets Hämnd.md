@@ -14,7 +14,7 @@ Spelarna måste inte bara avslöja brödraskapets historia och deras motiv för 
 
 #### **Centrala Platser i Äventyret**
 
-1. **[[Vernedia]]** – Äventyret börjar i **[[Vernedia]]**, ett mäktigt rike på kontinenten **[[01. Development/Platser/Aeteras/Aeterion/Prima/Ardenar/Ardenar|Ardenar]]**. [[Vernedia]] är ett kungadöme känt för sin diplomati, men också för sina hemliga intriger och maktspel. Brödraskapets förräderi utspelade sig här för hundratals år sedan, och det är i [[Vernedia]] som de första tecknen på deras återkomst börjar visa sig. Spelarna kan stöta på politiska fraktioner och adelshus som har mörka hemligheter kopplade till brödraskapets förflutna.
+1. **[[Vernedia]]** – Äventyret börjar i **[[Vernedia]]**, ett mäktigt rike på kontinenten **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]**. [[Vernedia]] är ett kungadöme känt för sin diplomati, men också för sina hemliga intriger och maktspel. Brödraskapets förräderi utspelade sig här för hundratals år sedan, och det är i [[Vernedia]] som de första tecknen på deras återkomst börjar visa sig. Spelarna kan stöta på politiska fraktioner och adelshus som har mörka hemligheter kopplade till brödraskapets förflutna.
     
 2. **Den Glömda Fästningen Lutharion** – **[[Lutharion]]** var en gång brödraskapets hemliga högkvarter, belägen i de avlägsna bergen vid gränsen mellan [[Vernedia]] och de vidsträckta slätterna. Denna fästning har sedan länge fallit i ruiner, men den bär fortfarande på nyckeln till att förstå både brödraskapets roll och den magiska kraft de vaktade. Spelarna måste ta sig till Lutharions ruiner för att avslöja de gömda skrifterna som berättar om brödraskapets verkliga syfte.
     

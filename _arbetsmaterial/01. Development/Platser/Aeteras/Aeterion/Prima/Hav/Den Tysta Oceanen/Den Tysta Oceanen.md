@@ -1,0 +1,3 @@
+#Plats #Hav 
+
+ **[[Den Tysta Oceanen]]** separerar [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] från [[Ythea|Ythea]], ett vidsträckt och till synes oändligt hav som sällan navigeras av vanliga sjöfarare. De som har korsat [[Den Tysta Oceanen]] och återvänt talar om faror som gömmer sig under ytan och oförklarliga ljusfenomen på nätterna.

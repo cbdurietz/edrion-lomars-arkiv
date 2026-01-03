@@ -1,0 +1,3 @@
+#Folk
+
+Det är få som överlever länge på [[Frostslätten]]. Den extrema kylan och bristen på naturresurser gör det till en nästan obeboelig plats för både människor och djur. Men det finns några få nomadiska grupper, kallade **[[Frostvandrare]]**, som enligt legenderna lever djupt inne på slätten. Myterna säger att dessa människor har anpassat sig till kylan på sätt som vanliga människor inte kan förstå. De har utvecklat ritualer och seder som hjälper dem att överleva i denna oförsonliga miljö, och de undviker kontakt med omvärlden.

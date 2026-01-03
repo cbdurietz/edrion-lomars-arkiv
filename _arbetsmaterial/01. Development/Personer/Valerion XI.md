@@ -1,0 +1,3 @@
+#Person 
+
+[[Xenthar]] är ett imperium med en lång och komplex historia av både **monarki och teokrati**. Kejsaren, som anses vara en halvgud, har absolut makt och regerar över hela riket från sin tron i [[Xenthara]]. Den nuvarande kejsaren, **[[Valerion XI]]**, ses som en vis och mäktig ledare, men hans regeringstid har också kantats av intriger och maktspel inom hovet. Kejsarens makt är inte oinskränkt, då han ofta måste navigera genom de inflytelserika prästerskapets krav och den aristokratiska eliten som kontrollerar mycket av landets rikedomar och militära resurser.

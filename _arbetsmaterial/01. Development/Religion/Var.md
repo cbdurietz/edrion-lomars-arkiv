@@ -1,0 +1,3 @@
+#Gudom
+
+I den nordmarkska tron anses [[Iskronans Rygg]] vara hem för flera **gudar och andar**, särskilt de som förknippas med krig, kyla och naturens råa kraft. **Isguden [[Var]]**, som representerar både vinterns kyla och krigets skoningslöshet, sägs ha sin tron på en av bergens högsta toppar. Många invånare utför offer eller ritualer vid bergens fot för att blidka dessa gudar och be om deras välsignelser.

@@ -1,0 +1,3 @@
+#Plats 
+
+Centrala [[Ythea]] domineras av den massiva bergskedjan **[[Ytharbergen]]**, en rad höga och svårgenomträngliga berg som markerar en naturlig gräns mellan norra och södra [[Ythea]]. Ytharbergen är inte bara svåra att korsa, utan de är också hem för flera mystiska och isolerade kloster, samt gamla ruiner som en gång tillhörde uråldriga imperier. Många tror att bergen fortfarande ruvar på hemligheter och gömda skatter, men de flesta expeditioner har försvunnit spårlöst i de farliga passagen.

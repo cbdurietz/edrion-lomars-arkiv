@@ -1,0 +1,3 @@
+#Plats 
+
+Huvudstad i [[Otharam]].

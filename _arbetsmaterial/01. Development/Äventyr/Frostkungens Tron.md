@@ -6,7 +6,7 @@ Kungariket har fallit i en evig vinter efter att Frostkungen återvänt till sin
 
 #### **Handling och Premiss**
 
-**"Frostkungens Tron"** utspelar sig i det iskalla och avlägsna landet **[[Kaldora]]**, en del av kontinenten **[[01. Development/Platser/Aeteras/Aeterion/Prima/Aeloria/Aeloria|Aeloria]]**, där den legendariska **Frostkungen** en gång härskade över alla som vågade sig in i det frusna landskapet. Frostkungen var inte en vanlig människa, utan en mystisk gestalt med makt över is och vinterstormar, och hans tron var källan till hans styrka. Tronen är en magisk artefakt, djupt kopplad till naturens krafter, och den som sitter på den kan kontrollera både väder och isens välde.
+**"Frostkungens Tron"** utspelar sig i det iskalla och avlägsna landet **[[Kaldora]]**, en del av kontinenten **[[Aeloria|Aeloria]]**, där den legendariska **Frostkungen** en gång härskade över alla som vågade sig in i det frusna landskapet. Frostkungen var inte en vanlig människa, utan en mystisk gestalt med makt över is och vinterstormar, och hans tron var källan till hans styrka. Tronen är en magisk artefakt, djupt kopplad till naturens krafter, och den som sitter på den kan kontrollera både väder och isens välde.
 
 För många århundraden sedan försvann Frostkungen under mystiska omständigheter, och hans tron har sedan dess varit förseglad i hans palats, **Isfortet Kaldron**, gömt bland de mäktiga bergstopparna. Nu har rykten börjat spridas om att tronen kan återtas, och att de som lyckas sätta sig på den kan bli nästa härskare över isens rike. Flera fraktioner – från avlägsna nomadiska stammar till mäktiga kungar och magiker – har hört om tronen och skickar sina mäktigaste krigare och magiker för att hitta och erövra den.
 
@@ -14,7 +14,7 @@ Spelarna dras in i denna farliga kamp om makt när de får veta att **Frostkunge
 
 #### **Centrala Platser i Äventyret**
 
-1. **[[Kaldora]]** – Ett kargt och isigt rike på den frusna kontinenten **[[01. Development/Platser/Aeteras/Aeterion/Prima/Aeloria/Aeloria|Aeloria]]**. **[[Kaldora]]** är känt för sina frusna slätter, enorma glaciärer och farliga snöstormar. Folket som bor här är starka överlevare, härdade av klimatet och med stor respekt för de mystiska krafter som genomsyrar isen och snön. I detta land är vintern evig, och bara de modigaste vågar resa genom dess ödsliga vidder.
+1. **[[Kaldora]]** – Ett kargt och isigt rike på den frusna kontinenten **[[Aeloria|Aeloria]]**. **[[Kaldora]]** är känt för sina frusna slätter, enorma glaciärer och farliga snöstormar. Folket som bor här är starka överlevare, härdade av klimatet och med stor respekt för de mystiska krafter som genomsyrar isen och snön. I detta land är vintern evig, och bara de modigaste vågar resa genom dess ödsliga vidder.
     
 2. **[[Isfortet Kaldron]]** – Beläget högt upp i bergen i Kaldora ligger det legendariska **Isfortet Kaldron**, där **Frostkungens Tron** har varit förseglad i århundraden. Fortet är en labyrint av korridorer, salar och fällor, alla byggda av is och magi. Det sägs att isjättar och andar av frost vaknar till liv för att skydda tronen mot alla inkräktare. Spelarna måste navigera genom dessa faror för att komma åt tronen – men även om de når den, måste de vara redo att möta den farliga kraft som vilar där.
     

@@ -1,6 +1,6 @@
 #Litteratur 
 ## Beskrivning
-Denna diktsamling är en av Edrion Lomars mest personliga verk, där han genom poesi utforskar teman som ensamhet, naturens krafter, och de mysterier han mött under sina resor. Många av dikterna är inspirerade av hans erfarenheter på **[[Stjärnhavet]]**, **[[Det Gryende Havet]]**, och de vidsträckta landskap han färdades genom. Samlingen är fylld med bilder av himlakroppar, hav, och stjärnor, och speglar hans fascination för det okända och hans egna filosofiska funderingar kring universum.
+Denna diktsamling är en av Edrion Lomars mest personliga verk, där han genom poesi utforskar teman som ensamhet, naturens krafter, och de mysterier han mött under sina resor. Många av dikterna är inspirerade av hans erfarenheter på **[[Stjärnhavet]]**, **[[Skymningshavet]]**, och de vidsträckta landskap han färdades genom. Samlingen är fylld med bilder av himlakroppar, hav, och stjärnor, och speglar hans fascination för det okända och hans egna filosofiska funderingar kring universum.
 ## Huvudämnen
 Natur, existentiella frågor, ensamhet, resor.
 ## Exempelcitat
