@@ -3,7 +3,7 @@
 - **Kontinentens Beskrivning:**  
     [[Kyrathis|Kyrathis]] är en kontinent söder om [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]], känd för sitt varma klimat, frodiga djungler och ökenområden. Regionen är rik på naturliga resurser som ädelmetaller och kryddor, och dess kustregioner är tätt bebodda av sjöfartsnationer. Inlandet är däremot till stor del outforskat och hemvist för mystiska varelser och legender.
 - **Hav som skiljer [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] och Kyrathis:**  
-    **[[Skymningshavet]]** ligger mellan [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar||Ardenars]] södra kust och [[Kyrathis|Kyrathis]] norra kust. Havet är stormigt och känt för sina farliga vattenströmmar, vilket gör sjöresor utmanande, men samtidigt en avgörande handelsväg mellan de två kontinenterna.
+    **[[Gryningshavet]]** ligger mellan [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar||Ardenars]] södra kust och [[Kyrathis|Kyrathis]] norra kust. Havet är stormigt och känt för sina farliga vattenströmmar, vilket gör sjöresor utmanande, men samtidigt en avgörande handelsväg mellan de två kontinenterna.
 - **Politisk Kontext:**  
     [[Kyrathis|Kyrathis]] är hem till ett antal små, sjöfartsbaserade stadsstater, liknande [[Lornhaven]], men även till större kungadömen som **[[Solarith]]**, som är känt för sin rika kultur och handel med exotiska varor.
 

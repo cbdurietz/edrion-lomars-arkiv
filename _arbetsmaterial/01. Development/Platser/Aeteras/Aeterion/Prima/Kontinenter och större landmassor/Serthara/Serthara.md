@@ -2,8 +2,8 @@
 
 - **Kontinentens Beskrivning:**  
     [[Serthara|Serthara]] är den största kontinenten på [[Prima]], belägen på det östra halvklotet. Det är en kontinent med djupa floddalar, bördiga slätter och enorma skogsområden. Serthara har genom tiderna varit platsen för stora imperier, och även om dessa fallit i ruiner, är kontinenten fortfarande befolkad av mäktiga kungariken som kämpar om överhöghet.
-- **Hav som skiljer Serthara från [[Ythea|Ythea]] och [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]:**  
-    **[[Stjärnhavet]]** ligger mellan [[Serthara|Serthara]], [[Ythea|Ythea]] och [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]. Detta hav är särskilt känt för sina ljusfenomen, där kometer och märkliga ljusprickar ofta syns på natthimlen, vilket har lett till vidskepelser om att himlakroppar kontrollerar händelser på jorden.
+- **Hav som skiljer Serthara från [[Kyrathis|Kyrathis]]:**
+    **[[Stjärnhavet]]** ligger mellan [[Serthara|Serthara]], [[Ythea|Ythea]] och [[Kyrathis|Kyrathis]]. Detta hav är särskilt känt för sina ljusfenomen, där kometer och märkliga ljusprickar ofta syns på natthimlen, vilket har lett till vidskepelser om att himlakroppar kontrollerar händelser på jorden.
 - **Politisk Kontext:**  
     [[Serthara|Serthara]] är hem för några av världens äldsta och mest utvecklade civilisationer. De större riken som **[[Shalmarin]]** och **[[Lethara]]** är kända för sina kulturella och teknologiska framsteg. Serthara har alltid varit en kontinent av imperier och stormakter, och deras inre konflikter har ofta påverkat [[Prima]] i stort.
 ---
@@ -22,7 +22,7 @@
 
 ---
 
-**Serthara** är en av de mest betydelsefulla och mångsidiga kontinenterna på **[[Prima]]**, belägen öster om både **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** och **[[Kyrathis|Kyrathis]]**. Kontinenten är känd för sin stora geografiska variation, sin uråldriga historia, och de många kulturer och riken som har utvecklats där genom årtusenden. Från täta regnskogar till höga bergsmassiv och vidsträckta slätter, erbjuder Serthara ett rikt och ofta farligt landskap. Det är en plats där både magi och tradition spelar en central roll, och där både gamla civilisationer och framväxande imperier kämpar om makt och inflytande.
+**Serthara** är en av de mest betydelsefulla och mångsidiga kontinenterna på **[[Prima]]**, belägen öster om **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** och nordost om **[[Kyrathis|Kyrathis]]**. Kontinenten är känd för sin stora geografiska variation, sin uråldriga historia, och de många kulturer och riken som har utvecklats där genom årtusenden. Från täta regnskogar till höga bergsmassiv och vidsträckta slätter, erbjuder Serthara ett rikt och ofta farligt landskap. Det är en plats där både magi och tradition spelar en central roll, och där både gamla civilisationer och framväxande imperier kämpar om makt och inflytande.
 
 ### 1. **Geografi och Klimat**
 

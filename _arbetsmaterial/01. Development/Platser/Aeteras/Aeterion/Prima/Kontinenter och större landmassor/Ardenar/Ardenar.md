@@ -1,11 +1,14 @@
 #Kontinent 
 
-- **Kontinentens Beskrivning:**  
+- **Kontinentens Beskrivning:**
     [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] är en stor och varierad kontinent som täcker det mesta av norra och västra halvklotet på [[Prima]]. Det är en kontinent med dramatiska landskap – från täta skogar och höga berg till öppna slätter och mörka floder. Klimatet varierar kraftigt, med tempererade zoner, regniga kustregioner och kalla fjällområden i norr.
-- **Plats för [[Lornhaven]]:**  
-    [[Lornhaven]] ligger på **Ardenars västra kust**, vid gränsen mellan en mörk skog ([[Vandrarskogen]]) och [[Skymningshavet]]. Stadens placering är isolerad på grund av [[Vandrarskogen]], men dess hamn öppnar upp för handel med andra regioner och kontinenter.
+
+- **Namnets ursprung:**
+    Namnet "Ardenar" härstammar från två forntida ord: **"ard"** (jord) och **"nar"** (hem). Det mellanliggande "e" är ett eufemistiskt tillägg som gör uttalet lättare när orden binds samman. Således betyder Ardenar bokstavligen **"Hemjorden"** – den jord där man hör hemma, vilket speglar kontinentens roll som det ursprungliga hem för många av [[Prima|Primas]] folk och kulturer.
+- **Plats för [[Lornhaven]]:**
+    [[Lornhaven]] ligger på **Ardenars västra kust**, vid gränsen mellan en mörk skog ([[Vandrarskogen]]) och [[Den Tysta Oceanen]]. Stadens placering är isolerad på grund av [[Vandrarskogen]], men dess hamn öppnar upp för handel med andra regioner och kontinenter.
 - **Politisk Kontext:**  
-    Ardenar är hem för många olika riken och statsstater. I norr finns de mer krigiska, kalla riken som **[[Nordmark]]**, medan mer söderut, på Ardenars östra kuster, finns betydande handelsnationer som **[[Vernedia]]**. Inre delen av kontinenten är svår att nå på grund av de massiva bergen, men sägs dölja ruiner från förlorade civilisationer.
+    Ardenar är hem för många olika riken och statsstater. I norr finns de mer krigiska, kalla riken som **[[Nordmark]]**, medan mer söderut, i sydöstra Ardenar, finns betydande handelsnationer som **[[Vernedia]]**. Inre delen av kontinenten är svår att nå på grund av de massiva bergen, men sägs dölja ruiner från förlorade civilisationer.
 
 ---
 
@@ -37,8 +40,8 @@ Ardenar präglas av sin **mångsidiga geografi**, som påverkar både de riken s
 
 #### c. **Södra Ardenar: Kustområden och Medelhavsliknande Klimat**
 
-- **Tempererade kuster:**  
-    Den södra delen av Ardenar har ett mer tempererat klimat, med långa kustlinjer som gränsar till det **[[Skymningshavet]]**. Dessa kustområden är hem för flera mäktiga riken och handelsstäder, såsom **[[Solarith]]**, som har dragit nytta av sitt strategiska läge för att kontrollera sjöfarten och handeln mellan Ardenar och de andra kontinenterna.
+- **Tempererade kuster:**
+    Den södra delen av Ardenar har ett mer tempererat klimat, med långa kustlinjer som gränsar till det **[[Gryningshavet]]**. Dessa kustområden är hem för flera mäktiga riken och handelsstäder, såsom **[[Solarith]]**, som har dragit nytta av sitt strategiska läge för att kontrollera sjöfarten och handeln mellan Ardenar och de andra kontinenterna.
     
 - **Inre berg och skogar:**  
     De södra regionerna är också hem för flera inre bergskedjor och skogsområden, där små men rika gruvstäder har vuxit fram. Dessa områden är kända för sina rika malmfyndigheter, särskilt järn och ädelmetaller, som har bidragit till de lokala rikenas ekonomiska styrka.
@@ -101,7 +104,7 @@ Ardenar är en kontinent där flera mäktiga riken och stadsstater dominerar pol
 #### e. **[[Solarith]]**
 
 - **Geografi och Klimat:**  
-    **[[Solarith]]** ligger i södra [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] och har ett varmt, tempererat klimat med långa kustlinjer som gränsar till [[Skymningshavet]]. Detta gör [[Solarith]] till en viktig sjöfartsnation med starka handelsförbindelser med både Ardenar och de sydligare kontinenterna.
+    **[[Solarith]]** ligger i södra [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] och har ett varmt, tempererat klimat med långa kustlinjer som gränsar till [[Gryningshavet]]. Detta gör [[Solarith]] till en viktig sjöfartsnation med starka handelsförbindelser med både Ardenar och de sydligare kontinenterna.
     
 - **Solens Dynasti och Sjöfartsmakt:**  
     [[Solarith]] styrs av en kunglig dynasti, som ser solen som en central symbol för sin makt och legitimitet. Landet har starka sjöfartstraditioner, och dess flotta är en av de mäktigaste i världen. Staden **[[Solaris]]**, deras huvudstad, är känd som **Ljusets Stad** på grund av dess imponerande arkitektur och rikedom.

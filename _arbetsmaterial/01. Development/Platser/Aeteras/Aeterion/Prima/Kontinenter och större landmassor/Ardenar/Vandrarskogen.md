@@ -3,13 +3,15 @@
 > [!quote] [[Edrion Lomar]], _[[Rikets Hjärtblod]]_
 > Vandrarskogen är en plats där tiden tycks stå stilla. Dess träd, höga och gamla som världen själv, bär på hemligheter som vi bara kan ana. Många som gått in i skogen har aldrig kommit tillbaka, och de som överlevt talar om viskningar i vinden och ögon som iakttar från skuggorna.
 
-### **Vandrarskogen – Välsignelse och Förbannelse för [[Lornhaven]]**
+### **Vandrarskogen – Gränsmark mellan [[Lornhaven]] och [[Wendisarien]]**
 
 #### 1. **Naturligt Skydd**
 
-Vandrarskogen är känd för att vara **nästintill ogenomtränglig**, fylld av täta trädkronor, slingrande stigar och mystiska krafter som verkar förvirra och avleda de som vågar sig för djupt in i dess mörker. Skogen har under århundraden fungerat som en naturlig barriär mot fientliga arméer och expansiva kungariken.
+Vandrarskogen sträcker sig österut från [[Lornhaven]] och utgör en naturlig gränsmark mellan stadsstaten och [[Wendisarien]]. Skogen är känd för att vara **nästintill ogenomtränglig**, fylld av täta trädkronor, slingrande stigar och mystiska krafter som verkar förvirra och avleda de som vågar sig för djupt in i dess mörker. Genom skogens hjärta rinner den mäktiga floden **[[Lorn]]**, som båda fungerar som den säkraste färdvägen mellan [[Lornhaven]] och [[Wendisarien]] och som den livgivande kraft som gör skogen så frodig och farlig.
 
-- **Ogenomtränglig Vildmark:** Skogen är så pass tät och farlig att stora arméer och handelskaravaner helt enkelt inte kan ta sig igenom den utan att riskera att gå vilse, attackeras av varelser, eller möta andra oförklarliga faror. Detta har gjort [[Lornhaven]] nästan omöjlig att nå landvägen, vilket har förhindrat angripare från att marschera mot staden från inlandet.
+- **Flodens säkra passage:** Medan själva skogen är **nästintill ogenomtränglig** för de flesta resenärer, erbjuder floden [[Lorn]] en relativt säker färdväg genom området. Flodfartyg och pråmar kan navigera uppströms från [[Lornhaven]] genom skogen till [[Wendisarien]], även om resan kräver kunskap om flodens nycker och de faror som lurar längs dess stränder.
+
+- **Farlig landväg:** Landvägen genom skogen förblir extremt farlig. Stora arméer och handelskaravaner kan helt enkelt inte ta sig igenom den utan att riskera att gå vilse, attackeras av varelser, eller möta andra oförklarliga faror. Detta gör handelsutbytet mellan [[Lornhaven]] och [[Wendisarien]] starkt beroende av flodtrafiken.
     
 - **Skräckhistorier och Förlorade Arméer:** Det finns berättelser om härskare som försökt inta [[Lornhaven]] genom skogen, bara för att deras arméer aldrig har setts igen. Dessa historier har förstärkt skogens rykte som en farlig plats som man inte bör utmana. Kanske har det också växt fram vidskepelser bland både Lornhavens invånare och dess fiender om att skogen är hemvist för något **mytiskt väsen** eller en **uråldrig förbannelse**.
     
@@ -27,7 +29,7 @@ Samtidigt som skogen skyddar [[Lornhaven]], begränsar den också stadens **möj
 
 Med landvägen blockerad av Vandrarskogen, har **samhällets överlevnad helt byggt på sjövägen**. [[Lornhaven]] har utvecklat en stark marin infrastruktur och en kultur som är nära kopplad till havet.
 
-- **Mästerliga sjöfarare och skeppsbyggare:** Lornhavens invånare har över århundraden blivit kända som mästerliga sjöfarare och skeppsbyggare. Hamnen är en av de mest välutrustade i världen, och dess skepp kan korsa [[Skymningshavet]] och vidare för att handla med fjärran länder. På många sätt har staden blivit mer globaliserad genom sina kontakter med avlägsna hamnar än med sina egna grannar på fastlandet.
+- **Mästerliga sjöfarare och skeppsbyggare:** Lornhavens invånare har över århundraden blivit kända som mästerliga sjöfarare och skeppsbyggare. Hamnen är en av de mest välutrustade i världen, och dess skepp kan korsa [[Den Tysta Oceanen]] och vidare för att handla med fjärran länder. På många sätt har staden blivit mer globaliserad genom sina kontakter med avlägsna hamnar än med sina egna grannar på fastlandet.
     
 - **Stark ekonomi baserad på handel:** All stadens rikedom kommer från handel via havet. Detta har gett staden en särställning som en **självständig handelsstad**, och dess strategiska placering vid kusten har gjort den oumbärlig för internationell sjöhandel. Staden fungerar som ett nav för varor från både norr och söder.
     

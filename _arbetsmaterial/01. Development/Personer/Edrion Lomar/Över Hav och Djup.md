@@ -13,7 +13,7 @@ _Över Hav och Djup_ är indelad i flera kapitel, var och en fokuserad på en sp
 Den första delen av boken är relativt kartlagd och tar läsaren genom de mest kända sjövägarna och hamnstäderna på [[Prima]]. Här dokumenterar Lomar sina resor längs de kända kusterna på kontinenter som **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** och **[[Kyrathis|Kyrathis]]** och beskriver de många sjöfartskulturerna han möter. Även om dessa platser är relativt bekanta för läsarna, lyckas Lomar belysa detaljer och insikter som många förbiser.
 
 - **Exempel på kapitel:**
-    - _"Stormarna över [[Skymningshavet]]"_ – Lomars erfarenheter av att segla över de farliga vattnen mellan [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] och [[Kyrathis|Kyrathis]], där han diskuterar de förödande stormar som regelbundet drabbar området och de vidskepelser sjömännen bär med sig.
+    - _"Stormarna över [[Skymningshavet]]"_ – Lomars erfarenheter av att segla över de farliga vattnen mellan [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] och [[Serthara|Serthara]], där han diskuterar de förödande stormar som regelbundet drabbar området och de vidskepelser sjömännen bär med sig.
     - _"[[Lornhaven]]: Hamnen vid [[Vandrarskogen]]"_ – Ett tidigt kapitel som beskriver [[Lornhaven]] som Lomar besökte under dess blomstringstid, innan stadens tystnad. Han beskriver dess rika handelsliv, men hintar också om de faror som lurar i [[Vandrarskogen]].
 
 ### Del II: Vid Gränsen till Det Okända

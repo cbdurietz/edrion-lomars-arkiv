@@ -11,7 +11,7 @@
 
 #### 1. **Geografi och Placering**
 
-- **Hav och Hamn:** Lornhaven ligger vid ett kustavsnitt som sträcker sig ut mot ett stormigt hav, som vi kan kalla **[[Skymningshavet]]**. Hamnen är stadens hjärta och den främsta källan till dess rikedom, då skepp från när och fjärran lade till här och sålde exotiska varor. Handelsfartyg från det södra varma området och det nordliga islandet, som vi ännu kan utveckla, besökte regelbundet Lornhaven.  
+- **Hav och Hamn:** Lornhaven ligger vid ett kustavsnitt som sträcker sig ut mot ett stormigt hav, som vi kan kalla **[[Den Tysta Oceanen]]**. Hamnen är stadens hjärta och den främsta källan till dess rikedom, då skepp från när och fjärran lade till här och sålde exotiska varor. Handelsfartyg från det södra varma området och det nordliga islandet, som vi ännu kan utveckla, besökte regelbundet Lornhaven.  
 - **Skog:** Intill staden ligger en stor, djup skog som invånarna kallar **[[Vandrarskogen]]**. Denna skog har alltid haft ett rykte om sig att vara mystisk och svår att kartlägga. Många har genom tiderna försvunnit i dess djup, och de som återvänt berättar om skuggor och viskningar. Skogen fungerar som en naturlig gräns mot inlandet och verkar omöjlig att tämja, vilket har gjort att Lornhaven är mer havsorienterad.
 - **Landsbygd och Åkrar:** På slätten mellan staden och skogen finns små byar och gårdar som försörjer staden med livsmedel, även om dessa också är beroende av handel via hamnen. Det är en bördig region, men bönderna lever alltid med rädslan för vad som kan komma ur skogen.
     

@@ -63,9 +63,9 @@ Xenthar har flera strategiska **allianser** med andra mäktiga riken på [[Ythea
 
 Samtidigt har Xenthar också många **fiender**, särskilt de riken som ligger utanför deras direkta kontroll. Många av de fria städerna och nationerna på [[Ythea|Ythea]] ser Xenthars expansion som ett hot mot deras egen suveränitet och frihet, och det har förekommit flera militära konflikter där dessa stater har kämpat för att stå emot imperiets expansion.
 
-### Relation till [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]
+### Relation till [[Kyrathis|Kyrathis]]
 
-Xenthar har också ett komplicerat förhållande till kontinenten **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]**, som ligger bortom [[Stjärnhavet]]. Handeln mellan Xenthar och [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] har varit lukrativ för båda parter, och Xenthars flotta har varit avgörande för att upprätthålla dessa handelsvägar. Det finns dock spänningar mellan Xenthar och vissa av de mer självständiga stadsstaterna och kungadömena på [[Prima]], som ser imperiets expansionistiska politik med oro.
+Xenthar har också ett komplicerat förhållande till kontinenten **[[Kyrathis|Kyrathis]]**, som ligger bortom [[Stjärnhavet]]. Handeln mellan Xenthar och [[Kyrathis|Kyrathis]] har varit lukrativ för båda parter, och Xenthars flotta har varit avgörande för att upprätthålla dessa handelsvägar. Det finns dock spänningar mellan Xenthar och vissa av de mer självständiga stadsstaterna och kungadömena på [[Prima]], som ser imperiets expansionistiska politik med oro.
 
 ## Mysterier och Legender
 

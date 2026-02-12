@@ -48,7 +48,7 @@ I Nordmark hyllas den som är stark nog att försvara sitt folk och sitt rike. D
 
 Nordmarks folk är djupt vidskepliga och troende på **andar och uråldriga gudar** som sägs leva i deras landskap. Tron är en blandning av naturdyrkan och tillbedjan av krigsgudar.
 
-- **Naturens krafter:** Många tror att bergen, skogarna och sjöarna är hem till **andar** som måste respekteras för att undvika deras vrede. Dessa andar ses som nyckfulla varelser, och många ritualer utförs för att hålla dem nöjda. **[[Vandrarskogen]]**, som ligger i den södra delen av Nordmark, är särskilt känd för sina mörka myter och sägner.
+- **Naturens krafter:** Många tror att bergen, skogarna och sjöarna är hem till **andar** som måste respekteras för att undvika deras vrede. Dessa andar ses som nyckfulla varelser, och många ritualer utförs för att hålla dem nöjda. De många skogarna i Nordmarks område är kända för sina mörka myter och sägner.
 - **Isguden Var**: En av de mest tillbedda gudarna i Nordmark är **[[Var]]**, en gud som representerar **is, kyla och krigets hårdhet**. Han är en central figur i Nordmarks tro och anses vara en skyddsgud som hjälper dem att överleva det hårda klimatet. Var representerar också den inre styrka som krävs för att övervinna svårigheter, och många krigare ber till honom innan de går ut i strid.
 
 ### Klanernas Symboler och Traditioner

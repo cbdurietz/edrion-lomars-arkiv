@@ -29,7 +29,7 @@ Lokala hövdingar ansvarar för de enskilda byarna och småstäderna, men de st�
 ## Ekonomi och Handelsförbindelser
 Wendisarien är inte rikt på konventionella resurser som mineraler eller ädelstenar, men det är desto mer förmöget när det gäller **kunskap om naturens hemligheter**. Deras rikedom ligger i deras växande skogar och de helande örter och magiska växter som växer i överflöd i regionens fuktiga klimat. Många utomstående alkemister och magiker har genom tiderna sökt sig till Wendisarien för att lära sig om de **forna läkekonsterna** och de dolda magiska traditionerna som druidprästerna besitter.
 
-Handel mellan Wendisarien och omvärlden är begränsad, främst på grund av regionens isolering och det naturliga ogästvänliga landskapet som gör det svårt för karavaner att passera. Dock finns vissa handelsvägar, särskilt de som leder norrut till **[[Kharanos]]** och västerut till **[[Thalios]]**, där de utbyter **heliga örter, drakreliker och andra magiska artefakter** mot nödvändiga förnödenheter som metallverktyg, tyger och spannmål.
+Handel mellan Wendisarien och omvärlden är begränsad, främst på grund av regionens isolering och det naturliga ogästvänliga landskapet som gör det svårt för karavaner att passera. Dock finns vissa handelsvägar, särskilt de som leder västerut till **[[Kharanos]]** och österut till **[[Thalios]]**, där de utbyter **heliga örter, drakreliker och andra magiska artefakter** mot nödvändiga förnödenheter som metallverktyg, tyger och spannmål.
 
 Trots sin isolering har Wendisarien också blivit ett **pilgrimsmål** för lärda och magiker som vill studera skogens krafter, drakarnas historia eller delta i druidiska ceremonier. Dessa besökare behandlas med stor försiktighet, och endast de som visar respekt för naturens krafter och följer de lokala ritualerna får tillträde till de djupare skogarna och deras hemligheter.
 
@@ -37,9 +37,9 @@ Trots sin isolering har Wendisarien också blivit ett **pilgrimsmål** för lär
 
 Wendisarien har alltid hållit sig relativt **neutralt** i politiska konflikter, och dess rykte som ett mystiskt och svårtillgängligt land har hållit potentiella erövrare borta. Dock finns vissa **förbindelser** mellan Wendisarien och de närliggande rikena.
 
-**[[Kharanos]]**, beläget i de frostiga bergen i norr, har en viss kulturell och spirituell koppling till Wendisarien, eftersom båda regionerna delar en vördnad för naturens krafter och det okända. Handeln med [[Kharanos]] är dock begränsad till vissa högtider eller nödvändiga utbyten av kunskap och resurser.
+**[[Kharanos]]**, beläget i de frostiga bergen i väster, har en viss kulturell och spirituell koppling till Wendisarien, eftersom båda regionerna delar en vördnad för naturens krafter och det okända. Handeln med [[Kharanos]] är dock begränsad till vissa högtider eller nödvändiga utbyten av kunskap och resurser.
 
-Relationen med **[[Thalios]]** i väst är mer praktisk och präglas av tillfälliga allianser vid tider av behov. [[Thalios]] har genom historien sökt Wendisarisk hjälp i form av heliga örter eller kunskap om skogens magiska krafter, särskilt under perioder av sjukdom eller krig, där naturens läkande förmågor har eftertraktats.
+Relationen med **[[Thalios]]** i öst är mer praktisk och präglas av tillfälliga allianser vid tider av behov. [[Thalios]] har genom historien sökt Wendisarisk hjälp i form av heliga örter eller kunskap om skogens magiska krafter, särskilt under perioder av sjukdom eller krig, där naturens läkande förmågor har eftertraktats.
 
 Wendisarien förblir dock ett land av mystik, och dess invånare ser på omvärlden med viss misstänksamhet. De är medvetna om att utomstående ofta underskattar skogarnas kraft och de krafter som vilar där, och det är få främlingar som släpps djupt in i landets hjärta utan ett tydligt syfte.
 
