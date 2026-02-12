@@ -17,8 +17,8 @@ Både stadsstaten **[[Solarith (staden)|Solarith]]** på [[Kyrathis|Kyrathis]] o
 
 Stadsstaten **[[Solarith (staden)|Solarith]]** på [[Kyrathis|Kyrathis]] är en av de **äldre bevarade centra** för denna soldyrkande kultur, och den har sitt ursprung direkt i det gamla imperiet. Den har lyckats överleva genom århundraden, trots imperiets fall, och fungerar än idag som ett nav för både politisk och religiös makt på [[Kyrathis|Kyrathis]].
 
-- **Religiöst Centrum:**  
-    Stadsstaten har förblivit ett viktigt **religiöst centrum** där solen fortfarande dyrkas som en symbol för både liv och makt. [[Solarith (staden)|Solarith]] har ett enormt soltempel, kallat **Aetherion**, som är byggt med guldinfattade torn som glimmar i solen och syns vida omkring. Prästerskapet, som fortfarande styr stora delar av stadsstatens politik, upprätthåller gamla traditioner och ceremonier som hyllar solen som en gudomlig kraft.
+- **Religiöst Centrum:**
+    Stadsstaten har förblivit ett viktigt **religiöst centrum** där solen fortfarande dyrkas som en symbol för både liv och makt. I hjärtat av [[Solarith (staden)|Solarith]] ligger det stora soltemplet **[[Aetherion]]**, uppkallat efter den forntida stad som en gång låg på samma plats och där [[Solens Förbund]] grundades. Templet, byggt på ruinerna av det ursprungliga, har guldinfattade torn som glimmar i solen och syns vida omkring. Prästerskapet, som fortfarande styr stora delar av stadsstatens politik, upprätthåller gamla traditioner och ceremonier som hyllar solen som en gudomlig kraft.
     
 - **Handels- och Kulturstad:**  
     Förutom sin religiösa betydelse är [[Solarith (staden)|Solarith]] också en viktig **handelsstad**. Tack vare sin position vid [[Kyrathis|Kyrathis]] norra kust har [[Solarith (staden)|Solarith]] blomstrat som ett nav för handel mellan kontinenten och andra delar av världen. Här blandas tradition och modernitet, och staden är känd för sin rikedom och sina konstverk, ofta inspirerade av solens ljus och färger.
