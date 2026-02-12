@@ -1,3 +1,3 @@
 #Plats 
 
-Längs den södra kusten av [[Ythea]] ligger den så kallade **[[Brända Kusten]]**, ett område som präglas av höga temperaturer och torra vindar. Trots de hårda förhållandena är Brända Kusten också känd för sina viktiga hamnstäder, där handel mellan [[Ythea|Ythea]], [[Serthara|Serthara]] och andra kontinenter blomstrar. Hamnarna är centrala för transporten av kryddor, ädelstenar och andra värdefulla varor som utvinns i Ytheas inre.   
+Längs den södra kusten av [[Ythea]] ligger den så kallade **[[Brända Kusten]]**, ett område som präglas av höga temperaturer och torra vindar. Trots de hårda förhållandena finns det längs Brända Kusten ett fåtal hamnstäder som bedriver begränsad handel med omvärlden, framförallt export av kryddor, ädelstenar och andra sällsynta varor som utvinns i Ytheas inre. Dessa hamnar utgör några av de få kontaktpunkterna mellan Ythea och övriga kontinenter.   
