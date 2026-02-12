@@ -14,10 +14,17 @@
 - [[Serthara|Serthara]]
 
 #### Hav
+- [[Ardensjön]]
 - [[Den Tysta Oceanen]]
 - [[Det Frusna Sundet]]
+- [[Dimhavet]]
+- [[Djävulshavet]]
+- [[Gryningshavet]]
+- [[Ishavet]]
+- [[Lornbukten]]
 - [[Skymningshavet]]
 - [[Stjärnhavet]]
+- [[Öhavet]]
 
 ![[KontinenterOchHavDiagram.png]]
 
