@@ -36,7 +36,15 @@ Kyrathis är en kontinent som sträcker sig över flera klimat och geografiska z
     De inre delarna av Kyrathis domineras av en stor och karg **öken** som kallas **[[Kyrelöknen]]**. Detta är ett av de mest ogästvänliga områdena på kontinenten, men ändå finns här små oaser och gömda städer som har lärt sig att överleva i de hårda förhållandena. Öknen döljer också många hemligheter – från underjordiska städer till uråldriga gravplatser och mystiska krafter som enligt legenderna har påverkat regionen i årtusenden.
     
 
-#### c. **Vulkaniska Berg och Magiska Källor**
+#### c. **Södra Kyrathis: Stormiga Kuster och Tundra**
+
+- **Karga sydkuster:**
+    Längst söderut övergår Kyrathis landskap dramatiskt. Här möter kontinenten **[[Det Frusna Sundet]]**, och klimatet blir betydligt kallare. Kustregionerna präglas av stormiga vindförhållanden och **tundralandskap**, där den frusna marken bara tinar under de korta sommarmånaderna. Dessa trakter är glest befolkade och till stor del outforskade.
+
+- **Handel trots hårda förhållanden:**
+    Trots det ogästvänliga klimatet finns ett fåtal hamnar längs sydkusten som under sommaren bedriver handel med den frusna kontinenten [[Aeloria|Aeloria]]. De varor som passerar — sällsynta mineraler, magiska isartefakter och fossiler — är extremt eftertraktade, men resan över sundet är farlig och oförutsägbar.
+
+#### d. **Vulkaniska Berg och Magiska Källor**
 
 - **Bergskedjor och vulkaner:**  
     På Kyrathis finns också flera imponerande **bergskedjor**, inklusive den berömda **Teldrisska Vulkanen**, som fortfarande är aktiv. Denna vulkan och dess omgivning är kända för sina rika mineralfyndigheter, men också för att området ofta drabbas av jordbävningar och vulkanutbrott.
