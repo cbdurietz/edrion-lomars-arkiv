@@ -4,9 +4,9 @@
 
 ## Geografi och Klimat
 
-Stjärnhavet är ett enormt hav som skiljer **[[Kyrathis|Kyrathis]]** i väster från **[[Serthara|Serthara]]** och **[[Ythea|Ythea]]** i öster. Detta hav utgör en naturlig barriär mellan kontinenterna, men till skillnad från **[[Skymningshavet]]**, som är känt för sina våldsamma stormar och farliga strömmar, är Stjärnhavet ett förhållandevis lugnt hav. Vattnen här är djupa och jämna, vilket gör det till en av de mer förutsägbara och säkra sjövägarna på **[[Prima]]**.
+Stjärnhavet är ett enormt hav som breder ut sig mellan **[[Kyrathis|Kyrathis]]** i sydväst, **[[Serthara|Serthara]]** i norr och **[[Ythea|Ythea]]** i öster. Detta hav utgör en naturlig barriär mellan kontinenterna, men till skillnad från **[[Skymningshavet]]**, som är känt för sina våldsamma stormar och farliga strömmar, är Stjärnhavet ett förhållandevis lugnt hav. Vattnen här är djupa och jämna, vilket gör det till en av de mer förutsägbara och säkra sjövägarna på **[[Prima]]**.
 
-Klimatet över Stjärnhavet varierar beroende på plats, men är oftast tempererat. På dess västra delar, närmare **[[Kyrathis|Kyrathis]]** kust, kan det vara varmare och mer tropiskt, medan de östliga delarna, närmare **[[Serthara|Sertharas]]** och **[[Ythea|Ytheas]]** kuster, erbjuder mer skiftande vindförhållanden. **Handelsvindar** blåser ofta från väst till öst, vilket gör resor från **[[Kyrathis|Kyrathis]]** till **[[Serthara|Serthara]]** och **[[Ythea|Ythea]]** relativt snabba, medan återresan ofta kräver mer planering och navigationsskicklighet.
+Klimatet över Stjärnhavet varierar beroende på plats, men är oftast tempererat. I dess sydvästra delar, närmare **[[Kyrathis|Kyrathis]]** kust, är klimatet varmare och mer tropiskt, medan de norra och östliga delarna, närmare **[[Serthara|Sertharas]]** och **[[Ythea|Ytheas]]** kuster, erbjuder svalare och mer skiftande vindförhållanden. **Handelsvindar** gynnar ofta resor från **[[Kyrathis|Kyrathis]]** mot **[[Serthara|Serthara]]** och **[[Ythea|Ythea]]**, medan återresan kräver mer planering och navigationsskicklighet.
 
 ## Ljusfenomen och Vidskepelse
 
@@ -18,7 +18,7 @@ Särskilt fascinerande är den vidskepelse som omgärdar den närliggande planet
 
 ## Handelsvägar och Sjöfart
 
-Stjärnhavet har varit en **viktig handelsväg** mellan **[[Kyrathis|Kyrathis]]**, **[[Serthara|Serthara]]** och **[[Ythea|Ythea]]** i tusentals år. Trots avståndet mellan dessa kontinenter har kontakten mellan riken på **[[Kyrathis|Kyrathis]]** västra kuster och **[[Serthara|Sertharas]]** och **[[Ythea|Ytheas]]** östliga kuster varit konstant. Handlare seglar över havet med last av kryddor, ädelstenar, och exotiska djur från [[Serthara|Serthara]], i utbyte mot metaller, textilier och magiska artefakter från [[Ythea|Ythea]] och [[Kyrathis|Kyrathis]].
+Stjärnhavet har varit en **viktig handelsväg** mellan **[[Kyrathis|Kyrathis]]**, **[[Serthara|Serthara]]** och **[[Ythea|Ythea]]** i tusentals år. Trots avståndet mellan dessa kontinenter har kontakten mellan riken på **[[Kyrathis|Kyrathis]]** östliga kuster och **[[Serthara|Sertharas]]** samt **[[Ythea|Ytheas]]** kuster varit konstant. Handlare seglar över havet med last av kryddor, ädelstenar, och exotiska djur från [[Serthara|Serthara]], i utbyte mot metaller, textilier och magiska artefakter från [[Ythea|Ythea]] och [[Kyrathis|Kyrathis]].
 
 Eftersom **Stjärnhavet** är relativt lugnt, jämfört med andra farliga hav på [[Prima]], har det lockat många handelsflottor. **Handelsförbindelserna** över havet är starka, särskilt mellan de rika kuststäderna på **[[Kyrathis|Kyrathis]]** och de blomstrande handelsstäderna på **[[Serthara|Sertharas]]** och **[[Ythea|Ytheas]]** kuster. Sjömän som navigerar Stjärnhavet är dock ofta mycket skickliga, eftersom de måste kunna läsa stjärnorna och förstå havets mystiska ljus för att undvika förvirring under resan.
 

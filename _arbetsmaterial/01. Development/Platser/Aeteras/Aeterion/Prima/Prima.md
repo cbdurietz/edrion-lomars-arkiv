@@ -26,9 +26,6 @@
 - [[Stjärnhavet]]
 - [[Öhavet]]
 
-![[KontinenterOchHavDiagram.png]]
-
-
 ---
 ### **Sammanfattning av Planeten Prima och Lornhavens Placering**
 
