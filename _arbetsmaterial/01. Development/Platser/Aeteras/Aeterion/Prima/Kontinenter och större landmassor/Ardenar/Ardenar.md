@@ -41,7 +41,7 @@ Ardenar präglas av sin **mångsidiga geografi**, som påverkar både de riken s
 #### c. **Södra Ardenar: Kustområden och Medelhavsliknande Klimat**
 
 - **Tempererade kuster:**
-    Den södra delen av Ardenar har ett mer tempererat klimat, med långa kustlinjer som gränsar till det **[[Gryningshavet]]**. Dessa kustområden är hem för flera mäktiga riken och handelsstäder, såsom **[[Solarith]]**, som har dragit nytta av sitt strategiska läge för att kontrollera sjöfarten och handeln mellan Ardenar och de andra kontinenterna.
+    Den södra delen av Ardenar har ett mer tempererat klimat, med långa kustlinjer som gränsar till det **[[Gryningshavet]]**. Dessa kustområden är hem för flera mäktiga riken och handelsstäder, såsom **[[Solarithar]]**, som har dragit nytta av sitt strategiska läge för att kontrollera sjöfarten och handeln mellan Ardenar och de andra kontinenterna.
     
 - **Inre berg och skogar:**  
     De södra regionerna är också hem för flera inre bergskedjor och skogsområden, där små men rika gruvstäder har vuxit fram. Dessa områden är kända för sina rika malmfyndigheter, särskilt järn och ädelmetaller, som har bidragit till de lokala rikenas ekonomiska styrka.
@@ -101,16 +101,16 @@ Ardenar är en kontinent där flera mäktiga riken och stadsstater dominerar pol
     Även om [[Kharanos]] är politiskt isolerat, har det ett starkt inflytande över den magiska och religiösa världen i [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]. Deras prästerskap håller sig till stor del utanför världslig politik, men deras kristaller och astrologiska kunskap ger dem makt och respekt över hela kontinenten.
     
 
-#### e. **[[Solarith]]**
+#### e. **[[Solarithar]]**
 
 - **Geografi och Klimat:**  
-    **[[Solarith]]** ligger i södra [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] och har ett varmt, tempererat klimat med långa kustlinjer som gränsar till [[Gryningshavet]]. Detta gör [[Solarith]] till en viktig sjöfartsnation med starka handelsförbindelser med både Ardenar och de sydligare kontinenterna.
+    **[[Solarithar]]** ligger i södra [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] och har ett varmt, tempererat klimat med långa kustlinjer som gränsar till [[Gryningshavet]]. Detta gör [[Solarithar]] till en viktig sjöfartsnation med starka handelsförbindelser med både Ardenar och de sydligare kontinenterna.
     
 - **Solens Dynasti och Sjöfartsmakt:**  
-    [[Solarith]] styrs av en kunglig dynasti, som ser solen som en central symbol för sin makt och legitimitet. Landet har starka sjöfartstraditioner, och dess flotta är en av de mäktigaste i världen. Staden **[[Solaris]]**, deras huvudstad, är känd som **Ljusets Stad** på grund av dess imponerande arkitektur och rikedom.
+    [[Solarithar]] styrs av en kunglig dynasti, som ser solen som en central symbol för sin makt och legitimitet. Landet har starka sjöfartstraditioner, och dess flotta är en av de mäktigaste i världen. Staden **[[Solmaren]]**, deras huvudstad, är känd som **Ljusets Stad** på grund av dess imponerande arkitektur och rikedom.
     
 - **Kulturell och Ekonomisk Makt:**  
-    [[Solarith]] är både ett **kulturellt och ekonomiskt centrum**. Dess konst, filosofi och vetenskap är vida kända, och landet har länge varit en mötesplats för lärda och filosofer från hela [[Prima]]. Deras handel med kryddor, ädelstenar och lyxvaror har gjort dem till ett av de rikaste rikena på kontinenten.
+    [[Solarithar]] är både ett **kulturellt och ekonomiskt centrum**. Dess konst, filosofi och vetenskap är vida kända, och landet har länge varit en mötesplats för lärda och filosofer från hela [[Prima]]. Deras handel med kryddor, ädelstenar och lyxvaror har gjort dem till ett av de rikaste rikena på kontinenten.
     
 
 ---
@@ -126,9 +126,9 @@ I de norra och centrala delarna av Ardenar, särskilt i **[[Nordmark]]** och kri
 - **Isguden Var i [[Nordmark]]:**  
     **Var**, isens och krigets gud, dyrkas flitigt i **[[Nordmark]]**. Han ses som en hård men rättvis gud, och många krigare ber till honom innan de går ut i strid. Hans tempel är ofta belägna på isolerade platser i bergen, där prästerna utför ceremonier i isens och snöns namn.
 
-#### b. **Solkulten i [[Solarith]]**
+#### b. **Solkulten i [[Solarithar]]**
 
-I **[[Solarith]]** är **solen** en central symbol för både religiös och politisk makt. Kungarna och drottningarna av [[Solarith]] ser sig själva som solens utvalda representanter på jorden, och stora soltempel pryder många av deras städer. Religionen är kopplad till både rituella ceremonier och dagligt liv, och solens symbol finns på både flaggor och kungliga insignier.
+I **[[Solarithar]]** är **solen** en central symbol för både religiös och politisk makt. Kungarna och drottningarna av [[Solarithar]] ser sig själva som solens utvalda representanter på jorden, och stora soltempel pryder många av deras städer. Religionen är kopplad till både rituella ceremonier och dagligt liv, och solens symbol finns på både flaggor och kungliga insignier.
 
 #### c. **Teokratisk Mysticism i [[Kharanos]]**
 
@@ -142,7 +142,7 @@ Ardenar är en viktig spelare på [[Prima|Primas]] internationella handelsarena.
 
 #### a. **Kuststäderna som Handelscentrum**
 
-De stora kuststäderna i södra Ardenar, särskilt i **[[Solarith]]**, är knutpunkter för internationell handel. **Solaris** och andra hamnstäder exporterar kryddor, lyxvaror och metaller till andra kontinenter och fungerar som mötesplatser för köpmän från hela världen.
+De stora kuststäderna i södra Ardenar, särskilt i **[[Solarithar]]**, är knutpunkter för internationell handel. **Solmaren** och andra hamnstäder exporterar kryddor, lyxvaror och metaller till andra kontinenter och fungerar som mötesplatser för köpmän från hela världen.
 
 #### b. **Mineraler och Malm från [[Thalios]] och [[Kharanos]]**
 
@@ -156,4 +156,4 @@ De stora kuststäderna i södra Ardenar, särskilt i **[[Solarith]]**, är knutp
 
 ### Sammanfattning av Ardenar
 
-**Ardenar** är en mångfacetterad kontinent med ett rikt politiskt och kulturellt landskap. Dess olika regioner och riken har utvecklats i samspel med dess skiftande geografi, från de karga bergskedjorna och skogarna i norr till de bördiga slätterna och kuststäderna i söder. Kontinentens riken, som **[[Nordmark]]**, **[[Vernedia]]**, **[[Thalios]]**, **[[Kharanos]]** och **[[Solarith]]**, är alla unika men sammanflätade genom historia, handel och ibland konflikt. Religion och magi spelar en central roll i många av rikenas liv, och gamla traditioner och uråldriga seder formar fortfarande politiken och kulturen på Ardenar.
+**Ardenar** är en mångfacetterad kontinent med ett rikt politiskt och kulturellt landskap. Dess olika regioner och riken har utvecklats i samspel med dess skiftande geografi, från de karga bergskedjorna och skogarna i norr till de bördiga slätterna och kuststäderna i söder. Kontinentens riken, som **[[Nordmark]]**, **[[Vernedia]]**, **[[Thalios]]**, **[[Kharanos]]** och **[[Solarithar]]**, är alla unika men sammanflätade genom historia, handel och ibland konflikt. Religion och magi spelar en central roll i många av rikenas liv, och gamla traditioner och uråldriga seder formar fortfarande politiken och kulturen på Ardenar.

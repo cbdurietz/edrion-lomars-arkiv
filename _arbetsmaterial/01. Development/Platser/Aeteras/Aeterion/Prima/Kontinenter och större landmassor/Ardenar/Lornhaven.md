@@ -36,5 +36,5 @@ Lornhaven är en **kosmopolitisk** stad där människor från hela världen saml
 
 #### 5. **Relation till Omgivande Makter**
 
-Som en självständig stadsstat har Lornhaven alltid behövt balansera mellan större makter. I norr finns **[[Nordmark]]**, ett kungarike med stark militär makt som har sett Lornhaven som en nödvändig handelspartner. Söderut finns ett annat rike, **[[Solarith|Solarith]]**, känt för sina varma klimat och framstående sjöfarare. Båda riken har intressen i Lornhavens hamn och handel, men ingen har vågat erövra staden av rädsla för att förlora tillgången till havets handelsvägar.
+Som en självständig stadsstat har Lornhaven alltid behövt balansera mellan större makter. I norr finns **[[Nordmark]]**, ett kungarike med stark militär makt som har sett Lornhaven som en nödvändig handelspartner. Söderut finns ett annat rike, **[[Solarithar|Solarithar]]**, känt för sina varma klimat och framstående sjöfarare. Båda riken har intressen i Lornhavens hamn och handel, men ingen har vågat erövra staden av rädsla för att förlora tillgången till havets handelsvägar.
 

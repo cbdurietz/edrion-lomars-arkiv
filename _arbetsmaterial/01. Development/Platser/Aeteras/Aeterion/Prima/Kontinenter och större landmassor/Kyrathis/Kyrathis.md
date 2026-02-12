@@ -9,7 +9,7 @@
 - **Hav söder om Kyrathis:**
     **[[Det Frusna Sundet]]** skiljer Kyrathis sydligaste delar från den frusna kontinenten [[Aeloria|Aeloria]]. Sundet är isbelagt större delen av året men öppnas under sommarmånaderna för handel.
 - **Politisk Kontext:**  
-    [[Kyrathis|Kyrathis]] är hem till ett antal små, sjöfartsbaserade stadsstater, liknande [[Lornhaven]], men även till större kungadömen som **[[Solarith]]**, som är känt för sin rika kultur och handel med exotiska varor.
+    [[Kyrathis|Kyrathis]] är hem till ett antal sjöfartsbaserade stadsstater, som **[[Solarith (staden)|Solarith]]** och **[[Melethis]]**, kända för sin rika kultur och handel med exotiska varor.
 
 ---
 **Kyrathis** är en fascinerande och komplex kontinent belägen söder om **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]**, och den utmärker sig genom sina rika naturresurser, mångskiftande klimat och ett samhälle präglat av handel, magi och gamla traditioner. Kontinenten är känd för sina exotiska djurliv, bördiga kuster, och farliga djungler, samt sina politiska intriger och mäktiga stadsstater. Kyrathis har länge varit en kulturell smältdegel, där allt från uråldriga mystiska ordnar till framväxande handelsdynastier samexisterar.
@@ -54,7 +54,7 @@ Kyrathis är en kontinent som saknar en enhetlig styrande makt. Istället är de
 De stora hamnstäderna längs Kyrathis kust är rika, självstyrande **stadsstater**, som i flera fall fungerar som både ekonomiska och politiska maktcentra. Dessa stadsstater har ofta starka flottor och stor diplomatiskt inflytande tack vare sin handel med både [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] och andra kontinenter.
 
 - **Exempel på stadsstater:**
-    - **[[Solarith (staden)]] (inte att förväxla med riket [[Solarith]] i [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]])**: [[Solarith (staden)|Solarith]] är en av de mest framstående kuststäderna, känd för sin maktfulla handelsflotta och sin skickliga diplomati. Staden är en kulturell smältdegel där folk från hela världen bor och verkar, och det är här många av de rikaste handelsfamiljerna i världen har sina baser. [[Solarith (staden)|Solarith]] har också ett starkt inflytande på kontinentens politiska och ekonomiska scen och är ofta den plats där stora avtal sluts mellan olika stater och riken.
+    - **[[Solarith (staden)]] (inte att förväxla med riket [[Solarithar]] på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]])**: [[Solarith (staden)|Solarith]] är en av de mest framstående kuststäderna, känd för sin maktfulla handelsflotta och sin skickliga diplomati. Staden är en kulturell smältdegel där folk från hela världen bor och verkar, och det är här många av de rikaste handelsfamiljerna i världen har sina baser. [[Solarith (staden)|Solarith]] har också ett starkt inflytande på kontinentens politiska och ekonomiska scen och är ofta den plats där stora avtal sluts mellan olika stater och riken.
     - **[[Melethis]]**: En annan viktig kuststad är [[Melethis]], känd för sin unika arkitektur och sin stora marknad för magiska artefakter och sällsynta varor. [[Melethis]] styrs av ett råd av magiker, och staden är centrum för både magisk forskning och avancerad alkemisk vetenskap.
 
 #### b. **Nomadiska Stammar på Savannen**
