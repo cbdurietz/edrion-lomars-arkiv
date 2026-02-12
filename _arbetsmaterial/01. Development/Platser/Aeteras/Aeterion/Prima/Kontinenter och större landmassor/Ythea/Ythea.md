@@ -5,7 +5,7 @@
 - **Hav väster om Ythea:**
     **[[Stjärnhavet]]** breder ut sig väster om Ythea, mot **[[Kyrathis|Kyrathis]]** och **[[Serthara|Serthara]]**. Det är genom detta hav som den begränsade handeln med omvärlden sker, främst via hamnstaden **[[Kaldris]]** på den södra kusten.
 - **Hav öster om Ythea:**
-    **[[Den Tysta Oceanen]]** sträcker sig österut från Ythea — ett vidsträckt och till synes oändligt hav som sällan navigeras. De som har korsat det och återvänt talar om faror under ytan och oförklarliga ljusfenomen på nätterna. Oceanen utgör den långa, alternativa sjövägen till **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** i fjärran väster.
+    **[[Dimhavet]]** ligger omedelbart öster om Ythea och skiljer kontinenten från **[[Dimöarna]]**. Det är ett litet men djupt hav, instängt mellan [[Ytharbergen|Ytharbergens]] östliga utlöpare och Dimöarnas bergiga öar, och i stort sett ständigt täckt av dimma. Bortom Dimöarna breder **[[Den Tysta Oceanen]]** ut sig — ett vidsträckt och till synes oändligt hav som sällan navigeras och som utgör den långa, alternativa sjövägen till **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** i fjärran väster.
 - **Sjövägar:**
     Den mest direkta sjövägen mellan [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] och [[Ythea|Ythea]] går österut via [[Skymningshavet]] förbi [[Serthara|Serthara]] och vidare över [[Stjärnhavet]], men kontinenterna kan också nås den långa vägen västerut över [[Den Tysta Oceanen]].
 - **Politisk Kontext:**  
