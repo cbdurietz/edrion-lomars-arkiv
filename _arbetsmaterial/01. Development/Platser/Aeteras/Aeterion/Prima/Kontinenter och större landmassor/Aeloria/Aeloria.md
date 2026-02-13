@@ -6,11 +6,11 @@
 
 
 - **Kontinentens Beskrivning:**  
-    [[Aeloria|Aeloria]] är en kontinent belägen långt söderut, där klimatet är kallt och ogästvänligt. Stora delar av Aeloria är täckta av snö och is, men längs dess norra kust finns tempererade skogar och fjordar. Den södra delen är dock en ogästvänlig plats där endast de hårdaste varelser och folk överlever. Det är en isolerad plats, men rik på naturresurser som järn och sällsynta mineraler.
+    [[Aeloria|Aeloria]] är en kontinent belägen långt söderut, där klimatet är kallt och ogästvänligt. Hela Aeloria är täckt av snö och is, men längs norra kusten finns skyddade vikar och isjordar där bosättningar vuxit fram i lä av klippor och glaciärer. Trots de extrema förhållandena är kontinenten rik på naturresurser som järn och sällsynta mineraler.
 - **Hav som skiljer Aeloria från andra kontinenter:**  
     **[[Det Frusna Sundet]]** skiljer [[Aeloria|Aeloria]] från [[Kyrathis|Kyrathis]] och andra södra landområden. Sundet är fruset större delen av året, men under några månader på sommaren öppnas det upp och tillåter långväga handelsresor.
 - **Politisk Kontext:**  
-    [[Aeloria|Aeloria]] är hem för **nomadiska stammar** och små, starka kungadömen, främst koncentrerade i de tempererade norra delarna. Dessa kungariken har lärt sig att överleva i det hårda klimatet och betraktas ofta som isolerade från resten av [[Prima]]. De flesta civilisationer i Aeloria är skeptiska till utomstående och föredrar att hålla sina affärer för sig själva.
+    [[Aeloria|Aeloria]] är hem för **nomadiska stammar** och små, starka kungadömen, främst koncentrerade kring de skyddade vikarna längs norra kusten. Dessa kungariken har lärt sig att överleva i det hårda klimatet och betraktas ofta som isolerade från resten av [[Prima]]. De flesta civilisationer i Aeloria är skeptiska till utomstående och föredrar att hålla sina affärer för sig själva.
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### 1. **Geografi och Klimat**
 
-Aeloria är till stor del täckt av is och snö året runt, med några få regioner som har ett mildare klimat under de korta somrarna. Kontinenten präglas av stora isfält, massiva bergskedjor och glaciärer som långsamt rör sig över landmassan. Här och där finns isolerade dalar och fjordar som erbjuder mer gästvänliga områden, men de är få och långt emellan.
+Aeloria är täckt av is och snö året runt. Kontinenten präglas av stora isfält, massiva bergskedjor och glaciärer som långsamt rör sig över landmassan. Längs norra kusten finns skyddade vikar och isjordar som erbjuder en aning mer skydd mot de värsta vindarna, och det är här de flesta bosättningar har vuxit fram — men även dessa platser är hårda och oförlåtande.
 
 #### a. **De Frusna Slätterna**
 
@@ -128,9 +128,24 @@ Trots de svåra klimatförhållandena har Aeloria en liten men viktig ekonomi, f
 - **Magiska kristaller och isblommor:**  
     Aeloria är känt för sina **magiska isresurser**, inklusive **isblommor** och **frostkristaller**, som bara växer under extrema förhållanden. Dessa föremål har stora magiska egenskaper och används av alkemister och magiker över hela [[Prima]] för att skapa mäktiga formler och föremål.
     
-- **Fiske och jakt:**  
-    Fisket, särskilt av sällsynta isfiskar, och jakten på säl och andra marina däggdjur är viktiga för de kustområden som är beroende av havet för sin överlevnad. Dessa varor är också eftertraktade på andra kontinenter, särskilt de oljor och pälsar som kommer från dessa djur.
-    
+- **Fiske och jakt:**
+    Fisket, särskilt av sällsynta isfiskar, och jakten på säl, valross och andra marina däggdjur är viktiga för de kustområden som är beroende av havet för sin överlevnad. Dessa varor är också eftertraktade på andra kontinenter — **tran** från säl och havsdäggdjur används som bränsle och i alkemi, **pälsar** och **hudar** värderas högt i de nordliga rikena, och **valrossben** bearbetas till redskap, smycken och vapen av Aelorias hantverkare. Längs de yttre kustvattnen hittas ibland **ambra**, en sällsynt substans från havets djup, som betingar enorma priser bland parfymmakare och alkemister på andra kontinenter.
+
+#### b. **Import och beroende**
+
+Aeloria är i hög grad beroende av import för sådant som kontinentens egna förhållanden inte kan erbjuda. Under de korta sommarmånaderna, när [[Det Frusna Sundet]] öppnas för sjöfart, anländer handelsskepp med varor som är livsnödvändiga för Aelorias folk.
+
+- **Timmer och trä:**
+    Ingenting av värde växer på Aeloria. Trä för byggnation, verktyg, skepp och bränsle är en av de mest efterfrågade importvarorna, och konkurrensen om varje last är hård.
+
+- **Spannmål och torkade livsmedel:**
+    Aelorias folk lever främst på kött och fisk, men spannmål, torkade frukter och salt är eftertraktade handelsvaror som kompletterar den enformiga kosten och möjliggör längre vandringar och resor under vintern.
+
+- **Textilier och rep:**
+    Även om pälsar och hudar finns i överflöd saknas växtbaserade fibrer helt. Linne, hampa och segelduk importeras för tillverkning av rep, nät och kläder som tål det slitage som kylan och saltvattnet innebär.
+
+- **Medicinalväxter och örter:**
+    Aelorias shamaner och helbrägdagörare använder en blandning av lokal djurbaserad medicin och importerade örter. Vissa växter som inte överlever kylan är ändå avgörande för deras läkekonst, och handeln med dessa är en fråga om överlevnad snarare än lyx.
 
 ---
 
