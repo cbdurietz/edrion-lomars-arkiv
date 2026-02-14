@@ -1,0 +1,5 @@
+#Yrke
+
+Shamaner tillhör den äldsta kända magiska traditionen i [[Aeteras]]. Deras utövande bygger på balans, återhållsamhet och en djup förståelse för de naturliga kretslopp som styr [[Aether|Aetherns]] återväxt. Till skillnad från moderna magiska skolor betraktar shamaner inte Aether som en resurs att utvinna, utan som en levande del av världen som man samverkar med. Deras ritualer syftar till att upprätthålla den balans mellan Liv och Död, tillväxt och förfall, som gör att Aether kan återbildas.
+
+Shamaner är särskilt utbredda bland folkslag och kulturer med stark koppling till naturen. På [[Aeloria]] praktiserar Thariak-stammen en form av shamanism där shamanerna kommunicerar med isandar och andra väsen som lever i isen och snön – andar som ses som både beskyddare och potentiella fiender. Shamanernas förmåga att uppfatta och samverka med naturväsen, som i sin tur är djupt knutna till Aether präglad av Liv, gör dem till förmedlare mellan den materiella världen och de realmer som samexisterar med den.

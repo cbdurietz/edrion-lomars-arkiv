@@ -63,10 +63,10 @@ Trots sitt ogästvänliga klimat är Aeloria hem för flera **riken och stammar*
     **[[Kaldora]]** är ett rike byggt på resterna av ett en gång mäktigt imperium som täckte större delar av Aelorias södra och centrala områden innan det kollapsade under trycket från de växande isarna. Idag är Kaldora centrerat kring det massiva **Isfortet**, en mäktig fästning byggd av både sten och is, som ligger i hjärtat av de centrala isfälten.
     
 - **Kaldoranskt styre:**  
-    Kaldoras härskare, kallad **Frostkungen**, styr över flera mindre klaner och stammar som har svurit trohet till Kaldora i utbyte mot skydd och resurser. Rikets ekonomi bygger på jakt och handel med sällsynta isfiskar och mineraler som bryts från isfälten. Kaldora är också känt för sin **isjättemagi**, en uråldrig form av magi som sägs kunna kontrollera både väder och is.
-    
-- **Politisk och militär styrka:**  
-    Kaldora har starka försvarsmurar och en vältränad armé som är van att kämpa i isiga förhållanden. Deras krigare är särskilt skickliga i att använda **isvapen**, som är smidda med hjälp av magi och formade av isens kraft. Kaldora är också en viktig aktör i Aelorias politiska spel, även om deras avlägsna läge gör att de sällan deltar i konflikter utanför kontinenten.
+    Kaldoras härskare, kallad **Frostkungen**, styr över flera mindre klaner och stammar som har svurit trohet till Kaldora i utbyte mot skydd och resurser. Rikets ekonomi bygger på jakt och handel med sällsynta isfiskar och mineraler som bryts från isfälten. Kaldora är också känt för sin **isjättemagi**, en uråldrig magisk tradition som utnyttjar den starkt Vatten-präglade Aethern i regionen och som sägs kunna kontrollera både väder och is.
+
+- **Politisk och militär styrka:**
+    Kaldora har starka försvarsmurar och en vältränad armé som är van att kämpa i isiga förhållanden. Deras krigare är särskilt skickliga i att använda **isvapen**, som är smidda med hjälp av magi och formade ur den Vatten-präglade Aethern som genomsyrar Aelorias isfält. Kaldora är också en viktig aktör i Aelorias politiska spel, även om deras avlägsna läge gör att de sällan deltar i konflikter utanför kontinenten.
     
 
 #### b. **Glaciärstammen Thariak**
@@ -87,7 +87,7 @@ Trots sitt ogästvänliga klimat är Aeloria hem för flera **riken och stammar*
     **[[Vaeleth]]** är ett unikt rike som ligger vid de frusna sjöarna i Aelorias sydöstra del. Här har invånarna byggt sina städer på **flytande plattformar** som rör sig ovanpå den frusna ytan av sjöarna. Dessa plattformar är gjorda av både trä och magiskt förstärkta isblock och har utvecklats för att vara både hållbara och mobila, beroende på hur isen rör sig under året.
     
 - **Magi och vattenkraft:**  
-    Vaeleth är känt för sin starka koppling till **vattenmagi**, och deras magiker kan manipulera is och vatten på sätt som andra riken på Aeloria inte kan. Denna magi används för både försvar och för att hålla deras städer säkra och stabila på den frusna ytan. Vaeleth är också ett centrum för kunskap om magiska varelser som lever under isen, inklusive farliga undervattensvarelser som bara visar sig under vissa tider på året.
+    Vaeleth är känt för sin starka koppling till **vattenmagi** – en tradition som vuxit fram ur den starkt Vatten-präglade Aether som de frusna sjöarnas miljö genererar. Deras magiker kan manipulera is och vatten på sätt som andra riken på Aeloria inte kan. Denna magi används för både försvar och för att hålla deras städer säkra och stabila på den frusna ytan. Vaeleth är också ett centrum för kunskap om magiska varelser som lever under isen, inklusive farliga undervattensvarelser som bara visar sig under vissa tider på året.
     
 - **Politisk isolering:**  
     Trots sin teknologiska och magiska skicklighet är Vaeleth ett ganska isolerat rike, och de har få allianser med andra makter på Aeloria. De litar på sina egna resurser och sina vattenmagiska kunskaper för att överleva, och de få handelsrelationer de har sker via havet under de korta somrarna när farlederna är öppna.
@@ -110,10 +110,10 @@ Kulturen på Aeloria är starkt präglad av de extrema klimatförhållandena och
 
 #### b. **Ismagins Hemligheter**
 
-- **Frostmagi och väderkontroll:**  
-    Ismagin är en av de mest utbredda och kraftfulla formerna av magi på Aeloria. Magiker som specialiserar sig på **frostmagi** kan kontrollera både is och snö och har utvecklat avancerade metoder för att påverka väder och klimat. Dessa magiker är ofta högt respekterade och spelar en viktig roll i de olika rikenas politiska strukturer, där deras förmåga att kontrollera vädret kan avgöra överlevnad under en hård vinter.
-    
-- **Mytiska väsen:**  
+- **Frostmagi och väderkontroll:**
+    Ismagin är en av de mest utbredda och kraftfulla formerna av magi på Aeloria. Aelorias iskalla, vattendominerade miljöer genererar Aether med en stark prägel av Vatten, vilket har gett kontinentens magiker en naturlig affinitet för is- och köldrelaterad magi. Magiker som specialiserar sig på **frostmagi** kan kontrollera både is och snö och har utvecklat avancerade metoder för att påverka väder och klimat. Dessa magiker är ofta högt respekterade och spelar en viktig roll i de olika rikenas politiska strukturer, där deras förmåga att kontrollera vädret kan avgöra överlevnad under en hård vinter.
+
+- **Mytiska väsen:**
     Aeloria är också känt för sina **mytiska väsen**, inklusive **isandar**, **jättar** och **drakar** som lever i de mest avlägsna och farliga regionerna av kontinenten. Många av dessa varelser är knutna till isens magi och anses vara både beskyddare och fiender till de människor som bebor Aeloria.
     
 

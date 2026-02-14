@@ -94,8 +94,8 @@ Kyrathis har varit en **handelsmässig supermakt** i flera århundraden, och des
 
 Kyrathis har en stark tradition av **magi och mystik**, och det finns flera framstående magiska akademier utspridda över kontinenten. Dessa akademier fokuserar på allt från klassisk magi till alkemi, astrologi och urgamla ritualer. Kontinentens långa historia av uråldriga civilisationer har lämnat efter sig en mängd magisk kunskap och artefakter, som lockar magiker och forskare från hela världen.
 
-- **Sjöfartsmagi:**  
-    En speciell form av magi som utvecklats i Kyrathis är **sjöfartsmagi**, där magiker använder sig av havets krafter för att styra skepp, förutsäga stormar och skapa magiska vindar för att snabbt navigera farliga vatten. Detta har varit en viktig del av att bygga Kyrathis sjöhandelsimperium.
+- **Sjöfartsmagi:**
+    En speciell form av magi som utvecklats i Kyrathis är **sjöfartsmagi**, där magiker kanaliserar den Vatten- och Luft-präglade Aether som havsmiljön genererar för att styra skepp, förutsäga stormar och skapa gynnsamma vindar. Detta har varit en viktig del av att bygga Kyrathis sjöhandelsimperium.
     
 - **Melethis Magiska Akademi:**  
     En av de mest kända institutionerna är **[[Melethis Magiska Akademi]]**, där studenter från hela [[Prima]] kommer för att lära sig avancerad magi och alkemi. Akademin är känd för sina strikta inträdeskrav och sina farliga experiment, och många av världens främsta magiker har utbildats där.

@@ -44,7 +44,7 @@ Norr om floden Amunir breder de **[[Stora Slätterna]]** ut sig, ett enormt, gr�
 #### Ytharbergen
 Centrala Ythea domineras av den massiva bergskedjan **[[Ytharbergen]]**, en rad höga och svårgenomträngliga berg som markerar en naturlig gräns mellan norra och södra Ythea. Ytharbergen är inte bara svåra att korsa, utan de är också hem för flera mystiska och isolerade kloster, samt gamla ruiner som en gång tillhörde uråldriga imperier. Många tror att bergen fortfarande ruvar på hemligheter och gömda skatter, men de flesta expeditioner har försvunnit spårlöst i de farliga passagen.
 #### Djupa skogar
-På den centrala delen av kontinenten finns också de **[[Djupa Skogarna]]**, stora skogsmarker som sträcker sig över flera hundra mil. Dessa skogar är kända för sina magiska väsen, inklusive gamla trädandar och andra varelser som sägs ha bott där sedan urminnes tider. Folket som bor i dessa skogar har utvecklat en nära relation till naturen och använder sig ofta av naturmagi för att överleva och försvara sig mot inkräktare.
+På den centrala delen av kontinenten finns också de **[[Djupa Skogarna]]**, stora skogsmarker som sträcker sig över flera hundra mil. Dessa skogar är kända för sina magiska väsen, inklusive gamla trädandar och andra varelser som sägs ha bott där sedan urminnes tider. Folket som bor i dessa skogar har utvecklat en nära relation till naturen och använder sig av den Livs-präglade Aether som skogens kretslopp genererar för att överleva och försvara sig mot inkräktare.
 
 ### Södra Ythea: Öknar och Halvtorra Landskap
 
@@ -109,7 +109,7 @@ Ythea har en rik och mångfacetterad kultur, där religion, filosofi och magi sp
 ### Magins Roll
 
 - **Akademier och magikerordnar:**  
-    Magi är en central del av många samhällen på [[Ythea|Ythea]], och flera riken har utvecklat avancerade akademier och magikerordnar där unga magiker tränas. **[[Kaldris]]** är ett viktigt centrum för magisk utbildning, men även andra riken, såsom **[[Otharam]]**, har sina egna traditioner när det gäller magisk träning. Magiker kan specialisera sig inom olika skolor, inklusive naturmagi, astrologi och elementär magi.
+    Magi är en central del av många samhällen på [[Ythea|Ythea]], och flera riken har utvecklat avancerade akademier och magikerordnar där unga magiker tränas. **[[Kaldris]]** är ett viktigt centrum för magisk utbildning, men även andra riken, såsom **[[Otharam]]**, har sina egna traditioner när det gäller magisk träning. Magiker kan specialisera sig inom olika traditioner – naturmagi (kopplad till Livs-präglad Aether), astrologi och elementärt fokuserade skolor (knutna till Aether präglad av Eld, Vatten, Jord eller Luft).
     
 - **Respekt och fruktan:**  
     Magiker åtnjuter ofta stor respekt i samhället, men de fruktas också av den vanliga befolkningen, som ser på magi som något både kraftfullt och potentiellt farligt. I vissa områden, särskilt i de mer konservativa regionerna, är magi strikt reglerad och magiker hålls under strikt uppsikt av både staten och religiösa ledare.

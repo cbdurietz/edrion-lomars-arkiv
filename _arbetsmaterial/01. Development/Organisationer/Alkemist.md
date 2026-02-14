@@ -1,0 +1,5 @@
+#Yrke
+
+Alkemister är utövare av en uråldrig praktik som rör sig i gränslandet mellan vetenskap och magi. Deras arbete kretsar kring att förstå och omvandla materiens egenskaper – att utvinna essenser ur växter, mineraler och djurdelar, att rena substanser och kombinera dem till preparat med önskade verkningar. Till skillnad från renodlade magiker förlitar sig alkemister i första hand på fysiska processer och materiella komponenter, även om många av deras metoder förutsätter tillgång till [[Aether]] för att uppnå resultat som går utöver den vanliga kemins möjligheter.
+
+Alkemister återfinns över hela [[Prima]], men är särskilt eftertraktade i handelscentra och lärdomsstäder. De köper och använder sällsynta material som [[Astralium|Astralium-kristaller]] från [[Kharanos]], havsalger från [[Ardensjön]], isblommor och frostkristaller från [[Aeloria]], och andra naturliga substanser med ovanliga egenskaper. Den mest kända alkemistiska drömmen – att framställa guld ur oädla metaller – har aldrig förverkligats, men strävan efter den har drivit fram otaliga praktiska upptäckter inom medicin, metallurgi och konservering.

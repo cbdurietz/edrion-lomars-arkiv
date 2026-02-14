@@ -1,0 +1,5 @@
+#Yrke
+
+Magientister representerar den modernaste och mest ambitiösa grenen av magiutövande. Där alkemister i alla tider har försökt skapa guld ur oädla metaller, strävar magientister efter det ultimata genombrottet: att framställa [[Aether]] ur tomma intet. Deras arbete är i grunden experimentellt och systematiskt – de behandlar Aether som en naturresurs att mäta, analysera och kontrollera, snarare än som ett kretslopp att vårda.
+
+Magientister har utvecklat allt mer sofistikerade hjälpmedel för att hantera Aether: artefakter som underlättar utvinning ur omgivningen, behållare för att lagra energin för framtida bruk, och verktyg för att rena Aethern från oönskade präglar för att garantera mer förutsägbara resultat. Denna systematiska approach har gjort dem oumbärliga i städer och vid institutioner som [[Melethis Magiska Akademi]], men har också gjort dem till måltavla för kritik från äldre traditioner som menar att deras storskaliga exploatering utarmar Aethern lokalt och destabiliserar de kretslopp som möjliggör dess återväxt.

@@ -44,13 +44,13 @@ Solens Förbunds gudom, **Aetheria**, sågs som den högsta av alla gudar, en al
 
 #### b. **Magi och Solkraft**
 
-Solens Förbund var känt för sina **mystiska krafter** och sin användning av **solmagi**. Prästerna och magikerna i förbundet utvecklade avancerade tekniker för att manipulera solens ljus och kraft, vilket gjorde dem fruktade både på slagfältet och som politiska spelare.
+Solens Förbund var känt för sina **mystiska krafter** och sin användning av **solmagi**. Prästerna och magikerna i förbundet utvecklade avancerade tekniker knutna till solens ljus och värme, vilket gjorde dem fruktade både på slagfältet och som politiska spelare. Den öppna, solbelysta miljö som förbundets kärnländer präglas av genererar Aether med en stark prägel av Eld och Liv – en omständighet som förbundets utövare tolkade som solgudinnan Aetherias direkta gåva.
 
-- **Ljusmagi:**  
-    Ljusmagin användes för en mängd olika ändamål, från **helande** till **förstörelse**. Magikerna kunde kanalisera solens ljus för att hela sår och sjukdomar, men också för att skapa bländande explosioner av ljus som kunde förgöra deras fiender. Denna form av magi var både en religiös och praktisk tillämpning av deras tro på solens gudomliga kraft.
-    
-- **Ceremoniella ritualer:**  
-    Solmagi användes också i storskaliga **ceremoniella ritualer** som markerade viktiga händelser som kröningar, krigsförklaringar eller högtider. Dessa ritualer hölls ofta i soltempel vid gryning eller skymning, där prästerna och magikerna samlades för att kanalisera solens kraft genom magiska föremål som **solstenar** och speglar av förtrollat guld.
+- **Ljusmagi:**
+    Ljusmagin användes för en mängd olika ändamål, från **helande** till **förstörelse**. Genom ritualer i solens direkta ljus kanaliserade magikerna den lokala Aethern för att hela sår och sjukdomar, men också för att skapa bländande explosioner av ljus som kunde förgöra deras fiender. Att ritualerna krävde solljus var inte en slump – det solbelysta landskapet var just den miljö som producerade den typ av Aether deras tradition lärt sig arbeta med.
+
+- **Ceremoniella ritualer:**
+    Solmagi användes också i storskaliga **ceremoniella ritualer** som markerade viktiga händelser som kröningar, krigsförklaringar eller högtider. Dessa ritualer hölls ofta i soltempel vid gryning eller skymning, där prästerna och magikerna samlades kring magiska föremål som **solstenar** och speglar av förtrollat guld – redskap som sannolikt fungerade som hjälpmedel för att utvinna och kanalisera Aether.
     
 
 ---
