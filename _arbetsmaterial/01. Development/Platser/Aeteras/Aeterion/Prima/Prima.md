@@ -3,7 +3,7 @@
 - Prima ligger i den **beboeliga zonen** runt [[Aeterion]] och har förhållanden som liknar Jorden. Gravitationen, miljön, och atmosfären tillåter ett rikt ekosystem med flora och fauna, och dess klimat kan variera beroende på region, precis som på Jorden.
 - Planeten har en **månliknande satellit** som är mindre än vår egen måne men synlig på natthimlen. Denna måne påverkar tidvatten och används i kalenderberäkningar, men har inte samma mytologiska betydelse som [[Sekara]].
 
-![[Prima 36_18 (1).png]]
+![[prima-overview.png]]
 ### **Planeten Prima: Kontinenter och Hav**
 
 #### Kontinenter

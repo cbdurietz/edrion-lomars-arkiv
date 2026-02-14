@@ -46,11 +46,11 @@ Kyrathis är en kontinent som sträcker sig över flera klimat och geografiska z
 
 #### d. **Vulkaniska Berg och Magiska Källor**
 
-- **Bergskedjor och vulkaner:**  
-    På Kyrathis finns också flera imponerande **bergskedjor**, inklusive den berömda **Teldrisska Vulkanen**, som fortfarande är aktiv. Denna vulkan och dess omgivning är kända för sina rika mineralfyndigheter, men också för att området ofta drabbas av jordbävningar och vulkanutbrott.
-    
-- **Magiska källor:**  
-    I vissa av dessa bergsområden finns **heta källor** och **magiska sjöar** som enligt lokala legender har helande krafter. Flera religiösa grupper och magiker har pilgrimsvandrat hit i århundraden för att söka kontakt med de andar och krafter som sägs bo i dessa platser.
+- **Bergskedjor och vulkaner:**
+    Kyrathis nordöstra horn präglas av intensiv geologisk aktivitet. Här löper gränsen mellan två av [[Prima|Primas]] stora kontinentalplattor — samma plattgräns som fortsätter under **[[Djävulshavet]]** och vidare till **[[Serthara|Sertharas]]** sydvästra vulkanregioner. Denna zon av sned kollision mellan plattorna har rest imponerande **bergskedjor** och skapat ett av de mest vulkaniskt aktiva områdena på kontinenten. Den berömda **[[Teldrisska Vulkanen]]**, som fortfarande är aktiv, är det mest kända exemplet, men hela nordöstra kustregionen drabbas regelbundet av jordbävningar och vulkanutbrott. Samma geologiska krafter har också gett upphov till rika mineralfyndigheter — sällsynta metaller, kristaller och andra råvaror som bryts ur marken trots de farliga förhållandena.
+
+- **Magiska källor:**
+    I dessa vulkaniska bergsområden finns **heta källor** och **magiska sjöar** som enligt lokala legender har helande krafter. Flera religiösa grupper och magiker har pilgrimsvandrat hit i århundraden för att söka kontakt med de andar och krafter som sägs bo i dessa platser. Sambandet mellan den vulkaniska aktiviteten och de ovanliga egenskaper som tillskrivs regionens vatten och mineraler har länge fascinerat lärda från hela [[Prima]].
     
 
 ### 2. **Politisk Struktur och Stadsstater**

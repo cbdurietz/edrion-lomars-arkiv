@@ -51,8 +51,8 @@ Serthara är en av de mest geografiskt skiftande kontinenterna på [[Prima]], me
 - **Tropiska djungler:**  
     I den södra delen av Serthara hittar man täta, fuktiga **regnskogar**, där klimatet är hett och fuktigt året om. Dessa djungler är kända för sitt rika djurliv, sina väldiga träd, och den farliga flora och fauna som gör området både spännande och riskabelt att resa genom. Det finns flera mystiska kulturer som bor djupt inne i dessa skogar, många av dem relativt isolerade från omvärlden och med sina egna, uråldriga religioner och riter.
     
-- **Vulkaniska regioner:**  
-    I närheten av de tropiska skogarna finns också aktiva **vulkaner**, vilket gör att delar av regionen är karg och fylld med lavalandskap. Vulkanerna ses ofta som heliga av lokalbefolkningen, och flera tempel och ritualplatser har byggts i närheten av dessa vulkaner för att blidka de gudar och andar som sägs leva djupt inne i jordens sköte.
+- **Vulkaniska regioner:**
+    Sertharas sydvästra del är ett av de mest geologiskt instabila områdena på kontinenten. Här löper gränsen mellan två av [[Prima|Primas]] stora kontinentalplattor — samma plattgräns som fortsätter under **[[Djävulshavet]]** och vidare till de vulkaniska bergen på **[[Kyrathis|Kyrathis]]** nordöstra horn. Denna zon av aktiva **vulkaner** gör att delar av regionen är karg och fylld med lavalandskap, men den geologiska aktiviteten har också gett upphov till sällsynta mineraler och råvaror som inte återfinns på andra håll. Vulkanerna ses ofta som heliga av lokalbefolkningen, och flera tempel och ritualplatser har byggts i närheten av dessa vulkaner för att blidka de gudar och andar som sägs leva djupt inne i jordens sköte.
     
 
 ### 2. **Politiska Riken och Maktstrukturer**

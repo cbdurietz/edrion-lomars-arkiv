@@ -1,3 +1,5 @@
 #Plats
 
-- **[[Melethis]]**: En annan viktig kuststad i norra [[Kyrathis]] är [[Melethis]], känd för sin unika arkitektur och sin stora marknad för magiska artefakter och sällsynta varor. [[Melethis]] styrs av ett råd av magiker, och staden är centrum för både magisk forskning och avancerad alkemisk vetenskap.
+**[[Melethis]]** är en viktig kuststad i nordöstra [[Kyrathis]], känd för sin unika arkitektur och sin stora marknad för magiska artefakter och sällsynta varor. [[Melethis]] styrs av ett råd av magiker, och staden är centrum för både magisk forskning och avancerad alkemisk vetenskap.
+
+Stadens läge nära den vulkaniskt aktiva zonen som löper längs [[Kyrathis|Kyrathis]] nordöstra kust — samma plattgräns som fortsätter under **[[Djävulshavet]]** — ger den en unik fördel. De sällsynta mineraler, kristaller och metaller som bryts ur de vulkaniska bergen i närheten utgör grunden för mycket av den alkemiska forskningen vid **[[Melethis Magiska Akademi]]** och förser stadens marknader med råvaror som är svåra att finna på andra håll. Denna tillgång har gjort [[Melethis]] till en magnet för [[Alkemist|alkemister]], [[Magientist|magientister]] och andra lärda från hela [[Prima]], och är en viktig förklaring till att staden har kunnat hävda sig som ett av kontinentens främsta centra för magisk kunskap.
