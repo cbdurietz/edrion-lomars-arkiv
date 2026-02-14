@@ -26,9 +26,16 @@ Handelsmetall med bred användning.
 **Ursprung:** [[Kyrathis]], [[Otharam]], [[Kaldris]], [[Serthara]]
 Ädla och halvädla stenar av olika slag. Stor exportvara från [[Kyrathis]] och [[Kaldris]] på [[Ythea|Ytheas]] [[Brända Kusten|Brända Kust]].
 
-### Sällsynta mineraler från vulkanzonen
+### Vulkanzonens mineraler
 **Ursprung:** Nordöstra [[Kyrathis]], sydvästra [[Serthara]], [[Djävulshavet|Djävulshavets]] havsbotten
-Den geologiskt aktiva zonen längs plattgränsen mellan [[Kyrathis]] och [[Serthara]] — som löper genom [[Djävulshavet]] — ger upphov till mineraler, kristaller och metaller som inte återfinns på andra håll. [[Melethis]] och dess magiska akademi är ett av de främsta centrumen för handel med dessa material. Specifika namn på de mineraler som bryts här saknas i nuläget i arkivet.
+Den geologiskt aktiva zonen längs plattgränsen mellan [[Kyrathis]] och [[Serthara]] — som löper genom [[Djävulshavet]] — ger upphov till mineraler, kristaller och metaller som inte återfinns på andra håll. [[Melethis]] och dess magiska akademi är det främsta centrumet för handel med dessa material. Se [[Vulkanzonens mineraler]] för fullständig beskrivning. De viktigaste är:
+
+- **Ignarit** — mörkröd kristall som lagrar Eld-präglad [[Aether]]. Energikälla för alkemister och magientister, material för eldmagiska vapen. Den mest omsatta av vulkanzonens mineraler.
+- **Svartskal** — vulkaniskt glas som blockerar Aether-flöden. Används för isolering och lagring av instabil magi.
+- **Djupeld** — extremt sällsynt metall från Djävulshavets undervattensventiler. Bär prägel av både Eld och Vatten — en teoretisk omöjlighet som gör den ovärderlig för forskning.
+- **Askite** — porös sten som absorberar Död-präglad Aether. Restriktionsbelagd handelsvara.
+- **Thalite** — grönblå kristall som neutraliserar Aether-präglar. Viktig för alkemi och magisk arkitektur.
+- **Flödeskvarts** — gyllene kvarts med Jord-präglad resonans. Stapelvara i konstruktion och befästningsarbete.
 
 ### Ädelträ
 **Ursprung:** [[Solarithar]]
@@ -188,7 +195,7 @@ Brygder och preparat framställda av [[Alkemist|alkemister]] med hjälp av säll
 
 ## Luckor och noteringar
 
-- **Vulkanzonens mineraler** längs gränsen [[Kyrathis]]–[[Djävulshavet]]–[[Serthara]] nämns som sällsynta och värdefulla, men inga specifika namn finns ännu i arkivet.
+- **Vulkanzonens mineraler** har nu specificerats i [[Vulkanzonens mineraler]], men deras exakta fyndplatser och brytningsmängder kan behöva utvecklas ytterligare.
 - **[[Lornhaven]]** beskrivs som ett strategiskt handelscentrum, men det saknas detaljer om vilka varor som faktiskt passerar genom staden.
 - **[[Thalios]]** nämns som metallexportör men saknar en utvecklad artikel.
 - Flera regioner på [[Serthara]] saknar specificerade export- och importvaror.
