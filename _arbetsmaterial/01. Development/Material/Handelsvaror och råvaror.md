@@ -173,7 +173,7 @@ Brygder och preparat framställda av [[Alkemist|alkemister]] med hjälp av säll
 
 | Region | Exporterar | Importerar |
 |--------|-----------|------------|
-| [[Solarith (staden)\|Solarith]] | Kryddor, ädelstenar, exotiska varor | — |
+| [[Solarith]] | Kryddor, ädelstenar, exotiska varor | — |
 | [[Melethis]] | Magiska artefakter, alkemiska produkter | Sällsynta mineraler från vulkanzonen |
 
 ### Ythea

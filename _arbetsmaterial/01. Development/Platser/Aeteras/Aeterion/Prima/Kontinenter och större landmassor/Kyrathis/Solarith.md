@@ -1,10 +1,10 @@
 #Plats #Stad 
 
-Det finns en fascinerande och komplex historia bakom namngivningen av både stadsstaten **[[Solarith (staden)|Solarith]]** på **[[Kyrathis|Kyrathis]]** och landet **[[Solarithar]]** på **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]**, och deras koppling är en produkt av både gamla migrationer och gemensamma kulturella rötter. Låt oss utforska denna bakgrund och relationen mellan de två regionerna.
+Det finns en fascinerande och komplex historia bakom namngivningen av både stadsstaten **[[Solarith]]** på **[[Kyrathis|Kyrathis]]** och landet **[[Solarithar]]** på **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]**, och deras koppling är en produkt av både gamla migrationer och gemensamma kulturella rötter. Låt oss utforska denna bakgrund och relationen mellan de två regionerna.
 
 ### 1. **Gemensamt Ursprung: Soldyrkande Kultur**
 
-Både stadsstaten **[[Solarith (staden)|Solarith]]** på [[Kyrathis|Kyrathis]] och landet **[[Solarithar]]** på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] har sitt ursprung i en gammal **soldyrkande kultur**, som en gång var spridd över flera kontinenter. För tusentals år sedan, innan dagens riken och stadsstater uppstod, fanns det ett mäktigt imperium som dyrkade solen som den högsta och mest heliga kraften. Detta imperium var känt för sina stora **soltempel** och för en filosofi som betonade ljuset som symbol för kunskap, renhet och makt.
+Både stadsstaten **[[Solarith]]** på [[Kyrathis|Kyrathis]] och landet **[[Solarithar]]** på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] har sitt ursprung i en gammal **soldyrkande kultur**, som en gång var spridd över flera kontinenter. För tusentals år sedan, innan dagens riken och stadsstater uppstod, fanns det ett mäktigt imperium som dyrkade solen som den högsta och mest heliga kraften. Detta imperium var känt för sina stora **soltempel** och för en filosofi som betonade ljuset som symbol för kunskap, renhet och makt.
 
 - **Solens Förbund:**  
     Imperiet, som var baserat på [[Kyrathis|Kyrathis]] men hade kolonisatörer och avläggare på flera kontinenter, kallades ibland för **[[Solens Förbund]]**. Det var en löst sammanhållen samling av stadsstater och riken som delade en gemensam religion och kulturell grund. Imperiets präster, kallade **[[Aetherianer]]**, styrde över stora områden och organiserade ceremonier och byggde soltempel i varje större stad som kom under deras inflytande.
@@ -13,15 +13,15 @@ Både stadsstaten **[[Solarith (staden)|Solarith]]** på [[Kyrathis|Kyrathis]] o
     Under en period av expansion tog invånare från [[Solens Förbund]] sig över haven till **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]**, där de grundade vad som skulle komma att bli landet [[Solarithar]]. Dessa kolonister tog med sig sina religiösa övertygelser och sin arkitektur, där solsymboler och soltempel blev en central del av deras samhälle.
     
 
-### 2. **Stadsstaten [[Solarith (staden)|Solarith]] på [[Kyrathis|Kyrathis]]**
+### 2. **Stadsstaten [[Solarith]] på [[Kyrathis|Kyrathis]]**
 
-Stadsstaten **[[Solarith (staden)|Solarith]]** på [[Kyrathis|Kyrathis]] är en av de **äldre bevarade centra** för denna soldyrkande kultur, och den har sitt ursprung direkt i det gamla imperiet. Den har lyckats överleva genom århundraden, trots imperiets fall, och fungerar än idag som ett nav för både politisk och religiös makt på [[Kyrathis|Kyrathis]].
+Stadsstaten **[[Solarith]]** på [[Kyrathis|Kyrathis]] är en av de **äldre bevarade centra** för denna soldyrkande kultur, och den har sitt ursprung direkt i det gamla imperiet. Den har lyckats överleva genom århundraden, trots imperiets fall, och fungerar än idag som ett nav för både politisk och religiös makt på [[Kyrathis|Kyrathis]].
 
 - **Religiöst Centrum:**
-    Stadsstaten har förblivit ett viktigt **religiöst centrum** där solen fortfarande dyrkas som en symbol för både liv och makt. I hjärtat av [[Solarith (staden)|Solarith]] ligger det stora soltemplet **[[Aetherion]]**, uppkallat efter den forntida stad som en gång låg på samma plats och där [[Solens Förbund]] grundades. Templet, byggt på ruinerna av det ursprungliga, har guldinfattade torn som glimmar i solen och syns vida omkring. Prästerskapet, som fortfarande styr stora delar av stadsstatens politik, upprätthåller gamla traditioner och ceremonier som hyllar solen som en gudomlig kraft.
+    Stadsstaten har förblivit ett viktigt **religiöst centrum** där solen fortfarande dyrkas som en symbol för både liv och makt. I hjärtat av [[Solarith]] ligger det stora soltemplet **[[Aetherion]]**, uppkallat efter den forntida stad som en gång låg på samma plats och där [[Solens Förbund]] grundades. Templet, byggt på ruinerna av det ursprungliga, har guldinfattade torn som glimmar i solen och syns vida omkring. Prästerskapet, som fortfarande styr stora delar av stadsstatens politik, upprätthåller gamla traditioner och ceremonier som hyllar solen som en gudomlig kraft.
     
 - **Handels- och Kulturstad:**  
-    Förutom sin religiösa betydelse är [[Solarith (staden)|Solarith]] också en viktig **handelsstad**. Tack vare sin position vid [[Kyrathis|Kyrathis]] norra kust har [[Solarith (staden)|Solarith]] blomstrat som ett nav för handel mellan kontinenten och andra delar av världen. Här blandas tradition och modernitet, och staden är känd för sin rikedom och sina konstverk, ofta inspirerade av solens ljus och färger.
+    Förutom sin religiösa betydelse är [[Solarith]] också en viktig **handelsstad**. Tack vare sin position vid [[Kyrathis|Kyrathis]] norra kust har [[Solarith]] blomstrat som ett nav för handel mellan kontinenten och andra delar av världen. Här blandas tradition och modernitet, och staden är känd för sin rikedom och sina konstverk, ofta inspirerade av solens ljus och färger.
     
 
 ### 3. **Landet [[Solarithar]] på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]**
@@ -37,7 +37,7 @@ Landet **[[Solarithar]]** på [[_arbetsmaterial/01. Development/Platser/Aeteras/
 
 ### 4. **Historiska Kontakter och Motsättningar**
 
-Trots deras gemensamma rötter har kontakten mellan **[[Solarith (staden)|Solarith]] på [[Kyrathis|Kyrathis]]** och **landet [[Solarithar]] på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** varit sporadisk och ibland fylld av motsättningar. De olika grenarna av solkulturen utvecklades på olika sätt på grund av deras skilda geografiska och politiska förutsättningar.
+Trots deras gemensamma rötter har kontakten mellan **[[Solarith]] på [[Kyrathis|Kyrathis]]** och **landet [[Solarithar]] på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** varit sporadisk och ibland fylld av motsättningar. De olika grenarna av solkulturen utvecklades på olika sätt på grund av deras skilda geografiska och politiska förutsättningar.
 
 #### a. **Förlorade och Återupptäckta Band**
 
@@ -50,7 +50,7 @@ Trots deras gemensamma rötter har kontakten mellan **[[Solarith (staden)|Solari
 
 #### b. **Politisk Rivalitet**
 
-Trots deras gemensamma rötter har det ibland funnits spänningar mellan **[[Solarithar|landet Solarithar]]** och **[[Solarith (staden)|stadsstaten Solarith]]**.
+Trots deras gemensamma rötter har det ibland funnits spänningar mellan **[[Solarithar|landet Solarithar]]** och **[[Solarith|stadsstaten Solarith]]**.
 
 - **Religiösa Skillnader:**  
     Med tiden har deras religiösa tolkningar av solkulten utvecklats åt olika håll. På [[Kyrathis|Kyrathis]] har den traditionella prästerskapets makt förblivit stark, medan solkulten på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] har blivit mer symbolisk och mindre styrd av ett prästerskap. Dessa skillnader har lett till viss friktion, där prästerna i [[Kyrathis|Kyrathis]] har betraktat deras kusiner på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] som "urvattnade" och avvikande från den "sanna läran".
@@ -74,4 +74,4 @@ Trots vissa politiska och religiösa motsättningar, finns det en viss respekt m
 
 ### Sammanfattning
 
-**Stadsstaten [[Solarith (staden)|Solarith]] på [[Kyrathis|Kyrathis]]** och **landet [[Solarithar]] på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** delar ett gemensamt ursprung i en gammal soldyrkande kultur, men har utvecklats på olika sätt genom historien. Medan stadsstaten [[Solarith (staden)|Solarith]] fortfarande är ett starkt religiöst centrum för solkulten, har landet [[Solarithar]] på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] utvecklats till ett mer världsligt och politiskt starkt rike där solen är en symbol för makt och självständighet. Trots deras olikheter finns det en gemensam respekt för det gemensamma förflutna, och deras framtida relationer har potential att stärkas genom diplomati och kulturellt utbyte.
+**Stadsstaten [[Solarith]] på [[Kyrathis|Kyrathis]]** och **landet [[Solarithar]] på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** delar ett gemensamt ursprung i en gammal soldyrkande kultur, men har utvecklats på olika sätt genom historien. Medan stadsstaten [[Solarith]] fortfarande är ett starkt religiöst centrum för solkulten, har landet [[Solarithar]] på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] utvecklats till ett mer världsligt och politiskt starkt rike där solen är en symbol för makt och självständighet. Trots deras olikheter finns det en gemensam respekt för det gemensamma förflutna, och deras framtida relationer har potential att stärkas genom diplomati och kulturellt utbyte.

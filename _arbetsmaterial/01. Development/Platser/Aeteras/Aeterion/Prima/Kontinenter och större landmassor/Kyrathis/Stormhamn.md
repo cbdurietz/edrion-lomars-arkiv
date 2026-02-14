@@ -3,7 +3,7 @@
 > [!quote] [[Edrion Lomar]], _[[Över Hav och Djup]]_
 > Stormhamn är inte en stad man reser till, utan en stad man hamnar i. Jag har mött kaptener som svurit att aldrig återvända dit, och som ändå legat förtöjda vid dess kajer tre gånger samma år — för att Skymningshavet bestämde det, eller för att Djävulshavet var opasserbart den veckan. Staden vet detta om sig själv och försöker inte vara något annat. Ingen prakt, inga anspråk, bara en vik där stormen inte når och en hamnmästare som vet vad ett skepp behöver efter tre dagar i motvind. Det är nog.
 
-**Stormhamn** är en liten kuststad belägen i en skyddad naturlig vik ungefär halvvägs längs **[[Stormkusten]]** på **[[Kyrathis|Kyrathis]]** nordöstra horn. Staden saknar den storlek och det inflytande som präglar kuststäder som **[[Melethis]]** eller **[[Solarith (staden)|Solarith]]** — dess betydelse vilar istället på en enkel och praktisk omständighet: den erbjuder den enda riktigt skyddade hamnen längs en av [[Prima|Primas]] stormigaste kuster, i direkt närhet till en av dess farligaste sjövägar.
+**Stormhamn** är en liten kuststad belägen i en skyddad naturlig vik ungefär halvvägs längs **[[Stormkusten]]** på **[[Kyrathis|Kyrathis]]** nordöstra horn. Staden saknar den storlek och det inflytande som präglar kuststäder som **[[Melethis]]** eller **[[Solarith]]** — dess betydelse vilar istället på en enkel och praktisk omständighet: den erbjuder den enda riktigt skyddade hamnen längs en av [[Prima|Primas]] stormigaste kuster, i direkt närhet till en av dess farligaste sjövägar.
 
 ## Hamnen och dess funktion
 

@@ -45,6 +45,6 @@ Stadsstatens flotta är inte den största på [[Prima]], men den är vältränad
 
 Meridia upprätthåller diplomatiska förbindelser med de flesta av [[Prima|Primas]] riken, men strävar efter att inte binda sig till någon enskild allians. **[[Solarithar]]**, vars kust ligger närmast, har den tätaste relationen med Meridia — en blandning av handel, rivalitet och ömsesidigt beroende. [[Solarithar]] har vid flera tillfällen i sin historia önskat kontrollera Meridia, men stadsstatens befästningar och dess förmåga att stänga passagen har alltid gjort priset för en sådan erövring för högt.
 
-**[[Kyrathis|Kyrathis]]** nordliga kuststäder, särskilt **[[Solarith (staden)|Solarith]]** och **[[Melethis]]**, är viktiga handelspartner. Meridianska och melethiska lärda har ett långt utbyte av kunskap, även om deras fokusområden skiljer sig — Meridia studerar den fysiska världen, Melethis den magiska.
+**[[Kyrathis|Kyrathis]]** nordliga kuststäder, särskilt **[[Solarith]]** och **[[Melethis]]**, är viktiga handelspartner. Meridianska och melethiska lärda har ett långt utbyte av kunskap, även om deras fokusområden skiljer sig — Meridia studerar den fysiska världen, Melethis den magiska.
 
 Längre bort betraktas Meridia med respekt snarare än som ett hot. Stadsstaten saknar ambitioner att erövra territorium, och dess makt — kontrollen över passagen och över hur världen kartläggs — är av den typ som inte enkelt kan utmanas med vapen.

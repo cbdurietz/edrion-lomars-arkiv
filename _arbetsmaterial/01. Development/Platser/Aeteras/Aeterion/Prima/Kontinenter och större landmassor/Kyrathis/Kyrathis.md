@@ -21,7 +21,7 @@ Kyrathis sträcker sig över flera klimat- och geografiska zoner, från tropiskt
 
 ### Norra Kyrathis: Kust och Djungel
 
-Den norra delen av Kyrathis är känd för sina **bördiga kustregioner**, där floder från inlandet rinner ut i [[Gryningshavet]] och skapar ett gynnsamt klimat för jordbruk och fiske. Längs kusten ligger flera av kontinentens stora hamnstäder — framförallt **[[Solarith (staden)|Solarith]]** och **[[Melethis]]** — som fungerar som handelscentra för varor från hela [[Prima]]. Området har ett varmt klimat med riklig nederbörd, och innanför kusten breder tätbevuxna **tropiska skogar** ut sig.
+Den norra delen av Kyrathis är känd för sina **bördiga kustregioner**, där floder från inlandet rinner ut i [[Gryningshavet]] och skapar ett gynnsamt klimat för jordbruk och fiske. Längs kusten ligger flera av kontinentens stora hamnstäder — framförallt **[[Solarith]]** och **[[Melethis]]** — som fungerar som handelscentra för varor från hela [[Prima]]. Området har ett varmt klimat med riklig nederbörd, och innanför kusten breder tätbevuxna **tropiska skogar** ut sig.
 
 Djunglerna i norra Kyrathis är hem för ett myller av liv — exotiska djur, medicinala växter och giftiga arter som gör det riskabelt att resa in utan förberedelser. Det sägs finnas **förlorade ruiner** djupt inne i dessa skogar, lämningar från civilisationer som en gång blomstrade på Kyrathis innan de föll i glömska.
 
@@ -65,7 +65,7 @@ Kyrathis saknar en enhetlig styrande makt. Istället är kontinenten uppdelad i 
 
 De stora hamnstäderna längs Kyrathis kust är rika, självstyrande **stadsstater** med starka flottor och stort diplomatiskt inflytande.
 
-- **[[Solarith (staden)|Solarith]]** (inte att förväxla med riket [[Solarithar]] på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]) är en av de mest framstående kuststäderna, känd för sin maktfulla handelsflotta och sin skickliga diplomati. Staden är en kulturell smältdegel och ofta den plats där stora avtal sluts mellan olika stater och riken.
+- **[[Solarith]]** (inte att förväxla med riket [[Solarithar]] på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]) är en av de mest framstående kuststäderna, känd för sin maktfulla handelsflotta och sin skickliga diplomati. Staden är en kulturell smältdegel och ofta den plats där stora avtal sluts mellan olika stater och riken.
 - **[[Melethis]]** styrs av ett råd av magiker och är centrum för magisk forskning och alkemisk vetenskap. Stadens **[[Melethis Magiska Akademi]]** är en av de mest framstående institutionerna på [[Prima]], och dess tillgång till [[Vulkanzonens mineraler|vulkanzonens sällsynta mineraler]] ger den en unik ställning.
 
 ### Nomadiska Stammar på Savannen

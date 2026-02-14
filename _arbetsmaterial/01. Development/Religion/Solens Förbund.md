@@ -1,4 +1,4 @@
-**Solens Förbund** var ett forntida imperium och en kulturell och religiös sammanslutning som en gång sträckte sig över flera kontinenter på **[[Aeteras]]**, främst **[[Kyrathis|Kyrathis]]** och **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]**. Förbundet var byggt kring dyrkan av solen som en gudomlig kraft och en symbol för ljus, kunskap och ordning. Genom en kombination av magisk kunskap, religiös hängivenhet och militär makt blev Solens Förbund ett av de mäktigaste imperierna under sin tid, och dess inflytande kan fortfarande spåras i flera moderna riken och stadsstater, såsom **[[Solarith (staden)|Solarith på Kyrathis]]** och landet **[[Solarithar|Solarithar på Ardenar]]**.
+**Solens Förbund** var ett forntida imperium och en kulturell och religiös sammanslutning som en gång sträckte sig över flera kontinenter på **[[Aeteras]]**, främst **[[Kyrathis|Kyrathis]]** och **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]**. Förbundet var byggt kring dyrkan av solen som en gudomlig kraft och en symbol för ljus, kunskap och ordning. Genom en kombination av magisk kunskap, religiös hängivenhet och militär makt blev Solens Förbund ett av de mäktigaste imperierna under sin tid, och dess inflytande kan fortfarande spåras i flera moderna riken och stadsstater, såsom **[[Solarith|Solarith på Kyrathis]]** och landet **[[Solarithar|Solarithar på Ardenar]]**.
 
 ### 1. **Uppkomst och Expansion**
 
@@ -96,7 +96,7 @@ Med tiden började även yttre makter hota Solens Förbund. Nya, mäktiga riken 
 
 #### c. **Förbundets Slutliga Kollaps**
 
-Det som en gång varit ett sammanhållet imperium bröts till slut sönder i en rad interna strider och yttre invasioner. Många av förbundets kolonier, särskilt på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]], förklarade sin självständighet och bröt banden med [[Kyrathis|Kyrathis]]. Förbundet föll slutligen samman, och dess rester förvandlades till självständiga stadsstater och riken, där **[[Solarith (staden)|Solarith på Kyrathis]]** och **landet [[Solarithar|Solarithar på Ardenar]]** är två av de mest kända efterlevorna av detta mäktiga imperium.
+Det som en gång varit ett sammanhållet imperium bröts till slut sönder i en rad interna strider och yttre invasioner. Många av förbundets kolonier, särskilt på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]], förklarade sin självständighet och bröt banden med [[Kyrathis|Kyrathis]]. Förbundet föll slutligen samman, och dess rester förvandlades till självständiga stadsstater och riken, där **[[Solarith|Solarith på Kyrathis]]** och **landet [[Solarithar|Solarithar på Ardenar]]** är två av de mest kända efterlevorna av detta mäktiga imperium.
 
 ---
 
