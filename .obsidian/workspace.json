@@ -33,12 +33,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "_arbetsmaterial/01. Development/Naturlagar/Magi/Magi.md",
+                    "file": "CLAUDE.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Magi"
+                  "title": "CLAUDE"
                 }
               }
             ],
@@ -236,12 +236,19 @@
   },
   "active": "61c70796ef220dcc",
   "lastOpenFiles": [
+    "_arbetsmaterial/01. Development/Personer/Edrion Lomar/Vinden genom Nargorbergen.md",
+    "CLAUDE.md",
+    "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Lorn.md",
+    "_arbetsmaterial/01. Development/Personer/Edrion Lomar/Rikets Hjärtblod.md",
+    "_arbetsmaterial/01. Development/Personer/Edrion Lomar/Över Hav och Djup.md",
+    "_arbetsmaterial/01. Development/Personer/Edrion Lomar/Kronans Eko.md",
+    "Över fjäll och is.md",
+    "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Hav/Lornbukten.md",
+    "_arbetsmaterial/01. Development/Naturlagar/Magi/Magi.md",
     "_arbetsmaterial/01. Development/Material/Astralium.md",
     "_arbetsmaterial/01. Development/Material/Material.md",
-    "_arbetsmaterial/01. Development/Naturlagar/Magi/Magi.md",
     "_arbetsmaterial/01. Development/Naturlagar/Magi/Aether.md",
     "_arbetsmaterial/01. Development/Naturlagar/Naturlagar.md",
-    "_arbetsmaterial/01. Development/Personer/Edrion Lomar/Över Hav och Djup.md",
     "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Aeloria/Aeloria.md",
     "_arbetsmaterial/01. Development/Personer/Edrion Lomar/Edrion Lomar.md",
     "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ythea/Dimöarna.md",
@@ -253,17 +260,10 @@
     "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Marisan.md",
     "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Solmaren.md",
     "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Solarithar.md",
-    "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Hav/Lornbukten.md",
     "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Vernedia.md",
-    "CLAUDE.md",
-    "Lorn.md",
     "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Vandrarskogen.md",
     "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Drakhjärta.md",
-    "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar.md",
-    "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Hav/Ardensjön/Ardensjön.md",
-    "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Hav/Hav.md",
-    "_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Frostslätten.md",
-    "Prima 36_18 (1).png",
+    "assets/maps/Prima 36_18 (1).png",
     "assets/images/Elements.psd",
     "_arbetsmaterial/01. Development/Organisationer/Skråväsendet",
     "_arbetsmaterial/01. Development/Naturlagar/Magi",
