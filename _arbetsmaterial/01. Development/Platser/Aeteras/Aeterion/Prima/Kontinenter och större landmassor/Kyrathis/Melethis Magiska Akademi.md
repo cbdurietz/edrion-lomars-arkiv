@@ -9,7 +9,7 @@
 
 Akademins forskning och undervisning kretsar kring tre huvudområden:
 
-**Magi och magiteori** utgör kärnan i akademins verksamhet. Här studeras [[Aether]] i alla dess former — dess präglar, dess flöden, dess lagring och kanalisering. Akademin har genom århundradena utvecklat mycket av den terminologi och de teoretiska ramverk som används av lärda över hela [[Prima]] för att beskriva magiska fenomen. Både [[Magientist|magientister]] och mer traditionella utövare har skolats här, även om spänningen mellan dessa läger ibland har varit påtaglig.
+**Magi och magiteori** utgör kärnan i akademins verksamhet. Här studeras [[Aether]] i alla dess former — dess olika präglingar, dess flöden, dess lagring och kanalisering. Akademin har genom århundradena utvecklat mycket av den terminologi och de teoretiska ramverk som används av lärda över hela [[Prima]] för att beskriva magiska fenomen. Både [[Magientist|magientister]] och mer traditionella utövare har skolats här, även om spänningen mellan dessa läger ibland har varit påtaglig.
 
 **[[Alkemist|Alkemi]]** är akademins andra pelare, och den som har starkast koppling till stadens ekonomi. Melethis unika tillgång till [[Vulkanzonens mineraler]] — [[Vulkanzonens mineraler|ignarit, svartskal, thalite, askite]] och andra material från den vulkaniskt aktiva zonen — ger akademins alkemister råvaror som inte finns tillgängliga på något annat lärosäte. Mycket av den kunskap som finns om dessa mineralers magiska egenskaper har sitt ursprung i akademins laboratorier.
 

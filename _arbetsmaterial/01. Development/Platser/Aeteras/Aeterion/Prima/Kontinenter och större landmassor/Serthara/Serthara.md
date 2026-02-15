@@ -1,137 +1,117 @@
-#Plats #Kontinent 
+#Plats #Kontinent
 
-- **Kontinentens Beskrivning:**  
-    [[Serthara|Serthara]] är den största kontinenten på [[Prima]], belägen på det östra halvklotet. Det är en kontinent med djupa floddalar, bördiga slätter och enorma skogsområden. Serthara har genom tiderna varit platsen för stora imperier, och även om dessa fallit i ruiner, är kontinenten fortfarande befolkad av mäktiga kungariken som kämpar om överhöghet.
-- **Hav som skiljer Serthara från [[Kyrathis|Kyrathis]]:**
-    **[[Stjärnhavet]]** ligger mellan [[Serthara|Serthara]], [[Ythea|Ythea]] och [[Kyrathis|Kyrathis]]. Detta hav är särskilt känt för sina ljusfenomen, där kometer och märkliga ljusprickar ofta syns på natthimlen, vilket har lett till vidskepelser om att himlakroppar kontrollerar händelser på jorden.
-- **Politisk Kontext:**  
-    [[Serthara|Serthara]] är hem för några av världens äldsta och mest utvecklade civilisationer. De större riken som **[[Shalmarin]]** och **[[Lethara]]** är kända för sina kulturella och teknologiska framsteg. Serthara har alltid varit en kontinent av imperier och stormakter, och deras inre konflikter har ofta påverkat [[Prima]] i stort.
----
-- **Terräng och Klimat:** Serthara är en enorm kontinent med stora variationer i terräng och klimat. I de tempererade norra delarna finns bördiga floddalar och täta skogar, medan de södra delarna domineras av öknar och torra slätter. Det är en kontinent som har möjliggjort uppkomsten av flera stora imperier och kungariken genom historien.
-    
-- **Kultur:** Serthara är känd för sina stora riken som **[[Shalmarin]]** och **[[Lethara]]**, och är en kontinent där civilisationen har blomstrat i tusentals år. Teknologiska framsteg, storslagna arkitektoniska projekt och kulturell utveckling är kännetecken för Serthara. De här imperierna är också ofta i konflikt med varandra, och deras ambitioner har ibland spillt över till försök att kolonisera andra kontinenter, inklusive [[Ythea|Ythea]].
+> [!quote] [[Edrion Lomar]], _[[Rikets Hjärtblod]]_
+> Man kan resa genom Serthara i ett helt år och aldrig se samma landskap två gånger. Det är en kontinent som rymmer allt: frusna bergstoppar som ingen bestiger, stäpper där horisonten aldrig tar slut, djungler där solen aldrig når marken, och öknar där den aldrig slutar skina. Men det som verkligen särskiljer Serthara är att var och en av dessa regioner har burit ett imperium. Kontinenten är inte bara stor — den är gammal, och den bär sina imperiers vikt som en man bär ärr: synligt, permanent och med en historia bakom varje märke.
 
----
-### **Relationer Mellan Serthara och [[Ythea|Ythea]]**
+**Serthara** är den största kontinenten på **[[Prima]]**, belägen öster om **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** med **[[Skymningshavet]]** emellan. Det är en kontinent av enorma kontraster — från de frusna bergskedjorna i norr till tropiska djungler och aktiva vulkaner i söder — och av djup historia. Serthara har genom årtusenden varit hemvist för några av [[Prima|Primas]] största imperier, och även om dessa har fallit och ersatts av nya, bär kontinenten fortfarande spåren av varje epok.
 
-- **Handel och Interaktion:** Det finns historiska exempel på handel mellan vissa kuststäder på [[Ythea|Ythea]] och de stora imperierna på Serthara. [[Ythea|Ythea]] är känt för sina **sällsynta magiska mineraler**, medicinalväxter och andra unika resurser som är eftertraktade på Serthara. Dock är kontakten sporadisk och ofta fylld av skepsis och rädsla från båda sidor.
-    
-- **Vidskepelse:** På Serthara ses [[Ythea|Ythea]] ofta som en **mystisk och farlig plats**, med rykten om märkliga varelser och uråldriga, glömda civilisationer som fortfarande ruvar där. [[Ythea|Ythea]] ses ibland som en plats fylld av hemligheter och faror, medan de som bor på [[Ythea|Ythea]] ser Sertharas storslagna imperier som dekadenta och andligt förlorade.
-    
-- **Krig och Konflikter:** Sertharas större riken, särskilt **[[Shalmarin]]**, har gjort försök att kolonisera delar av [[Ythea|Ythea]], främst för att komma åt dess resurser. Dessa försök har dock ofta misslyckats, antingen på grund av de ogästvänliga terrängerna, eller motstånd från de mystiska klanerna och magikerna som styr vissa regioner. Några expeditioner har helt enkelt försvunnit, vilket har bidragit till den mystiska auran kring [[Ythea|Ythea]].
+## Omgivande hav
+
+- **[[Skymningshavet]]** skiljer Sertharas västra kust från [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenars]] östra kust. Det är den viktigaste sjövägen mellan de två kontinenterna.
+- **[[Ishavet]]** gränsar till Sertharas nordkust. Vattnet är isbelagt stora delar av året.
+- **[[Djävulshavet]]** är det smala, fruktade sundet mellan Sertharas sydvästkust och **[[Kyrathis]]** östkust, där Skymningshavet övergår i Stjärnhavet.
+- **[[Stjärnhavet]]** breder ut sig söder om Serthara och sträcker sig mot [[Kyrathis]] och [[Ythea]]. Havet är en viktig handelsväg och känt för sina mystiska ljusfenomen.
 
 ---
 
-**Serthara** är en av de mest betydelsefulla och mångsidiga kontinenterna på **[[Prima]]**, belägen öster om **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** och nordost om **[[Kyrathis|Kyrathis]]**. Kontinenten är känd för sin stora geografiska variation, sin uråldriga historia, och de många kulturer och riken som har utvecklats där genom årtusenden. Från täta regnskogar till höga bergsmassiv och vidsträckta slätter, erbjuder Serthara ett rikt och ofta farligt landskap. Det är en plats där både magi och tradition spelar en central roll, och där både gamla civilisationer och framväxande imperier kämpar om makt och inflytande.
+## Geografi och Klimat
 
-### 1. **Geografi och Klimat**
+Serthara är en kontinent av enorm geografisk variation, formad av krafter som verkat under årmiljoner. Två geologiska strukturer definierar kontinentens form mer än några andra: **[[Iskronans Rygg]]** i norr och den stora nord-sydliga bergskedjan som klyver kontinenten itu.
 
-Serthara är en av de mest geografiskt skiftande kontinenterna på [[Prima]], med allt från tropiska djungler till karga öknar och höga bergskedjor. Detta har gett upphov till ett rikt biologiskt och kulturellt landskap, där varje region erbjuder sina egna unika utmaningar och resurser.
+### Iskronans Rygg och den frusna norden
 
-#### a. **Norra Serthara: Frostiga Skogar och Tundra**
+I norr hänger Serthara samman med **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** genom **[[Iskronans Rygg]]** — den väldiga bergskedja som sträcker sig från [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenars]] **[[Nordmark]]** och vidare österut in i norra Serthara. Bergskedjan löper genom ett landskap av permanent is, glaciärer och polarklimat, med toppar som reser sig högt ovanför molnlinjen. Nordliga Serthara, söder om Iskronans Rygg, präglas av barrskogar som övergår i tundra, med långa vintrar och korta somrar.
 
-- **Norra kusten och skogarna:**  
-    Den norra delen av Serthara är täckt av stora **barrskogar**, som övergår till **tundra** när man rör sig längre norrut. Här är klimatet kallt och ogästvänligt, med långa vintrar och korta somrar. Vinterstormarna som sveper in från det omgivande havet gör regionen svår att bebo, men trots detta finns små samhällen och nomadiska folk som har anpassat sig till de hårda förhållandena.
-    
-- **Högland och frusna floder:**  
-    Längre inåt landet finns höga **bergskedjor** och frusna floder som delar regionen i naturliga gränser. Dessa berg är hem för många myter och sägner om gömda tempel och förlorade folk som en gång bebodde regionen, innan den blev för kall för de flesta att överleva.
-    
+Trots att Ardenar och Serthara rent geografiskt är sammanbundna genom Iskronans Rygg finns det i praktiken **ingen landväg** mellan de två kontinenterna. Bergskedjan är för hög, klimatet för hårt och glaciärerna för oförutsägbara. Expeditioner har vid flera tillfällen försökt finna passager genom de isiga bergtrakterna, men de flesta har misslyckats, och de som har lyckats ta sig igenom har rapporterat förhållanden som gör regelbunden trafik omöjlig. All handel och kontakt mellan Ardenar och Serthara går därför sjövägen — över **[[Skymningshavet]]** eller, för de mest våghalsiga, genom **[[Djävulshavet]]**.
 
-#### b. **Centrala Serthara: Stäpper och Stora Sjöar**
+### Den Delande Ryggen
 
-- **Oändliga stäpper:**  
-    Centrala Serthara domineras av vidsträckta **stäpper**, där grässlätter breder ut sig så långt ögat kan nå. Dessa stäpper är hem för flera nomadiska stammar som reser över det öppna landskapet med sina boskap, följande gamla migreringsleder. Dessa stäpper har också varit skådeplats för många historiska slag, där olika imperier och riken kämpat om territorium och kontroll över landets rika naturresurser.
-    
-- **Stora sjösystemet:**  
-    Den centrala regionen är också känd för sitt **stora sjösystem**, med enorma, djupa sjöar som utgör en livsviktig vattenkälla för både folk och djur. Det sägs att dessa sjöar har sitt ursprung i magiska källor, och vissa troende menar att vattnet i dessa sjöar har helande krafter. De stora sjöarna fungerar också som viktiga handelsvägar, och flera städer har vuxit upp kring dem, vilket har gjort dem till knutpunkter för både handel och kultur.
-    
+Från Iskronans Rygg löper en mäktig bergskedja söderut genom Serthara och delar kontinenten i en **västlig** och en **östlig** halva. Denna kedja — som på sina ställen bär olika lokala namn men i stort kallas för den Delande Ryggen eller bara Ryggen — är resultatet av de geologiska krafter som pressar samman kontinentens berggrund. Bergen är höga nog att skapa markanta klimatskillnader på ömse sidor: den västra halvan påverkas starkare av Skymningshavets fuktiga luftmassor, medan den östra halvan präglas av torrare, mer kontinentalt klimat.
 
-#### c. **Södra Serthara: Djungler och Vulkaner**
+Bergskedjan är inte bara en geografisk barriär utan också en politisk och kulturell. De riken och folk som utvecklats på vardera sidan har gjort det med begränsad kontakt med den andra, och de fåtal bergpass som förbinder de två halvorna har genom historien varit föremål för kontroll, beskattning och konflikt.
 
-- **Tropiska djungler:**  
-    I den södra delen av Serthara hittar man täta, fuktiga **regnskogar**, där klimatet är hett och fuktigt året om. Dessa djungler är kända för sitt rika djurliv, sina väldiga träd, och den farliga flora och fauna som gör området både spännande och riskabelt att resa genom. Det finns flera mystiska kulturer som bor djupt inne i dessa skogar, många av dem relativt isolerade från omvärlden och med sina egna, uråldriga religioner och riter.
-    
-- **Vulkaniska regioner:**
-    Sertharas sydvästra del är ett av de mest geologiskt instabila områdena på kontinenten. Här löper gränsen mellan två av [[Prima|Primas]] stora kontinentalplattor — samma plattgräns som fortsätter under **[[Djävulshavet]]** och vidare till de vulkaniska bergen på **[[Kyrathis|Kyrathis]]** nordöstra horn. Denna zon av aktiva **vulkaner** gör att delar av regionen är karg och fylld med lavalandskap, men den geologiska aktiviteten har också gett upphov till sällsynta mineraler och råvaror som inte återfinns på andra håll. Vulkanerna ses ofta som heliga av lokalbefolkningen, och flera tempel och ritualplatser har byggts i närheten av dessa vulkaner för att blidka de gudar och andar som sägs leva djupt inne i jordens sköte.
-    
+### Frostspiran — där kedjorna möts
 
-### 2. **Politiska Riken och Maktstrukturer**
+I den punkt där **[[Iskronans Rygg]]** möter den Delande Ryggen — vid trippelpunkten där tre av [[Prima|Primas]] stora kontinentalplattor konvergerar — reser sig en av de mest mytomspunna platserna på hela kontinenten: **[[Frostspiran]]**. Det är ett torn — eller snarare en naturformation som liknar ett torn — av is som enligt alla kända vittnesbörd aldrig smälter, oavsett årstid. Platsen ligger i ett otillgängligt bergspass på en höjd där luften är tunn och kölden bitande, och den har sedan urminnes tider omgärdats av berättelser om koncentrerad [[Aether]] och krafter som sträcker sig bortom det vanliga. Frostspiran är en central plats i flera av Sertharas äldsta legender, och den har aldrig upphört att locka de modiga eller dåraktiga nog att söka sig dit.
 
-Serthara är en kontinent med en **komplex politisk karta**, där en mängd olika riken och stadsstater strider om makt och inflytande. De politiska landskapen på Serthara är lika varierade som dess geografiska, och de har formats både av uråldriga dynastier och av nyare stormakter som försöker expandera sitt territorium.
+### Östra Serthara
 
-#### a. **Huvudriket Arkhelen**
+Östra Serthara — allt land öster om den Delande Ryggen — är den mest befolkade och politiskt utvecklade delen av kontinenten. Här finns de stora rikena, de bördiga floddalarna och de vidsträckta stäpperna.
 
-- **Centralt imperium:**  
-    **[[Arkhelen]]** är ett av de mäktigaste och mest långlivade imperierna i centrala Serthara. Det är känt för sin rika kultur och sin starka krigsmakt, men också för sina framstående magiker och lärda. Huvudstaden, **[[Heliosara]]**, är en av de största städerna på kontinenten och känd för sina solskimrande palats och stora bibliotek.
-    
-- **Politisk struktur:**  
-    Riket styrs av en kejsare, som bär titeln **[[Solarken]]**, en symbolisk referens till solens gudomliga makt, även om rikets styrka bygger lika mycket på sekulär makt som på religion. Kejsaren ses som en gudomligt utvald härskare, och det finns en stark teokratisk tradition inom riket som förenar andligt och världsligt styre.
-    
-- **Militär makt och diplomati:**  
-    Arkhelen har under århundraden kunnat behålla sin dominans genom en skicklig blandning av **militär styrka** och **diplomatiska allianser** med mindre riken och stammar på stäpperna och i de centrala delarna av Serthara. De är kända för sin mäktiga kavalleri och sina välorganiserade legioner, som ofta används både för att försvara riket och för att utöva inflytande över närliggande områden.
-    
+**Norra delen** präglas av barrskogar och tempererat klimat, med bördiga floddalar som har stött jordbruk och stadsbildning i årtusenden. Det är här det mäktiga imperiet **[[Arkhelen]]** har sitt centrum.
 
-#### b. **Vassalstaten Kirosa**
+**Centrala stäpperna** breder ut sig söder om skogszonen — oändliga grässlätter som är hem för nomadiska stammar och som har varit skådeplats för historiens största slag. Regionen rymmer också ett stort **sjösystem** med djupa sjöar som utgör livsviktiga vattenkällor och handelsvägar.
 
-- **Västligt kungadöme:**  
-    **[[Kirosa]]** är en mindre, men ändå betydelsefull vassalstat som ligger i de västra delarna av [[Serthara]], vid gränsen till de stora skogarna och bergen. Kirosa har länge varit en trogen allierad till [[Arkhelen]], men det har också en stark egen identitet, präglad av sina egna traditioner och kultur.
-    
-- **Druidiska traditioner:**  
-    I Kirosa är **druidiska traditioner** starkt levande, och landet styrs delvis av ett råd av druider som har stor makt över både politiska och religiösa frågor. Dessa druider anses kunna kommunicera med naturens krafter och vägleda landet genom både andliga och materiella prövningar. Det sägs att Kirosas druider besitter uråldriga kunskaper om magi och naturens mysterier som går tillbaka till tidens gryning.
-    
+**Södra delen** övergår i tropiska djungler och slutligen i den vulkaniskt aktiva zonen i sydväst, där plattgränsen mellan [[Skymningshavet|Skymningshavets]] och [[Stjärnhavet|Stjärnhavets]] plattor skapar aktiva vulkaner, lavalandskap och fyndigheter av [[Vulkanzonens mineraler|sällsynta mineraler]] — samma geologiska zon som fortsätter under **[[Djävulshavet]]** och vidare till **[[Kyrathis|Kyrathis]]** nordöstra horn.
 
-#### c. **Rovianliga Oaserna i Syd**
+### Västra Serthara
 
-- **Oasstäder och nomadiska riken:**  
-    Längst i södra Serthara, i de ökenliknande områdena nära djunglerna, ligger de så kallade **[[Rovianliga Oaserna]]**, en samling av små men rika stadsstater som har vuxit upp kring naturliga källor och oaser. Dessa oasstäder är centrum för handel och utbyte, där karavaner från hela Serthara stannar för att handla och vila.
-    
-- **Nomadiska klaner:**  
-    Oaserna omges också av ett antal **nomadiska klaner**, som rör sig genom öknen och fungerar som både handelsmän och krigare. Dessa klaner är kända för sina skickliga ryttare och sina härskare, som ofta fungerar som mellanhänder mellan de större riken och de oberoende stammarna. Klanerna har en lång tradition av självständighet, och även om de ibland allierar sig med större riken, behåller de alltid en viss grad av autonomi.
-    
+Västra Serthara — landet mellan den Delande Ryggen och **[[Skymningshavet]]** — är avsevärt glesare befolkat och mindre kartlagt än den östra halvan. Terrängen domineras av djupa skogar, vidsträckta högslätter och en kustlinje som bitvis är dramatiskt vacker men som saknar de stora naturliga hamnar som har gjort östra Sertharas kuststäder rika.
 
-### 3. **Kultur och Religion**
-
-Serthara har en djup och komplex kultur, formad av både de gamla civilisationerna som en gång dominerade kontinenten och de nyare stormakter som har vuxit fram. Religion spelar en viktig roll i Sertharas dagliga liv, och varje region har sina egna unika trosföreställningar och traditioner.
-
-#### a. **Polyteism och Elementarism**
-
-De flesta kulturer på Serthara följer någon form av **polyteistisk tro**, där de dyrkar många olika gudar och andar, ofta kopplade till naturens element och kosmiska krafter. Varje region har sina egna gudar och gudinnor, men vissa gemensamma teman finns över hela kontinenten.
-
-- **Elementgudar:**  
-    Många regioner på Serthara tillber **elementgudar**, som representerar luft, eld, vatten och jord. Dessa gudar ses ofta som beskyddare av olika aspekter av naturen, och de förknippas med speciella ritualer och högtider som markerar viktiga händelser i naturens cykler, såsom skördar, stormar och vulkanutbrott.
-    
-- **Magi och tro:**  
-    Magi är också starkt integrerat i den religiösa tron på Serthara, och många av kontinentens magiker agerar också som präster eller andliga ledare. Genom sina ritualer och magiska krafter kan de kommunicera med gudarna och försöka påverka världens gång. I vissa regioner är dessa magiska präster så mäktiga att de har en direkt politisk roll, som i Arkhelen där Solarken både är en politisk och religiös ledare.
-    
-
-#### b. **Forntida Ruiner och Glömda Civilisationer**
-
-Serthara är också känt för sina många **forntida ruiner** och lämningar från civilisationer som en gång härskade över kontinenten, men som sedan länge har försvunnit eller gått under i katastrofer. Dessa ruiner är ofta fyllda med magiska artefakter och hemligheter, vilket har gjort dem till mål för äventyrare och forskare från hela [[Prima]].
-
-- **Ruiner från Daertharerna:**  
-    En av de mest kända forntida civilisationerna som en gång bebodde Serthara är **[[Daertharerna]]**, ett mystiskt folk som sägs ha bemästrat avancerad magi och byggt stora städer av sten och metall. Daertharerna försvann plötsligt från historien för flera tusen år sedan, och deras ruiner ligger nu djupt inne i skogarna och bergen, fyllda med gåtor och faror.
+De enda rikena av betydelse i västra Serthara är **[[Kirosa]]** — en vassalstat till [[Arkhelen]] med starka druidiska traditioner, belägen vid Ryggens västra fot — och **[[Lethara]]**, ett av Sertharas äldsta och mest kulturellt förfinade riken. Mellan och bortom dessa ligger vidsträckta områden som kontrolleras av lokala stammar och småfurstar, eller som helt enkelt är obebodda. Västra Sertharas relativa isolering har gjort det till en plats där äldre traditioner överlevt längre, och där de lärda i öster sällan har anledning att resa.
 
 ---
 
-### 4. **Handel och Ekonomi**
+## Politiska Riken och Maktstrukturer
 
-Serthara har en blomstrande **handelsekonomi**, där flera riken och stadsstater har vuxit fram som viktiga knutpunkter för både land- och sjöhandel. Kontinentens rika naturresurser och dess strategiska läge mellan flera andra kontinenter gör det till en central spelare i [[Prima|Primas]] internationella ekonomi.
+Serthara har en komplex politisk karta, formad av uråldriga dynastier och nyare stormakter.
 
-#### a. **Handelsvägar och Sjöfart**
+### Arkhelen
 
-- **Karavanvägar över stäpperna:**  
-    Centrala [[Serthara|Serthara]] korsas av flera viktiga **karavanvägar**, som binder samman de norra, centrala och södra delarna av kontinenten. Dessa karavanvägar är livsviktiga för både handel och diplomati, och många städer längs dessa vägar har blomstrat tack vare de rikedomar som flödar genom dem.
-    
-- **Sjöfart och hamnar:**  
-    Längs kusterna i öst och syd finns flera stora hamnstäder, där varor från hela [[Prima]] skeppas in och ut. **[[Arkhelen]]**, med sin starka flotta, har länge dominerat sjöfarten i den regionen, men mindre stadsstater och riken försöker också få sin del av handeln.
-    
+**[[Arkhelen]]** är ett av de mäktigaste och mest långlivade imperierna i centrala och östra Serthara. Huvudstaden **[[Heliosara]]** är en av de största städerna på kontinenten, känd för sina solskimrande palats och stora bibliotek. Riket styrs av en kejsare som bär titeln **[[Solarken]]** — en symbolisk referens till solens gudomliga makt — och har i århundraden behållit sin dominans genom en skicklig blandning av militär styrka och diplomatiska allianser. Arkhelen är känt för sin mäktiga kavalleri, sina välorganiserade legioner och sin tradition av att förena sekulär och religiös makt.
 
-#### b. **Exotiska Varor**
+### Kirosa
 
-[[Serthara|Serthara]] är känt för sina **exotiska varor**, som är eftertraktade över hela världen. Detta inkluderar allt från sällsynta örter och kryddor till magiska artefakter och alkemiska ingredienser. Många av dessa varor kommer från djupet av Sertharas djungler och berg, där de göms och skyddas av uråldriga samhällen och magiska varelser.
+**[[Kirosa]]** är en mindre men betydelsefull vassalstat i västra Serthara, vid gränsen till de stora skogarna och den Delande Ryggens västra fot. Kirosa har länge varit en trogen allierad till [[Arkhelen]], men har en stark egen identitet präglad av **druidiska traditioner**. Landet styrs delvis av ett råd av [[Druid|druider]] som har stor makt över både politiska och religiösa frågor. Dessa druider anses kunna kommunicera med naturens krafter och besitter uråldriga kunskaper om magi och naturens mysterier.
+
+### Lethara
+
+**[[Lethara]]** är ett av Sertharas äldsta riken, beläget i västra Serthara. Det är känt för sina kulturella och teknologiska framsteg och bär på en historia som sträcker sig längre tillbaka än de flesta andra existerande riken på kontinenten. Lethara har tidvis varit en stormakt i sin egen rätt, men dess relativa isolering i den västra halvan har begränsat dess inflytande över den östliga delen av Serthara.
+
+### Rovianliga Oaserna
+
+Längst i södra Serthara, i de ökenliknande områdena nära djunglerna, ligger **[[Rovianliga Oaserna]]** — en samling av små men rika stadsstater som har vuxit upp kring naturliga källor och oaser. Dessa stadsstater är centrum för handel, där karavaner från hela Serthara stannar för att handla och vila. De omges av **nomadiska klaner** kända för sina skickliga ryttare, som fungerar som både handelsmän och krigare.
 
 ---
 
-### Sammanfattning av Serthara
+## Kultur och Religion
 
-**Serthara** är en kontinent full av kontraster och mysterier. Dess varierade geografi, från de kalla skogarna i norr till de heta djunglerna och vulkanerna i söder, gör den till en plats med stor biologisk och kulturell mångfald. Politiskt är Serthara ett lapptäcke av riken, stadsstater och nomadiska stammar, som alla strider om makt och inflytande i ett landskap där magi och religion spelar en central roll. Kontinentens historia är fylld av forntida imperier och mystiska ruiner, som fortfarande lockar äventyrare och forskare i hopp om att avslöja dess hemligheter.
+Serthara har en djup och komplex kultur formad av både forntida civilisationer och framväxande imperier.
+
+### Polyteism och Elementdyrkan
+
+De flesta kulturer på Serthara följer någon form av **polyteistisk tro**, där gudar och andar kopplade till naturens element dyrkas. Varje region har sina egna gudar, men vissa gemensamma teman finns: **elementgudar** som representerar luft, eld, vatten och jord vördas som beskyddare av naturens aspekter, med ritualer och högtider som markerar viktiga händelser i naturens cykler. Magi är starkt integrerat i den religiösa tron, och många av kontinentens magiker agerar också som präster eller andliga ledare.
+
+### Forntida Ruiner
+
+Serthara är känt för sina många **forntida ruiner** — lämningar från civilisationer som en gång härskade över kontinenten men som sedan länge har försvunnit. Den mest kända av dessa är **[[Daertharerna]]**, ett mystiskt folk som sägs ha bemästrat avancerad magi och byggt stora städer av sten och metall. Daertharerna försvann plötsligt för flera tusen år sedan, och deras ruiner — fyllda med gåtor och faror — lockar äventyrare och forskare från hela [[Prima]].
+
+---
+
+## Handel och Ekonomi
+
+Serthara har en blomstrande handelsekonomi, driven av kontinentens rika naturresurser och dess strategiska läge.
+
+### Handelsvägar
+
+Centrala Serthara korsas av viktiga **karavanvägar** som binder samman norra, centrala och södra delarna av kontinenten. Sjösystemet i centrala Serthara fungerar som inre handelsvägar, och kuststäder i öster och söder bedriver sjöhandel via **[[Stjärnhavet]]** och — i begränsad utsträckning — genom **[[Djävulshavet]]**. Handeln med [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] går huvudsakligen över **[[Skymningshavet]]**.
+
+### Exportvaror
+
+Serthara exporterar **kryddor, sällsynta örter, magiska artefakter och alkemiska ingredienser** — varor som är eftertraktade över hela [[Prima]]. Många av dessa kommer från djupet av Sertharas djungler och berg, och den sydvästra vulkanzonens [[Vulkanzonens mineraler|sällsynta mineraler]] bidrar till handeln, om än i mindre skala än [[Melethis|Melethis]] dominans på [[Kyrathis]].
+
+---
+
+## Relationer med andra kontinenter
+
+### Ardenar
+
+Handeln mellan Serthara och [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] går över [[Skymningshavet]] och är en av de viktigaste handelslänkarna på [[Prima]]. Trots att kontinenterna hänger samman genom [[Iskronans Rygg]] i norr finns ingen praktisk landförbindelse — bergskedjan är för hög och klimatet för hårt.
+
+### Kyrathis
+
+**[[Djävulshavet]]** blockerar i praktiken den direkta sjövägen mellan Serthara och [[Kyrathis]]. Handel och kontakt går antingen landvägen genom södra Serthara till en hamn vid [[Stjärnhavet]], eller den långa sjövägen runt via [[Skymningshavet]] och [[Meridia]].
+
+### Ythea
+
+[[Serthara]] har historiska kontakter med [[Ythea]] via [[Stjärnhavet]], men förhållandet präglas av ömsesidig skepsis. Ythea ses ofta som en mystisk och farlig plats på Serthara, medan Sertharas imperier betraktas som dekadenta och andligt förlorade av Ytheas invånare. Sertharas större riken, särskilt **[[Arkhelen]]**, har gjort försök att kolonisera delar av Ythea — främst för att komma åt dess resurser — men dessa har ofta misslyckats på grund av ogästvänlig terräng och motstånd från lokala makter.
