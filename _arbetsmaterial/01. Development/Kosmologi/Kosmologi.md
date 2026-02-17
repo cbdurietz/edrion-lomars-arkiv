@@ -18,7 +18,7 @@ Alla åtta kända planeter kretsar kring Aeteras A. Umbrix befinner sig på till
 
 ---
 
-## I. Stjärnorna
+## Stjärnorna
 
 ### Aeteras A
 
@@ -61,7 +61,7 @@ Tyngdpunkten (barycentern) för det binära systemet ligger ungefär 8,6 AU frå
 
 ---
 
-## II. Planetsystemet kring Aeteras A
+## Planetsystemet kring Aeteras A
 
 Alla planeter kretsar i samma riktning (prograd) och deras banplan ligger inom 2° av varandra.
 
@@ -230,7 +230,7 @@ Den yttre, mindre isjätten. Systemets mest avlägsna kända planet.
 
 ---
 
-## III. Möjliga planeter kring Aeteras B (Umbrix)
+## Möjliga planeter kring Aeteras B (Umbrix)
 
 Umbrix Hill-sfär (~15 AU) tillåter stabila planetbanor inom ~5 AU. Beboeliga zonen ligger vid 0,2–0,4 AU (tidvattenlåsta världar). Eventuella planeter är ej observerbara från Prima med förmodern teknologi.
 
@@ -238,7 +238,7 @@ Umbrix Hill-sfär (~15 AU) tillåter stabila planetbanor inom ~5 AU. Beboeliga z
 
 ---
 
-## IV. Vandraren
+## Vandraren
 
 > Världsbygge: **[[Vandraren]]**. Astronomiskt ej numrerad — banan korsar det inre planetsystemet men sträcker sig långt bortom Umbrix.
 
@@ -257,13 +257,13 @@ Stor iskropp i extremt elliptisk, nästan polär bana som korsar planetplanet vi
 
 ---
 
-## V. Astronomiska fenomen och observationsnoter
+## Astronomiska fenomen och observationsnoter
 
 > **Not om Umbrix-transiter:** Med Umbrix baninklination på ~6° relativt planetplanet är transiter av Umbrix framför Aeterion (sett från Prima) extremt sällsynta. När de sker täcker Umbrix bara ~0,02% av Aeterions skiva — omärkligt utan instrument. Kulturella beskrivningar av att "Umbrix skymmer Aeterions strålar" bör förstås som mytologisk överdrift eller som en beskrivning av bredare konjunktionsfenomen (t.ex. aurora, magnetiska störningar) snarare än en faktisk synlig förmörkelse.
 
 ---
 
-## VI. Himlavalvet sett från Prima
+## Himlavalvet sett från Prima
 
 ### Dagtid
 - Aeterion dominerar himlen.
@@ -277,7 +277,7 @@ Stor iskropp i extremt elliptisk, nästan polär bana som korsar planetplanet vi
 
 ---
 
-## VII. Kosmologiska teman
+## Kosmologiska teman
 
 - **Dualitet** — Aeterion / Umbrix, ljus och glöd, guld och rött
 - **Tvillingskap** — Prima och Sekara, spegelvärldar i samma bana
@@ -287,7 +287,7 @@ Stor iskropp i extremt elliptisk, nästan polär bana som korsar planetplanet vi
 
 ---
 
-## VIII. Snabbreferens
+## Snabbreferens
 
 | Beteckning     | Världsbygge       | Typ             | Avstånd (AU) | Period      | Not                        |
 | -------------- | ----------------- | --------------- | ------------ | ----------- | -------------------------- |
@@ -306,6 +306,6 @@ Stor iskropp i extremt elliptisk, nästan polär bana som korsar planetplanet vi
 
 ---
 
-## IX. Namnstatus
+## Namnstatus
 
 Alla himlakroppar kring Aeteras A har nu arbetsbeteckningar. Thalorn och Nycthor är preliminära. Eventuella Aeteras B-planeter saknar namn.
