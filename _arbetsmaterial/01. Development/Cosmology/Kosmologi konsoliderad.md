@@ -161,10 +161,33 @@ Dag 1 markerar nymåne (mörk himmel), dag 15–16 markerar fullmåne (vaelarens
 
 > Femdagarscykeln har inget fastställt namn ännu.
 
+##### Dygnsindelning: vakter och glas
+
+Dygnet delas in i **6 vakter** om **8 glas** vardera (48 glas per dygn). Systemet utgår från en enda fast mätpunkt: **zenit** — ögonblicket då Aeterion står som högst på himlen.
+
+| Vakt | Position | Karaktär |
+|---|---|---|
+| **1** | Midnatt → gryning | Mörkaste vakten |
+| **2** | Gryning → förmiddag | Ljuset återvänder |
+| **3** | Förmiddag → **zenit** | Mot dagens höjdpunkt |
+| **4** | **Zenit** → eftermiddag | Från dagens höjdpunkt |
+| **5** | Eftermiddag → skymning | Ljuset avtar |
+| **6** | Skymning → midnatt | Mörkret faller |
+
+Gränsen mellan vakt 3 och 4 är zenit. Gränsen mellan vakt 6 och 1 är midnatt. Vakterna 1–3 leder *mot* solen, 4–6 leder *från* solen.
+
+Glaset inom en vakt anges med vakt:glas — t.ex. **5:3** (tredje glaset i femte vakten). Glaset är den minsta tidsenheten i dagligt bruk.
+
+Var gryning och skymning faller inom vaktsystemet varierar med årstid och latitud, men zenit och midnatt är fasta. Systemet fungerar därför lika bra vid ekvatorn som i norr.
+
+> Olika kulturer kan ha vardagliga namn för vakterna (t.ex. "dödvakten" för första vakten, "skymningsvakten" för sjätte), men grundsystemet är numeriskt.
+
 ##### Sammanfattning
 
 | Enhet | Längd | Per år |
 |---|---|---|
+| Glas | 1/48 dygn | — |
+| Vakt | 8 glas (1/6 dygn) | — |
 | Femdagarscykel | 5 dagar | 84 (6 per vaelar × 14) |
 | Vaelar | 30 dagar | 14 |
 | Överskottsdag | 1 dag | 1 |
