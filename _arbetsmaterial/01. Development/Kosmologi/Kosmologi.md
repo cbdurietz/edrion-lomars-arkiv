@@ -1,4 +1,4 @@
-# Aeteras-systemet — Konsoliderad kosmologi
+# Aeteras-systemet
 
 Denna sammanställning förenar de två förstudierna (Cosmology A och Cosmology B) till en enhetlig kosmologisk modell för kampanjvärlden. Astronomiska beteckningar följer konventionen Aeteras A I–VIII för planeter kring primärstjärnan och Aeteras B I– för eventuella planeter kring sekundärstjärnan. För varje himlakropp anges även det namn som används i världsbygget.
 
@@ -113,28 +113,21 @@ Tjocka moln döljer en överhettad yta. Synlig från Prima som en lysande morgon
 
 Prima är systemets tredje planet och den värld där Ardenar, Kyrathis, Serthara och de övriga kontinenterna befinner sig. Hav, kontinenter och årstider i ett tempererat klimat. Vid 1,1 AU med 1,0 L☉ tar Prima emot ungefär 83% av den solstrålning Jorden får — något svalare, men med rätt atmosfärisk sammansättning fullt tempererad.
 
-#### Primas måne
+#### Måne och tidräkning
 
-> Världsbygge: **Vael**. Primas måne. Tidsenheten baserad på Vaels cykel kallas en **vaelar** (~30 dagar).
+Prima har en måne, **[[Vael]]**, med 30 dagars omloppsperiod. Vaels cykel delar året i 14 vaelarer (14 × 30 = 420) plus en överskottsdag (421). Tidvattnet är ~15% starkare än Jordens.
 
 | Parameter | Värde |
 |---|---|
-| Massa | 0,0186 jordmassor (~1,5× vår måne) |
-| Radie | ~2 000 km (~15% större än vår måne) |
-| Avstånd från Prima | ~435 000 km |
-| Omloppsperiod (siderisk) | ~30 dagar |
-| Skenbar diameter från Prima | ~0,53° (nästan identisk med vår månes ~0,52°) |
-| Tidvattenkraft (relativt Jorden) | ~1,15× (+15%) |
+| Massa | 0,0186 M⊕ (~1,5× Jordens måne) |
+| Radie | ~2 000 km |
+| Avstånd | ~435 000 km |
+| Period | ~30 dagar |
+| Skenbar diameter | ~0,53° |
+| Tidvattenkraft | ~1,15× Jorden |
 
-Prima har en måne som är fysiskt större än vår men befinner sig längre bort, vilket gör att den ser nästan exakt lika stor ut på himlen. Tidvattnet på Prima är ungefär 15% starkare än Jordens — märkbart längs kusterna med bredare tidvattenzoner och starkare strömmar i trånga sund.
-
-Vaels omloppsperiod på ~30 dagar ger **14 vaelarer per år** (14 × 30 = 420 dagar). Primas år är 421 dagar, vilket lämnar **en överskottsdag** — en kalendarisk anomali som olika kulturer löser på olika sätt: en helig dag utanför månadsräkningen, en mellandag vid nyår, eller föremål för teologisk och akademisk dispyt.
-
-Vaels mytologiska betydelse varierar mellan kulturer — för vissa folk är den lika central som Sekara eller Umbrix, för andra en praktisk tidmätare utan djupare symbolik.
-
-#### Tidräkning
-
-→ *Se [[Tidräkning|Tidräkning på Prima]] för kalendersystem, vaelarer, femdagarscykler, dygnsindelning (vakter och glas) och överskottsdagen.*
+→ *Se [[Vael]] för fullständig beskrivning av månen, dess faser och kulturella betydelse.*
+→ *Se [[Tidräkning|Tidräkning på Prima]] för kalendersystem, vaelarer, femdagarscykler och dygnsindelning.*
 
 ---
 
