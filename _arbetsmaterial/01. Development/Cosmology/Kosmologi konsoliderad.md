@@ -101,15 +101,15 @@ Tjocka moln döljer en överhettad yta. Synlig från Prima som en lysande morgon
 
 > Världsbygge: **Prima** — *Den levande världen*. Kampanjvärldens hemvist.
 
-| Parameter | Värde |
-|---|---|
-| Omloppsbana | 1,1 AU |
-| Omloppsperiod | 421 dagar |
-| Massa | 1,2 jordmassor |
-| Radie | 1,1 jordradier (7 007 km) |
-| Typ | Jordlik, tempererad |
-| Excentricitet | 0,015 |
-| True Anomaly | 0° (referens) |
+| Parameter     | Värde                     |     |
+| ------------- | ------------------------- | --- |
+| Omloppsbana   | 1,1 AU                    |     |
+| Omloppsperiod | 421 dagar                 |     |
+| Massa         | 1,2 jordmassor            |     |
+| Radie         | 1,1 jordradier (7 007 km) |     |
+| Typ           | Jordlik, tempererad       |     |
+| Excentricitet | 0,015                     |     |
+| True Anomaly  | 0° (referens)             |     |
 
 Prima är systemets tredje planet och den värld där Ardenar, Kyrathis, Serthara och de övriga kontinenterna befinner sig. Hav, kontinenter och årstider i ett tempererat klimat. Vid 1,1 AU med 1,0 L☉ tar Prima emot ungefär 83% av den solstrålning Jorden får — något svalare, men med rätt atmosfärisk sammansättning fullt tempererad.
 
@@ -131,6 +131,44 @@ Prima har en måne som är fysiskt större än vår men befinner sig längre bor
 Vaels omloppsperiod på ~30 dagar ger **14 vaelarer per år** (14 × 30 = 420 dagar). Primas år är 421 dagar, vilket lämnar **en överskottsdag** — en kalendarisk anomali som olika kulturer löser på olika sätt: en helig dag utanför månadsräkningen, en mellandag vid nyår, eller föremål för teologisk och akademisk dispyt.
 
 Vaels mytologiska betydelse varierar mellan kulturer — för vissa folk är den lika central som Sekara eller Umbrix, för andra en praktisk tidmätare utan djupare symbolik.
+
+#### Kalendersystemet
+
+> Nedanstående beskriver det vanligaste kalendersystemet på Prima. Andra kulturer kan ha egna indelningar, namnkonventioner och sätt att hantera överskottsdagen.
+
+##### Vaelarer
+
+Vaelarer numreras med romerska siffror: **I–XIV**. En fullständig datumangivelse skrivs som dagnummer följt av vaelarnumret, t.ex. **12 VII** (dag 12, sjunde vaelaren). Med årtal: **12 VII 843**.
+
+##### Överskottsdagen
+
+Den 421:a dagen faller mellan XIV och I — en dag som inte tillhör någon vaelar. Den befinner sig mellan det gamla och det nya året, och olika kulturer behandlar den på olika sätt: som en helig dag, en namnlös dag, eller en dag av tystnad och eftertanke.
+
+##### Femdagarscykler och månfaser
+
+Varje vaelar delas in i **sex femdagarscykler** baserade på Vaels faser:
+
+| Cykel | Fas | Dagar |
+|---|---|---|
+| 1 | Nymåne → Tilltagande skära | 1–5 |
+| 2 | Tilltagande skära → Halvmåne | 6–10 |
+| 3 | Halvmåne → Fullmåne | 11–15 |
+| 4 | Fullmåne → Avtagande halvmåne | 16–20 |
+| 5 | Avtagande halvmåne → Avtagande skära | 21–25 |
+| 6 | Avtagande skära → Nymåne | 26–30 |
+
+Dag 1 markerar nymåne (mörk himmel), dag 15–16 markerar fullmåne (vaelarens höjdpunkt). Fasövergångarna fungerar som naturliga markörer för marknader, vilodagar och rituella tillfällen.
+
+> Femdagarscykeln har inget fastställt namn ännu.
+
+##### Sammanfattning
+
+| Enhet | Längd | Per år |
+|---|---|---|
+| Femdagarscykel | 5 dagar | 84 (6 per vaelar × 14) |
+| Vaelar | 30 dagar | 14 |
+| Överskottsdag | 1 dag | 1 |
+| År | 421 dagar | — |
 
 ---
 
