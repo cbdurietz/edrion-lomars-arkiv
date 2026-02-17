@@ -189,11 +189,25 @@ Dag 1 markerar nymåne (mörk himmel), dag 15–16 markerar fullmåne (vaelarens
 | Elongation från Aeteras | ~60° (nästan konstant) |
 | Avstånd från Prima | ~1,1 AU (konstant) |
 
-Sekara delar omloppsbana med Prima i en stabil trojansk konfiguration vid L5-punkten — 60° *efter* Prima i banan. Från Prima befinner sig Sekara alltid vid ungefär 60° elongation från solen, vilket gör den till en permanent **aftonstjärna** som syns i skymningen varje kväll. Den går ner ungefär fyra timmar efter solen.
+Sekara delar omloppsbana med Prima i en stabil trojansk konfiguration vid L5-punkten — 60° *efter* Prima i banan. Från Prima befinner sig Sekara alltid vid ungefär 60° elongation från solen, vilket gör den till en permanent **aftonstjärna** som syns i skymningen varje kväll.
 
 Sekara vandrar inte fritt över himlen som yttre planeter gör. Den följer solen genom zodiaken under loppet av ett år, alltid 60° efter. Den försvinner aldrig bakom solen och syns aldrig vid midnatt. Kring L5-punkten oscillerar den med en librationsperiod på ungefär tusen år och mycket liten amplitud — en rörelse omärklig under en enskild människoålder.
 
 Som jordlik planet på 1,1 AU avstånd är Sekara natthimlens starkaste objekt — avsevärt ljusare än någon annan planet. Vid goda förhållanden kan variationer i ljusstyrka uppfattas med blotta ögat, och ljussken som kan tolkas som reflexer från ytan har rapporterats av observatörer genom historien.
+
+#### Sekaras variabla synlighet
+
+De 60° separationen gäller längs ekliptikan (planetbanans projektion på himlen), men ekliptikan möter horisonten i olika vinkel beroende på årstid och latitud. Det innebär att tiden mellan Aeterions nedgång och Sekaras nedgång **inte är konstant** — den varierar under året:
+
+| Situation | Ekliptikans vinkel mot horisonten | Sekara synlig efter solnedgång |
+|---|---|---|
+| Gynnsam årstid (brant ekliptika) | Hög | **~5 timmar** — Sekara hänger högt och dröjer länge i skymningen |
+| Genomsnitt | Medel | **~4 timmar** |
+| Ogynnsam årstid (flack ekliptika) | Låg | **~2–3 timmar** — Sekara skyndar efter solen, nära horisonten |
+
+Effekten är starkare vid höga latituder och svagare vid ekvatorn. En ekvatorial kultur ser en pålitlig, jämn följeslagare; en nordlig kultur ser en nyckfull gestalt som ibland dröjer halva natten och ibland knappt visar sig ovan horisonten.
+
+Denna variation ger Sekara en **årstidsbunden karaktär**: i de vaelarer då hon dröjer länge på himlen upplevs hennes närvaro som vaka eller hopp, och i de vaelarer då hon försvinner snabbt efter solen kan det tolkas som flykt, sorg eller likgiltighet. Naturliga höjdpunkter knyts till Sekaras längsta respektive kortaste kvällssynlighet — tillfällen för högtider, riter eller varsel.
 
 #### Kulturella tolkningar
 
