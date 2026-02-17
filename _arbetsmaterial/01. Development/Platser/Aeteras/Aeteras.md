@@ -12,7 +12,7 @@ Världen existerar i ett **binärt stjärnsystem** med två stjärnor, som vi ka
 
 ### 2. **Planetsystemets Översikt**
 
-Det binära systemet har ett antal planeter som kretsar kring [[Aeterion]] och [[Umbrix]]. De flesta av dessa är gasjättar, isvärldar eller stenplaneter, men två planeter är särskilt framträdande för vår saga:
+Det binära systemet har ett antal planeter som kretsar kring [[Aeterion]]. De flesta av dessa är gasjättar, isvärldar eller stenplaneter, men två planeter är särskilt framträdande för vår saga:
 
 - **[[Prima]]** (den jordliknande världen där sagovärlden utspelar sig)
 - **[[Sekara]]** (den mystiska följeslagarplaneten)
@@ -24,9 +24,9 @@ Det binära systemet har ett antal planeter som kretsar kring [[Aeterion]] och [
 
 #### b. **[[Sekara]]** (Den mystiska följeslagarplaneten)
 
-- [[Sekara]] är en **stenplanet**, något mindre än [[Prima]], som befinner sig i en vid omloppsbana lite längre bort från [[Aeterion]] men synlig på [[Prima]]. Trots att den är längre bort, är den större än många andra himlakroppar i systemet, vilket gör den mycket synlig vid vissa tidpunkter.
+- [[Sekara]] är en **stenplanet**, något mindre än [[Prima]], som delar omloppsbana med [[Prima]] i en stabil trojansk konfiguration — 60° efter i samma bana. Från [[Prima]] syns [[Sekara]] som en permanent aftonstjärna i skymningen, natthimlens starkaste objekt.
     
-- **Mytologiska och vidskepliga kopplingar:** [[Sekara]] är en planet som genom historien har varit föremål för fascination och rädsla. När den är synlig på himlen, särskilt under dess **konjunkter med [[Umbrix]]**, anses detta ofta vara ett dåligt omen. [[Sekara]] har en mörk, rödaktig ton på grund av sitt ytmaterial. Det händer att ljuskällor eller märkliga reflektioner observeras på Sekaras yta, vilket har lett till historier om civilisationer eller varelser på planeten.
+- **Mytologiska och vidskepliga kopplingar:** [[Sekara]] är en planet som genom historien har varit föremål för fascination och rädsla. Särskilt under dess årliga **konjunkter med [[Umbrix]]**, anses detta ofta vara ett dåligt omen. [[Sekara]] har en mörk, rödaktig ton på grund av sitt ytmaterial. Det händer att ljuskällor eller märkliga reflektioner observeras på Sekaras yta, vilket har lett till historier om civilisationer eller varelser på planeten.
     
 - **Ljuskällorna på [[Sekara]]** ses av vissa som ett tecken på en förlorad eller uråldrig civilisation, medan andra tror att det är en förebud om förintelse eller mörka krafter som vaknar. Detta har lett till en mängd olika kulturer och religiösa grupper som tolkar Sekaras närvaro på olika sätt: vissa ser den som en plats där själarna från de döda vilar, medan andra tror att det är hemvist för demoner eller onda andar.
 
@@ -54,7 +54,7 @@ Systemet är känt för sin astronomiska aktivitet, och det är vanligt med spek
 
 De astronomiska fenomenen och särskilt Sekaras synlighet har lett till en omfattande och ibland skrämmande mytologi:
 
-- **Mörka Omen:** När [[Sekara]] är synlig, särskilt vid sin närmaste punkt till [[Prima]] och samtidigt som [[Umbrix]] är i linje, sprider sig en rädsla bland befolkningen. Det är under dessa perioder som ljuskällorna på Sekaras yta blir tydligast, och detta betraktas ofta som förebud för stora krig, farsoter, eller andra katastrofer.
+- **Mörka Omen:** När Sekaras ljusfenomen är som starkast, särskilt samtidigt som [[Umbrix]] är i linje med den på himlavalvet, sprider sig en rädsla bland befolkningen. Det är under dessa perioder som ljuskällorna på Sekaras yta blir tydligast, och detta betraktas ofta som förebud för stora krig, farsoter, eller andra katastrofer.
     
 - **Mytologiska Teorier:** Vissa kulturer tror att [[Sekara]] är **en spegling av [[Prima]]**, en värld där människorna en gång levde och fördärvades av sina synder. Andra spekulerar i att [[Sekara]] en gång var befolkad av mäktiga varelser som nu sover, och när de vaknar kommer en tid av förstörelse. En tredje teori, mer positiv, hävdar att ljuskällorna är heliga väsen som vakar över [[Prima]] och kommer att ingripa vid nödens stund.
     
