@@ -115,7 +115,7 @@ Prima är systemets tredje planet och den värld där Ardenar, Kyrathis, Serthar
 
 #### Primas måne
 
-> Världsbygge: *Namn ej fastställt*
+> Världsbygge: **Vael**. Primas måne. Tidsenheten baserad på Vaels cykel kallas en **vaelar** (~30 dagar).
 
 | Parameter | Värde |
 |---|---|
@@ -128,9 +128,9 @@ Prima är systemets tredje planet och den värld där Ardenar, Kyrathis, Serthar
 
 Prima har en måne som är fysiskt större än vår men befinner sig längre bort, vilket gör att den ser nästan exakt lika stor ut på himlen. Tidvattnet på Prima är ungefär 15% starkare än Jordens — märkbart längs kusterna med bredare tidvattenzoner och starkare strömmar i trånga sund.
 
-Månens omloppsperiod på ~30 dagar ger **14 månmånader per år** (14 × 30 = 420 dagar). Primas år är 421 dagar, vilket lämnar **en överskottsdag** — en kalendarisk anomali som olika kulturer löser på olika sätt: en helig dag utanför månadsräkningen, en mellandag vid nyår, eller föremål för teologisk och akademisk dispyt.
+Vaels omloppsperiod på ~30 dagar ger **14 vaelarer per år** (14 × 30 = 420 dagar). Primas år är 421 dagar, vilket lämnar **en överskottsdag** — en kalendarisk anomali som olika kulturer löser på olika sätt: en helig dag utanför månadsräkningen, en mellandag vid nyår, eller föremål för teologisk och akademisk dispyt.
 
-Månens mytologiska betydelse varierar mellan kulturer — för vissa folk är den lika central som Sekara eller Umbrix, för andra en praktisk tidmätare utan djupare symbolik.
+Vaels mytologiska betydelse varierar mellan kulturer — för vissa folk är den lika central som Sekara eller Umbrix, för andra en praktisk tidmätare utan djupare symbolik.
 
 ---
 
