@@ -1,6 +1,6 @@
 # Aeteras-systemet
 
-Denna sammanställning förenar de två förstudierna (Cosmology A och Cosmology B) till en enhetlig kosmologisk modell för kampanjvärlden. Astronomiska beteckningar följer konventionen Aeteras A I–VIII för planeter kring primärstjärnan och Aeteras B I– för eventuella planeter kring sekundärstjärnan. För varje himlakropp anges även det namn som används i världsbygget.
+Kosmologisk referens för kampanjvärlden. Astronomiska beteckningar följer konventionen Aeteras A I–VIII för planeter kring primärstjärnan och Aeteras B I– för eventuella planeter kring sekundärstjärnan. För varje himlakropp anges även det namn som används i världsbygget.
 
 Omloppsperioder är beräknade med Keplers tredje lag utifrån angiven halvaxel och stjärnmassa.
 
@@ -22,7 +22,7 @@ Alla åtta kända planeter kretsar kring Aeteras A. Umbrix befinner sig på till
 
 ### Aeteras A
 
-> Världsbygge: **Aeterion**. Kallas allmänt **solen**, eller i religiösa sammanhang **Aetheria** (Solens Förbunds tradition).
+> Världsbygge: **[[Aeterion]]**. Kallas allmänt **solen**, eller i religiösa sammanhang **Aetheria** (Solens Förbunds tradition).
 
 | Parameter | Värde |
 |---|---|
@@ -39,7 +39,7 @@ Aeteras A är systemets gravitationella och kulturella centrum. I myter kallas d
 
 ### Aeteras B
 
-> Världsbygge: **Umbrix**
+> Världsbygge: **[[Umbrix]]**
 
 | Parameter | Värde |
 |---|---|
@@ -65,7 +65,7 @@ Alla planeter kretsar i samma riktning (prograd) och deras banplan ligger inom 2
 
 ### Aeteras A I
 
-> Världsbygge: **Thraxis** — *Den brände brodern*
+> Världsbygge: **[[Thraxis]]** — *Den brände brodern*
 
 | Parameter | Värde |
 |---|---|
@@ -82,7 +82,7 @@ En bränd, tidvattenspåverkad inre värld utan atmosfär. Sällan synlig med bl
 
 ### Aeteras A II
 
-> Världsbygge: **Varun** — *Den beslöjade ugnen*, *Den dolda lågan*
+> Världsbygge: **[[Varun]]** — *Den beslöjade ugnen*, *Den dolda lågan*
 
 | Parameter | Värde |
 |---|---|
@@ -99,7 +99,7 @@ Tjocka moln döljer en överhettad yta. Synlig från Prima som en lysande morgon
 
 ### Aeteras A III
 
-> Världsbygge: **Prima** — *Den levande världen*. Kampanjvärldens hemvist.
+> Världsbygge: **[[Prima]]** — *Den levande världen*. Kampanjvärldens hemvist.
 
 | Parameter     | Värde                     |     |
 | ------------- | ------------------------- | --- |
@@ -133,7 +133,7 @@ Prima har en måne, **[[Vael]]**, med 30 dagars omloppsperiod. Vaels cykel delar
 
 ### Aeteras A IV
 
-> Världsbygge: **Sekara** — *Den gröna systern*, *Tvillingsjälen*
+> Världsbygge: **[[Sekara]]** — *Den gröna systern*, *Tvillingsjälen*
 
 | Parameter | Värde |
 |---|---|
@@ -176,7 +176,7 @@ Sekaras fasta plats i skymningshimlen — alltid synlig men aldrig mitt i natten
 
 ### Aeteras A V
 
-> Världsbygge: **Thalorn** — *Den förlorade systern*
+> Världsbygge: **[[Thalorn]]** — *Den förlorade systern*
 
 | Parameter | Värde |
 |---|---|
@@ -195,7 +195,7 @@ En massiv klippvärld strax utanför den beboeliga zonen — för stor och kall 
 
 ### Aeteras A VI
 
-> Världsbygge: **Keveron** — *Den store väktaren*
+> Världsbygge: **[[Keveron]]** — *Den store väktaren*
 
 | Parameter | Värde |
 |---|---|
@@ -212,7 +212,7 @@ Systemets största planet. Ligger nära frostlinjen (~3,0 AU för en solanalog),
 
 ### Aeteras A VII
 
-> Världsbygge: **Drakis** — *Ishärskaren*
+> Världsbygge: **[[Drakis]]** — *Ishärskaren*
 
 | Parameter | Värde |
 |---|---|
@@ -229,7 +229,7 @@ Den större av systemets två isjättar. Sannolikt omgiven av flera månar.
 
 ### Aeteras A VIII
 
-> Världsbygge: **Nycthor** — *Den nattlige*
+> Världsbygge: **[[Nycthor]]** — *Den nattlige*
 
 | Parameter | Värde |
 |---|---|
@@ -289,7 +289,7 @@ Vandraren fyller delvis denna roll. Dess bana korsar båda stjärnornas domäner
 
 ## V. Vandraren
 
-> Världsbygge: **Vandraren**. Astronomiskt ej numrerad — banan korsar det inre planetsystemet men sträcker sig långt bortom Umbrix.
+> Världsbygge: **[[Vandraren]]**. Astronomiskt ej numrerad — banan korsar det inre planetsystemet men sträcker sig långt bortom Umbrix.
 
 | Parameter | Värde |
 |---|---|
@@ -362,20 +362,20 @@ Utöver Vandraren har systemet sannolikt ett antal mindre kometer som passerar d
 
 ## IX. Snabbreferens
 
-| Beteckning | Världsbygge | Typ | Avstånd (AU) | Period | Not |
-|---|---|---|---|---|---|
-| Aeteras A | **Aeterion** | G2V gul dvärg | — | — | Primärstjärna, 1,0 M☉ |
-| Aeteras B | **Umbrix** | M3V röd dvärg | 30 | ~139 år | Sekundärstjärna, 0,4 M☉ |
-| Aeteras A I | **Thraxis** | Klippvärld | 0,4 | 92 d | Luftlös, bränd |
-| Aeteras A II | **Varun** | Växthusvärd | 0,7 | 214 d | Venus-lik |
-| Aeteras A III | **Prima** | Jordlik, bebodd | 1,1 | 421 d | Kampanjvärlden |
-| Aeteras A IV | **Sekara** | Jordlik | 1,1 | 421 d | Trojansk L5-tvilling |
-| Aeteras A V | **Thalorn** | Super-jord | 1,7 | 2,2 år | Massiv klippvärld |
-| Aeteras A VI | **Keveron** | Gasjätte | 3,2 | 5,7 år | Systemväktare |
-| Aeteras A VII | **Drakis** | Isjätte | 5,4 | 12,6 år | Större isjätte |
-| Aeteras A VIII | **Nycthor** | Liten isjätte | 8,1 | 23,1 år | Nära stabilitetsgräns |
-| Aeteras B I–? | *Okända* | *Okänt* | ~0,1–5 | — | Ej observerbara från Prima |
-| — | **Vandraren** | Komet/iskropp | 1,5–80 | ~150–200 år | Polär bana, e≈0,95 |
+| Beteckning     | Världsbygge       | Typ             | Avstånd (AU) | Period      | Not                        |
+| -------------- | ----------------- | --------------- | ------------ | ----------- | -------------------------- |
+| Aeteras A      | **[[Aeterion]]**  | G2V gul dvärg   | —            | —           | Primärstjärna, 1,0 M☉      |
+| Aeteras B      | **[[Umbrix]]**    | M3V röd dvärg   | 30           | ~139 år     | Sekundärstjärna, 0,4 M☉    |
+| Aeteras A I    | **[[Thraxis]]**   | Klippvärld      | 0,4          | 92 d        | Luftlös, bränd             |
+| Aeteras A II   | **[[Varun]]**     | Växthusvärd     | 0,7          | 214 d       | Venus-lik                  |
+| Aeteras A III  | **[[Prima]]**     | Jordlik, bebodd | 1,1          | 421 d       | Kampanjvärlden             |
+| Aeteras A IV   | **[[Sekara]]**    | Jordlik         | 1,1          | 421 d       | Trojansk L5-tvilling       |
+| Aeteras A V    | **[[Thalorn]]**   | Super-jord      | 1,7          | 2,2 år      | Massiv klippvärld          |
+| Aeteras A VI   | **[[Keveron]]**   | Gasjätte        | 3,2          | 5,7 år      | Systemväktare              |
+| Aeteras A VII  | **[[Drakis]]**    | Isjätte         | 5,4          | 12,6 år     | Större isjätte             |
+| Aeteras A VIII | **[[Nycthor]]**   | Liten isjätte   | 8,1          | 23,1 år     | Nära stabilitetsgräns      |
+| Aeteras B I–?  | *Okända*          | *Okänt*         | ~0,1–5       | —           | Ej observerbara från Prima |
+| —              | **[[Vandraren]]** | Komet/iskropp   | 1,5–80       | ~150–200 år | Polär bana, e≈0,95         |
 
 ---
 
