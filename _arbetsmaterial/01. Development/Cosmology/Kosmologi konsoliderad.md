@@ -115,7 +115,22 @@ Prima är systemets tredje planet och den värld där Ardenar, Kyrathis, Serthar
 
 #### Primas måne
 
-Prima har en **månliknande satellit** — mindre än vår egen måne men tydligt synlig på natthimlen. Månen påverkar tidvatten och ligger till grund för kalenderberäkningar. Den har dock inte samma mytologiska tyngd som Sekara eller Umbrix.
+> Världsbygge: *Namn ej fastställt*
+
+| Parameter | Värde |
+|---|---|
+| Massa | 0,0186 jordmassor (~1,5× vår måne) |
+| Radie | ~2 000 km (~15% större än vår måne) |
+| Avstånd från Prima | ~435 000 km |
+| Omloppsperiod (siderisk) | ~30 dagar |
+| Skenbar diameter från Prima | ~0,53° (nästan identisk med vår månes ~0,52°) |
+| Tidvattenkraft (relativt Jorden) | ~1,15× (+15%) |
+
+Prima har en måne som är fysiskt större än vår men befinner sig längre bort, vilket gör att den ser nästan exakt lika stor ut på himlen. Tidvattnet på Prima är ungefär 15% starkare än Jordens — märkbart längs kusterna med bredare tidvattenzoner och starkare strömmar i trånga sund.
+
+Månens omloppsperiod på ~30 dagar ger **14 månmånader per år** (14 × 30 = 420 dagar). Primas år är 421 dagar, vilket lämnar **en överskottsdag** — en kalendarisk anomali som olika kulturer löser på olika sätt: en helig dag utanför månadsräkningen, en mellandag vid nyår, eller föremål för teologisk och akademisk dispyt.
+
+Månens mytologiska betydelse varierar mellan kulturer — för vissa folk är den lika central som Sekara eller Umbrix, för andra en praktisk tidmätare utan djupare symbolik.
 
 ---
 

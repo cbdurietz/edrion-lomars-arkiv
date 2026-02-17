@@ -20,7 +20,7 @@ Det binära systemet har ett antal planeter som kretsar kring [[Aeterion]]. De f
 #### a. **[[Prima]]** (Jordliknande planet, hem till sagovärlden)
 
 - [[Prima]] ligger i den **beboeliga zonen** runt [[Aeterion]] och har förhållanden som liknar Jorden. Gravitationen, miljön, och atmosfären tillåter ett rikt ekosystem med flora och fauna, och dess klimat kan variera beroende på region, precis som på Jorden.
-- Planeten har en **månliknande satellit** som är mindre än vår egen måne men synlig på natthimlen. Denna måne påverkar tidvatten och används i kalenderberäkningar, men har inte samma mytologiska betydelse som [[Sekara]].
+- Planeten har en **måne** som syns tydligt på natthimlen. Denna måne påverkar tidvatten och dess 30-dagarscykel ligger till grund för kalenderberäkningar.
 
 #### b. **[[Sekara]]** (Den mystiska följeslagarplaneten)
 
