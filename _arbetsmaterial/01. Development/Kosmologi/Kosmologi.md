@@ -119,7 +119,7 @@ Prima är systemets tredje planet och den värld där Ardenar, Kyrathis, Serthar
 
 #### Måne och tidräkning
 
-Prima har en måne, **[[Vael]]**, med 30 dagars omloppsperiod. Vaels cykel delar året i 14 vaelarer (14 × 30 = 420) plus en överskottsdag (421). Tidvattnet är ~15% starkare än Jordens.
+Prima har en måne, **[[Vael]]**, med 30 dagars omloppsperiod. Vaels cykel delar året i 14 vaelar (14 × 30 = 420) plus en överskottsdag (421). Tidvattnet är ~15% starkare än Jordens.
 
 | Parameter | Värde |
 |---|---|
@@ -131,7 +131,7 @@ Prima har en måne, **[[Vael]]**, med 30 dagars omloppsperiod. Vaels cykel delar
 | Tidvattenkraft | ~1,15× Jorden |
 
 → *Se [[Vael]] för fullständig beskrivning av månen, dess faser och kulturella betydelse.*
-→ *Se [[Tidräkning|Tidräkning på Prima]] för kalendersystem, vaelarer, femdagarscykler och dygnsindelning.*
+→ *Se [[Tidräkning|Tidräkning på Prima]] för kalendersystem, vaelar, femdagarscykler och dygnsindelning.*
 
 ---
 
