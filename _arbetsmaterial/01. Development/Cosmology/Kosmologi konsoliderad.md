@@ -112,6 +112,10 @@ Tjocka moln döljer en överhettad yta. Synlig från Prima som en lysande morgon
 
 Prima är systemets tredje planet och den värld där Ardenar, Kyrathis, Serthara och de övriga kontinenterna befinner sig. Hav, kontinenter och årstider i ett tempererat klimat. Vid 1,1 AU med 1,0 L☉ tar Prima emot ungefär 83% av den solstrålning Jorden får — något svalare, men med rätt atmosfärisk sammansättning fullt tempererad.
 
+#### Primas måne
+
+Prima har en **månliknande satellit** — mindre än vår egen måne men tydligt synlig på natthimlen. Månen påverkar tidvatten och ligger till grund för kalenderberäkningar. Den har dock inte samma mytologiska tyngd som Sekara eller Umbrix.
+
 ---
 
 ### Aeteras IV
@@ -251,9 +255,17 @@ Med en period på ~150–200 år passerar Vandraren det inre systemet ungefär v
 - **Gudomligt sändebud** — religiösa tolkningar ser den som ett tecken från gudarna
 - **Kosmisk exilant** — mytologiskt en utstött varelse som vandrar i ensamhet
 
+Utöver Vandraren har systemet sannolikt ett antal mindre kometer som passerar det inre systemet mer regelbundet. Dessa ger upphov till meteorsvärmar och tillfälliga ljusfenomen på natthimlen, och tolkas ofta som järtecken.
+
 ---
 
-## IV. Himlavalvet sett från Prima
+## IV. Astronomiska fenomen och observationsnoter
+
+> **Not om Umbrix-transiter:** Med Umbrix baninklination på ~6° relativt planetplanet är transiter av Umbrix framför Aeterion (sett från Prima) extremt sällsynta. När de sker täcker Umbrix bara ~0,02% av Aeterions skiva — omärkligt utan instrument. Kulturella beskrivningar av att "Umbrix skymmer Aeterions strålar" bör förstås som mytologisk överdrift eller som en beskrivning av bredare konjunktionsfenomen (t.ex. aurora, magnetiska störningar) snarare än en faktisk synlig förmörkelse.
+
+---
+
+## V. Himlavalvet sett från Prima
 
 ### Dagtid
 - Aeteras dominerar himlen.
@@ -267,7 +279,7 @@ Med en period på ~150–200 år passerar Vandraren det inre systemet ungefär v
 
 ---
 
-## V. Kosmologiska teman
+## VI. Kosmologiska teman
 
 - **Dualitet** — Aeteras / Umbrix, ljus och glöd, guld och rött
 - **Tvillingskap** — Prima och Sekara, spegelvärldar i samma bana
@@ -276,7 +288,7 @@ Med en period på ~150–200 år passerar Vandraren det inre systemet ungefär v
 
 ---
 
-## VI. Snabbreferens
+## VII. Snabbreferens
 
 | Beteckning | Världsbygge | Typ | Avstånd (AU) | Period | Not |
 |---|---|---|---|---|---|
@@ -294,6 +306,6 @@ Med en period på ~150–200 år passerar Vandraren det inre systemet ungefär v
 
 ---
 
-## VII. Namnstatus
+## VIII. Namnstatus
 
 Alla himlakroppar har nu arbetsbeteckningar. Thalorn och Nycthor är preliminära.

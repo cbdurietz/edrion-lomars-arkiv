@@ -8,7 +8,7 @@ Aeteras är kampanjvärld och namnet på det stjärnsystem som allting utspelar 
 Världen existerar i ett **binärt stjärnsystem** med två stjärnor, som vi kallar **[[Aeterion]]** och **[[Umbrix]]**. De två stjärnorna kretsar kring varandra i en stabil omloppsbana, men deras egenskaper skiljer sig åt:
 
 - **[[Aeterion]]** är en gul dvärgstjärna, liknande vår egen sol (G-typ). Den är systemets primära ljuskälla och står för det mesta av energin som når den jordliknande planeten. Den är stabil och konsekvent, vilket gör att befolkningen ser den som en källa till liv och stabilitet.
-- **[[Umbrix]]** är en svagare röd dvärgstjärna (M-typ), som kretsar på ett längre avstånd från [[Aeterion]] men fortfarande påverkar planetsystemet. [[Umbrix]] är inte lika synlig på dagen, men vid specifika tider av året eller under natten kan den ses som en mörkare, rödaktig sol i horisonten. **Kopplad till vidskepelse**, ses denna stjärna ofta som en förebudare av dåliga händelser.   
+- **[[Umbrix]]** är en svagare röd dvärgstjärna (M-typ), som kretsar på ett längre avstånd från [[Aeterion]] men fortfarande påverkar planetsystemet. [[Umbrix]] är inte lika synlig på dagen, men under natten syns den som en intensivt lysande, blodrödstjärna — den starkaste enskilda ljuspunkten på natthimlen efter [[Sekara]]. Dess position skiftar långsamt över decennier. **Kopplad till vidskepelse**, ses denna stjärna ofta som en förebudare av dåliga händelser.   
 
 ### 2. **Planetsystemets Översikt**
 
@@ -26,7 +26,7 @@ Det binära systemet har ett antal planeter som kretsar kring [[Aeterion]] och [
 
 - [[Sekara]] är en **stenplanet**, något mindre än [[Prima]], som befinner sig i en vid omloppsbana lite längre bort från [[Aeterion]] men synlig på [[Prima]]. Trots att den är längre bort, är den större än många andra himlakroppar i systemet, vilket gör den mycket synlig vid vissa tidpunkter.
     
-- **Mytologiska och vidskepliga kopplingar:** [[Sekara]] är en planet som genom historien har varit föremål för fascination och rädsla. När den är synlig på himlen, särskilt under dess **konjunkter med [[Umbrix]]**, anses detta ofta vara ett dåligt omen. [[Sekara]] har en mörk, rödaktig ton på grund av sin yta och reflekterande ljus från [[Umbrix]]. Det händer att ljuskällor eller märkliga reflektioner observeras på Sekaras yta, vilket har lett till historier om civilisationer eller varelser på planeten.
+- **Mytologiska och vidskepliga kopplingar:** [[Sekara]] är en planet som genom historien har varit föremål för fascination och rädsla. När den är synlig på himlen, särskilt under dess **konjunkter med [[Umbrix]]**, anses detta ofta vara ett dåligt omen. [[Sekara]] har en mörk, rödaktig ton på grund av sitt ytmaterial. Det händer att ljuskällor eller märkliga reflektioner observeras på Sekaras yta, vilket har lett till historier om civilisationer eller varelser på planeten.
     
 - **Ljuskällorna på [[Sekara]]** ses av vissa som ett tecken på en förlorad eller uråldrig civilisation, medan andra tror att det är en förebud om förintelse eller mörka krafter som vaknar. Detta har lett till en mängd olika kulturer och religiösa grupper som tolkar Sekaras närvaro på olika sätt: vissa ser den som en plats där själarna från de döda vilar, medan andra tror att det är hemvist för demoner eller onda andar.
 

@@ -1,5 +1,5 @@
 #Plats #Stjärna 
-**Umbrix** är en svagare röd dvärgstjärna (M-typ), som kretsar på ett längre avstånd från [[Aeterion]] men fortfarande påverkar planetsystemet. Umbrix är inte lika synlig på dagen, men vid specifika tider av året eller under natten kan den ses som en mörkare, rödaktig sol i horisonten. **Kopplad till vidskepelse**, denna stjärna ses ofta som en förebudare av dåliga händelser.
+**Umbrix** är en svagare röd dvärgstjärna (M-typ), som kretsar på ett längre avstånd från [[Aeterion]] men fortfarande påverkar planetsystemet. Umbrix är inte lika synlig på dagen, men under natten syns den som en intensivt lysande, blodrödstjärna — den starkaste enskilda ljuspunkten på natthimlen efter [[Sekara]]. Dess position skiftar långsamt över decennier. **Kopplad till vidskepelse**, denna stjärna ses ofta som en förebudare av dåliga händelser.
 
 > [!quote] [[Edrion Lomar]], _[[Himlens Eldfästen: En Kosmologs Betraktelser]]_
 > Umbrix, den tysta dvärgstjärnan, vilar i stjärnornas avlägsna skuggor som en förnimmelse av kosmos mörkaste hemligheter. Trots dess svaga ljus har den för evigt dragit blickar och tankar till sig, ty dess närvaro på himlavalvet är en paradox – en stjärna så kall och dunkel, ändå brinnande med en inre glöd som tycks trotsa själva naturens lagar.
