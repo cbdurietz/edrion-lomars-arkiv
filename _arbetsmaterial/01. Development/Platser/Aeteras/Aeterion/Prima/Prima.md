@@ -1,7 +1,7 @@
 #Plats #Planet
 
 - Prima ligger i den **beboeliga zonen** runt [[Aeterion]] och har förhållanden som liknar Jorden. Gravitationen, miljön, och atmosfären tillåter ett rikt ekosystem med flora och fauna, och dess klimat kan variera beroende på region, precis som på Jorden.
-- Planeten har en **måne** som syns tydligt på natthimlen. Denna måne påverkar tidvatten och dess 30-dagarscykel ligger till grund för kalenderberäkningar.
+- Planeten har en måne, **[[Vael]]**, som syns tydligt på natthimlen. Vael påverkar tidvatten och dess 30-dagarscykel ligger till grund för kalenderberäkningar.
 
 ![[prima-overview.png]]
 ### **Planeten Prima: Kontinenter och Hav**
