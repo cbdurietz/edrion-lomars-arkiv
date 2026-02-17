@@ -126,12 +126,20 @@ Prima är systemets tredje planet och den värld där Ardenar, Kyrathis, Serthar
 | Radie | 1,05 jordradier (6 688 km) |
 | Typ | Jordlik, varmare och fuktigare |
 | Excentricitet | 0,015 |
-| True Anomaly | 60° (trojansk position) |
-| Orbitalrelation | 1:1-resonans med Prima, 60° separation |
+| True Anomaly | −60° (trojansk L5-position, 60° efter Prima) |
+| Orbitalrelation | 1:1-resonans med Prima, L5 (trailing) |
+| Elongation från Aeteras | ~60° (nästan konstant) |
+| Avstånd från Prima | ~1,1 AU (konstant) |
 
-Sekara delar omloppsbana med Prima i en stabil trojansk konfiguration, 60° framför (eller bakom) i samma bana. Från Prima syns Sekara som en lysande vandrande stjärna — den starkaste himlakroppen på natthimlen. Deras nära omloppsdans skapar komplexa kalendersystem och har gett upphov till rika mytologiska traditioner om tvillingskap, spegelvärldar och förlorade systrar.
+Sekara delar omloppsbana med Prima i en stabil trojansk konfiguration vid L5-punkten — 60° *efter* Prima i banan. Från Prima befinner sig Sekara alltid vid ungefär 60° elongation från solen, vilket gör den till en permanent **aftonstjärna** som syns i skymningen varje kväll. Den går ner ungefär fyra timmar efter solen.
 
-> **TODO:** Sekaras synlighet och beteende på himlavalvet behöver beskrivas mer noggrant utifrån den trojanska konfigurationen.
+Sekara vandrar inte fritt över himlen som yttre planeter gör. Den följer solen genom zodiaken under loppet av ett år, alltid 60° efter. Den försvinner aldrig bakom solen och syns aldrig vid midnatt. Kring L5-punkten oscillerar den med en librationsperiod på ungefär tusen år och mycket liten amplitud — en rörelse omärklig under en enskild människoålder.
+
+Som jordlik planet på 1,1 AU avstånd är Sekara natthimlens starkaste objekt — avsevärt ljusare än någon annan planet. Vid goda förhållanden kan variationer i ljusstyrka uppfattas med blotta ögat, och ljussken som kan tolkas som reflexer från ytan har rapporterats av observatörer genom historien.
+
+#### Kulturella tolkningar
+
+Sekaras fasta plats i skymningshimlen — alltid synlig men aldrig mitt i natten — ger den en karaktär av **tröskelväsen**: något som hör hemma i övergången mellan dag och natt. Många kulturer betraktar den som en död eller sovande värld, men de tillfälliga ljusskenen har gett upphov till motstridiga traditioner. Vissa hävdar att systern lever; andra att ljuset är ett eko från en svunnen tid. Denna spänning mellan "den döda planeten" och "det oförklarliga ljuset" löper som en röd tråd genom astronomisk och religiös litteratur på Prima.
 
 ---
 
@@ -251,7 +259,7 @@ Med en period på ~150–200 år passerar Vandraren det inre systemet ungefär v
 - Aeteras dominerar himlen.
 
 ### Natthimlen
-- **Sekara** lyser starkt som systemets klaraste vandrare — den starkaste himlakroppen på natthimlen.
+- **Sekara** lyser starkt i skymningen som en permanent aftonstjärna, alltid ~60° efter solen. Natthimlens starkaste objekt, men aldrig synlig vid midnatt.
 - **Umbrix** glöder djupröd och skiftar långsamt position över decennier.
 - **Varun** skimrar som morgon- eller aftonstjärna.
 - **Keveron** syns som en ljusstark punkt som rör sig sakta bland stjärnorna.
