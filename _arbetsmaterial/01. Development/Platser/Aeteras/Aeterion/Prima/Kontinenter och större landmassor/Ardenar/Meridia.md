@@ -1,5 +1,14 @@
 ﻿#Plats #Stadsstat
 
+> [!quote] [[Edrion Lomar]], _[[Över Hav och Djup]]_
+> Vi närmade oss Meridia i gryningens första ljus, och jag förstår nu varför sjöfarare som gjort denna resa förr talar om den med en stillhet som gränsar till respekt. Ön stiger ur vattnet som ett argument – inte som en inbjudan. Klipporna är höga och svarta mot himlen, och det är inte förrän man kommit nära nog att urskilja facklorna längs murarna som man inser att det faktiskt bor folk där uppe. Längst upp, synlig från två dagars håll, ligger Högobservatoriets silhuett som en krona man glömt ta av sig.
+>
+> Vi lade till i norrhamnen när solen ännu var låg. Kajen var redan full av folk – lossningsarbetare, tullmän i strikt uppknäppta rockar, pojkar som erbjöd bärhjälp på ett halvdussin olika språk. Jag hörde ardenariska, serthariska och ett mål som jag vid första anblicken trodde var gamlekyrathiska men sedan förstod var någon form av handelspidgin som uppstått ur behov snarare än ur grammatik. Meridia tar emot allt och sorterar om det till sin egen nytta – det är kanske dess mest grundläggande verksamhet.
+>
+> De som vill förstå Meridia bör börja med vattnet. Inte filosofin, inte kartorna, inte familjernas intriger – utan vattnet. Ön har ingen flod och knappt en källa, och ändå bor det fler folk här än i många kustfurstendömen med fruktsamma floddalar. Det är den paradox som aldrig nämns i de sånger man sjunger om stadsstatens storhet: den stad som bestämmer var världen börjar kan inte bestämma sig för att sluta växa, trots att varje tillkommande mun är ett ytterligare steg mot en kris man hoppas aldrig inträffar. Systemet av cisterner och pumpverk vid Vattenkajen är ett mästerverk. Det är också ett erkännande av ett misslyckande man aldrig direkt kommer att erkänna.
+>
+> Men allt detta fick jag förstå senare. Den morgonen stod jag vid relingen och lät det första solljuset falla på Klippväggens trappor, och för ett ögonblick förstod jag varför folk reser hit och glömmer att resa hem.
+
 > [!quote] [[Edrion Lomar]], _[[Rikets Hjärtblod]]_
 > Det finns de som hävdar att Meridia är världens mittpunkt, och meridierna ger dem skenbart rätt. Men sanningen är enklare och mer beundransvärd: Meridia blev världens mittpunkt för att dess invånare bestämde sig för att mäta världen, och den som mäter bestämmer var måttet börjar. Deras makt vilar inte på arméer eller flottor – även om de har gott om båda – utan på det faktum att varje kartograf på Prima ritar sina kartor med Meridia i centrum.
 
