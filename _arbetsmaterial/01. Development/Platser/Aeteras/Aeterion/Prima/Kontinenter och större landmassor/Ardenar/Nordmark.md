@@ -17,6 +17,9 @@
 > Nordmarks folk, härdade av kylan och tiden, har alltid betraktat stjärnorna som mer än bara himlakroppar – de är vägvisare, tecken från gudarna om kommande prövningar eller välsignelser. För dem är stjärnornas dans en påminnelse om att även i den mörkaste natt finns ljus att finna.
 > 
 
+> [!NOTE]- Collapse
+> dfvlkmf
+
 **Nordmark** är ett av de mest kända och inflytelserika riken på kontinenten **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]**, beläget i de norra delarna av kontinenten. Det är ett hårt och ogästvänligt land, känt för sitt kalla klimat, sina starka krigare, och en kultur som genomsyras av gamla traditioner och vidskepliga ritualer. Nordmark har en stolt historia av självständighet och strider, och dess folk har genom tiderna format ett rike byggt på **krigisk ära och överlevnad** i ett av de tuffaste klimaten på [[Prima]].
 ## Geografi och Klimat
 

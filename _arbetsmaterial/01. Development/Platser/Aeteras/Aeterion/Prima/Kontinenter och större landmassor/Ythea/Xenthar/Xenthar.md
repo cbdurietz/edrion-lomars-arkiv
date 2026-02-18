@@ -1,4 +1,4 @@
-#Plats #Nation 
+﻿#Plats #Nation 
 
 > [!quote] [[Edrion Lomar]]
 > Xenthar är ett imperium av överdåd och förödelse. Varje sten i dess vägar bär vikten av tusentals år av historia, och varje viskning i dess palats är en påminnelse om att makt är både en välsignelse och en förbannelse.
@@ -65,7 +65,7 @@ Samtidigt har Xenthar också många **fiender**, särskilt de riken som ligger u
 
 ### Kontakter bortom Ythea
 
-Xenthar har sporadisk kontakt med omvärlden, främst genom de få hamnstäder längs **[[Brända Kusten]]** som bedriver handel över **[[Stjärnhavet]]**. Imperiet har dock aldrig aktivt sökt utomkontinentala förbindelser — deras fokus ligger på dominans inom Ythea snarare än expansion bortom dess kuster. De varor som når andra kontinenter, som **[[Kyrathis|Kyrathis]]** och **[[Serthara|Serthara]]**, passerar framförallt genom oberoende köpmän i **[[Kaldris]]**, inte genom Xenthars egen flotta.
+Xenthar har sporadisk kontakt med omvärlden, främst genom de få hamnstäder längs **[[Brända Kusten]]** som bedriver handel över **[[Stjärnhavet]]**. Imperiet har dock aldrig aktivt sökt utomkontinentala förbindelser – deras fokus ligger på dominans inom Ythea snarare än expansion bortom dess kuster. De varor som når andra kontinenter, som **[[Kyrathis|Kyrathis]]** och **[[Serthara|Serthara]]**, passerar framförallt genom oberoende köpmän i **[[Kaldris]]**, inte genom Xenthars egen flotta.
 
 ## Mysterier och Legender
 

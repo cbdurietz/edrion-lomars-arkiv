@@ -1,6 +1,6 @@
-# Aeteras A VII
+﻿# Aeteras A VII
 
-> Världsbygge: **[[Drakis]]** — *Ishärskaren*
+> Världsbygge: **[[Drakis]]** – *Ishärskaren*
 
 ---
 

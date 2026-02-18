@@ -1,4 +1,4 @@
----
+﻿---
 titel: "Alternativ alvisk tolkning av brev från förman K."
 typ: "Marginalanteckning"
 forfattare: "Saelith Anorwen"
@@ -21,11 +21,11 @@ kommentar: >
 
 *Vad gäller språkbruket kring ”linjering” och ”fönster” varnar jag för att anta bokstavlig astronomi. Ritualiserade arbetsscheman knutna till årstidernas stjärnor är väl belagda bland dvärgiska gillen, särskilt de med starka förfäderstraditioner. Symbol och praktik är ofta sammanvävda i deras tunga.*
 
-*Den rapporterade känslan av ”avstånd” kan vara andlig snarare än rumslig. Att arbeta på platser där världen är sårad framkallar alienation — även hos dem som orsakade såret.*
+*Den rapporterade känslan av ”avstånd” kan vara andlig snarare än rumslig. Att arbeta på platser där världen är sårad framkallar alienation – även hos dem som orsakade såret.*
 
 *Jag förnekar inte att något här är fel. Jag förnekar endast att det nödvändigtvis måste vara någon annanstans.*
 
 *Ibland är det enklaste svaret det bittraste: jorden är trött, och dvärgarna har inte lyssnat.*
 
-— *Saelith Anorwen*  
+– *Saelith Anorwen*  
 *Väktare av de Västra Lunderna (emerita)*

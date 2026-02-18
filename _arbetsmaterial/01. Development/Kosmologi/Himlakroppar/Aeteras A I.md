@@ -1,6 +1,6 @@
-# Aeteras A I
+﻿# Aeteras A I
 
-> Världsbygge: **[[Thraxis]]** — *Den brände brodern*
+> Världsbygge: **[[Thraxis]]** – *Den brände brodern*
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 titel: "Arkivanteckning rörande brev från förman K."
 typ: "Arkivanteckning"
 forfattare: "Maeren Vald"
@@ -27,4 +27,4 @@ kommentar: >
 **Slutsats:**  
 *Ett praktiskt, om än bristfälligt kontextualiserat, stycke korrespondens rörande dvärgisk utvinning av okänt läge. Av värde främst som exempel på dvärgisk administrativ terminologi snarare än för sitt historiska innehåll.*
 
-*Arkiverat under: Dvärgar — Gruvdrift (spekulativ)*
+*Arkiverat under: Dvärgar – Gruvdrift (spekulativ)*

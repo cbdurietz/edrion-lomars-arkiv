@@ -1,4 +1,4 @@
-# Aeteras B
+﻿# Aeteras B
 
 > Världsbygge: **[[Umbrix]]**
 
@@ -22,13 +22,13 @@
 
 Aeteras B är det binära systemets sekundärstjärna. Från Prima syns den som en djupröd punkt som långsamt skiftar position över decennier. Dess rörelse är märkbar inom en människoålder och har gett upphov till generationskalendrar, omenläror och astrologiska system. Den påverkar inte planetklimaten direkt men influerar långperiodiska objekt, inklusive Vandraren.
 
-Tyngdpunkten (barycentern) för det binära systemet ligger ungefär 8,6 AU från Aeteras A — bortom Keveron men innanför Nycthor.
+Tyngdpunkten (barycentern) för det binära systemet ligger ungefär 8,6 AU från Aeteras A – bortom Keveron men innanför Nycthor.
 
 ---
 
 ## Transiter
 
-Med Aeteras B:s baninklination på ~6° relativt planetplanet är transiter framför Aeteras A (sett från Prima) extremt sällsynta. När de sker täcker Aeteras B bara ~0,02% av Aeteras A:s skiva — omärkligt utan instrument. Kulturella beskrivningar av att "Umbrix skymmer Aeterions strålar" bör förstås som mytologisk överdrift snarare än en faktisk synlig förmörkelse.
+Med Aeteras B:s baninklination på ~6° relativt planetplanet är transiter framför Aeteras A (sett från Prima) extremt sällsynta. När de sker täcker Aeteras B bara ~0,02% av Aeteras A:s skiva – omärkligt utan instrument. Kulturella beskrivningar av att "Umbrix skymmer Aeterions strålar" bör förstås som mytologisk överdrift snarare än en faktisk synlig förmörkelse.
 
 ---
 
@@ -38,7 +38,7 @@ Aeteras B:s Hill-sfär (gravitationellt inflytandeområde) sträcker sig ungefä
 
 ### Beboeliga zonen
 
-Med en luminositet på bara ~2% av Aeteras A ligger den beboeliga zonen vid ungefär **0,2–0,4 AU** — extremt nära stjärnan. Eventuella planeter i denna zon skulle sannolikt vara **tidvattenlåsta**: samma sida alltid vänd mot stjärnan, med en permanent dagsida badande i rött ljus och en permanent nattsida i evig mörker. Dämningszonen — gränslandet mellan dag och natt — skulle kunna hysa tempererade förhållanden.
+Med en luminositet på bara ~2% av Aeteras A ligger den beboeliga zonen vid ungefär **0,2–0,4 AU** – extremt nära stjärnan. Eventuella planeter i denna zon skulle sannolikt vara **tidvattenlåsta**: samma sida alltid vänd mot stjärnan, med en permanent dagsida badande i rött ljus och en permanent nattsida i evig mörker. Dämningszonen – gränslandet mellan dag och natt – skulle kunna hysa tempererade förhållanden.
 
 ### Möjliga planettyper
 
@@ -49,7 +49,7 @@ Med en luminositet på bara ~2% av Aeteras A ligger den beboeliga zonen vid unge
 
 ### Observerbarhet från Prima
 
-Vid 30 AU avstånd och med Aeteras B:s svaga ljus (~2% av Aeteras A) skulle planeter kring Aeteras B vara **i princip omöjliga att observera** från Prima med förmodern teknologi. De utgör en okänd del av systemet — en potentiell narrativ resurs:
+Vid 30 AU avstånd och med Aeteras B:s svaga ljus (~2% av Aeteras A) skulle planeter kring Aeteras B vara **i princip omöjliga att observera** från Prima med förmodern teknologi. De utgör en okänd del av systemet – en potentiell narrativ resurs:
 
 - Kulturer på Prima vet inte att dessa världar existerar
 - Lärda astronomer kan *teoretiskt* förutsäga att Aeteras B borde ha följeslagare, men saknar medel att bekräfta det

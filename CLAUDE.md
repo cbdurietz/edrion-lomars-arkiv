@@ -1,10 +1,10 @@
-# CLAUDE.md
+﻿# CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
 
-**Edrion Lomars arkiv** is a Swedish-language tabletop RPG campaign world presented as a scholarly archive. All content is written in Swedish. The repository is an Obsidian vault of markdown files — there are no build, lint, or test commands.
+**Edrion Lomars arkiv** is a Swedish-language tabletop RPG campaign world presented as a scholarly archive. All content is written in Swedish. The repository is an Obsidian vault of markdown files – there are no build, lint, or test commands.
 
 ## Core Design Principle: The Archive Principle
 
@@ -21,13 +21,13 @@ See `00-meta/vision.md` for the full design philosophy.
 
 ## Repository Structure
 
-- `00-meta/` — Project framework, principles, glossary (vision.md is the key document)
-- `01-arkiv/` — Polished archive material ready for use: fragments, chronicles, map notes
-- `02-volymer/` — Compiled thematic volumes on specific regions (Ardenar in progress)
-- `03-spelledare/` — Game master tools for using the archive in play
-- `_arbetsmaterial/` — Internal working/development material (raw content, not published)
-  - `01. Development/` — Active development organized by: Platser (Places), Personer (Characters), Folkslag (Peoples), Organisationer (Organizations), Religion, Väsen (Creatures), Material, Äventyr (Adventures)
-- `assets/` — Images and maps
+- `00-meta/` – Project framework, principles, glossary (vision.md is the key document)
+- `01-arkiv/` – Polished archive material ready for use: fragments, chronicles, map notes
+- `02-volymer/` – Compiled thematic volumes on specific regions (Ardenar in progress)
+- `03-spelledare/` – Game master tools for using the archive in play
+- `_arbetsmaterial/` – Internal working/development material (raw content, not published)
+  - `01. Development/` – Active development organized by: Platser (Places), Personer (Characters), Folkslag (Peoples), Organisationer (Organizations), Religion, Väsen (Creatures), Material, Äventyr (Adventures)
+- `assets/` – Images and maps
 
 ## Document Format
 

@@ -1,20 +1,20 @@
-**VARNING: Följande information är strikt för spelledarens ögon och innehåller hemlig världsbyggnadsinformation som kan förstöra upptäckten för spelare.**
+﻿**VARNING: Följande information är strikt för spelledarens ögon och innehåller hemlig världsbyggnadsinformation som kan förstöra upptäckten för spelare.**
 
 ---
 
 ## Den Sanna Naturen av Dvärgsamhället
 
-Dvärgarna är inte infödda på denna värld. De är kolonister från tvillingplaneten—den "karga" värld som syns på natthimlen och som allmänt tros vara livlös.
+Dvärgarna är inte infödda på denna värld. De är kolonister från tvillingplaneten–den "karga" värld som syns på natthimlen och som allmänt tros vara livlös.
 
 ### Tvillingplanetens Verklighet
 
-Tvillingplaneten är inte karg på grund av naturliga orsaker—den har förstörts genom industriell överexploatering. Under århundraden (eller möjligen årtusenden) har dvärgisk civilisation utvunnit, förbrukat och förorentat sin hemvärld till den punkt där den knappt kan upprätthålla liv. Skogarna är borta. Atmosfären är skadad. Ekosystemen har kollapsat.
+Tvillingplaneten är inte karg på grund av naturliga orsaker–den har förstörts genom industriell överexploatering. Under århundraden (eller möjligen årtusenden) har dvärgisk civilisation utvunnit, förbrukat och förorentat sin hemvärld till den punkt där den knappt kan upprätthålla liv. Skogarna är borta. Atmosfären är skadad. Ekosystemen har kollapsat.
 
-De "glittrande ljusen" som observeras på tvillingplanetens yta är inte atmosfäriska fenomen eller gudomliga tecken—de är städer, smedjor, fabriker och industriella anläggningar. Under gynnsamma observationsförhållanden ser människor bokstavligen dvärgisk civilisation fungera på en annan värld, men utan kontext eller förståelse för vad de tittar på.
+De "glittrande ljusen" som observeras på tvillingplanetens yta är inte atmosfäriska fenomen eller gudomliga tecken–de är städer, smedjor, fabriker och industriella anläggningar. Under gynnsamma observationsförhållanden ser människor bokstavligen dvärgisk civilisation fungera på en annan värld, men utan kontext eller förståelse för vad de tittar på.
 
 ### Portalsystemet
 
-Djupt inom de "dvärgiska hallarna" finns portaler som förbinder de två planeterna. Dessa portaler fungerar endast när tvillingplaneten är ovanför horisonten från portalens specifika plats. Detta skapar "fönster" för transport, vilket kräver att dvärgiska kolonier sprids över hela planeten för att upprätthålla konstant verksamhet—minst en portal är alltid öppen någonstans.
+Djupt inom de "dvärgiska hallarna" finns portaler som förbinder de två planeterna. Dessa portaler fungerar endast när tvillingplaneten är ovanför horisonten från portalens specifika plats. Detta skapar "fönster" för transport, vilket kräver att dvärgiska kolonier sprids över hela planeten för att upprätthålla konstant verksamhet–minst en portal är alltid öppen någonstans.
 
 **Portalens funktion:**
 
@@ -33,7 +33,7 @@ Vad som beskrivs som forntida, heliga hallar fyllda med skatter är i själva ve
 - **Klimatkontrollerade förvaringar:** För ömtåliga organiska material som inte kan lagras länge
 - **Säkerhetszon:** Nivåer av begränsad åtkomst kring portalen själv
 
-Ju djupare man går, desto närmare portalen kommer man—och desto dödligare blir säkerhetsåtgärderna.
+Ju djupare man går, desto närmare portalen kommer man–och desto dödligare blir säkerhetsåtgärderna.
 
 ### Handelns Sanna Natur
 
@@ -53,7 +53,7 @@ Dvärgarna driver en interplanetär utvinningsoperation:
 - Avancerad teknologi maskerad som "traditionellt hantverk"
 - Material utvunna från hemvärldens uttömda gruvor
 
-Det "exceptionella hantverket" är inte årtusenden av tradition—det är industriell produktion med tillgång till hemvärldens resurser och tekniker. En "uråldrig" dvärgisk artefakt kan vara tillverkad förra månaden på den andra planeten.
+Det "exceptionella hantverket" är inte årtusenden av tradition–det är industriell produktion med tillgång till hemvärldens resurser och tekniker. En "uråldrig" dvärgisk artefakt kan vara tillverkad förra månaden på den andra planeten.
 
 ### Den Hemliga Hierarkin
 
@@ -94,7 +94,7 @@ Gilleäldste upprätthåller hemligheten av två kritiska skäl:
 - Krav på tillträde till portaler eller teknologidelning skulle kunna uppstå
 - Hela det ekonomiska systemet som upprätthåller båda populationerna skulle kollapsa
 
-Äldste är inte skurkar—de är desperata förvaltare av en omöjlig situation som ärvts från generationer av miljöförstöring de inte orsakade.
+Äldste är inte skurkar–de är desperata förvaltare av en omöjlig situation som ärvts från generationer av miljöförstöring de inte orsakade.
 
 ### Alverens Instinkt
 
@@ -105,13 +105,13 @@ Alverna har rätt. De känner att något är fundamentalt fel:
 - Skogar nära dvärgiska fästen regenereras inte normalt
 - Jorden känns "tom" eller "dränerad" på sätt som alvisk känsla uppfattar men inte kan artikulera
 
-Alverna kan inte föreställa sig sanningen—att material bokstavligen lämnar _planeten_—så de anklagar dvärgar för slöseri, girighet och okänslig industrialism. De har fullständigt rätt men saknar det enda bevis som skulle bevisa det.
+Alverna kan inte föreställa sig sanningen–att material bokstavligen lämnar _planeten_–så de anklagar dvärgar för slöseri, girighet och okänslig industrialism. De har fullständigt rätt men saknar det enda bevis som skulle bevisa det.
 
 Dvärgarna kan peka på kontrakt, rättvisa priser och juridiska rättigheter, vilket tekniskt sett är sant, medan de vet att alvisk intuition har fångat något verkligt och fruktansvärt.
 
 ### Tvillingplanetens Kulturella Betydelse
 
-Den oförklarliga dvärgiska vördnaden för tvillingplaneten är inte ett mysterium—det är undertryckt sanning som läcker genom i kulturell form:
+Den oförklarliga dvärgiska vördnaden för tvillingplaneten är inte ett mysterium–det är undertryckt sanning som läcker genom i kulturell form:
 
 - Forntida ritualer hänvisade till hemvärlden explicit
 - Över generationer har minnet blivit metafor och myt
@@ -145,7 +145,7 @@ Den oförklarliga dvärgiska vördnaden för tvillingplaneten är inte ett myste
 - Säkerheten eskalerar kraftigt i "förbjudna zoner"
 - Inkonsekvenser i dvärgisk "historia" när granskad noga
 
-**Viktigt:** Denna hemlighet behöver aldrig avslöjas för att berika ditt spel. Det fungerar perfekt som strukturellt ramverk som gör dvärgar mer nyanserade, deras kultur mer begriplig och deras interaktioner rikare—oavsett om spelare någonsin lär sig sanningen.
+**Viktigt:** Denna hemlighet behöver aldrig avslöjas för att berika ditt spel. Det fungerar perfekt som strukturellt ramverk som gör dvärgar mer nyanserade, deras kultur mer begriplig och deras interaktioner rikare–oavsett om spelare någonsin lär sig sanningen.
 
 ### Moralisk Komplexitet
 

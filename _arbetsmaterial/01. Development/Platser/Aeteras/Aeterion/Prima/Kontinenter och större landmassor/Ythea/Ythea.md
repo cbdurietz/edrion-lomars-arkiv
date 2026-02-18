@@ -1,11 +1,11 @@
-#Plats #Kontinent 
+﻿#Plats #Kontinent 
 
 - **Kontinentens Beskrivning:**  
     [[Ythea|Ythea]] är en något mindre kontinent belägen långt österut, ofta kallad "Solens Land" av dem som bor på [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]], eftersom den ligger så långt österut att solen alltid verkar stiga därifrån. Ythea är en plats av mystik, med tät dimma som omsveper dess kuster och höga, imponerande bergskedjor som reser sig mot himlen. Många av dess inre regioner är nästan helt isolerade från varandra på grund av terrängen.
 - **Hav väster om Ythea:**
     **[[Stjärnhavet]]** breder ut sig väster om Ythea, mot **[[Kyrathis|Kyrathis]]** och **[[Serthara|Serthara]]**. Det är genom detta hav som den begränsade handeln med omvärlden sker, främst via hamnstaden **[[Kaldris]]** på den södra kusten.
 - **Hav öster om Ythea:**
-    **[[Dimhavet]]** ligger omedelbart öster om Ythea och skiljer kontinenten från **[[Dimöarna]]**. Det är ett litet men djupt hav, instängt mellan [[Ytharbergen|Ytharbergens]] östliga utlöpare och Dimöarnas bergiga öar, och i stort sett ständigt täckt av dimma. Bortom Dimöarna breder **[[Den Tysta Oceanen]]** ut sig — ett vidsträckt och till synes oändligt hav som sällan navigeras och som utgör den långa, alternativa sjövägen till **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** i fjärran väster.
+    **[[Dimhavet]]** ligger omedelbart öster om Ythea och skiljer kontinenten från **[[Dimöarna]]**. Det är ett litet men djupt hav, instängt mellan [[Ytharbergen|Ytharbergens]] östliga utlöpare och Dimöarnas bergiga öar, och i stort sett ständigt täckt av dimma. Bortom Dimöarna breder **[[Den Tysta Oceanen]]** ut sig – ett vidsträckt och till synes oändligt hav som sällan navigeras och som utgör den långa, alternativa sjövägen till **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]** i fjärran väster.
 - **Sjövägar:**
     Den mest direkta sjövägen mellan [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]] och [[Ythea|Ythea]] går österut via [[Skymningshavet]] förbi [[Serthara|Serthara]] och vidare över [[Stjärnhavet]], men kontinenterna kan också nås den långa vägen västerut över [[Den Tysta Oceanen]].
 - **Politisk Kontext:**  
@@ -28,7 +28,7 @@
 
 ---
 
-**Ythea** är en avlägsen och till stor del sluten kontinent på **[[Prima]]**, belägen långt österut — sydöst om **[[Serthara|Serthara]]** och bortom **[[Stjärnhavet]]** sett från **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]**. Kontinenten rymmer en rik historia av feodala riken, dynastier och klanvälden vars intriger sällan når omvärldens öron. Dess varierade landskap, från bördiga floddalar och djupa skogar till karga öknar och höga bergskedjor, har format isolerade folk och kulturer som under årtusenden har byggt städer och riken i relativ avskildhet från resten av [[Prima]]. Ythea är en plats där forntida traditioner och strikta hierarkier präglar vardagen, och där magi och filosofi är djupt sammanflätade med samhällets alla skikt.
+**Ythea** är en avlägsen och till stor del sluten kontinent på **[[Prima]]**, belägen långt österut – sydöst om **[[Serthara|Serthara]]** och bortom **[[Stjärnhavet]]** sett från **[[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]]**. Kontinenten rymmer en rik historia av feodala riken, dynastier och klanvälden vars intriger sällan når omvärldens öron. Dess varierade landskap, från bördiga floddalar och djupa skogar till karga öknar och höga bergskedjor, har format isolerade folk och kulturer som under årtusenden har byggt städer och riken i relativ avskildhet från resten av [[Prima]]. Ythea är en plats där forntida traditioner och strikta hierarkier präglar vardagen, och där magi och filosofi är djupt sammanflätade med samhällets alla skikt.
 ## Geografi och Klimat
 
 Ytheas geografi är lika varierad som dess kultur, med stora floder som skär genom kontinenten, djupa skogar och bördiga slätter i norr, medan ökenlandskap och bergskedjor dominerar de södra delarna. Kontinentens rika naturresurser har gjort det möjligt för flera riken att blomstra, men den svåra terrängen har samtidigt bidragit till att hålla dem isolerade från varandra och från omvärlden.
@@ -55,12 +55,12 @@ I södra Ythea breder **[[Silvansöknen]]** ut sig, ett kargt och torrt landskap
 Längs den södra kusten ligger den så kallade **[[Brända Kusten]]**, ett område som präglas av höga temperaturer och torra vindar. Trots de hårda förhållandena finns det längs Brända Kusten ett fåtal hamnstäder som bedriver begränsad handel med omvärlden, framförallt export av kryddor, ädelstenar och andra sällsynta varor som utvinns i Ytheas inre. Dessa hamnar utgör några av de få kontaktpunkterna mellan Ythea och övriga kontinenter.   
 ## Politiska Riken och Maktstrukturer
 
-Ythea har en lång historia av feodala riken, klaner och dynastier som konkurrerat om makt och territorium. Kontinentens politiska landskap har skiftat många gånger, och otaliga riken har uppstått och fallit. Idag domineras Ythea av ett fåtal större makter omgivna av ett virrvarr av småkungariken, klanvälden och oberoende stadsstater — alla indragna i ett ständigt skiftande nät av allianser, rivaliteter och vasallförhållanden.
+Ythea har en lång historia av feodala riken, klaner och dynastier som konkurrerat om makt och territorium. Kontinentens politiska landskap har skiftat många gånger, och otaliga riken har uppstått och fallit. Idag domineras Ythea av ett fåtal större makter omgivna av ett virrvarr av småkungariken, klanvälden och oberoende stadsstater – alla indragna i ett ständigt skiftande nät av allianser, rivaliteter och vasallförhållanden.
 
 ### Imperiet [[Xenthar]]
 
 - **Det dominerande riket vid Floden [[Amunir]]:**
-    **[[Xenthar]]** är det största och mäktigaste riket på [[Ythea|Ythea]], beläget längs floden Amunirs bördiga stränder. Riket har en lång historia av dynastiska maktkamper och territoriell expansion inom kontinenten, och dess huvudstad, **[[Xenthara]]**, är en av de mest storslagna städerna på Ythea — känd för sina palats, tempel och den strikta hierarki som genomsyrar allt från hovet till de lägsta skikten i samhället.
+    **[[Xenthar]]** är det största och mäktigaste riket på [[Ythea|Ythea]], beläget längs floden Amunirs bördiga stränder. Riket har en lång historia av dynastiska maktkamper och territoriell expansion inom kontinenten, och dess huvudstad, **[[Xenthara]]**, är en av de mest storslagna städerna på Ythea – känd för sina palats, tempel och den strikta hierarki som genomsyrar allt från hovet till de lägsta skikten i samhället.
 
 - **Kulturell och religiös makt:**
     [[Xenthar]] är inte bara en politisk maktfaktor, utan också det kulturella och religiösa centrumet på Ythea. Imperiet har under århundraden utvecklat en komplex religion, där sol- och månkulten spelar en central roll. Prästerna i [[Xenthar]] har ett starkt inflytande över politiken, och kejsaren anses vara en halvgud som får sin makt direkt från himlakropparna.
@@ -71,7 +71,7 @@ Ythea har en lång historia av feodala riken, klaner och dynastier som konkurrer
 ### Stadsstaten [[Kaldris]]
 
 - **En av Ytheas få hamnar med kontakter utåt:**
-    **[[Kaldris]]** är en stadsstat belägen längs den södra delen av Brända Kusten. Tack vare sitt läge vid **[[Stjärnhavet]]** har [[Kaldris]] blivit en av de få platserna på Ythea som bedriver regelbunden, om än begränsad, handel med **[[Kyrathis|Kyrathis]]** och **[[Serthara|Serthara]]**. Stadens marknad är känd för sina sällsynta varor — kryddor, ädelstenar och magiska ingredienser som lockar de köpmän från andra kontinenter som vågar sig hit.
+    **[[Kaldris]]** är en stadsstat belägen längs den södra delen av Brända Kusten. Tack vare sitt läge vid **[[Stjärnhavet]]** har [[Kaldris]] blivit en av de få platserna på Ythea som bedriver regelbunden, om än begränsad, handel med **[[Kyrathis|Kyrathis]]** och **[[Serthara|Serthara]]**. Stadens marknad är känd för sina sällsynta varor – kryddor, ädelstenar och magiska ingredienser som lockar de köpmän från andra kontinenter som vågar sig hit.
 
 - **Ett centrum för magi och lärdom:**
     [[Kaldris]] är också känt som ett centrum för **magi och lärdom** inom Ythea, med flera framstående akademier och bibliotek. Här studeras både naturvetenskap och magi, och staden har blivit en fristad för magiker och lärda från kontinentens olika riken. [[Kaldris]] styrs av ett råd av köpmän och magiker, och dess inflytande sträcker sig framförallt över de södra delarna av Ythea.
@@ -128,7 +128,7 @@ Ythea har en rik och mångfacetterad kultur, där religion, filosofi och magi sp
 
 ## Handel och Ekonomi
 
-[[Ythea|Ytheas]] ekonomi är till största delen intern, driven av handeln mellan kontinentens riken och regioner. Den begränsade kontakten med omvärlden gör dock de varor som når ut — framförallt lyxartiklar som kryddor, ädelstenar och sällsynta textilier — desto mer eftertraktade.
+[[Ythea|Ytheas]] ekonomi är till största delen intern, driven av handeln mellan kontinentens riken och regioner. Den begränsade kontakten med omvärlden gör dock de varor som når ut – framförallt lyxartiklar som kryddor, ädelstenar och sällsynta textilier – desto mer eftertraktade.
 
 ### Handelsvägar och Karavaner
 
@@ -142,14 +142,14 @@ Ythea har en rik och mångfacetterad kultur, där religion, filosofi och magi sp
 ### Hamnstäder och Begränsad Sjöfart
 
 - **[[Kaldris]] och de södra hamnarna:**
-    Ytheas södra kuster, längs **[[Brända Kusten]]**, hyser de få hamnstäder som upprätthåller kontakt med omvärlden. **[[Kaldris]]** är den viktigaste av dessa, och härifrån seglar skepp över **[[Stjärnhavet]]** till **[[Kyrathis|Kyrathis]]** och i sällsynta fall vidare. Exporten består främst av **kryddor, ädelstenar, sällsynta textilier och magiska ingredienser** — lyxvaror som betingar höga priser på andra kontinenter just på grund av Ytheas avskildhet.
+    Ytheas södra kuster, längs **[[Brända Kusten]]**, hyser de få hamnstäder som upprätthåller kontakt med omvärlden. **[[Kaldris]]** är den viktigaste av dessa, och härifrån seglar skepp över **[[Stjärnhavet]]** till **[[Kyrathis|Kyrathis]]** och i sällsynta fall vidare. Exporten består främst av **kryddor, ädelstenar, sällsynta textilier och magiska ingredienser** – lyxvaror som betingar höga priser på andra kontinenter just på grund av Ytheas avskildhet.
 
 - **Intern sjöfart:**
-    Inom Ythea har **[[Xenthar]]** en stark flotta som patrullerar kusten och floden [[Amunir]], men denna flotta tjänar främst interna syften — att säkra handelsvägar mellan rikena och skydda mot piratverksamhet snarare än att bedriva handel med andra kontinenter.
+    Inom Ythea har **[[Xenthar]]** en stark flotta som patrullerar kusten och floden [[Amunir]], men denna flotta tjänar främst interna syften – att säkra handelsvägar mellan rikena och skydda mot piratverksamhet snarare än att bedriva handel med andra kontinenter.
     
 
 ---
 
 ### Sammanfattning av Ythea
 
-**Ythea** är en avlägsen och sluten kontinent, där storslagna floder, enorma berg och ökenlandskap bildar scenen för feodala intriger och en rik men isolerad kultur. Kontinentens riken, som **[[Xenthar]]**, **[[Kaldris]]** och **[[Otharam]]**, kämpar om makt och inflytande sinsemellan, men Ythea förblir till stor del okänt för omvärlden. **Magi, filosofi och religion** genomsyrar varje aspekt av samhället, och de strikta traditioner och hierarkier som präglar Ytheas folk gör kontinenten till en av de mest fascinerande — och svårtillgängliga — platserna på [[Prima]].
+**Ythea** är en avlägsen och sluten kontinent, där storslagna floder, enorma berg och ökenlandskap bildar scenen för feodala intriger och en rik men isolerad kultur. Kontinentens riken, som **[[Xenthar]]**, **[[Kaldris]]** och **[[Otharam]]**, kämpar om makt och inflytande sinsemellan, men Ythea förblir till stor del okänt för omvärlden. **Magi, filosofi och religion** genomsyrar varje aspekt av samhället, och de strikta traditioner och hierarkier som präglar Ytheas folk gör kontinenten till en av de mest fascinerande – och svårtillgängliga – platserna på [[Prima]].

@@ -1,4 +1,4 @@
-# Aeteras-systemet
+﻿# Aeteras-systemet
 
 Kosmologisk referens för kampanjvärlden. Astronomiska beteckningar följer konventionen Aeteras A I–VIII för planeter kring primärstjärnan och Aeteras B I– för eventuella planeter kring sekundärstjärnan. För varje himlakropp anges även det namn som används i världsbygget.
 
@@ -10,9 +10,9 @@ Omloppsperioder är beräknade med Keplers tredje lag utifrån angiven halvaxel 
 
 Aeteras är ett **binärt stjärnsystem** bestående av:
 
-- **Aeteras A** (världsbygge: **Aeterion**) — en gul dvärgstjärna med ett fullständigt planetsystem av åtta planeter.
-- **Aeteras B** (världsbygge: **Umbrix**) — en avlägsen röd dvärgstjärna på ca 30 AU, med potentiellt eget planetsystem.
-- **Vandraren** — en himlakropp i starkt elliptisk, nästan polär bana som passerar genom det inre planetsystemet.
+- **Aeteras A** (världsbygge: **Aeterion**) – en gul dvärgstjärna med ett fullständigt planetsystem av åtta planeter.
+- **Aeteras B** (världsbygge: **Umbrix**) – en avlägsen röd dvärgstjärna på ca 30 AU, med potentiellt eget planetsystem.
+- **Vandraren** – en himlakropp i starkt elliptisk, nästan polär bana som passerar genom det inre planetsystemet.
 
 Alla åtta kända planeter kretsar kring Aeteras A. Umbrix befinner sig på tillräckligt nära avstånd för att vara tydligt synlig som en djupröd stjärna och spelar en aktiv roll i kalendersystem, mytbildning och astrologiska traditioner. Eventuella planeter kring Umbrix är okända från Prima.
 
@@ -33,7 +33,7 @@ Alla åtta kända planeter kretsar kring Aeteras A. Umbrix befinner sig på till
 | Yttemperatur | 5 780 K |
 | Färg | Varmvit-guld |
 
-Aeteras A är systemets gravitationella och kulturella centrum. En solanalog — i princip identisk med vår egen sol.
+Aeteras A är systemets gravitationella och kulturella centrum. En solanalog – i princip identisk med vår egen sol.
 
 → *Se [[Aeteras A]] för fullständiga parametrar.*
 
@@ -55,7 +55,7 @@ Aeteras A är systemets gravitationella och kulturella centrum. En solanalog —
 
 Umbrix syns från Prima som en djupröd punkt som långsamt skiftar position över decennier. Dess rörelse är märkbar inom en människoålder och har gett upphov till generationskalendrar, omenläror och astrologiska system. Den påverkar inte planetklimaten direkt men influerar långperiodiska objekt, inklusive Vandraren.
 
-Tyngdpunkten (barycentern) för det binära systemet ligger ungefär 8,6 AU från Aeteras A — bortom Keveron men innanför Nycthor.
+Tyngdpunkten (barycentern) för det binära systemet ligger ungefär 8,6 AU från Aeteras A – bortom Keveron men innanför Nycthor.
 
 → *Se [[Aeteras B]] för fullständiga parametrar, transiter och möjligt planetsystem.*
 
@@ -69,7 +69,7 @@ Alla planeter kretsar i samma riktning (prograd) och deras banplan ligger inom 2
 
 ### Aeteras A I
 
-> Världsbygge: **[[Thraxis]]** — *Den brände brodern*
+> Världsbygge: **[[Thraxis]]** – *Den brände brodern*
 
 | Parameter | Värde |
 |---|---|
@@ -86,7 +86,7 @@ En bränd, tidvattenspåverkad inre värld utan atmosfär. Sällan synlig med bl
 
 ### Aeteras A II
 
-> Världsbygge: **[[Varun]]** — *Den beslöjade ugnen*, *Den dolda lågan*
+> Världsbygge: **[[Varun]]** – *Den beslöjade ugnen*, *Den dolda lågan*
 
 | Parameter | Värde |
 |---|---|
@@ -97,13 +97,13 @@ En bränd, tidvattenspåverkad inre värld utan atmosfär. Sällan synlig med bl
 | Typ | Tät växthusatmosfär (Venus-lik) |
 | Excentricitet | 0,02 |
 
-Tjocka moln döljer en överhettad yta. Synlig från Prima som en lysande morgon- eller aftonstjärna — den starkaste "vandraren" på himlavalvet näst efter Sekara.
+Tjocka moln döljer en överhettad yta. Synlig från Prima som en lysande morgon- eller aftonstjärna – den starkaste "vandraren" på himlavalvet näst efter Sekara.
 
 ---
 
 ### Aeteras A III
 
-> Världsbygge: **[[Prima]]** — *Den levande världen*. Kampanjvärldens hemvist.
+> Världsbygge: **[[Prima]]** – *Den levande världen*. Kampanjvärldens hemvist.
 
 | Parameter     | Värde                     |     |
 | ------------- | ------------------------- | --- |
@@ -115,7 +115,7 @@ Tjocka moln döljer en överhettad yta. Synlig från Prima som en lysande morgon
 | Excentricitet | 0,015                     |     |
 | True Anomaly  | 0° (referens)             |     |
 
-Prima är systemets tredje planet och den värld där Ardenar, Kyrathis, Serthara och de övriga kontinenterna befinner sig. Hav, kontinenter och årstider i ett tempererat klimat. Vid 1,1 AU med 1,0 L☉ tar Prima emot ungefär 83% av den solstrålning Jorden får — något svalare, men med rätt atmosfärisk sammansättning fullt tempererad.
+Prima är systemets tredje planet och den värld där Ardenar, Kyrathis, Serthara och de övriga kontinenterna befinner sig. Hav, kontinenter och årstider i ett tempererat klimat. Vid 1,1 AU med 1,0 L☉ tar Prima emot ungefär 83% av den solstrålning Jorden får – något svalare, men med rätt atmosfärisk sammansättning fullt tempererad.
 
 #### Måne och tidräkning
 
@@ -137,7 +137,7 @@ Prima har en måne, **[[Vael]]**, med 30 dagars omloppsperiod. Vaels cykel delar
 
 ### Aeteras A IV
 
-> Världsbygge: **[[Sekara]]** — *Den gröna systern*, *Tvillingsjälen*
+> Världsbygge: **[[Sekara]]** – *Den gröna systern*, *Tvillingsjälen*
 
 | Parameter | Värde |
 |---|---|
@@ -152,7 +152,7 @@ Prima har en måne, **[[Vael]]**, med 30 dagars omloppsperiod. Vaels cykel delar
 | Elongation från Aeteras | ~60° (nästan konstant) |
 | Avstånd från Prima | ~1,1 AU (konstant) |
 
-Sekara delar omloppsbana med Prima i en stabil trojansk konfiguration vid L5-punkten — 60° *efter* Prima i banan. Permanent aftonstjärna, natthimlens starkaste objekt. Synligheten varierar med årstid och latitud (~2–5 timmar efter solnedgång). Mörk, rödaktig yta med oförklarade ljusfenomen — centralt objekt i mytbildning och astrologiska traditioner.
+Sekara delar omloppsbana med Prima i en stabil trojansk konfiguration vid L5-punkten – 60° *efter* Prima i banan. Permanent aftonstjärna, natthimlens starkaste objekt. Synligheten varierar med årstid och latitud (~2–5 timmar efter solnedgång). Mörk, rödaktig yta med oförklarade ljusfenomen – centralt objekt i mytbildning och astrologiska traditioner.
 
 → *Se [[Aeteras A IV]] för trojansk dynamik, variabel synlighet och fysiska egenskaper.*
 
@@ -160,7 +160,7 @@ Sekara delar omloppsbana med Prima i en stabil trojansk konfiguration vid L5-pun
 
 ### Aeteras A V
 
-> Världsbygge: **[[Thalorn]]** — *Den förlorade systern*
+> Världsbygge: **[[Thalorn]]** – *Den förlorade systern*
 
 | Parameter | Värde |
 |---|---|
@@ -171,15 +171,15 @@ Sekara delar omloppsbana med Prima i en stabil trojansk konfiguration vid L5-pun
 | Typ | Super-jord |
 | Excentricitet | 0,04 |
 
-En massiv klippvärld strax utanför den beboeliga zonen — för stor och kall för att vara beboelig på samma sätt som Prima och Sekara. Dess existens nära tvillingparet har potential att spela roll i mytbildning: en "tredje syster" som aldrig fick liv, en förlorad värld, eller en kropp med egna hemligheter.
+En massiv klippvärld strax utanför den beboeliga zonen – för stor och kall för att vara beboelig på samma sätt som Prima och Sekara. Dess existens nära tvillingparet har potential att spela roll i mytbildning: en "tredje syster" som aldrig fick liv, en förlorad värld, eller en kropp med egna hemligheter.
 
-> **Not om beboelighet:** Thalorn vid 1,7 AU tar emot ~35% av Jordens solstrålning. Det gör den kall men inte nödvändigtvis livlös. Som super-jord kan den hålla kvar en tät atmosfär som skapar en stark växthuseffekt. Flytande vatten under ytan eller i vulkaniska zoner är inte uteslutet. Den "döda systern" kanske inte är så död som mytologin vill göra gällande — en potentiellt intressant spänning mellan narrativ och verklighet.
+> **Not om beboelighet:** Thalorn vid 1,7 AU tar emot ~35% av Jordens solstrålning. Det gör den kall men inte nödvändigtvis livlös. Som super-jord kan den hålla kvar en tät atmosfär som skapar en stark växthuseffekt. Flytande vatten under ytan eller i vulkaniska zoner är inte uteslutet. Den "döda systern" kanske inte är så död som mytologin vill göra gällande – en potentiellt intressant spänning mellan narrativ och verklighet.
 
 ---
 
 ### Aeteras A VI
 
-> Världsbygge: **[[Keveron]]** — *Den store väktaren*
+> Världsbygge: **[[Keveron]]** – *Den store väktaren*
 
 | Parameter | Värde |
 |---|---|
@@ -196,7 +196,7 @@ Systemets största planet. Ligger nära frostlinjen (~3,0 AU för en solanalog),
 
 ### Aeteras A VII
 
-> Världsbygge: **[[Drakis]]** — *Ishärskaren*
+> Världsbygge: **[[Drakis]]** – *Ishärskaren*
 
 | Parameter | Värde |
 |---|---|
@@ -213,7 +213,7 @@ Den större av systemets två isjättar. Sannolikt omgiven av flera månar.
 
 ### Aeteras A VIII
 
-> Världsbygge: **[[Nycthor]]** — *Den nattlige*
+> Världsbygge: **[[Nycthor]]** – *Den nattlige*
 
 | Parameter | Värde |
 |---|---|
@@ -226,7 +226,7 @@ Den större av systemets två isjättar. Sannolikt omgiven av flera månar.
 
 Den yttre, mindre isjätten. Systemets mest avlägsna kända planet.
 
-> **Not om orbitalstabilitet:** Med Umbrix på 30 AU (närmaste avstånd ~27,6 AU vid periapsis) hamnar den kritiska stabilitetsradien för planeter kring Aeteras A på ungefär 9,6 AU. Nycthor vid 8,1 AU ligger innanför denna gräns och är alltså stabil — men med knappt 1,5 AU marginal. Det gör Nycthor till systemets mest perturberade planet: dess bana uppvisar sannolikt mätbara variationer över sekelskala på grund av Umbrix gravitationella inflytande. Astronomer på Prima som studerar Nycthor tillräckligt länge skulle kunna se dessa avvikelser — ett potentiellt narrativt verktyg för att avslöja Umbrix existens för kulturer som ännu inte har observerat den direkt.
+> **Not om orbitalstabilitet:** Med Umbrix på 30 AU (närmaste avstånd ~27,6 AU vid periapsis) hamnar den kritiska stabilitetsradien för planeter kring Aeteras A på ungefär 9,6 AU. Nycthor vid 8,1 AU ligger innanför denna gräns och är alltså stabil – men med knappt 1,5 AU marginal. Det gör Nycthor till systemets mest perturberade planet: dess bana uppvisar sannolikt mätbara variationer över sekelskala på grund av Umbrix gravitationella inflytande. Astronomer på Prima som studerar Nycthor tillräckligt länge skulle kunna se dessa avvikelser – ett potentiellt narrativt verktyg för att avslöja Umbrix existens för kulturer som ännu inte har observerat den direkt.
 
 ---
 
@@ -240,7 +240,7 @@ Umbrix Hill-sfär (~15 AU) tillåter stabila planetbanor inom ~5 AU. Beboeliga z
 
 ## Vandraren
 
-> Världsbygge: **[[Vandraren]]**. Astronomiskt ej numrerad — banan korsar det inre planetsystemet men sträcker sig långt bortom Umbrix.
+> Världsbygge: **[[Vandraren]]**. Astronomiskt ej numrerad – banan korsar det inre planetsystemet men sträcker sig långt bortom Umbrix.
 
 | Parameter | Värde |
 |---|---|
@@ -251,7 +251,7 @@ Umbrix Hill-sfär (~15 AU) tillåter stabila planetbanor inom ~5 AU. Beboeliga z
 | Period | ~150–200 år |
 | Diameter | 30–80 km |
 
-Stor iskropp i extremt elliptisk, nästan polär bana som korsar planetplanet vinkelrätt. Passerar det inre systemet var sjätte till åttonde generation. Banan påverkas av båda stjärnorna och uppvisar sekulära variationer. Cirkumbinär dynamik — korsar båda stjärnornas gravitationella domäner.
+Stor iskropp i extremt elliptisk, nästan polär bana som korsar planetplanet vinkelrätt. Passerar det inre systemet var sjätte till åttonde generation. Banan påverkas av båda stjärnorna och uppvisar sekulära variationer. Cirkumbinär dynamik – korsar båda stjärnornas gravitationella domäner.
 
 → *Se [[Vandraren]] för fullständig orbitaldynamik, cirkumbinära banor, observationscykel och kulturell betydelse.*
 
@@ -259,7 +259,7 @@ Stor iskropp i extremt elliptisk, nästan polär bana som korsar planetplanet vi
 
 ## Astronomiska fenomen och observationsnoter
 
-> **Not om Umbrix-transiter:** Med Umbrix baninklination på ~6° relativt planetplanet är transiter av Umbrix framför Aeterion (sett från Prima) extremt sällsynta. När de sker täcker Umbrix bara ~0,02% av Aeterions skiva — omärkligt utan instrument. Kulturella beskrivningar av att "Umbrix skymmer Aeterions strålar" bör förstås som mytologisk överdrift eller som en beskrivning av bredare konjunktionsfenomen (t.ex. aurora, magnetiska störningar) snarare än en faktisk synlig förmörkelse.
+> **Not om Umbrix-transiter:** Med Umbrix baninklination på ~6° relativt planetplanet är transiter av Umbrix framför Aeterion (sett från Prima) extremt sällsynta. När de sker täcker Umbrix bara ~0,02% av Aeterions skiva – omärkligt utan instrument. Kulturella beskrivningar av att "Umbrix skymmer Aeterions strålar" bör förstås som mytologisk överdrift eller som en beskrivning av bredare konjunktionsfenomen (t.ex. aurora, magnetiska störningar) snarare än en faktisk synlig förmörkelse.
 
 ---
 
@@ -273,17 +273,17 @@ Stor iskropp i extremt elliptisk, nästan polär bana som korsar planetplanet vi
 - **Umbrix** glöder djupröd och skiftar långsamt position över decennier.
 - **Varun** skimrar som morgon- eller aftonstjärna.
 - **Keveron** syns som en ljusstark punkt som rör sig sakta bland stjärnorna.
-- **Vandraren** dyker upp en gång vart par århundraden — en lysande komet med svans som korsar himlen i brant vinkel från en oväntad riktning.
+- **Vandraren** dyker upp en gång vart par århundraden – en lysande komet med svans som korsar himlen i brant vinkel från en oväntad riktning.
 
 ---
 
 ## Kosmologiska teman
 
-- **Dualitet** — Aeterion / Umbrix, ljus och glöd, guld och rött
-- **Tvillingskap** — Prima och Sekara, spegelvärldar i samma bana
-- **Stabilitet kontra vandrande** — det ordnade planetsystemet mot Vandrarens vilda, polära bana
-- **Cykler längre än människoliv** — Umbrix rörelse (generationer), Vandrarens återkomst (århundraden)
-- **Det kända och det okända** — Aeteras A:s synliga planeter mot Aeteras B:s osynliga, möjliga världar
+- **Dualitet** – Aeterion / Umbrix, ljus och glöd, guld och rött
+- **Tvillingskap** – Prima och Sekara, spegelvärldar i samma bana
+- **Stabilitet kontra vandrande** – det ordnade planetsystemet mot Vandrarens vilda, polära bana
+- **Cykler längre än människoliv** – Umbrix rörelse (generationer), Vandrarens återkomst (århundraden)
+- **Det kända och det okända** – Aeteras A:s synliga planeter mot Aeteras B:s osynliga, möjliga världar
 
 ---
 
@@ -291,7 +291,7 @@ Stor iskropp i extremt elliptisk, nästan polär bana som korsar planetplanet vi
 
 | Beteckning     | Världsbygge       | Typ             | Avstånd (AU) | Period      | Not                        |
 | -------------- | ----------------- | --------------- | ------------ | ----------- | -------------------------- |
-| Aeteras A      | **[[Aeterion]]**  | G2V gul dvärg   | —            | —           | Primärstjärna, 1,0 M☉      |
+| Aeteras A      | **[[Aeterion]]**  | G2V gul dvärg   | –            | –           | Primärstjärna, 1,0 M☉      |
 | Aeteras B      | **[[Umbrix]]**    | M3V röd dvärg   | 30           | ~139 år     | Sekundärstjärna, 0,4 M☉    |
 | Aeteras A I    | **[[Thraxis]]**   | Klippvärld      | 0,4          | 92 d        | Luftlös, bränd             |
 | Aeteras A II   | **[[Varun]]**     | Växthusvärd     | 0,7          | 214 d       | Venus-lik                  |
@@ -301,8 +301,8 @@ Stor iskropp i extremt elliptisk, nästan polär bana som korsar planetplanet vi
 | Aeteras A VI   | **[[Keveron]]**   | Gasjätte        | 3,2          | 5,7 år      | Systemväktare              |
 | Aeteras A VII  | **[[Drakis]]**    | Isjätte         | 5,4          | 12,6 år     | Större isjätte             |
 | Aeteras A VIII | **[[Nycthor]]**   | Liten isjätte   | 8,1          | 23,1 år     | Nära stabilitetsgräns      |
-| Aeteras B I–?  | *Okända*          | *Okänt*         | ~0,1–5       | —           | Ej observerbara från Prima |
-| —              | **[[Vandraren]]** | Komet/iskropp   | 1,5–80       | ~150–200 år | Polär bana, e≈0,95         |
+| Aeteras B I–?  | *Okända*          | *Okänt*         | ~0,1–5       | –           | Ej observerbara från Prima |
+| –              | **[[Vandraren]]** | Komet/iskropp   | 1,5–80       | ~150–200 år | Polär bana, e≈0,95         |
 
 ---
 

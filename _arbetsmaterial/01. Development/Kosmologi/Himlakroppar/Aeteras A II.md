@@ -1,6 +1,6 @@
-# Aeteras A II
+﻿# Aeteras A II
 
-> Världsbygge: **[[Varun]]** — *Den beslöjade ugnen*, *Den dolda lågan*
+> Världsbygge: **[[Varun]]** – *Den beslöjade ugnen*, *Den dolda lågan*
 
 ---
 
@@ -19,4 +19,4 @@
 
 ## Beskrivning
 
-Tjocka moln döljer en överhettad yta. Synlig från Prima som en lysande morgon- eller aftonstjärna — den starkaste "vandraren" på himlavalvet näst efter Sekara.
+Tjocka moln döljer en överhettad yta. Synlig från Prima som en lysande morgon- eller aftonstjärna – den starkaste "vandraren" på himlavalvet näst efter Sekara.

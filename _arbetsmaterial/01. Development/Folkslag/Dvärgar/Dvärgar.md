@@ -1,6 +1,6 @@
-#Folk 
+﻿#Folk 
 
-**Dvärgar** är ett ståndaktigt och arbetssamt folk känt över hela riket för sitt exceptionella hantverk, sin handelsskicklighet och sina tillbakadragna bergsbosättningar. Organiserat i mäktiga handelsgiller kretsar dvärgarnas samhälle kring gruvdrift, metallurgi och handel, med deras varor—särskilt metallarbeten, stenhantverk och ädla material—som kommenderar förstklassiga priser på marknader över alla länder.
+**Dvärgar** är ett ståndaktigt och arbetssamt folk känt över hela riket för sitt exceptionella hantverk, sin handelsskicklighet och sina tillbakadragna bergsbosättningar. Organiserat i mäktiga handelsgiller kretsar dvärgarnas samhälle kring gruvdrift, metallurgi och handel, med deras varor–särskilt metallarbeten, stenhantverk och ädla material–som kommenderar förstklassiga priser på marknader över alla länder.
 
 ## Bosättningar och territorium
 
@@ -35,7 +35,7 @@ Dvärgar är produktiva handelsmän som huvudsakligen handlar med:
 -   Stenvaror och arkitektoniska element
 -   Vapen och rustningar
 
-Märkligt nog är dvärgar även betydande _inköpare_ av organiska material—timmer, livsmedel, textilier och animaliska produkter—i kvantiteter som verkar överdrivna för deras uppenbara befolkningsstorlekar. De förklarar detta som nödvändigt för deras smedjor och stora underjordiska populationer, även om vissa (särskilt alver) ifrågasätter omfattningen av deras konsumtion.
+Märkligt nog är dvärgar även betydande _inköpare_ av organiska material–timmer, livsmedel, textilier och animaliska produkter–i kvantiteter som verkar överdrivna för deras uppenbara befolkningsstorlekar. De förklarar detta som nödvändigt för deras smedjor och stora underjordiska populationer, även om vissa (särskilt alver) ifrågasätter omfattningen av deras konsumtion.
 
 ## Relationer med andra folkslag
 
@@ -53,7 +53,7 @@ Antipatin verkar ömsesidig, med dvärgar som ser alver som opraktiska idealiste
 
 Dvärgar praktiserar en form av förfadersdyrkan kombinerad med vördnad för "Den Första Smedjan" och "Den Eviga Stenen". Religiösa ceremonier genomförs privat inom fästena, med gillesäldste som tjänstgör som andliga ledare.
 
-Unikt bland folkslagen håller dvärgar särskild betydelse för **[Tvillingplanetens namn]**, den karga tvillingvärlden synlig på natthimlen. Medan de flesta kulturer associerar den döda världen med diverse gudomliga eller efterlivsmyter, talar dvärgar om den med ovanlig vördnad och kallar den "Höga Stenen" eller "Tyst Förfader" (namnen varierar per region). Dvärgiska myndighetsriter involverar ofta nattvigiler under dess ljus, och många dvärgar rapporterar att de känner en oförklarlig koppling till den avlägsna världen—ett fenomen de tillskriver förfädersandar eller gudomlig kallelse.
+Unikt bland folkslagen håller dvärgar särskild betydelse för **[Tvillingplanetens namn]**, den karga tvillingvärlden synlig på natthimlen. Medan de flesta kulturer associerar den döda världen med diverse gudomliga eller efterlivsmyter, talar dvärgar om den med ovanlig vördnad och kallar den "Höga Stenen" eller "Tyst Förfader" (namnen varierar per region). Dvärgiska myndighetsriter involverar ofta nattvigiler under dess ljus, och många dvärgar rapporterar att de känner en oförklarlig koppling till den avlägsna världen–ett fenomen de tillskriver förfädersandar eller gudomlig kallelse.
 
 ## Mysterier och spekulationer
 

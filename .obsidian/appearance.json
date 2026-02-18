@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "supercharged-links-gen"
+  ]
+}

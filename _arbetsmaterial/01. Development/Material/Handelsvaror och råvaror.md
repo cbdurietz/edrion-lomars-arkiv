@@ -1,4 +1,4 @@
-# Handelsvaror och råvaror på Prima
+﻿# Handelsvaror och råvaror på Prima
 
 Denna artikel sammanställer de råvaror, handelsvaror och naturresurser som omnämns i arkivets olika texter, organiserade efter kategori och ursprung. Syftet är att ge en överblick över vad som produceras var, och att ligga till grund för en mer detaljerad kartläggning av [[Prima|Primas]] handelsnätverk.
 
@@ -8,7 +8,7 @@ Denna artikel sammanställer de råvaror, handelsvaror och naturresurser som omn
 
 ### Astraliumkristaller
 **Ursprung:** [[Kharanos]]
-Sällsynta, skimrande kristaller som varierar i färg — vanligast djupblå eller violetta — med ett inre sken som liknar stjärnljus. I [[Kharanos]] förklaras deras kraft med en koppling till stjärnorna, men lärda på andra håll har spekulerat i att kristallerna snarare lagrar och förstärker [[Aether]]. Används av [[Astromantiker|astromantiker]] i ritualer och av [[Alkemist|alkemister]] och magiker i amuletter och besvärjelser. En av de mest eftertraktade handelsvarorna på [[Prima]]. Se [[Astralium]] för fullständig beskrivning.
+Sällsynta, skimrande kristaller som varierar i färg – vanligast djupblå eller violetta – med ett inre sken som liknar stjärnljus. I [[Kharanos]] förklaras deras kraft med en koppling till stjärnorna, men lärda på andra håll har spekulerat i att kristallerna snarare lagrar och förstärker [[Aether]]. Används av [[Astromantiker|astromantiker]] i ritualer och av [[Alkemist|alkemister]] och magiker i amuletter och besvärjelser. En av de mest eftertraktade handelsvarorna på [[Prima]]. Se [[Astralium]] för fullständig beskrivning.
 
 ### Järn
 **Ursprung:** [[Nordmark]], [[Thalios]], [[Otharam]]
@@ -28,14 +28,14 @@ Handelsmetall med bred användning.
 
 ### Vulkanzonens mineraler
 **Ursprung:** Nordöstra [[Kyrathis]], sydvästra [[Serthara]], [[Djävulshavet|Djävulshavets]] havsbotten
-Den geologiskt aktiva zonen längs plattgränsen mellan [[Kyrathis]] och [[Serthara]] — som löper genom [[Djävulshavet]] — ger upphov till mineraler, kristaller och metaller som inte återfinns på andra håll. [[Melethis]] och dess magiska akademi är det främsta centrumet för handel med dessa material. Se [[Vulkanzonens mineraler]] för fullständig beskrivning. De viktigaste är:
+Den geologiskt aktiva zonen längs plattgränsen mellan [[Kyrathis]] och [[Serthara]] – som löper genom [[Djävulshavet]] – ger upphov till mineraler, kristaller och metaller som inte återfinns på andra håll. [[Melethis]] och dess magiska akademi är det främsta centrumet för handel med dessa material. Se [[Vulkanzonens mineraler]] för fullständig beskrivning. De viktigaste är:
 
-- **Ignarit** — mörkröd kristall som lagrar Eld-präglad [[Aether]]. Energikälla för alkemister och magientister, material för eldmagiska vapen. Den mest omsatta av vulkanzonens mineraler.
-- **Svartskal** — vulkaniskt glas som blockerar Aether-flöden. Används för isolering och lagring av instabil magi.
-- **Djupeld** — extremt sällsynt metall från Djävulshavets undervattensventiler. Bär prägel av både Eld och Vatten — en teoretisk omöjlighet som gör den ovärderlig för forskning.
-- **Askite** — porös sten som absorberar Död-präglad Aether. Restriktionsbelagd handelsvara.
-- **Thalite** — grönblå kristall som neutraliserar Aether-präglar. Viktig för alkemi och magisk arkitektur.
-- **Flödeskvarts** — gyllene kvarts med Jord-präglad resonans. Stapelvara i konstruktion och befästningsarbete.
+- **Ignarit** – mörkröd kristall som lagrar Eld-präglad [[Aether]]. Energikälla för alkemister och magientister, material för eldmagiska vapen. Den mest omsatta av vulkanzonens mineraler.
+- **Svartskal** – vulkaniskt glas som blockerar Aether-flöden. Används för isolering och lagring av instabil magi.
+- **Djupeld** – extremt sällsynt metall från Djävulshavets undervattensventiler. Bär prägel av både Eld och Vatten – en teoretisk omöjlighet som gör den ovärderlig för forskning.
+- **Askite** – porös sten som absorberar Död-präglad Aether. Restriktionsbelagd handelsvara.
+- **Thalite** – grönblå kristall som neutraliserar Aether-präglar. Viktig för alkemi och magisk arkitektur.
+- **Flödeskvarts** – gyllene kvarts med Jord-präglad resonans. Stapelvara i konstruktion och befästningsarbete.
 
 ### Ädelträ
 **Ursprung:** [[Solarithar]]
@@ -161,19 +161,19 @@ Brygder och preparat framställda av [[Alkemist|alkemister]] med hjälp av säll
 
 | Region | Exporterar | Importerar |
 |--------|-----------|------------|
-| [[Solarithar]] | Vin, olivolja, ädelträ, lyxvaror | — |
-| [[Nordmark]] | Järn, timmer, pälsar | — |
-| [[Vernedia]] | Spannmål, vin, alkemiska preparat | — |
+| [[Solarithar]] | Vin, olivolja, ädelträ, lyxvaror | – |
+| [[Nordmark]] | Järn, timmer, pälsar | – |
+| [[Vernedia]] | Spannmål, vin, alkemiska preparat | – |
 | [[Kharanos]] | Astraliumkristaller | Isolerat; minimalt importberoende |
 | [[Wendisarien]] | Heliga örter, drakreliker, magiska artefakter | Metallverktyg, tyger, spannmål |
-| [[Thalios]] | Järn, koppar, mineraler | — |
+| [[Thalios]] | Järn, koppar, mineraler | – |
 | [[Lornhaven]] | Strategiskt handelscentrum | Järn, pälsar, timmer från Nordmark |
 
 ### Kyrathis
 
 | Region | Exporterar | Importerar |
 |--------|-----------|------------|
-| [[Solarith]] | Kryddor, ädelstenar, exotiska varor | — |
+| [[Solarith]] | Kryddor, ädelstenar, exotiska varor | – |
 | [[Melethis]] | Magiska artefakter, alkemiska produkter | Sällsynta mineraler från vulkanzonen |
 
 ### Ythea
@@ -187,7 +187,7 @@ Brygder och preparat framställda av [[Alkemist|alkemister]] med hjälp av säll
 
 | Region | Exporterar | Importerar |
 |--------|-----------|------------|
-| [[Serthara]] | Kryddor, örter, magiska artefakter, alkemiska ingredienser | — |
+| [[Serthara]] | Kryddor, örter, magiska artefakter, alkemiska ingredienser | – |
 | [[Aeloria]] | Isblommor, frostkristaller, pälsar, tran, valrossben, ambra | Timmer, spannmål, torkade livsmedel, textilier, medicinalörter |
 | Dvärgar | Metaller, legeringar, ädelstenar, vapen, stenprodukter | Timmer, livsmedel, textilier, animalieprodukter |
 
@@ -199,4 +199,4 @@ Brygder och preparat framställda av [[Alkemist|alkemister]] med hjälp av säll
 - **[[Lornhaven]]** beskrivs som ett strategiskt handelscentrum, men det saknas detaljer om vilka varor som faktiskt passerar genom staden.
 - **[[Thalios]]** nämns som metallexportör men saknar en utvecklad artikel.
 - Flera regioner på [[Serthara]] saknar specificerade export- och importvaror.
-- Handelsflödena mellan kontinenterna — särskilt de som påverkas av [[Djävulshavet|Djävulshavets]] blockering av sjövägen mellan [[Skymningshavet]] och [[Stjärnhavet]] — behöver utvecklas ytterligare.
+- Handelsflödena mellan kontinenterna – särskilt de som påverkas av [[Djävulshavet|Djävulshavets]] blockering av sjövägen mellan [[Skymningshavet]] och [[Stjärnhavet]] – behöver utvecklas ytterligare.

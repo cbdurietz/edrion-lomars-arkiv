@@ -1,4 +1,4 @@
-#Kontinent
+﻿#Kontinent
 
 > [!quote] [[Edrion Lomar]], _[[Över Hav och Djup]]_
 > Aelorias isande vindar bär med sig både tystnad och fara. Här, där snön aldrig smälter och mörkret dominerar under större delen av året, lever folket inte – de kämpar. Varje steg på denna frusna mark är en påminnelse om att naturen alltid har övertaget.
@@ -22,7 +22,7 @@
 
 ### 1. **Geografi och Klimat**
 
-Aeloria är täckt av is och snö året runt. Kontinenten präglas av stora isfält, massiva bergskedjor och glaciärer som långsamt rör sig över landmassan. Längs norra kusten finns skyddade vikar och isjordar som erbjuder en aning mer skydd mot de värsta vindarna, och det är här de flesta bosättningar har vuxit fram — men även dessa platser är hårda och oförlåtande.
+Aeloria är täckt av is och snö året runt. Kontinenten präglas av stora isfält, massiva bergskedjor och glaciärer som långsamt rör sig över landmassan. Längs norra kusten finns skyddade vikar och isjordar som erbjuder en aning mer skydd mot de värsta vindarna, och det är här de flesta bosättningar har vuxit fram – men även dessa platser är hårda och oförlåtande.
 
 #### a. **De Frusna Slätterna**
 
@@ -129,7 +129,7 @@ Trots de svåra klimatförhållandena har Aeloria en liten men viktig ekonomi, f
     Aeloria är känt för sina **magiska isresurser**, inklusive **isblommor** och **frostkristaller**, som bara växer under extrema förhållanden. Dessa föremål har stora magiska egenskaper och används av alkemister och magiker över hela [[Prima]] för att skapa mäktiga formler och föremål.
     
 - **Fiske och jakt:**
-    Fisket, särskilt av sällsynta isfiskar, och jakten på säl, valross och andra marina däggdjur är viktiga för de kustområden som är beroende av havet för sin överlevnad. Dessa varor är också eftertraktade på andra kontinenter — **tran** från säl och havsdäggdjur används som bränsle och i alkemi, **pälsar** och **hudar** värderas högt i de nordliga rikena, och **valrossben** bearbetas till redskap, smycken och vapen av Aelorias hantverkare. Längs de yttre kustvattnen hittas ibland **ambra**, en sällsynt substans från havets djup, som betingar enorma priser bland parfymmakare och alkemister på andra kontinenter.
+    Fisket, särskilt av sällsynta isfiskar, och jakten på säl, valross och andra marina däggdjur är viktiga för de kustområden som är beroende av havet för sin överlevnad. Dessa varor är också eftertraktade på andra kontinenter – **tran** från säl och havsdäggdjur används som bränsle och i alkemi, **pälsar** och **hudar** värderas högt i de nordliga rikena, och **valrossben** bearbetas till redskap, smycken och vapen av Aelorias hantverkare. Längs de yttre kustvattnen hittas ibland **ambra**, en sällsynt substans från havets djup, som betingar enorma priser bland parfymmakare och alkemister på andra kontinenter.
 
 #### b. **Import och beroende**
 

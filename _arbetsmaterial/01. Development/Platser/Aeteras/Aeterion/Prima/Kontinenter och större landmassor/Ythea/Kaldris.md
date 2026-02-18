@@ -1,4 +1,4 @@
-#Plats #Nation 
+﻿#Plats #Nation 
 
 > [!quote] [[Edrion Lomar]]
 > I Kaldris säljs inte bara varor, utan också drömmar. Här möts människor från alla världens hörn, och under marknadens myller ekar röster fyllda med hopp om makt och rikedom. Men staden ruvar på sina egna hemligheter – för varje avtal som sluts i ljuset, finns ett annat som formas i skuggorna.
@@ -37,13 +37,13 @@ Trots sin neutralitet har Kaldris en **vältränad milis** som ansvarar för att
 
 ## Ekonomi och Handel
 
-Kaldris ekonomi är baserad på **handel**, både intern och den begränsade sjöhandeln med omvärlden. Stadens strategiska placering längs Brända Kusten gör den till den viktigaste handelsplatsen i södra [[Ythea|Ythea]] och till kontinentens främsta port mot [[Stjärnhavet]]. Det är framförallt Ytheas egna varor — kryddor, siden, ädelstenar och magiska artefakter — som säljs härifrån till de få köpmän från **[[Kyrathis|Kyrathis]]** och **[[Serthara|Serthara]]** som tar sig hit över havet.
+Kaldris ekonomi är baserad på **handel**, både intern och den begränsade sjöhandeln med omvärlden. Stadens strategiska placering längs Brända Kusten gör den till den viktigaste handelsplatsen i södra [[Ythea|Ythea]] och till kontinentens främsta port mot [[Stjärnhavet]]. Det är framförallt Ytheas egna varor – kryddor, siden, ädelstenar och magiska artefakter – som säljs härifrån till de få köpmän från **[[Kyrathis|Kyrathis]]** och **[[Serthara|Serthara]]** som tar sig hit över havet.
 
 Den årliga **Stora Marknaden i Kaldris** är en av de mest prestigefyllda handelsmässorna på hela kontinenten. Under flera veckor samlas köpmän, diplomater och handelsresande i staden för att göra affärer och bygga allianser. På marknaden kan man hitta allt från sällsynta magiska artefakter till lyxvaror som inte går att få tag på någon annanstans. Förutom handel är marknaden också en plats för kulturellt utbyte, där artister, musiker och magiker visar upp sina färdigheter och bidrar till att marknaden blir en höjdpunkt för både kaldriser och besökare.
 
 Kaldris har också utvecklat ett system av **kredit och finansiella tjänster** som möjliggör större handelsexpeditioner och investeringar. Stadens bankhus finansierar karavaner till Ytheas inre och de kostsamma sjöfärderna över [[Stjärnhavet]], och flera av kontinentens riken har utnyttjat deras tjänster för att finansiera militära kampanjer och byggnadsprojekt.
 
-Stadens ekonomi vilar inte bara på hamnen, utan också på dess **hantverkare och magiker**. Kaldris är känd inom Ythea för sina magiska produkter och artefakter, och dess skickliga hantverkare producerar allt från finaste smycken till magiskt förtrollade föremål — varor som är eftertraktade i hela kontinentens riken.
+Stadens ekonomi vilar inte bara på hamnen, utan också på dess **hantverkare och magiker**. Kaldris är känd inom Ythea för sina magiska produkter och artefakter, och dess skickliga hantverkare producerar allt från finaste smycken till magiskt förtrollade föremål – varor som är eftertraktade i hela kontinentens riken.
 
 ## Förhållande till Andra Länder
 
@@ -51,7 +51,7 @@ Kaldris har ett komplext förhållande till de andra makterna på **[[Ythea|Ythe
 ### Förhållande till [[Xenthar]]
 **[[Xenthar]]**, det mäktiga imperiet på [[Ythea|Ythea]], ser Kaldris som både en värdefull allierad och en potentiell rival. Kaldris är beroende av handeln med [[Xenthar]] för att upprätthålla sina handelsvägar över **[[Stjärnhavet]]**, men de är också försiktiga med att inte låta [[Xenthar]] dominera dem. Genom skicklig diplomati har Kaldris lyckats hålla sig utanför Xenthars direkta politiska kontroll och har istället upprätthållit en relation som präglas av **handel och diplomati** snarare än militär dominans.
 ### Kontakter med [[Kyrathis|Kyrathis]]
-Kaldris upprätthåller sporadiska men värdefulla handelsförbindelser med kuststäder på **[[Kyrathis|Kyrathis]]**, på andra sidan **[[Stjärnhavet]]**. Det är framförallt köpmän från Kyrathis som tar sig till Kaldris för att köpa sällsynta varor, snarare än tvärtom — få kaldriska skepp gör den långa resan. Denna begränsade kontakt med omvärlden ger dock Kaldris en unik ställning på Ythea som kontinentens fönster mot resten av [[Prima]].
+Kaldris upprätthåller sporadiska men värdefulla handelsförbindelser med kuststäder på **[[Kyrathis|Kyrathis]]**, på andra sidan **[[Stjärnhavet]]**. Det är framförallt köpmän från Kyrathis som tar sig till Kaldris för att köpa sällsynta varor, snarare än tvärtom – få kaldriska skepp gör den långa resan. Denna begränsade kontakt med omvärlden ger dock Kaldris en unik ställning på Ythea som kontinentens fönster mot resten av [[Prima]].
 ## Mysterier och Legender
 Kaldris är en stad fylld av **mystik och legender**. Det sägs att vissa av de äldsta magiska skrifterna i stadens bibliotek innehåller förbjudna och uråldriga kunskaper som inte borde vara tillgängliga för allmänheten. Dessa skrifter tros innehålla hemligheter om magiska ritualer och förlorade civilisationer, och endast ett fåtal utvalda individer får tillgång till dem.
 

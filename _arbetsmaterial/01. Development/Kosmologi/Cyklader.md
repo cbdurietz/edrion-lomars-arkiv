@@ -1,7 +1,7 @@
-# Tideräkning i cyklader
+﻿# Tideräkning i cyklader
 
 > [!quote] [[Edrion Lomar]], _[[Dansen mellan Sol och Skugga]]_
-> *"Vi mäter vår tid efter Aeterions vandring och kallar det sanning. Men Aeterion gör inga löften om exakthet. Det är vi som lovar mer än vi kan hålla — och justerar sedan i stillhet när avvikelsen blir för stor att förneka."*
+> *"Vi mäter vår tid efter Aeterions vandring och kallar det sanning. Men Aeterion gör inga löften om exakthet. Det är vi som lovar mer än vi kan hålla – och justerar sedan i stillhet när avvikelsen blir för stor att förneka."*
 
 Tiden på Prima mäts ytterst efter dess omlopp kring Aeterion. Ett fullständigt varv runt solen kallas en **cyklad** och utgör den grundläggande enheten för längre tideräkning. En cyklad omfattar nominellt **421 dygn**.
 
@@ -14,7 +14,7 @@ Tiden på Prima mäts ytterst efter dess omlopp kring Aeterion. Ett fullständig
 
 En cyklad är indelad i **14 vaelar** om 30 dagar vardera, samt **en överskottsdag** mellan Vaelar XIV och Vaelar I.
 
-Överskottsdagen tillhör ingen vaelar och ingår inte i femdagarscyklerna. Den är en dag utanför tidens ordning — en övergång mellan två omlopp, varken fullt del av det gamla eller det nya.
+Överskottsdagen tillhör ingen vaelar och ingår inte i femdagarscyklerna. Den är en dag utanför tidens ordning – en övergång mellan två omlopp, varken fullt del av det gamla eller det nya.
 
 Den normala cykladen omfattar således 14 × 30 = 420 dagar, plus överskottsdagen, totalt 421 dagar.
 
@@ -24,7 +24,7 @@ Den normala cykladen omfattar således 14 × 30 = 420 dagar, plus överskottsdag
 
 Primas verkliga omloppstid är emellertid inte exakt 421 dygn. Över flera cyklader uppstår därför en gradvis förskjutning mellan den observerade zenitpassagen för Aeterion och den förväntade zeniten enligt kalendern. Denna förskjutning kallas **zenitdrift** och mäts i **glas**, den minsta allmänt brukade tidsenheten (1/48 dygn).
 
-Så länge zenitdriften är liten anses kalendern fungera väl. Men när avvikelsen överstiger en fastställd tröskel — traditionellt ett helt glas — uppfattas det som att kalendern löper märkbart före den faktiska himmelsmekaniken. Utan korrigering skulle Aeterions zenit gradvis förskjutas i förhållande till cykladens struktur, och högtider och säsongsmarkörer sakta glida.
+Så länge zenitdriften är liten anses kalendern fungera väl. Men när avvikelsen överstiger en fastställd tröskel – traditionellt ett helt glas – uppfattas det som att kalendern löper märkbart före den faktiska himmelsmekaniken. Utan korrigering skulle Aeterions zenit gradvis förskjutas i förhållande till cykladens struktur, och högtider och säsongsmarkörer sakta glida.
 
 ---
 
@@ -63,7 +63,7 @@ Eftersom överskottsdagen saknar vaelartillhörighet påverkar dess bortfall int
 
 ## Symbolik
 
-Tröskeldagen betraktas i många kulturer som en paus i tidens flöde. När den uteblir talar man om en obruten vandring runt Aeterion — en cyklad utan tröskeldag.
+Tröskeldagen betraktas i många kulturer som en paus i tidens flöde. När den uteblir talar man om en obruten vandring runt Aeterion – en cyklad utan tröskeldag.
 
 Vissa ser detta som ett tecken på ordningens återställande.
 Andra upplever det som att en dag har "stulits".
@@ -113,7 +113,7 @@ för Zenitrådet i Tel Miranda
 
 **En köpman vid hamnkajen:**
 
-> "En dag mindre att betala ränta? Jag klagar inte. Men låt dem inte göra det igen nästa cyklad — ordning är bättre för handeln än stjärnornas nycker."
+> "En dag mindre att betala ränta? Jag klagar inte. Men låt dem inte göra det igen nästa cyklad – ordning är bättre för handeln än stjärnornas nycker."
 
 **En soldat i garnisonen:**
 
@@ -133,4 +133,4 @@ för Zenitrådet i Tel Miranda
 
 Det sägs att beslutet var enhälligt, men rykten gör gällande att handelsrådet tryckte på för en Obruten cyklad, då vårens marknader annars skulle ha förskjutits. Huruvida detta påverkade Zenitrådets bedömning lär förbli osagt.
 
-Rådet kallade det en korrektion. Folket kallade det stöld. Och Aeterion — som alltid — sa ingenting.
+Rådet kallade det en korrektion. Folket kallade det stöld. Och Aeterion – som alltid – sa ingenting.

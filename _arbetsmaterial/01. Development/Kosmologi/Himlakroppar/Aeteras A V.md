@@ -1,6 +1,6 @@
-# Aeteras A V
+﻿# Aeteras A V
 
-> Världsbygge: **[[Thalorn]]** — *Den förlorade systern*
+> Världsbygge: **[[Thalorn]]** – *Den förlorade systern*
 
 ---
 
@@ -19,6 +19,6 @@
 
 ## Beskrivning
 
-En massiv klippvärld strax utanför den beboeliga zonen — för stor och kall för att vara beboelig på samma sätt som Aeteras A III och A IV.
+En massiv klippvärld strax utanför den beboeliga zonen – för stor och kall för att vara beboelig på samma sätt som Aeteras A III och A IV.
 
-> **Not om beboelighet:** Vid 1,7 AU tar Aeteras A V emot ~35% av Jordens solstrålning. Det gör den kall men inte nödvändigtvis livlös. Som super-jord kan den hålla kvar en tät atmosfär som skapar en stark växthuseffekt. Flytande vatten under ytan eller i vulkaniska zoner är inte uteslutet — en potentiellt intressant spänning mellan narrativ ("den döda systern") och verklighet.
+> **Not om beboelighet:** Vid 1,7 AU tar Aeteras A V emot ~35% av Jordens solstrålning. Det gör den kall men inte nödvändigtvis livlös. Som super-jord kan den hålla kvar en tät atmosfär som skapar en stark växthuseffekt. Flytande vatten under ytan eller i vulkaniska zoner är inte uteslutet – en potentiellt intressant spänning mellan narrativ ("den döda systern") och verklighet.

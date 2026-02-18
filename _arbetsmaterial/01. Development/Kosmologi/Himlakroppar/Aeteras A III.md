@@ -1,6 +1,6 @@
-# Aeteras A III
+﻿# Aeteras A III
 
-> Världsbygge: **[[Prima]]** — *Den levande världen*. Kampanjvärldens hemvist.
+> Världsbygge: **[[Prima]]** – *Den levande världen*. Kampanjvärldens hemvist.
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## Beskrivning
 
-Aeteras A III är systemets tredje planet och den värld där kampanjvärldens kontinenter (Ardenar, Kyrathis, Serthara, Ythea, Aeloria) befinner sig. Hav, kontinenter och årstider i ett tempererat klimat. Vid 1,1 AU med 1,0 L☉ tar Prima emot ungefär 83% av den solstrålning Jorden får — något svalare, men med rätt atmosfärisk sammansättning fullt tempererad.
+Aeteras A III är systemets tredje planet och den värld där kampanjvärldens kontinenter (Ardenar, Kyrathis, Serthara, Ythea, Aeloria) befinner sig. Hav, kontinenter och årstider i ett tempererat klimat. Vid 1,1 AU med 1,0 L☉ tar Prima emot ungefär 83% av den solstrålning Jorden får – något svalare, men med rätt atmosfärisk sammansättning fullt tempererad.
 
 ---
 
