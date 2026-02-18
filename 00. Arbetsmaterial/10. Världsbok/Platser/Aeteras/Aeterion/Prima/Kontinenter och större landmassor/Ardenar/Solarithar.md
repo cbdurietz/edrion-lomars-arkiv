@@ -48,6 +48,16 @@ Förhållandet till **[[Thalios]]** är mer komplext. Historiskt sett har det fu
 
 Solarithar har också ett starkt **samarbete med [[Lornhaven]]**, en av de mäktigaste stadsstaterna på[[Ardenar|Ardenar]]]. [[Lornhaven]] och Solarithar har länge delat intressen i sjöfart och handel, och deras hamnar är viktiga knutpunkter för varor som rör sig mellan de två staterna. Samarbetet har resulterat i flera gemensamma militära insatser för att skydda handelsskeppen från pirater och andra hot som finns på havet.
 
+### Relation till [[Meridia]]
+
+Av alla externa relationer Solarithar upprätthåller är förhållandet till [[Meridia]] det mest strukturellt komplicerade. Stadsstaten kontrollerar passagen mellan [[Gryningshavet]] och [[Skymningshavet]] – exakt det sund som Solarithars östliga handelstrafik måste passera. Varje solarianskt skepp som vill handla österut betalar meridiansk tull, och det har det gjort så länge passagen haft en ägare.
+
+Denna strukturella situation har vid minst ett tillfälle eskalerat bortom diplomatins ramar. För uppskattningsvis tre till fyra hundra cyklader sedan skickade Solarithar en flotta till passagen – inte i erövringssyfte, utan som en demonstrationsblockad avsedd att tvinga fram tullavtal på gynnsammare villkor. Blockaden varade i uppskattningsvis ett och ett halvt år. Hur den upplöstes är omtvistat: den meridianska versionen betonar diplomatisk press från handelsmakter vars egna intressen skadades av att passagen stängdes; en solarithansk krönika, vars enda kända kopia bevaras i Meridias egna arkiv, talar om att Meridia förhandlade fram eftergifter som aldrig offentliggjordes. Sannolikheten att båda versionerna rymmer delar av sanningen bör inte underskattas. Vad som är säkert är att blockaden inte upprepades – och att Meridia i efterdyningarna inledde konstruktionen av en pumpanläggning för vattenimport, ett projekt vars tillkomst är direkt kopplat till de vattenbrister som blockaden avslöjat.
+
+Under kung Caius II, som uttryckligen lyft fram ambitionen att återupprätta de handelsnätverk som en gång knöt samman Solens Förbunds provinser, har Solarithars intresse för passagen och dess prissättning åter blivit tydligare. Huruvida detta representerar en konkret strategisk inriktning eller inrikespolitisk retorik låter sig inte avgöras utifrån officiella uttalanden.
+
+Relationen är i dagsläget inte fientlig. Handel flödar i bägge riktningarna, diplomatiska förbindelser upprätthålls och ingendera parten har intresse av att störa det utbyte som gynnar dem båda. Men Meridia är medvetet om att Solarithar förblir den makt i regionen som har både militär kapacitet och ekonomiskt motiv att åter blockera passagen – och att denna medvetenhet styr meridiansk politik på sätt som inte alltid syns i de officiella kommunikéerna.
+
 ## Mysterier och Legender
 
 Trots sitt rykte som ett upplyst rike bär Solarithar på många **mörka hemligheter**. Gamla berättelser talar om de sista dagarna av **Solens Förbund**, där magiska ritualer och förbannelser kastades över landet i ett desperat försök att hålla imperiet vid liv. Ruinerna av dessa gamla tempel och palats ligger fortfarande dolda i de täta skogarna och bergen i Solarithars inland, och många tror att uråldriga krafter fortfarande vilar där.
