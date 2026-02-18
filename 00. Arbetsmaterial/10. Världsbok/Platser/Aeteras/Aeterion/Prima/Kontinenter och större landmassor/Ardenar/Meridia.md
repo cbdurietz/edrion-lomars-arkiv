@@ -62,6 +62,7 @@ Meridia styrs av ett **råd** som formellt består av representanter från stads
 Den verkliga makten är emellertid mer svårgreppbar. Ett tiotal förmögna familjer – varav några sitter öppet i rådet, andra verkar genom ombud, gillesrepresentanter och akademichefer de finansierat – utövar ett inflytande som är äldre och djupare än protokollen låter förstå. Rådet är fasaden; familjerna är motorn.
 
 → *Se [[Meridias familjer]] för de ledande familjernas maktbaser, rivaliteter och rådsrelationer.*
+→ *Se [[Aeterions tempel]] för stadsstatens religiösa institution och dess relation till Zenitrådet.*
 
 Stadsstatens flotta är inte den största på [[Prima]], men den är vältränad och specialiserad på att kontrollera den trånga passage som är Meridias livlina. Meridia har sällan fört offensiva krig – dess strategi har istället varit att göra sig oumbärlig för alla parter, och att se till att det alltid kostar mer att angripa staden än att handla med den.
 
