@@ -7,9 +7,11 @@
 
 ## Geografi
 
-Meridia reser sig ur havet som en befäst klippa. Ön är inte stor — den kan korsas till fots på en dryg dag — men dess naturliga hamnar, höga klippväggar och strategiska position gör den till en av de mest svårintagliga platserna på [[Prima]]. Stadens bebyggelse klättrar uppför klipporna i täta terrasser, med smala gränder och trappor som förbinder hamnkvarteren vid vattnet med de högre belägna akademierna och rådsbyggnaderna. Färskvattentillgången på ön är begränsad, och Meridia har i alla tider varit beroende av cisterner och akvadukter som samlar och leder regnvatten — ett ingenjörsmässigt system som i sig är föremål för beundran.
+Meridia reser sig ur havet som en befäst klippa. Ön är inte stor — den kan korsas till fots på en dryg dag — men dess naturliga hamnar, höga klippväggar och strategiska position gör den till en av de mest svårintagliga platserna på [[Prima]]. Stadens bebyggelse klättrar uppför klipporna i täta terrasser, med smala gränder och trappor som förbinder hamnkvarteren vid vattnet med de högre belägna akademierna och rådsbyggnaderna. Ön har en naturlig källa, men den räckte för en liten bosättning — inte för den stad Meridia blivit. Sedan ett par hundra cyklader tillbaka är färskvatten stadens mest påtagliga sårbarhet: ön kan inte försörja sig själv. Systemet av **cisterner och akvadukter** som samlar regnvatten är ett ingenjörsmässigt mästerverk, och import av färskvatten via Vattenkajen vid norrhamnen kompletterar det. Ändå är varje långvarig torka eller blockad ett hot av ett slag som inga murar skyddar mot.
 
 Passagen på båda sidor om ön är smal nog att kontrolleras av Meridias befästningar och flotta, men bred nog för livlig sjöfart. Denna balans — tillräckligt trång för att ge kontroll, tillräckligt bred för att välkomna handel — är själva grunden för stadsstatens existens.
+
+→ *Se [[Meridias kvarterer]] för stadsdelarna, de två hamnarna, Klippvägen och vattenförsörjningen.*
 
 ## Namn och Nollmeridian
 
