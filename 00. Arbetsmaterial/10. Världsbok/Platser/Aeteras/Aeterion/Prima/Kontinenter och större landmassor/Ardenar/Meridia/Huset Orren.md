@@ -49,7 +49,7 @@ Orren har inga allierade i den mening att de hyser lojalitet. De har parter vars
 
 Under Solarithars belägring – vars exakta förlopp är omtvistat men vars ekonomiska konsekvenser var tydliga – ska Orren ha upprätthållit kontakter med blockadflottans underbefäl om möjliga undantagsarrangemang för viss varuhantering. Huruvida dessa kontakter resulterade i något konkret, och om de i så fall bidrog till blockadlösningens slutliga utformning, är inte dokumenterat. Orren har varken bekräftat eller dementerat saken.
 
-Deras relation till [[Huset Avel]] är den av Meridias familjeallianser som mest liknar ett genuint partnerskap, av det enkla skälet att ingendera parten har nostalgiska intressen att försvara. Avel har godset och nätverken; Orren har kajerna och tullvägningshuset. Transaktionen är ren. Parterna behöver inte tycka om varandra, och det verkar de inte heller göra – men de respekterar varandra med den precisionen som råder när affärerna fungerar.
+Deras relation till [[Huset Aveí]] är den av Meridias familjeallianser som mest liknar ett genuint partnerskap, av det enkla skälet att ingendera parten har nostalgiska intressen att försvara. Aveí har godset och nätverken; Orren har kajerna och tullvägningshuset. Transaktionen är ren. Parterna behöver inte tycka om varandra, och det verkar de inte heller göra – men de respekterar varandra med den precisionen som råder när affärerna fungerar.
 
 ---
 
