@@ -1,4 +1,4 @@
-﻿# Meridias familjer
+# Meridias familjer
 
 Den formella makten i [[Meridia]] utövas av rådet – representanter från akademier, handelsgillen och militär. Den verkliga makten utövas till stor del av ett tiotal förmögna familjer vars inflytande är äldre, djupare och mer svårgreppbart än rådsprotokollen låter förstå. Några sitter öppet i rådet. Andra syns aldrig i rådsalen men är ändå närvarande i varje beslut.
 
@@ -8,6 +8,8 @@ Den formella makten i [[Meridia]] utövas av rådet – representanter från aka
 ---
 
 ## Huset Merí
+
+→ *Se [[Huset Merí]] för en utförligare artikel om familjen.*
 
 **Maktbas:** Tradition och symbolkapital.
 
@@ -27,6 +29,8 @@ Deras ekonomiska tyngd har eroderat under sekler. De äger inte de största lagr
 
 ## Huset Vaen
 
+→ *Se [[Huset Vaen]] för en utförligare artikel om familjen.*
+
 **Maktbas:** Flottan och passagekontroll.
 
 Vaen finansierar, utrustar och i praktiken befälsätter en stor del av Meridias militära närvaro i passagen. Det är Vaens skepp som eskorterar handelsfartygen, Vaens kanonjäl som gör befästningarna bemannade och Vaens lotsar som vet exakt var det är grunt på de ställen utomstående inte känner till. Tullavgifterna som flödar ur sundet är inte officiellt Vaens – men en ansenlig del av dem hamnar i deras kassakistor via kontrakt, arvodesavtal och ärvda privilegier som aldrig granskats alltför noggrant.
@@ -43,6 +47,8 @@ Vaen finansierar, utrustar och i praktiken befälsätter en stor del av Meridias
 
 ## Huset Thalis
 
+→ *Se [[Huset Thalis]] för en utförligare artikel om familjen.*
+
 **Maktbas:** Kartografi och vetenskaplig prestige.
 
 Thalis finansierar Kartografiska Kollegiet och äger rättigheterna till flera av de mest spridda kartverken på Prima. I praktiken är meridianska kartor Thalis-kartor: deras geografer sätter standarden, deras tryckare producerar upplagor, deras agenter säljer dem i hamnstäder från Ardenar till Ythea. Kunskapen om världens form är ett patent, och patentet tillhör Thalis.
@@ -58,6 +64,8 @@ Thalis finansierar Kartografiska Kollegiet och äger rättigheterna till flera a
 ---
 
 ## Huset Orren
+
+→ *Se [[Huset Orren]] för en utförligare artikel om familjen.*
 
 **Maktbas:** Omlastning och hamninfrastruktur.
 
@@ -77,6 +85,8 @@ De är enormt rika och fullständigt ointresserade av vad folk tycker om dem.
 
 ## Huset Cassel
 
+→ *Se [[Huset Cassel]] för en utförligare artikel om familjen.*
+
 **Maktbas:** Finans och sjöförsäkring.
 
 Cassel finansierar expeditioner, försäkrar last och lånar ut pengar till gillen, familjer och enskilda handelsmän. Villkoren är alltid rimliga nog för att locka och obekväma nog för att binda. Det finns knappast en person av betydelse i Meridia som inte är skyldig Cassel någonting – pengar, en tjänst, ett förbiseende. Cassel håller reda på allt detta med minutiös omsorg.
@@ -92,6 +102,8 @@ Cassel finansierar expeditioner, försäkrar last och lånar ut pengar till gill
 ---
 
 ## Huset Avel
+
+→ *Se [[Huset Avel]] för en utförligare artikel om familjen.*
 
 **Maktbas:** Östhandeln och utländska kontakter.
 
@@ -111,6 +123,8 @@ De är nu djupt rotade i Meridia men bär fortfarande på stämpeln av att ha ko
 
 ## Huset Sorne
 
+→ *Se [[Huset Sorne]] för en utförligare artikel om familjen.*
+
 **Maktbas:** Ett anrikt namn och ett krympande kapital.
 
 En gång kontrollerade Sorne en stor del av Meridias varvsdrift och skeppsbyggnad. Så skedde katastrofen – en kombination av otur, dåliga beslut och möjligen en konkurrents ingripande, beroende på vem man frågar. Under de senaste trettio cykladerna har familjen metodiskt sålt av tillgång efter tillgång för att upprätthålla en fasad av välstånd. Fasaden håller fortfarande, om man inte tittar alltför noga.
@@ -126,6 +140,8 @@ En gång kontrollerade Sorne en stor del av Meridias varvsdrift och skeppsbyggna
 ---
 
 ## Huset Kael
+
+→ *Se [[Huset Kael]] för en utförligare artikel om familjen.*
 
 **Maktbas:** Navigationsinstrument.
 
