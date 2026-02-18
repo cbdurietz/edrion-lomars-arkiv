@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "01. Publicerat/20. Arkivet/fragment/kungörelse-zenitrådet-cyklad-313.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "README"
+                  "title": "kungörelse-zenitrådet-cyklad-313"
                 },
                 "group": "905a88a5f8eafb84"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "README.md",
+                    "file": "01. Publicerat/20. Arkivet/fragment/kungörelse-zenitrådet-cyklad-313.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for README"
+                  "title": "Backlinks for kungörelse-zenitrådet-cyklad-313"
                 },
                 "group": "905a88a5f8eafb84"
               }
@@ -233,8 +233,9 @@
   },
   "active": "35bb55708ec24cb2",
   "lastOpenFiles": [
-    "01. Publicerat/20. Arkivet/fragment/observationsprotokoll-zenitdrift-304-312.md",
     "01. Publicerat/20. Arkivet/kronikor/kronikeanteckning-cyklad-313.md",
+    "README.md",
+    "01. Publicerat/20. Arkivet/fragment/observationsprotokoll-zenitdrift-304-312.md",
     "01. Publicerat/20. Arkivet/fragment/kungörelse-zenitrådet-cyklad-313.md",
     "00-meta/glossary.md",
     "00. Arbetsmaterial/README.md",
@@ -246,7 +247,6 @@
     "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Iskronans Rygg.md",
     "CLAUDE.md",
     "STYLEGUIDE.md",
-    "README.md",
     "00. Arbetsmaterial/Filstruktur.md",
     "00. Arbetsmaterial/_Filstruktur.md",
     "00. Arbetsmaterial/10. Världsbok/10. Världsbok.md",

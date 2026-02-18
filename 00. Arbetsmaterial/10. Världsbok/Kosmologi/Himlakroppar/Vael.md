@@ -30,7 +30,7 @@ Tidvattnet på Prima är ungefär 15% starkare än Jordens. Effekten är märkba
 
 ## Vaels faser och omloppscykel
 
-Vaels omloppsperiod på ~30 dagar delar året i **14 vaelar** (14 × 30 = 420 dagar). Primas år är 421 dagar, vilket lämnar en överskottsdag.
+Vaels omloppsperiod på ~30 dagar ligger till grund för tidsenheten **vaelar**. Hur vaelarna strukturerar kalenderåret – inklusive överskottsdagen och femdagarscyklerna – beskrivs i [[Tideräkning|Tideräkning på Prima]].
 
 Faserna följer en regelbunden cykel:
 

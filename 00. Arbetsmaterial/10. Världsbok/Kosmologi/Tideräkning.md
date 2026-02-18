@@ -15,7 +15,7 @@ Tideräkningen på Prima vilar på tre astronomiska cykler:
 | Cykel  | Längd      | Baserad på                       |
 | ------ | ---------- | -------------------------------- |
 | Dygn   | 1 dag      | Primas rotation                  |
-| Vaelar | ~30 dagar  [[00. Arbetsmaterial/10. Världsbok/Kosmologi/Himlakroppar/Vael]]]]s omloppsperiod          |
+| Vaelar | ~30 dagar  | [[Vael]]s omloppsperiod          |
 | Cyklad | ~421 dagar | Primas omlopp kring [[Aeterion]] |
 
 14 vaelar × 30 dagar = 420 dagar. Primas cyklad är ~421 dagar, vilket lämnar **en överskottsdag**.
@@ -47,7 +47,7 @@ Var gryning och skymning faller inom vaktsystemet varierar med årstid och latit
 
 ## Femdagarscykler och månfaser
 
-Varje vaelar delas in i **sex femdagarscykler** baserade p[[00. Arbetsmaterial/10. Världsbok/Kosmologi/Himlakroppar/Vael]]]]s faser:
+Varje vaelar delas in i **sex femdagarscykler** baserade på [[Vael]]s faser:
 
 | Cykel | Fas | Dagar |
 |---|---|---|
@@ -58,7 +58,7 @@ Varje vaelar delas in i **sex femdagarscykler** baserade p[[00. Arbetsmaterial/1
 | 5 | Avtagande halvmåne → Avtagande skära | 21–25 |
 | 6 | Avtagande skära → Nymåne | 26–30 |
 
-Dag 1 markerar nymåne (mörk himmel), dag 15–16 markerar fullmåne (vaelarens höjdpunkt). Fasövergångarna fungerar som naturliga markörer för marknader, vilodagar och rituella tillfällen.
+Dag 1 markerar nymåne (mörk himmel), dag 15–16 markerar fullmåne (vaelarens höjdpunkt). Se [[Vael]] för fasernas kulturella och vardagliga betydelse.
 
 > Femdagarscykeln har inget fastställt namn ännu.
 
