@@ -12,6 +12,7 @@ Meridia reser sig ur havet som en befäst klippa. Ön är inte stor – den kan 
 Passagen på båda sidor om ön är smal nog att kontrolleras av Meridias befästningar och flotta, men bred nog för livlig sjöfart. Denna balans – tillräckligt trång för att ge kontroll, tillräckligt bred för att välkomna handel – är själva grunden för stadsstatens existens.
 
 → *Se [[Meridias kvarterer]] för stadsdelarna, de två hamnarna, Klippvägen och vattenförsörjningen.*
+→ *Se [[Meridias historia]] för grundandet, Solarithars belägring, Zenitrådets tillkomst och familjernas framväxt.*
 
 ## Namn och Nollmeridian
 
