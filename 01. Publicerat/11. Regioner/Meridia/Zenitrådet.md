@@ -5,8 +5,6 @@ Zenitrådet är det organ som fattar beslut om korrektioner i Primas kalender �
 → *Se [[Cyklader|Tideräkning i cyklader]] för cykladens struktur, zenitdrift och den Obrutna cykladen.*
 → *Se [[Meridia]] för Meridias institutioner och politiska struktur.*
 
----
-
 ## Sammansättning
 
 Zenitrådet är inte en homogen vetenskaplig institution utan ett politiskt-akademiskt kompromissorgan. Dess sammansättning återspeglar Meridias bredare maktstruktur: vetenskaplig auktoritet, ekonomiskt patronage och religiös legitimitet i ett och samma forum.
@@ -27,15 +25,11 @@ Representanter från stadens gillen, skrån och övriga organisationer kan kalla
 
 Bland de inbjudna finns alltid en representant från **Aeterions tempel**. Dennes roll är inte formellt beslutande, men närvaron är förväntad och en invändning från templet tillmäts ändå vikt – tröskeldagen är för många kulturer en helig dag, och ett beslut om att stryka den utan att templet åtminstone konsulterats skulle uppfattas som provokativt. I praktiken välsignar tempelrepresentanten de flesta beslut. Det har hänt att de framfört reservationer, vilka sedan noterats i rådets protokoll – och förblivit just protokollnotiser.
 
----
-
 ## Rättslig ställning och praxis
 
 Zenitrådet saknar formell överhöghet utanför Meridia. Inget fördrag förpliktar andra riken att följa rådets beslut, och enstaka kungadömen och religiösa institutioner tillämpar egna tideräkningssystem.
 
 Likväl har meridiansk tideräkning blivit de facto-standard för sjöfart, handel och diplomati i stora delar av den kända världen – av samma skäl som meridianska kartor används av alla: de är tillförlitliga, och det kostar mer att avvika än att rätta sig efter dem. Rådets beslut sprids via handelsnätverk, sjöfartsgillen och de studenter som återvänder från Meridias akademier till sina hemländer.
-
----
 
 ## Den politiska dimensionen
 

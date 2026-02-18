@@ -5,8 +5,6 @@
 → *Se [[Meridia]] för stadsstatens geografi, ekonomi och politiska struktur.*
 → *Se [[Meridias familjer]] för de dynastier vars historia är sammanflätad med stadens.*
 
----
-
 ## Grundandet – och grundarberättelserna
 
 Det råder bred enighet om att [[Huset Merí|huset Merí]] är stadens äldsta familj och att dess namn är oupplösligt knutet till ön. Om allt annat råder det tvister.
@@ -19,8 +17,6 @@ En tredje berättelse – sällan nedtecknad, men tillräckligt utbredd för att
 
 Vad som är säkert är att den tidiga tullanläggningen existerade, att den drev ett befästningsarbete som i sin tur lockade mer handel, och att Meridias tillväxt under de första hundra cykladerna av sin existens var anmärkningsvärd.
 
----
-
 ## De lärdes ankomst
 
 På ett ungefär som vi inte längre kan datera med säkerhet – möjligen tre-, möjligen fyrahundra cyklader efter grundandet – anlände en grupp lärda från [[Melethis Magiska Akademi]] på [[Kyrathis]]. De hade lämnat Melethis i tvist om akademins riktning: de ville ägna sig åt systematisk observation av den fysiska världen, inte enbart magi och alkemi.
@@ -31,8 +27,6 @@ De första institutionerna var blygsamma. Vad som med tiden skulle bli Kartograf
 
 Det var under denna period som Meridias dubbelidentitet formades: handelsstaden och den lärda staden. Dessa identiteter var aldrig helt separerade – de lärda behövde mecenater och mecenaternas pengar kom från handel – men spänningen mellan dem lever kvar i hur staden ser på sig själv.
 
----
-
 ## Nollmeridianens etablering
 
 Att Meridias kartografer vid någon tidpunkt förklarade att nollmeridianen löpte genom ön är fastslaget. Exakt när, under vilka omständigheter och mot vilka invändningar är mer oklart.
@@ -40,8 +34,6 @@ Att Meridias kartografer vid någon tidpunkt förklarade att nollmeridianen löp
 Det vi vet är att etablerandet av nollmeridianen inte var en vetenskaplig akt utan ett politiskt anspråk. Andra städer – framför allt i [[Solarithar]] och bland [[Kyrathis]] nordliga kuststäder – hade egna kartografiska traditioner och egna referenspunkter. Meridiansk kartografi segrade inte för att den var överlägsen i alla avseenden, utan för att meridianska kartor producerades i fler kopior, spreds via fler handelsnätverk och med tiden blev det alternativ som kostade minst att anpassa sig till. Den som ville sälja kartor till en sjökapten utbildad i Meridia behövde rita dem med Meridia i centrum.
 
 Det finns brev bevarade – i Meridias egna arkiv, vilket inte ökar deras objektivitet – från utländska kartografer som protesterar mot "den meridianska konventionens godtyckliga anspråk på att vara världens mittpunkt." Protesterna upphörde inte för att argumenten besvarades, utan för att generationer gick och standarden befästes av praktisk vana.
-
----
 
 ## Solarithars belägring
 
@@ -55,8 +47,6 @@ Hur blockaden bröts är omtvistat. Den meridianska versionen betonar diplomatis
 
 Det som är säkert är att blockaden inte upprepades, och att Meridia i efterdyningarna av händelsen inledde konstruktionen av det vattenimportsystem som med tiden resulterade i **Vattenkajen** och dess pumpanläggning. Staden hade lärt sig att vatten var en säkerhetsfråga, inte bara en logistisk.
 
----
-
 ## Zenitrådet formaliseras
 
 I Cyklad 184 fastslogs den praxis som reglerar [[Zenitrådet]]s sammansättning och beslutsbefogenhet. Anledningen till formaliseringen finns delvis bevarad i rådets egna protokoll.
@@ -66,8 +56,6 @@ Bakgrunden var en strid som uppstått tre cyklader tidigare, när en korrektion 
 Vad som följde var tre cyklader av förhandlingar, under vilka Meridia använde en kalender vars legitimitet ifrågasattes av en del av dess egna invånare. Cyklad 184 markerar den kompromiss som slutligen nåddes: ett råd med bred representation, med Högastronomen som ordförande, och med tydliga regler för vem som har beslutsrätt och vem som har yttranderätt utan rösträtt. Det religiösa inslaget kodifierades som en tempelrepresentants rätt att närvara och yttra sig.
 
 Ingen var helt nöjd, vilket i Meridia traditionellt betraktas som ett tecken på en fungerande kompromiss.
-
----
 
 ## Familjernas framväxt
 
@@ -84,8 +72,6 @@ Huset Cassel dyker upp i räkenskaperna som en kraft att räkna med för ungefä
 Huset Aveí anlände från Serthara eller möjligen längre österut för tre eller fyra generationer sedan. Huset Sorne har funnits i Meridia länge, men har under de senaste trettio cykladerna förlorat en stor del av sin ekonomiska substans under omständigheter som källorna beskriver som en kombination av otur och dåliga beslut, och som Sornes motparter beskriver som en kombination av otur och dåliga beslut som inte var fullt så oturliga som de såg ut.
 
 Huset Kael är det yngsta av de åtta och det enda vars rise kan dateras till ett specifikt skifte: introduktionen av en tillverkningsprocess för navigationsinstrument som snabbt etablerade sig som industristandard. Hur Kael kom att kontrollera den processen, och om Sorne hade ett finger med i spelet på ett sätt de sedan förlorade greppet om, är en fråga som fortfarande diskuteras i stadens mer välbevakade rum.
-
----
 
 ## Nutid
 

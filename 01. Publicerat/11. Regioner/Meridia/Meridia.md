@@ -25,7 +25,7 @@ Passagen på båda sidor om ön är smal nog att kontrolleras av Meridias befäs
 
 ## Namn och Nollmeridian
 
-Det är från Meridia som namnen **[[Gryningshavet]]** och **[[Skymningshavet]]** härstammar. Sett från stadsstatens hamnar stiger solen upp över Gryningshavet i öster och går ned över Skymningshavet i väster – namnen är helt enkelt beskrivningar av vad man ser från Meridias murar.
+Det är från Meridia som namnen **[[Gryningshavet]]** och **[[Skymningshavet]]** härstammar. Sett från stadsstatens hamnar stiger solen upp över Gryningshavet i väster och går ned över Skymningshavet i öster – namnen är helt enkelt beskrivningar av vad man ser från Meridias murar.
 
 Men Meridias inflytande över hur världen benämns sträcker sig längre än så. Stadsstatens kartografer och geografer har i århundraden varit de mest framstående på [[Prima]], och det är deras arbete som har etablerat den **nollmeridian** som löper genom Meridia som referenspunkt för all kartografi. Längdgrader räknas österut och västerut från Meridia, och denna konvention har antagits av sjöfarare, lärda och kungariken över hela den kända världen – inte genom dekret, utan för att Meridias kartor helt enkelt är de bästa som finns, och den som vill navigera köper meridianska kartor.
 

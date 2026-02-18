@@ -5,8 +5,6 @@ Den formella makten i [[Meridia]] utövas av rådet – representanter från aka
 → *Se [[Meridia]] för stadsstatens politiska struktur.*
 → *Se [[Zenitrådet]] för ett exempel på hur familjevälde och formell institution samverkar.*
 
----
-
 ## Huset Merí
 
 → *Se [[Huset Merí]] för en utförligare artikel om familjen.*
@@ -25,8 +23,6 @@ Deras ekonomiska tyngd har eroderat under sekler. De äger inte de största lagr
 - Mot *Kael*: Betraktar dem som ett störningsmoment i en ordning som fungerat i sekler.
 - Mot *Aveí*: En underliggande övertygelse om att Meridia är meridiskas och att resten är gäster.
 
----
-
 ## Huset Vaen
 
 → *Se [[Huset Vaen]] för en utförligare artikel om familjen.*
@@ -43,8 +39,6 @@ Vaen finansierar, utrustar och i praktiken befälsätter en stor del av Meridias
 - Mot *Orren*: Vaen kontrollerar vattnet, Orren kontrollerar kajen. Kronisk kamp om vem som har rätt till vad av passageintäkterna.
 - Mot *Cassel*: Vaen är ett av Cassels största låntagarförhållanden. Beroendet sitter som en tagg.
 
----
-
 ## Huset Thalis
 
 → *Se [[Huset Thalis]] för en utförligare artikel om familjen.*
@@ -60,8 +54,6 @@ Thalis finansierar Kartografiska Kollegiet och äger rättigheterna till flera a
 **Spänningar:**
 - Mot *Kael*: En djup och ömsesidig misstycke. Thalis ser tillämpning som kunskapens degradering; Kael ser Thalis kartmonopol som ett hinder för innovation.
 - Mot *Aveí*: Stilla misstänksamhet mot den östliga handelsfamiljen som ibland verkar ha kartor Thalis inte gjort.
-
----
 
 ## Huset Orren
 
@@ -81,8 +73,6 @@ De är enormt rika och fullständigt ointresserade av vad folk tycker om dem.
 - Mot *Vaen*: Se ovan. En strukturell konflikt inbygd i stadsstatens ekonomi.
 - Med *Aveí*: Naturliga allierade. Gemensam handelspragmatism utan sentimentalitet.
 
----
-
 ## Huset Cassel
 
 → *Se [[Huset Cassel]] för en utförligare artikel om familjen.*
@@ -98,8 +88,6 @@ Cassel finansierar expeditioner, försäkrar last och lånar ut pengar till gill
 **Spänningar:**
 - Mot *alla*: Alla söker Cassels gunst. Ingen litar på dem fullt ut. Cassel vet mer om Meridias familjer än vad familjerna vet om varandra.
 - Med *Sorne*: En av Cassels mest komplexa relationer – de håller Sorne flytande av skäl som inte är helt uppenbara.
-
----
 
 ## Huset Aveí
 
@@ -119,8 +107,6 @@ De är nu djupt rotade i Meridia men bär fortfarande på stämpeln av att ha ko
 - Mot *Merid* och *Thalis*: Betraktas som "inte riktigt meridiska". Betraktar i gengäld de gamla familjerna som sentimentala och dåliga på geografi.
 - Med *Orren*: Naturliga allierade, se ovan.
 
----
-
 ## Huset Sorne
 
 → *Se [[Huset Sorne]] för en utförligare artikel om familjen.*
@@ -136,8 +122,6 @@ En gång kontrollerade Sorne en stor del av Meridias varvsdrift och skeppsbyggna
 **Spänningar:**
 - Mot *Kael*: Kael stiger på exakt de marker där Sorne en gång regerade. Det finns en personlig dimension i deras fientlighet som går bortom det ekonomiska.
 - Med *Cassel*: En dunkel och aldrig fullt ut diskuterad relation. Cassel håller dem flytande. Till vilket pris?
-
----
 
 ## Huset Kael
 
@@ -155,8 +139,6 @@ Astrolaber, kompasser, sextanter, graderade mätcylindrar. Varje Navigationsskol
 - Mot *Thalis*: En ömsesidig och principiell rivalitet. Thalis äger kunskapen om världens form; Kael säljer verktygen för att navigera den. De behöver inte älska varandra.
 - Mot *Sorne*: Kael är vad Sorne en gång var. Sorne förlåter dem inte för det.
 
----
-
 ## Strukturella axlar
 
 | Axel | Familjer |
@@ -168,8 +150,6 @@ Astrolaber, kompasser, sextanter, graderade mätcylindrar. Varje Navigationsskol
 | Infödd vs. utländsk | Merid, Thalis ↔ Aveí |
 | Fallande vs. stigande | Sorne ↔ Kael |
 | Öppen makt vs. skuggmakt | Vaen, Merid ↔ Cassel, Aveí |
-
----
 
 ## Rådet i praktiken
 
