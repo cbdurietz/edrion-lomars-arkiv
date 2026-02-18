@@ -11,7 +11,7 @@
 **Aeterion** är den gula solen — systemets primära ljuskälla och den kraft som bär upp allt liv på 
 [[Prima]]. Stabil, konsekvent och oföränderlig i sin dagliga bana över himlen, är Aeterion den fasta punkt kring vilken all tidräkning, allt jordbruk och alla årstidscykler kretsar.
 
-Medan [[Umbrix]] skiftar position över decennier och [[Sekara]] dröjer i skymningen som ett olöst mysterium, står Aeterion för det pålitliga och begripliga. Den stiger, den går ner, den värmer. Dess beteende är förutsägbart nog att bilda grunden för [[Tidräkning|vakter och glas]], och dess högsta punkt — **zenit** — är den enda fasta mätpunkten i dygnet.
+Medan [[Umbrix]] skiftar position över decennier och [[Sekara]] dröjer i skymningen som ett olöst mysterium, står Aeterion för det pålitliga och begripliga. Den stiger, den går ner, den värmer. Dess beteende är förutsägbart nog att bilda grunden för [[Tideräkning|vakter och glas]], och dess högsta punkt — **zenit** — är den enda fasta mätpunkten i dygnet.
 
 ---
 ## Namn och traditioner

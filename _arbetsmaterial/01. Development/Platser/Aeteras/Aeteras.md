@@ -1,5 +1,15 @@
 #Stjärnsystem #Kampanjvärld
 
+
+> [!quote] [[Edrion Lomar]], _[[Dansen mellan Sol och Skugga]]_
+> Inget annat skådespel i universum är så märkligt vacker och samtidigt fylld av gåtor som den ständiga dansen mellan [[Aeterion]] och [[Umbrix]]. Som två uråldriga älskare kretsar de runt varandra, bundna i en evig cirkel som vi på [[Prima]] bara kan skymta genom våra instrument och våra ögon, men som påverkar oss på sätt vi ännu knappt förstår.
+>
+> **[[Aeterion]]**, vår livets källa, strålar med en ofattbar glöd, bärande världen med sitt ljus och sin värme. Det är solen som vi dyrkar, som vi förstår, och som ger mening åt våra dagar. Men i dess närhet svävar **[[Umbrix]]**, den tysta dvärgen, som en skugga bland stjärnorna. Även om den är mindre och svagare än sin brinnande partner, har [[Umbrix]] sin egen makt, sin egen tyngd. Deras kretslopp är en mäktig dans där Aeterions ljus ibland bleknar för ett ögonblick när [[Umbrix]] passerar framför den – en symbol för de dolda krafter som ibland tar över världen, om så bara för en kort tid.
+>
+> Det är i dessa sällsynta ögonblick, när **[[Umbrix]] skymmer Aeterions strålar**, som folken på [[Prima]] berättar om järtecken och varsel. Det är som om självaste himlarna håller andan, som om tidens väv sträcks ut för att visa oss en skymt av de krafter som arbetar i det dolda. En del kallar detta en astronomisk händelse, men jag har sett för mycket i mina resor för att tro att det bara är stjärndamm och fysikaliska lagar som styr detta skådespel.
+>
+> När de två solarna möts i sin mest intensiva dans – vid dessa sällsynta konjunktioner – verkar världen balansera på en knivsegg mellan ljus och mörker, mellan ordning och kaos. **[[Aeterion]] ger oss livet, men [[Umbrix]] påminner oss om dödens och nattens kraft.** Det är i denna dans vi ser naturens dubbla sidor, och jag kan inte låta bli att undra om de en dag kommer att stanna upp, och vad det i så fall skulle betyda för oss alla.
+
 Aeteras är namnet på det stjärnsystem som kampanjvärlden utspelar sig i. Systemet består av två stjärnor, ett antal planeter, en måne och åtminstone en stor komet — alla synliga från [[Prima]], den bebodda världen.
 
 ---
@@ -10,15 +20,6 @@ Aeteras är ett **binärt stjärnsystem** med två stjärnor som kretsar kring v
 
 - **[[Aeterion]]** — den gula solen, systemets primära ljuskälla. Stabil, konsekvent, livgivande. Befolkningen ser den som en källa till liv och ordning.
 - **[[Umbrix]]** — en svagare röd dvärgstjärna som syns på natthimlen som en intensivt lysande, blodrödstjärna. Dess position skiftar långsamt över decennier. Kopplad till vidskepelse och omen.
-
-> [!quote] [[Edrion Lomar]], _[[Dansen mellan Sol och Skugga]]_
-> Inget annat skådespel i universum är så märkligt vacker och samtidigt fylld av gåtor som den ständiga dansen mellan [[Aeterion]] och [[Umbrix]]. Som två uråldriga älskare kretsar de runt varandra, bundna i en evig cirkel som vi på [[Prima]] bara kan skymta genom våra instrument och våra ögon, men som påverkar oss på sätt vi ännu knappt förstår.
->
-> **[[Aeterion]]**, vår livets källa, strålar med en ofattbar glöd, bärande världen med sitt ljus och sin värme. Det är solen som vi dyrkar, som vi förstår, och som ger mening åt våra dagar. Men i dess närhet svävar **[[Umbrix]]**, den tysta dvärgen, som en skugga bland stjärnorna. Även om den är mindre och svagare än sin brinnande partner, har [[Umbrix]] sin egen makt, sin egen tyngd. Deras kretslopp är en mäktig dans där Aeterions ljus ibland bleknar för ett ögonblick när [[Umbrix]] passerar framför den – en symbol för de dolda krafter som ibland tar över världen, om så bara för en kort tid.
->
-> Det är i dessa sällsynta ögonblick, när **[[Umbrix]] skymmer Aeterions strålar**, som folken på [[Prima]] berättar om järtecken och varsel. Det är som om självaste himlarna håller andan, som om tidens väv sträcks ut för att visa oss en skymt av de krafter som arbetar i det dolda. En del kallar detta en astronomisk händelse, men jag har sett för mycket i mina resor för att tro att det bara är stjärndamm och fysikaliska lagar som styr detta skådespel.
->
-> När de två solarna möts i sin mest intensiva dans – vid dessa sällsynta konjunktioner – verkar världen balansera på en knivsegg mellan ljus och mörker, mellan ordning och kaos. **[[Aeterion]] ger oss livet, men [[Umbrix]] påminner oss om dödens och nattens kraft.** Det är i denna dans vi ser naturens dubbla sidor, och jag kan inte låta bli att undra om de en dag kommer att stanna upp, och vad det i så fall skulle betyda för oss alla.
 
 ---
 
@@ -37,9 +38,9 @@ De yttre planeterna **[[Drakis]]**, **[[Thalorn]]** och **[[Nycthor]]** är svå
 
 ## Vael
 
-[[Prima]]s måne **[[Vael]]** syns tydligt på natthimlen och påverkar tidvatten. Dess 30-dagarscykel ligger till grund för kalenderberäkningar — året delas in i 14 **vaelarer**.
+[[Prima]]s måne **[[Vael]]** syns tydligt på natthimlen och påverkar tidvatten. Dess 30-dagarscykel ligger till grund för kalenderberäkningar — året delas in i 14 **vaelar**.
 
-→ *Se [[Vael]] och [[Tidräkning|Tidräkning på Prima]].*
+→ *Se [[Vael]] och [[Tideräkning|Tideräkning på Prima]].*
 
 ---
 

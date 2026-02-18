@@ -28,6 +28,6 @@ Aeteras A III är systemets tredje planet och den värld där kampanjvärldens k
 
 → *Se [[Vael]] för Primas måne (massa, omloppsbana, tidvatten, faser).*
 
-## Tidräkning
+## Tideräkning
 
-→ *Se [[Tidräkning|Tidräkning på Prima]] för kalendersystem, vaelarer, femdagarscykler och dygnsindelning.*
+→ *Se [[Tideräkning|Tideräkning på Prima]] för kalendersystem, vaelar, femdagarscykler och dygnsindelning.*

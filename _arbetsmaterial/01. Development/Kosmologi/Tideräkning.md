@@ -1,6 +1,8 @@
-# Tidräkning på Prima
+# Tideräkning på Prima
 
-Denna artikel beskriver de vanligaste systemen för tidräkning på [[Prima]], baserade på de astronomiska cyklerna i [[Aeteras]]-systemet.
+Denna artikel beskriver de vanligaste systemen för tideräkning på [[Prima]], baserade på de astronomiska cyklerna i [[Aeteras]]-systemet.
+
+→ *Se [[Cyklader|Tideräkning i cyklader]] för cykladens struktur, överskottsdag, zenitdrift och den Obrutna cykladen.*
 
 > Nedanstående beskriver det vanligaste kalendersystemet på Prima. Andra kulturer kan ha egna indelningar, namnkonventioner och sätt att hantera överskottsdagen.
 
@@ -8,15 +10,15 @@ Denna artikel beskriver de vanligaste systemen för tidräkning på [[Prima]], b
 
 ## Astronomiska grunder
 
-Tidräkningen på Prima vilar på tre astronomiska cykler:
+Tideräkningen på Prima vilar på tre astronomiska cykler:
 
 | Cykel | Längd | Baserad på |
 |---|---|---|
 | Dygn | 1 dag | Primas rotation |
 | Vaelar | ~30 dagar | [[Vael]]s omloppsperiod |
-| År | 421 dagar | Primas omlopp kring [[Aeterion]] |
+| Cyklad | 421 dagar | Primas omlopp kring [[Aeterion]] |
 
-14 vaelarer × 30 dagar = 420 dagar. Primas år är 421 dagar, vilket lämnar **en överskottsdag**.
+14 vaelar × 30 dagar = 420 dagar. Primas cyklad är 421 dagar, vilket lämnar **en överskottsdag**.
 
 ---
 
@@ -62,25 +64,25 @@ Dag 1 markerar nymåne (mörk himmel), dag 15–16 markerar fullmåne (vaelarens
 
 ---
 
-## Vaelarer
+## Vaelar
 
-Vaelarer numreras med romerska siffror: **I–XIV**. En fullständig datumangivelse skrivs som dagnummer följt av vaelarnumret, t.ex. **12 VII** (dag 12, sjunde vaelaren). Med årtal: **12 VII 843**.
+Vaelar numreras med romerska siffror: **I–XIV**. En fullständig datumangivelse skrivs som dagnummer följt av vaelarnumret, t.ex. **12 VII** (dag 12, sjunde vaelaren). Med cykladtal: **12 VII 843**.
 
 ---
 
 ## Överskottsdagen
 
-Den 421:a dagen faller mellan XIV och I — en dag som inte tillhör någon vaelar. Den befinner sig mellan det gamla och det nya året, och olika kulturer behandlar den på olika sätt: som en helig dag, en namnlös dag, eller en dag av tystnad och eftertanke.
+Den 421:a dagen faller mellan XIV och I — en dag som inte tillhör någon vaelar. Den befinner sig mellan den gamla och den nya cykladen, och olika kulturer behandlar den på olika sätt: som en helig dag, en namnlös dag, eller en dag av tystnad och eftertanke.
 
 ---
 
 ## Sammanfattning
 
-| Enhet | Längd | Per år |
+| Enhet | Längd | Per cyklad |
 |---|---|---|
 | Glas | 1/48 dygn | — |
 | Vakt | 8 glas (1/6 dygn) | — |
 | Femdagarscykel | 5 dagar | 84 (6 per vaelar × 14) |
 | Vaelar | 30 dagar | 14 |
 | Överskottsdag | 1 dag | 1 |
-| År | 421 dagar | — |
+| Cyklad | 421 dagar | — |

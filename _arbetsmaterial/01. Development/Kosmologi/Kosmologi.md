@@ -131,7 +131,7 @@ Prima har en måne, **[[Vael]]**, med 30 dagars omloppsperiod. Vaels cykel delar
 | Tidvattenkraft | ~1,15× Jorden |
 
 → *Se [[Vael]] för fullständig beskrivning av månen, dess faser och kulturella betydelse.*
-→ *Se [[Tidräkning|Tidräkning på Prima]] för kalendersystem, vaelar, femdagarscykler och dygnsindelning.*
+→ *Se [[Tideräkning|Tideräkning på Prima]] för kalendersystem, vaelar, femdagarscykler och dygnsindelning.*
 
 ---
 

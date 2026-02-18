@@ -25,7 +25,7 @@ Vaels cykel från nymåne till nymåne tar trettio dagar — en vaelar. Året ry
 
 Faserna markerar vardagslivets rytm. Nymånen förknippas med tystnad, eftertanke och ibland fara — en mörk natt utan Vaels beskydd. Fullmånen är festernas och samlingsplatsernas tid, då nätterna är ljusa och världen känns öppen. Halvmånarna och skärorna däremellan bär sina egna traditioner, som varierar mellan kulturer och regioner.
 
-→ *Se [[Tidräkning|Tidräkning på Prima]] för kalendersystemet i detalj.*
+→ *Se [[Tideräkning|Tideräkning på Prima]] för kalendersystemet i detalj.*
 
 ---
 
