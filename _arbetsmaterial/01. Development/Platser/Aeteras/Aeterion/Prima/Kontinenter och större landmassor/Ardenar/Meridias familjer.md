@@ -7,7 +7,7 @@ Den formella makten i [[Meridia]] utövas av rådet — representanter från aka
 
 ---
 
-## Huset Merid
+## Huset Merí
 
 **Maktbas:** Tradition och symbolkapital.
 
@@ -157,7 +157,7 @@ Astrolaber, kompasser, sextanter, graderade mätcylindrar. Varje Navigationsskol
 
 ## Rådet i praktiken
 
-Rådet är formellt sammansatt av representanter för akademier, handelsgillen och militär. Av de åtta familjerna sitter två med egna röster öppet: **Merid** (av tradition) och **Vaen** (som militär befälhavare). **Thalis** och **Orren** sitter formellt som akademi- respektive gillesrepresentanter — en distinktion alla genomskådar.
+Rådet är formellt sammansatt av representanter för akademier, handelsgillen och militär. Av de åtta familjerna sitter två med egna röster öppet: **Merí** (av tradition) och **Vaen** (som militär befälhavare). **Thalis** och **Orren** sitter formellt som akademi- respektive gillesrepresentanter — en distinktion alla genomskådar.
 
 **Sorne** håller ett allt skörare mandat. **Avel** talar genom Orren och Sornes röst. **Cassel** har inget säte och vill inte ha det. **Kael** knackar på.
 
