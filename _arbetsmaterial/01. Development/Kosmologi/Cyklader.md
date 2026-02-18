@@ -1,11 +1,12 @@
 # Tideräkning i cyklader
 
+> [!quote] [[Edrion Lomar]], _[[Dansen mellan Sol och Skugga]]_
 > *"Vi mäter vår tid efter Aeterions vandring och kallar det sanning. Men Aeterion gör inga löften om exakthet. Det är vi som lovar mer än vi kan hålla — och justerar sedan i stillhet när avvikelsen blir för stor att förneka."*
-> — Edrion Lomar, *Dansen mellan Sol och Skugga*
 
 Tiden på Prima mäts ytterst efter dess omlopp kring Aeterion. Ett fullständigt varv runt solen kallas en **cyklad** och utgör den grundläggande enheten för längre tideräkning. En cyklad omfattar nominellt **421 dygn**.
 
 → *Se [[Tideräkning|Tideräkning på Prima]] för dygnsindelning, vaelar och femdagarscykler.*
+→ *Se [[Zenitrådet]] för det organ som fattar beslut om Obrutna cyklader.*
 
 ---
 
@@ -84,17 +85,17 @@ Systemet förenar därmed astronomisk observation med kulturell och politisk pra
 
 _Utfärdad i slutet av Vaelar XIV, Cyklad 312_
 
-> **Om zenitdriften och den Obrutna cykladen**
+**Om zenitdriften och den Obrutna cykladen**
 
-Under de senaste nio cykladerna har Aeterions zenit inträffat allt tidigare i förhållande till glasräkningen. Observationer från Högobservatoriet i Tel Miranda visar att avvikelsen nu överstiger ett helt glas.
+Under de senaste nio cykladerna har Aeterions zenit inträffat allt tidigare i förhållande till glasräkningen. Observationer från Högobservatoriet i Meridia visar att avvikelsen nu överstiger ett helt glas.
 
 Enligt stadfäst praxis, antagen under Cyklad 184, skall tröskeldagen utebli när zenitdriften passerar denna tröskel.
 
 Således kungör Zenitrådet att:
 
-> **Cyklad 313 skall vara en Obruten cyklad.**
-> Tröskeldagen infaller icke mellan XIV och I.
-> Vaelar I följer direkt efter dag 30 XIV.
+- **Cyklad 313 skall vara en Obruten cyklad.**
+- Tröskeldagen infaller icke mellan XIV och I.
+- Vaelar I följer direkt efter dag 30 XIV.
 
 Må ordningen återställas, och må Aeterions bana förbli vår måttstock.
 
