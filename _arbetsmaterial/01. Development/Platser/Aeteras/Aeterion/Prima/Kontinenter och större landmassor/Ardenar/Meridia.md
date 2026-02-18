@@ -45,7 +45,11 @@ Den tredje pelaren — **kunskap** — är svårare att mäta men kanske den vik
 
 ## Politiskt System
 
-Meridia styrs av ett **råd** som består av representanter från stadsstatens främsta akademier, handelsgillen och militära befälhavare. Det finns ingen kung eller arvshärskare — rådets sammansättning bestäms genom en kombination av val och meritbaserade utnämningar, och systemets stabilitet har historiskt sett berott mer på gemensamma ekonomiska intressen än på formella maktstrukturer.
+Meridia styrs av ett **råd** som formellt består av representanter från stadsstatens främsta akademier, handelsgillen och militära befälhavare. Det finns ingen kung eller arvshärskare — rådets sammansättning bestäms genom en kombination av val och meritbaserade utnämningar, och systemets stabilitet har historiskt sett berott mer på gemensamma ekonomiska intressen än på formella maktstrukturer.
+
+Den verkliga makten är emellertid mer svårgreppbar. Ett tiotal förmögna familjer — varav några sitter öppet i rådet, andra verkar genom ombud, gillesrepresentanter och akademichefer de finansierat — utövar ett inflytande som är äldre och djupare än protokollen låter förstå. Rådet är fasaden; familjerna är motorn.
+
+→ *Se [[Meridias familjer]] för de ledande familjernas maktbaser, rivaliteter och rådsrelationer.*
 
 Stadsstatens flotta är inte den största på [[Prima]], men den är vältränad och specialiserad på att kontrollera den trånga passage som är Meridias livlina. Meridia har sällan fört offensiva krig — dess strategi har istället varit att göra sig oumbärlig för alla parter, och att se till att det alltid kostar mer att angripa staden än att handla med den.
 
