@@ -81,27 +81,11 @@ Systemet förenar därmed astronomisk observation med kulturell och politisk pra
 
 ---
 
-## Kungörelse från Zenitrådet
+## Primärkällor i arkivet
 
-_Utfärdad i slutet av Vaelar XIV, Cyklad 312_
-
-**Om zenitdriften och den Obrutna cykladen**
-
-Under de senaste nio cykladerna har Aeterions zenit inträffat allt tidigare i förhållande till glasräkningen. Observationer från Högobservatoriet i Meridia visar att avvikelsen nu överstiger ett helt glas.
-
-Enligt stadfäst praxis, antagen under Cyklad 184, skall tröskeldagen utebli när zenitdriften passerar denna tröskel.
-
-Således kungör Zenitrådet att:
-
-- **Cyklad 313 skall vara en Obruten cyklad.**
-- Tröskeldagen infaller icke mellan XIV och I.
-- Vaelar I följer direkt efter dag 30 XIV.
-
-Må ordningen återställas, och må Aeterions bana förbli vår måttstock.
-
-Undertecknat,
-**Högastronom Sereth Vaelor**
-för Zenitrådet i Tel Miranda
+→ *[[kungörelse-zenitrådet-cyklad-313|Kungörelse om Obruten cyklad, Cyklad 313]] – Zenitrådets formella proklamation (Vaelar XIV, Cyklad 312)*
+→ *[[observationsprotokoll-zenitdrift-304-312|Observationsprotokoll: Zenitdrift, Cyklader 304–312]] – Astronomiskt underlag för beslutet*
+→ *[[kronikeanteckning-cyklad-313|Anteckning om beslutet om Cyklad 313]] – Samtida kommentar, upphovsman okänd*
 
 ---
 
@@ -126,11 +110,3 @@ för Zenitrådet i Tel Miranda
 **En ung student vid observatoriet:**
 
 > "Det är inte stöld. Det är justering. Om vi inte stryker dagen nu, kommer fullmånen en dag att falla fel i tabellerna. Det är himlen som kräver detta, inte rådet."
-
----
-
-## Krönikörens tillägg
-
-Det sägs att beslutet var enhälligt, men rykten gör gällande att handelsrådet tryckte på för en Obruten cyklad, då vårens marknader annars skulle ha förskjutits. Huruvida detta påverkade Zenitrådets bedömning lär förbli osagt.
-
-Rådet kallade det en korrektion. Folket kallade det stöld. Och Aeterion – som alltid – sa ingenting.
