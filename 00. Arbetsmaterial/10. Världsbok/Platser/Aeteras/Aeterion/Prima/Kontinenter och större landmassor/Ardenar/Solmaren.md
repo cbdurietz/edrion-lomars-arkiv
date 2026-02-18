@@ -1,0 +1,2 @@
+#Plats 
+Städer som **[[Solmaren]]** på [[Ardenar|Ardenar]] och **[[Stormhamn]]** på [[Kyrathis|Kyrathis]] har blivit viktiga hamnar och handelscentrum, där varor från hela [[Prima]] passerar.

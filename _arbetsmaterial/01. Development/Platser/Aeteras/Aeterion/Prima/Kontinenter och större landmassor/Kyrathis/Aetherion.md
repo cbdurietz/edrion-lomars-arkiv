@@ -1,5 +1,0 @@
-﻿#Plats
-
-**Aetherion** var en forntida stad i norra [[Kyrathis|Kyrathis]], grundad av profeten [[Altherion]], och den plats där [[Solens Förbund]] uppstod. I stadens centrum byggdes det första stora **soltemplet**, en magnifik byggnad med guldinfattade kupoler som reflekterade solens strålar, och härifrån spred sig solkulten över kontinenten och vidare till [[_arbetsmaterial/01. Development/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar|Ardenar]].
-
-Den ursprungliga staden Aetherion existerar inte längre som en egen enhet. Under Solens Förbunds expansion växte stadsstaten [[Solarith]] upp runt och över den gamla stadens ruiner, och med tiden uppslukades Aetherion helt av den nya staden. Det enda som fortfarande bär det gamla namnet är det stora **soltemplet** i hjärtat av Solarith – byggt på grunderna av det ursprungliga templet, men ombyggt och utvidgat genom århundradena. Templet Aetherion, med sina guldinfattade torn som glimmar i solen, är idag det mest påtagliga minnet av den forntida staden som en gång gav upphov till ett imperium.

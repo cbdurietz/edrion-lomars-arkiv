@@ -1,0 +1,34 @@
+﻿#Plats #Hav
+
+> [!quote] [[Edrion Lomar]], _[[Över Hav och Djup]]_
+> Jag har seglat på de flesta av Primas hav, och jag har fruktat flera av dem. Men Djävulshavet är det enda som fick mig att tvivla på att vi skulle se land igen – inte för att havet var vredgat, utan för att det verkade likgiltigt. En våg reste sig ur ingenstans, hög som en stadsmur, och försvann lika plötsligt som den kommit. Ingen storm föregick den. Ingen vind förklarade den. Besättningen teg, och vi seglade vidare, ty det fanns ingenting annat att göra. Efteråt sa styrmannen att det var havsbotten som rörde sig. Jag vet inte om det tröstade mig eller skrämde mig mer.
+
+**Djävulshavet** är det smala, stormiga vatten som ligger mellan **[[Kyrathis|Kyrathis]]** i väster och **[[Serthara|Serthara]]** i öster, i den trånga passage där **[[Skymningshavet]]** i norr övergår i **[[Stjärnhavet]]** i söder. Trots sin begränsade storlek – det liknar snarare ett brett sund än ett hav i egentlig mening – är det ett av de mest fruktade vattnen på **[[Prima]]** och har gjort sig förtjänt av sitt namn genom otaliga skeppsvrak, plötsliga katastrofer och en geologi som trotsar sjömännens förståelse.
+
+## Geografi
+
+Djävulshavet upptar den trånga passagen mellan **[[Kyrathis|Kyrathis]]** östkust och **[[Serthara|Sertharas]]** sydvästkust, där Skymningshavets vatten pressas samman innan de vidgar sig till Stjärnhavet. Sundet ligger rakt ovanför gränsen mellan två av [[Prima|Primas]] stora kontinentalplattor – den som bär Skymningshavet och den som bär Stjärnhavet. Denna gräns är en av de mest geologiskt aktiva zonerna på hela planeten: plattorna både glider förbi varandra i sidled och pressas samman i en sned kollision, vilket skapar en kombination av jordskalv, vulkanism och instabilitet som präglar hela sträckan. Samma plattgräns är ansvarig för de vulkaniska bergen på [[Kyrathis|Kyrathis]] nordöstra horn – bland dem den beryktade **[[Teldrisska Vulkanen]]** – och de aktiva vulkanerna i **[[Serthara|Sertharas]]** sydvästra djungel- och lavalandskap. Under Djävulshavets yta fortsätter denna zon av vulkaniska ventiler, undervattensraviner och uppskjutande klippformationer, vilket gör havsbotten ojämn och oförutsägbar. På vissa ställen är havet förvånansvärt grunt, med blindskär som kan riva upp ett skepps botten utan förvarning, medan det bara några kabellängder bort störtar ner i avgrunder som ingen lodat till botten.
+
+Kustlinjerna på båda sidor är branta och klippiga, med få naturliga hamnar. De hamnar som finns – på [[Kyrathis|Kyrathis]] östkust och [[Serthara|Sertharas]] sydvästliga stränder – är små och dåligt skyddade, mer nödfristäder än egentliga hamnar. Ingen större hamnstad har någonsin etablerats vid Djävulshavets stränder, och de bosättningar som finns lever i huvudsak av fiske i de lugnare vikarna snarare än av handel.
+
+## Stormar och Tsunamis
+
+Djävulshavets rykte som dödsfälla vilar på två fenomen som var för sig vore nog för att avskräcka de flesta sjöfarare, men som i kombination gör havet närmast oöverstigligt.
+
+**Kollisionsstormarna.** Skymningshavet och Stjärnhavet har vitt skilda vädersystem – Skymningshavets kalla, oroliga luftmassor och Stjärnhavets varmare, mer förutsägbara vindar. Där dessa system möts, i sundets smala passage, uppstår stormar med en hastighet som saknar motstycke på Primas övriga hav. En sjöfarare kan segla under klarblå himmel och inom en kvarts timme befinna sig i orkanvindar och blindande regn. Dessa stormar varar sällan länge – de flesta blåser ut inom några timmar – men deras plötslighet gör dem i praktiken omöjliga att förbereda sig för.
+
+**De underjordiska skalven.** Den tektoniska aktiviteten under Djävulshavet ger upphov till regelbundna jordbävningar på havsbotten. De flesta är för svaga för att märkas på ytan, men de starkare skalven kan utlösa undervattenskred och vulkaniska utbrott som i sin tur skapar plötsliga tsunamis. Dessa vågor är särskilt förrädiska i Djävulshavet på grund av sundets trånga geografi – vågorna har ingenstans att sprida ut sig och pressas istället uppåt och inåt, vilket gör dem betydligt högre och mer koncentrerade än de skulle vara på öppet hav. Sjöfarare som överlevt sådana vågor beskriver dem som väggar av vatten som reser sig ur ett i övrigt lugnt hav, utan den förvarning som en annalkande storm ger.
+
+## Betydelse för Handel och Sjöfart
+
+Den mest uppenbara konsekvensen av Djävulshavets farlighet är att det i praktiken blockerar den direkta sjövägen mellan **[[Skymningshavet]]** och **[[Stjärnhavet]]**. Handel mellan *[[Ardenar|Ardenar]]]** och **[[Ythea|Ythea]]** – som skulle kunna gå söderut genom Skymningshavet, genom Djävulshavet och vidare över Stjärnhavet – tvingas istället ta omvägar. Förlusterna i skepp och last har historiskt varit så stora att det sällan lönar sig att försöka passera sundet, oavsett hur värdefull lasten är.
+
+Istället tar handeln mellan Ardenar och de sydöstliga kontinenterna en längre men säkrare väg: landvägen genom **[[Kyrathis|Kyrathis]]** eller **[[Serthara|Serthara]]**, för att nå en hamn vid **[[Stjärnhavet]]** och därifrån segla vidare. Alternativen är avsevärt längre och dyrare, men också avsevärt mindre dödliga. Det är delvis också Djävulshavets existens som gör tanken på att istället segla västerut över **[[Den Tysta Oceanen]]** lockande för de mest ambitiösa sjöfararna – trots de enorma avstånden och de okända faror som väntar där.
+
+De fåtal fartyg som regelbundet korsar Djävulshavet är små, lokala fiskebåtar vars besättningar har generationers erfarenhet av sundets nycker, samt enstaka våghalsiga handelsfartyg som är villiga att betala ett högt pris i risk för att vinna tid. Dessa skepp seglar uteslutande under de lugnaste månaderna och håller sig så nära kusten som blindskären tillåter.
+
+## Myter och Vidskepelse
+
+Bland sjöfarare på [[Prima]] finns det gott om berättelser om Djävulshavet, och gränsen mellan observation och vidskepelse är ofta svår att dra. Många hävdar att havet har en egen vilja – att det inte bara är farligt utan aktivt fientligt, som om något under ytan ogillar närvaron av skepp. Andra menar att de vulkaniska ventilerna på havsbotten ibland släpper ut gaser som kan förgifta luften ovanför vattenytan och ge sjömän vanföreställningar, vilket skulle förklara de mer fantastiska berättelserna.
+
+Det finns också äldre traditioner som hävdar att Djävulshavet en gång var betydligt lugnare, och att den tektoniska oron är ett relativt nytt fenomen – kanske bara några tusen år gammalt. Enligt dessa berättelser var sundet en gång en viktig sjöväg, och det finns vaga hänvisningar till ruiner på havsbotten som skulle kunna vara resterna av hamnar eller till och med städer som förstördes när havsbotten började röra sig. Inga sådana ruiner har bekräftats, men berättelserna håller sig envist levande bland kustbefolkningen på båda sidor om sundet.

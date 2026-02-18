@@ -1,0 +1,3 @@
+#Plats #Hav 
+
+ **[[Den Tysta Oceanen]]** är det vidsträckta hav som breder ut sig väster om [[Ardenar|Ardenar]] och öster om [[Ythea|Ythea]] och [[Serthara|Serthara]], ett till synes oändligt vatten som sällan navigeras av vanliga sjöfarare. Även om det tekniskt förbinder dessa kontinenter den långa vägen runt, är det få som vågat sig på den resan. De som har korsat [[Den Tysta Oceanen]] och återvänt talar om faror som gömmer sig under ytan och oförklarliga ljusfenomen på nätterna.

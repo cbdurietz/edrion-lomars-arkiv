@@ -1,6 +1,6 @@
-﻿# CLAUDE.md
+# CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to Claude Code (claude.ai/code) when working with content in this repository.
 
 ## Project Overview
 
@@ -17,21 +17,22 @@ When creating or editing content, always consider:
 - **Who would disagree?** Contradicting viewpoints are encouraged.
 - **How could this be wrong?** Texts should suggest rather than explain definitively.
 
-See `00-meta/vision.md` for the full design philosophy.
+See `00. Arbetsmaterial/README.md` for the full design philosophy.
 
 ## Repository Structure
 
-- `00-meta/` – Project framework, principles, glossary (vision.md is the key document)
-- `01-arkiv/` – Polished archive material ready for use: fragments, chronicles, map notes
-- `02-volymer/` – Compiled thematic volumes on specific regions (Ardenar in progress)
-- `03-spelledare/` – Game master tools for using the archive in play
-- `_arbetsmaterial/` – Internal working/development material (raw content, not published)
-  - `01. Development/` – Active development organized by: Platser (Places), Personer (Characters), Folkslag (Peoples), Organisationer (Organizations), Religion, Väsen (Creatures), Material, Äventyr (Adventures)
-- `assets/` – Images and maps
+- `00. Arbetsmaterial/` – Internal working material. Mirrors the numbering of `01. Publicerat/` where applicable. `Filstruktur.md` inside describes the full structure and mappings.
+- `01. Publicerat/` – Finished material organized as follows:
+  - `10. Världsbok/` – Global world knowledge: cosmology, geography overview, common concepts. Written as encyclopaedia with no specific in-world author.
+  - `11. Regioner/` – Regional modules in Hârn style: continent → region → city → village. Each level is a folder.
+  - `20. Arkivet/` – Edrion Lomar's collection: fragments, chronicles, maps, letters. Organized by document type and provenance.
+  - `30. Spelledarboken/` – Game master tools.
+  - `80. Äventyr/` – Finished adventure modules.
+  - `90. Regelbok/` – Rules (magic, peoples, professions, mechanics).
 
 ## Document Format
 
-Archive documents in `01-arkiv/` use YAML frontmatter with these fields:
+Archive documents in `01. Publicerat/20. Arkivet/` use YAML frontmatter with these fields:
 
 ```yaml
 titel:                  # Document title
@@ -48,7 +49,6 @@ kommentar:              # Archivist's commentary
 
 ## Working with Content
 
-- The `_arbetsmaterial/` directory contains rough development notes. The `01-arkiv/` and `02-volymer/` directories contain structured, polished content.
 - The project uses Obsidian wiki-links (`[[link]]`) for cross-references between documents.
 - Place hierarchy follows: Aeteras → Aeterion → Prima → continent (e.g., Ardenar) → region/city.
-- `struktur.txt` contains the planned directory layout for the project.
+- `00. Arbetsmaterial/Filstruktur.md` describes the full directory structure and the mapping between working material and published sections.
