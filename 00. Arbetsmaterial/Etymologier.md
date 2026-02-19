@@ -36,6 +36,79 @@ Substrat med anknytning till sjöfartskulturen i södra Ardenar och kring Grynin
 
 ---
 
+## Ythea – kustbygd och handelstradition
+
+Substrat för Ytheas kustområden och handelsfamiljer med Ythea-rötter. Distinkt från de inlandstyngda namnen som präglar Ytheas feodala riken (se nedan).
+
+Kustsubstratet utmärks av mjukare konsonanter, vokalrika stavelser och en tendens till tresstaviga namn med klart uttalade vokaler. Anslaget är avsiktligt orientaliskt i karaktären.
+
+### Ordstammar
+
+| Stam | Betydelse | Exempel |
+|------|-----------|---------|
+| oshi / asha | hav, vatten; att färdas | Oshari |
+| hari | person, den som (personbeteckning) | Oshari |
+| o- | hedersprefix för namn och titlar | Oshari |
+| shima | ö, halvö, kust | – |
+| kira | handel, utbyte | – |
+
+### Suffix och partiklar
+
+| Form | Betydelse | Exempel |
+|------|-----------|---------|
+| -hari | personbeteckning; "den som" | Oshari |
+| -ashi | ortnamnsändelse | – |
+| -ori | "av/från" (ursprungsmarkör) | – |
+
+### Belagda namn och tolkningar
+
+- **Oshari** – O- (hedersprefix) + shari (person med havsanknytning; från *oshi* + *hari*). Möjlig tolkning: "den havskunnige", "den förnäme sjöfararen", eller ett handelshusnamn med anspråk på havsidentitet. Familjens egna etymologi är inte dokumenterad och de korrigerar ingen.
+
+### Anmärkningar
+
+- Kustsubstratet och inlandssubstratet är separata traditioner. Gränsen går ungefär vid Ytharbergen – handelsstäderna längs kusten och floddalarna mot havet bär kustmönstret; de feodala rikena inåt landet det hårdare inlandssubstratet (se nedan).
+- Kaldris uppvisar drag från bägge traditioner, som en stad i gränslandet.
+
+---
+
+## Ythea – inland och feodala riken
+
+Substrat för Ytheas inland, framför allt de feodala rikena kring Ytharbergen och de stora slätterna.
+
+Inlandssubstratet utmärks av hårda konsonanter, kluster och mörkare vokaler. Kontrasten mot kustsubstratet är avsiktlig.
+
+### Ordstammar
+
+| Stam | Betydelse | Exempel |
+|------|-----------|---------|
+| xen / xenthar | makt, välde | Xenthar |
+| thar / dar | berg, höjd; fästning | Xenthar, Ythar, Galdaroth |
+| gal | gammal, urgammal | Galdaroth |
+| oth | sten, klippa | Galdaroth, Otharam |
+| kal | kust, klippa vid vatten | Kaldris |
+| am / amun | flod, ström | Amunir |
+
+### Suffix och partiklar
+
+| Form | Betydelse | Exempel |
+|------|-----------|---------|
+| -ar / -ara | plats, rikets centrum | Xenthar, Xenthara |
+| -oth | stenig avslutning; fästning | Galdaroth |
+| -am | samlingsplats, rike | Otharam |
+| -ir | flöde, rörelse | Amunir |
+| -is | stad, bosättning | Kaldris |
+
+### Belagda namn och tolkningar
+
+- **Xenthar** – xen + thar, "maktens berg" eller "höjdernas välde". Imperiet vid Amunirs övre lopp.
+- **Xenthara** – Xenthar + -a, "Xentharrikets stad". Imperialismens namngivningsmönster: man ger staden riksnamnet med -a-ändelse.
+- **Galdaroth** – gal + dar + oth, "den urgamla bergsfästningen". Otharams huvudborg.
+- **Otharam** – oth + aram (variant av *am*), "stenriket" eller "klippfolkets samlingsplats".
+- **Kaldris** – kal + dris (möjligen ett äldre suffix för "plats vid"), "klippstaden vid kusten". Befinner sig i övergångszonen och bär drag av bägge substrat.
+- **Amunir** – amun + -ir, "det stora flödet". Flodnamn, opersonligt och beskrivande.
+
+---
+
 ## Norra Ardenar / Nordmark
 
 Substrat med fornnordisk inspiration. Används primärt för namngivning i norra Ardenar, framför allt kring Nordmark och angränsande områden.
