@@ -5,15 +5,11 @@
 
 **Högobservatoriet** är [[Meridia]]s främsta astronomiska institution och den byggnad som mer än någon annan definierar stadsstatens silhuett. Beläget på [[Meridias kvarterer|Klipptoppen]], den högsta punkten av ön, har det fri sikt mot himlavalvet i alla riktningar och är synligt från långt ute till havs. Det är härifrån [[Zenitrådet]] hämtar sin vetenskapliga auktoritet, och härifrån de observationsdata hämtas som ligger till grund för [[Prima]]s kalenderkorrigeringar.
 
----
-
 ## Byggnaden och instrumenten
 
 Observatoriet har sin upprinnelse i ett enda torn, byggt med privata medel av en enda familj, troligen under de cyklader som följde på de Melethiska lärdas ankomst till Meridia. Det som nu finns är resultatet av generationers utbyggnader, där varje tillskott av mecenater och institutionell prestige lämnat sina spår i byggnadsdelar av olikartad ålder och arkitektur.
 
 Inuti förvaras mätinstrument, beräkningstabeller och generationers observationsböcker. Tillträde är begränsat; besökare tas emot på förmiddagarna, i sällskap av en assistent som noterar vad besökaren frågar om. Fullständiga observationsprotokoll förvaras i det interna arkivet och är inte tillgängliga för allmänheten – de sammanfattningar som presenteras för Zenitrådet är de enda versioner som cirkulerar utanför byggnaden.
-
----
 
 ## Zenitrådet och Högastronomen
 

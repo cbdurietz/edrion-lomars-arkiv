@@ -7,15 +7,11 @@
 
 Kollegiets lokaler ligger ett par terrasskroppar nedanför [[Högobservatoriet]] på [[Meridias kvarterer|Klipptoppen]], med arkiv, kopieringsverkstäder och ett bibliotek som tekniskt sett är öppet för alla studenter – i praktiken kräver ett besök ett introduktionsbrev från någon kollegiet känner.
 
----
-
 ## Nollmeridianen och kartproduktionen
 
 Kollegiets grundläggande uppdrag är att upprätthålla den referenslinje varifrån längdgrader mäts österut och västerut över hela den kända världen. Nollmeridianen är inte en naturkraft utan en konvention som Meridias kartografer under generationer etablerat genom att producera de bästa och mest spridda sjökorten på Prima – inte genom dekret, utan genom att göra sig oumbärliga.
 
 I dag producerar kollegiet kartserier över kustlinjerna på varje känd kontinent, sjökortssamlingar för de viktigaste handelsvägarna och höjdkurvor från Ardenars bergskedjor. Varje ny kartupplaga kräver att äldre versioner uppdateras, att agenter underhåller kontakter i hamnstäder från [[Ardenar]] till [[Ythea]], och att de inkomster som kartförsäljningen genererar återinvesteras i nya expeditioner och mätningar. Det är ett system som underhåller sig självt – och som underhåller Thalis i samma rörelse.
-
----
 
 ## Arkiven och det som inte visas
 

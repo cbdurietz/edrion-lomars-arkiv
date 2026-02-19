@@ -1,4 +1,4 @@
-﻿#Plats #Planet
+#Plats #Planet
 
 > [!quote] [[Edrion Lomar]], _[[Dansen mellan Sol och Skugga]]_
 > Det finns ett ljus bortom [[Keveron]] som de flesta aldrig lägger märke till – ett svagt, gråvitt sken som rör sig så långsamt att det knappt kan skiljas från stjärnorna. Det krävs mörka nätter, klart väder och ett tränat öga för att ens finna det. Jag fann det först efter att en astronom i [[Solarith]] pekade ut det för mig med fingret, och jag skäms inte för att erkänna att jag inte hade sett det på egen hand trots tjugo år av nätter under bar himmel.

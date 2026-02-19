@@ -7,15 +7,11 @@
 
 Skolans lokaler sträcker sig från [[Meridias kvarterer|Klipptoppen]] ner mot mellankvarterets övre gräns, och det är vanligt att se navigatörsstudenter röra sig längs Klippvägen med mätutrustning under armen. Den är den mest tillgängliga av de tre stora institutionerna – besök kräver inga introduktionsbrev, och studenter från ett bredare geografiskt och socialt spektrum finns här än vid de andra.
 
----
-
 ## Utbildning och instrument
 
 Kursplanen täcker astronavigation, instrumenthantering, kustgeografi och sjörättens grunder. De instrument som används i undervisningen och refereras till i examinationerna är i dag nästan uteslutande [[Huset Kael|Kael]]-märkta, kalibrerade mot Kaels standarder och tillgängliga till förmånliga priser för nyutexaminerade – initialt. Varje lots som lämnar skolan med ett Kael-instrument under armen är en framtida betalande kund, och Kael är medvetna om det.
 
 Skolan erbjuder också gästprofessurer inom instrumentteori och mätmetodik. En del av gästprofessorerna visar sig ha Kael-anknutna meriter. Hur djupt detta inflytande sträcker sig in i kursplaners innehåll och examinationskriterier är en fråga som rektorn inte besvarar offentligt.
-
----
 
 ## Rådsambitioner och politisk ställning
 
