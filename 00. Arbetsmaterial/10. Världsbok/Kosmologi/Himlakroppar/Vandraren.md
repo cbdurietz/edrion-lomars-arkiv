@@ -8,6 +8,7 @@
 
 | Parameter | Värde |
 |---|---|
+| Beteckning | Aeteras C-1 |
 | Klassificering | Stor långperiodisk komet / dvärgplanetskala iskropp |
 | Pericentrum (avstånd från Aeteras A) | 1,5–2 AU |
 | Apocentrum | ~60–80 AU |
