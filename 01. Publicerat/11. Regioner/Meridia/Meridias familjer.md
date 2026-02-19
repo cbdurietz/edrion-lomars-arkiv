@@ -19,7 +19,7 @@ Deras ekonomiska tyngd har eroderat under sekler. De äger inte de största lagr
 
 **Spänningar:**
 - Mot *Kael*: Betraktar dem som ett störningsmoment i en ordning som fungerat i sekler.
-- Mot *Aveí*: En underliggande övertygelse om att Meridia är meridiskas och att resten är gäster.
+- Mot *Oshari*: En underliggande övertygelse om att Meridia är meridiskas och att resten är gäster.
 
 ## Huset Vaen
 
@@ -51,7 +51,7 @@ Thalis finansierar Kartografiska Kollegiet och äger rättigheterna till flera a
 
 **Spänningar:**
 - Mot *Kael*: En djup och ömsesidig misstycke. Thalis ser tillämpning som kunskapens degradering; Kael ser Thalis kartmonopol som ett hinder för innovation.
-- Mot *Aveí*: Stilla misstänksamhet mot den östliga handelsfamiljen som ibland verkar ha kartor Thalis inte gjort.
+- Mot *Oshari*: Stilla misstänksamhet mot den östliga handelsfamiljen som ibland verkar ha kartor Thalis inte gjort.
 
 ## Huset Orren
 
@@ -69,7 +69,7 @@ De är enormt rika och fullständigt ointresserade av vad folk tycker om dem.
 
 **Spänningar:**
 - Mot *Vaen*: Se ovan. En strukturell konflikt inbygd i stadsstatens ekonomi.
-- Med *Aveí*: Naturliga allierade. Gemensam handelspragmatism utan sentimentalitet.
+- Med *Oshari*: Naturliga allierade. Gemensam handelspragmatism utan sentimentalitet.
 
 ## Huset Cassel
 
@@ -87,13 +87,13 @@ Cassel finansierar expeditioner, försäkrar last och lånar ut pengar till gill
 - Mot *alla*: Alla söker Cassels gunst. Ingen litar på dem fullt ut. Cassel vet mer om Meridias familjer än vad familjerna vet om varandra.
 - Med *Sorne*: En av Cassels mest komplexa relationer – de håller Sorne flytande av skäl som inte är helt uppenbara.
 
-## Huset Aveí
+## Huset Oshari
 
-→ *Se [[Huset Aveí]] för en utförligare artikel om familjen.*
+→ *Se [[Huset Oshari]] för en utförligare artikel om familjen.*
 
 **Maktbas:** Östhandeln och utländska kontakter.
 
-Aveí anlände till Meridia för tre eller fyra generationer sedan, ursprungligen från Serthara eller möjligen längre österut – källorna är inte eniga. De etablerade sig snabbt tack vare handelsnätverk österut som ingen meridisk familj hade: agenter och kontakter i hamnar dit meridianska fartyg sällan räcker på egen hand. Deras gods rör sig längs rutter som inte syns på Thalis kartor.
+Oshari anlände till Meridia för tre eller fyra generationer sedan. Familjen uppger Serthara som ursprung, men antyder ibland rötter längre österut – möjligen i riktning mot Ythea. De etablerade sig snabbt tack vare handelsnätverk österut som ingen meridisk familj hade: agenter och kontakter i hamnar dit meridianska fartyg sällan räcker på egen hand. Deras gods rör sig längs rutter som inte syns på Thalis kartor.
 
 De är nu djupt rotade i Meridia men bär fortfarande på stämpeln av att ha kommit utifrån.
 
@@ -113,7 +113,7 @@ De är nu djupt rotade i Meridia men bär fortfarande på stämpeln av att ha ko
 
 En gång kontrollerade Sorne en stor del av Meridias varvsdrift och skeppsbyggnad. Så skedde katastrofen – en kombination av otur, dåliga beslut och möjligen en konkurrents ingripande, beroende på vem man frågar. Under de senaste trettio cykladerna har familjen metodiskt sålt av tillgång efter tillgång för att upprätthålla en fasad av välstånd. Fasaden håller fortfarande, om man inte tittar alltför noga.
 
-**Rådsrelation:** Håller ett gammalt och tekniskt sett legitimt säte, men deras röst har i praktiken köpts av dem som finansierar deras verksamhet – för tillfället Huset Aveí, som håller deras skulder och ber om lite vänlighet i gengäld.
+**Rådsrelation:** Håller ett gammalt och tekniskt sett legitimt säte, men deras röst har i praktiken köpts av dem som finansierar deras verksamhet – för tillfället Huset Oshari, som håller deras skulder och ber om lite vänlighet i gengäld.
 
 **Karaktär:** Stolt till det smärtsamma. Vägrar erkänna hur illa ställt det är. Familjenamnet är det enda de inte kan låta sig berövas, och det vet de. Det gör dem opålitliga på sätt som rika familjer sällan är.
 
@@ -145,14 +145,14 @@ Astrolaber, kompasser, sextanter, graderade mätcylindrar. Varje Navigationsskol
 | Vatten vs. kaj | Vaen ↔ Orren |
 | Akademisk prestige vs. tillämpad nytta | Thalis ↔ Kael |
 | Alla mot skuldeboken | ↔ Cassel |
-| Infödd vs. utländsk | Merid, Thalis ↔ Aveí |
+| Infödd vs. utländsk | Merid, Thalis ↔ Oshari |
 | Fallande vs. stigande | Sorne ↔ Kael |
-| Öppen makt vs. skuggmakt | Vaen, Merid ↔ Cassel, Aveí |
+| Öppen makt vs. skuggmakt | Vaen, Merid ↔ Cassel, Oshari |
 
 ## Rådet i praktiken
 
 Rådet är formellt sammansatt av representanter för akademier, handelsgillen och militär. Av de åtta familjerna sitter två med egna röster öppet: **Merí** (av tradition) och **Vaen** (som militär befälhavare). **Thalis** och **Orren** sitter formellt som akademi- respektive gillesrepresentanter – en distinktion alla genomskådar.
 
-**Sorne** håller ett allt skörare mandat. **Aveí** talar genom Orren och Sornes röst. **Cassel** har inget säte och vill inte ha det. **Kael** knackar på.
+**Sorne** håller ett allt skörare mandat. **Oshari** talar genom Orren och Sornes röst. **Cassel** har inget säte och vill inte ha det. **Kael** knackar på.
 
-Utanför protokollet: Cassel håller skuldeboken över halva rummet, och Aveí vet vilka rutter Thalis kartor inte visar.
+Utanför protokollet: Cassel håller skuldeboken över halva rummet, och Oshari vet vilka rutter Thalis kartor inte visar.

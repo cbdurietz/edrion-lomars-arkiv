@@ -29,13 +29,13 @@ Sorne har inte stämt någon. Det kan bero på att det inte finns bevis. Det kan
 ## Två fordringsägare
 
 Huset Sorne är i skuld till [[Huset Cassel]]. Det är känt.
-Huset Sorne är i skuld till [[Huset Aveí]]. Det är mindre känt, men tillräckligt känt för att inte vara en hemlighet.
+Huset Sorne är i skuld till [[Huset Oshari]]. Det är mindre känt, men tillräckligt känt för att inte vara en hemlighet.
 
 Vad som inte är känt är om de två fordringsägarnas exponering mot Sorne är känd för varandra, och om de vet vad den andra parten faktiskt vill ha tillbaka.
 
 Cassel håller Sorne flytande med en tålmodighet som inte är kommersiellt motiverad i strikt bemärkelse. En fordring mot en familjefirma i den tillståndet borde sedan länge ha föranlett aktiva återvinningsåtgärder – men Cassel agerar inte. De förnyar, förlänger och väntar på ett sätt som mer liknar ett bevarat optionsvärde än en bankirs rutinhantering av en dålig kredit.
 
-Aveí håller en annan del av Sornes skulder, via arrangemang vars exakta utformning inte är offentlig, och får i gengäld en röst i rådet som konsekvent landar på positioner som Aveí föredrar. Sorne presenterar sina rådsståndpunkter med argument. Argumenten bär sällan upp under närmre granskning, och de vet om det, och det spelar ingen roll.
+Oshari håller en annan del av Sornes skulder, via arrangemang vars exakta utformning inte är offentlig, och får i gengäld en röst i rådet som konsekvent landar på positioner som Oshari föredrar. Sorne presenterar sina rådsståndpunkter med argument. Argumenten bär sällan upp under närmre granskning, och de vet om det, och det spelar ingen roll.
 
 Att navigera mellan två fordringsägare med delvis överlappande och delvis motstridiga intressen kräver en precision som en familj utan ekonomisk rörelsefrihet har svårt att upprätthålla. Sorne gör det med den disciplin som återstår när all annan disciplin är borta: stolthetens.
 
@@ -71,7 +71,7 @@ De som stannat är de som fortfarande tror att det vänder, eller de som är fö
 
 Huset Sorne är en familj i kontrollerat förfall. Kontrollen är fortfarande deras – de väljer tempot, de väljer vad som säljs och i vilken ordning, de väljer vilka fasader som underhålls och vilka som tyst förfaller. Det är en form av handlingsfrihet, om än av det sorgliga slaget.
 
-Hur länge den kontrollen håller beror på faktorer de inte styr: Cassels tålamod, Aveís behov av deras rådsröst, Kaels takt i sin uppgång och om det finns ett tredje scenario ingen av fordringsägarna räknat med.
+Hur länge den kontrollen håller beror på faktorer de inte styr: Cassels tålamod, Osharis behov av deras rådsröst, Kaels takt i sin uppgång och om det finns ett tredje scenario ingen av fordringsägarna räknat med.
 
 Familjenamnet kan inte tas ifrån dem. Det har de rätt i. Det är också sant att ett namn utan substans med tillräcklig tid upphör att vara ett namn och övergår till att vara en anekdot.
 

@@ -43,19 +43,19 @@ De publika samlingarna är imponerande: kartserier som täcker kustlinjerna på 
 
 Det icke-publika arkivet är en annan fråga. Att det existerar är känt; att det innehåller kartmaterial som aldrig offentliggjorts är en kvalificerad gissning som delas av de flesta som studerat Thalis arbetsmetoder. Vad det materialet visar, och varför det inte publicerats, är oklart.
 
-En vanlig hypotes är att det rör sig om sjörutter Thalis inte vill att konkurrenter ska känna till. En annan är att det finns kartmaterial från expeditioner som av politiska skäl aldrig bör ha ägt rum. En tredje, som cirkulerar bland mer fantasifulla lärda, är att det finns kartor som visar saker vars existens är obekväm av skäl som inte är kommersiella.
+En vanlig hypotes är att det rör sig om sjörutter Thalis inte vill att konkurrenter ska känna till. En annan är att det finns kartmaterial från expeditioner som av politiska skäl aldrig borde ägt rum. En tredje, som cirkulerar bland mer fantasifulla lärda, är att det finns kartor som visar saker vars existens är obekväma av skäl som inte är strikt kommersiella.
 
 Ingen av hypoteserna är bekräftad. Ingen av dem har avvisats av Thalis med en övertygande tydlighet.
 
 ## Hotet från öster
 
-Den strukturella oro som Thalis sällan uttrycker men aldrig slutar känna gäller [[Huset Aveí]].
+Den strukturella oro som Thalis sällan uttrycker men aldrig slutar känna gäller [[Huset Oshari]].
 
-Aveí anlände från Serthara – möjligen längre österut – med handelsnätverk längs rutter som ingen meridisk kartograf systematiskt kartlagt. Deras agenter rör sig i hamnar dit Thalis fartyg sällan räcker på egen hand, och det läcker ibland in i Meridia sjökortsöversikter och handelsmäklarnas diskussioner detaljer om dessa östra vatten som inte stämmer med vad Thalis-kartorna visar – eller som visar saker Thalis-kartorna inte ens försökt visa.
+Oshari anlände från Serthara – möjligen längre österut – med handelsnätverk längs rutter som ingen meridisk kartograf systematiskt kartlagt. Deras agenter rör sig i hamnar dit Thalis fartyg sällan räcker på egen hand, och det läcker ibland in i Meridia sjökortsöversikter och handelsmäklarnas diskussioner detaljer om dessa östra vatten som inte stämmer med vad Thalis-kartorna visar – eller som visar saker Thalis-kartorna inte ens försökt visa.
 
-Det finns rapporter om att Aveí vid ett tillfälle presenterade sjökortsdata för en handelskonsortium vid Vägskälet som direkt motsade Thalis version av en viss kuststräcka – och att Aveís version visade sig stämma bättre när fartyget faktiskt seglade rutten.
+Det finns rapporter om att Oshari vid ett tillfälle presenterade sjökortsdata för ett handelskonsortium vid Vägskälet som direkt motsade Thalis version av en viss kuststräcka – och att Osharis version visade sig stämma bättre när fartyget faktiskt seglade rutten.
 
-Thalis offentliga reaktion på sådana episoder är att ifrågasätta källans reliabilitet och betona vikten av systematisk metodik framför enstaka observationer. Deras privata reaktion är att omedelbart försöka förvärva källmaterialet, helst utan att Aveí förstår vad de gett bort.
+Thalis offentliga reaktion på sådana episoder är att ifrågasätta källans trovärdighet och betona vikten av systematisk metodik framför enstaka observationer. Deras privata reaktion är att omedelbart försöka förvärva källmaterialet, helst utan att Oshari förstår vad de gett bort.
 
 ## Relationen till Melethis
 
@@ -79,7 +79,7 @@ Båda har rätt. Ingen av dem vill erkänna den andres argument fullt ut.
 
 Huset Thalis position är stark och stabil men inte ohotad. Kartmonopolet vilar på ett nätverksfenomen – alla använder meridianska kartor för att alla använder meridianska kartor – och sådana nätverkseffekter är svåra att utmana men inte omöjliga att erodera. En tillräckligt bra konkurrerande standard, spridd tillräckligt snabbt, kan bryta spiralen.
 
-Kael-familjens ökade kapital och Aveís östliga nätverk representerar de två bästa vägarna till ett sådant alternativ. Thalis känner till detta. Deras svar har hittills varit att hålla Kael utanför rådet, att negligera Aveí offentligt och förvärva deras kunskap privat, och att fortsätta producera kartor som är marginellt bättre och marginellt billigare än allt konkurrenterna kan erbjuda.
+Kael-familjens ökade kapital och Osharis östliga nätverk representerar de två bästa vägarna till ett sådant alternativ. Thalis känner till detta. Deras svar har hittills varit att hålla Kael utanför rådet, att negligera Oshari offentligt och förvärva deras kunskap privat, och att fortsätta producera kartor som är marginellt bättre och marginellt billigare än allt konkurrenterna kan erbjuda.
 
 Det är en strategi som kräver att man hela tiden rör sig något snabbare än hotet. Thalis har gjort det i tre hundra cyklader.
 

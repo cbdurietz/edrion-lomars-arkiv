@@ -21,7 +21,7 @@ Familjen är inte okunnig om de konkurrerande versionerna. Tvärtom: de är mer 
 
 Etymologins fråga – om *Meridia* härstammar från *Merí* eller om *Merí* formats av *Meridia* – är en av de sällsynta historiska frågor som faktiskt saknar svar, och som troligen alltid kommer att sakna det. Det äldsta bevarade dokumentet som namnger familjen skriver redan *Merí*; det äldsta som namnger ön skriver *Meridia*. De är ungefär lika gamla. Det är oklart vilket som kom först.
 
-Familjen upprätthåller att staden uppkallades efter dem. Deras motståndare – framför allt huset Thalis, som gärna ser historien som mer komplicerad än Merí vill erkänna – hävdar att sambandet är mer mångtydigt. Huset Aveí, som anlände långt senare och saknar nostalgiska intressen i frågan, har vid minst ett tillfälle i rådet påpekat att det kanske inte spelar någon roll.
+Familjen upprätthåller att staden uppkallades efter dem. Deras motståndare – framför allt huset Thalis, som gärna ser historien som mer komplicerad än Merí vill erkänna – hävdar att sambandet är mer mångtydigt. Huset Oshari, som anlände långt senare och saknar nostalgiska intressen i frågan, har vid minst ett tillfälle i rådet påpekat att det kanske inte spelar någon roll.
 
 Det är möjligt att det inte gör det. Det är också möjligt att det är den viktigaste frågan familjen bär.
 
@@ -43,7 +43,7 @@ Nere vid Norrhamnen, vid en av kajerna som fortfarande formellt bär familjens n
 
 ## Interna dynamiker
 
-Familjen är inte en monolitisk röst. Under de senaste tjugo cykladerna har interna spänningar blivit tydligare, om än aldrig offentliga. Den äldre grenen – de som kontrollerar rådssätet och stadshuset – är djupt konservativ och ser varje förändring i Meridias maktbalans som ett hot mot en ordning de betraktar som naturlig. Den yngre grenen, mer aktiv i handelssammanhang och delvis inblandad i relationer med Aveís nätverk österut, är mer pragmatisk. De vet att familjens symbolmakt inte försörjer sig själv och att ett namn förr eller senare behöver något bakom sig.
+Familjen är inte en monolitisk röst. Under de senaste tjugo cykladerna har interna spänningar blivit tydligare, om än aldrig offentliga. Den äldre grenen – de som kontrollerar rådssätet och stadshuset – är djupt konservativ och ser varje förändring i Meridias maktbalans som ett hot mot en ordning de betraktar som naturlig. Den yngre grenen, mer aktiv i handelssammanhang och delvis inblandad i relationer med Osharis nätverk österut, är mer pragmatisk. De vet att familjens symbolmakt inte försörjer sig själv och att ett namn förr eller senare behöver något bakom sig.
 
 Denna spänning har inte exploderat. Merí-familjens stoltaste tradition är att inte visa sprickor utåt. Men de som lyssnar noga vid rådssessionerna noterar att det sällan är samma Merí som talar två gånger i rad.
 
@@ -51,7 +51,7 @@ Denna spänning har inte exploderat. Merí-familjens stoltaste tradition är att
 
 **Mot huset Kael:** Betraktas med en blandning av ovilja och förakt. Kael representerar precis den typ av uppkomling som gammal ordning inte är gjord för att hantera: de bryr sig inte om hur länge Merí funnits, de respekterar inte tradition som argument och de har pengar nog att vara oberoende. Det som stör Merí mest är inte att Kael är ambitiösa – det är att de verkar genuint ointresserade av Merís välsignelse.
 
-**Mot huset Aveí:** En underliggande övertygelse, sällan uttalad rakt, att Meridia tillhör meridiskas och att det finns en gräns för hur djupt rötter kan gå för en familj som anlänt de senaste tre generationerna. Aveí vet om detta och har länge sedan beslutat att ignorera det som den sentimentalitet det är. Den öppna fientligheten är låg; den strukturella misstänksamheten är konstant.
+**Mot huset Oshari:** En underliggande övertygelse, sällan uttalad rakt, att Meridia tillhör meridiskas och att det finns en gräns för hur djupt rötter kan gå för en familj som anlänt de senaste tre generationerna. Oshari vet om detta och har länge sedan beslutat att ignorera det som den sentimentalitet det är. Den öppna fientligheten är låg; den strukturella misstänksamheten är konstant.
 
 **Mot huset Thalis:** En respektfull men kylig relation. Thalis kom med de lärda, och deras närvaro förändrade vad Meridia är – inte bara en handelsnod utan en kunskapsstad. Merí har aldrig fullt ut förlåtit att det var de lärda, inte familjen, som gav stadsstaten dess djupare identitet. Thalis vet om det. Ingen av dem nämner det.
 
