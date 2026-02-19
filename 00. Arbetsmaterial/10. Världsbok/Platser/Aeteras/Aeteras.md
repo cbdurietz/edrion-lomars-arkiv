@@ -25,14 +25,18 @@ Aeteras är ett **binärt stjärnsystem** med två stjärnor som kretsar kring v
 
 ## Planeterna
 
-Alla kända planeter kretsar kring [[Aeterion]]. Från [[Prima]] är följande synliga på himlavalvet:
+Alla kända planeter kretsar kring [[Aeterion]], sorterade här inifrån och ut sett från solen.
 
-- **[[Sekara]]** – natthimlens starkaste objekt, en permanent aftonstjärna som alltid syns i skymningen. En mystisk systerplanet till Prima med oförklarade ljusfenomen på ytan.
-- **[[Varun]]** – en lysande morgon- eller aftonstjärna, dold bakom tjocka moln.
-- **[[Keveron]]** – en ljusstark punkt som rör sig sakta bland stjärnorna.
-- **[[Thraxis]]** – sällan synlig, alltid nära solen.
-
-De yttre planeterna **[[Drakis]]**, **[[Thalorn]]** och **[[Nycthor]]** är svårare att observera men kända av lärda astronomer.
+| Planet | Synlighet från Prima | Omloppstid | Karaktär | Relaterat |
+|--------|---------------------|------------|----------|-----------|
+| [[Thraxis]] | Svår – korta horisontfönster i gryning/skymning | Kort | Den flyktiga; budbäraren | – |
+| [[Varun]] | God – morgon- eller aftonstjärna, aldrig vid midnatt | – | Morgonstjärnan / Kvällsstjärnan; molntäckt yta | – |
+| [[Prima]] | (hemplaneten) | 421 dygn | Den bebodda världen | [[Ardenar]], [[Kyrathis]], [[Serthara]], [[Ythea]], [[Aeloria]] |
+| [[Sekara]] | Utmärkt – natthimlens starkaste objekt | – | Systerplaneten; oförklarade ljusfenomen på ytan | [[Aeterions tempel]] |
+| [[Keveron]] | God – vandrar sakta bland stjärnorna | ~6 cyklader | Den stadige; den tålmodige | – |
+| [[Drakis]] | Måttlig – varierar; rödorange sken | – | Krigets tecken; känd för retrograd rörelse | – |
+| [[Thalorn]] | Knappt – kräver tränat öga och gynnsam natt | Lång | Den förlorade systern; kall klippvärld | – |
+| [[Nycthor]] | Ej möjlig med blotta ögat | Okänd | Känd enbart via beräkningar; gränsen av det kartlagda | – |
 
 ---
 

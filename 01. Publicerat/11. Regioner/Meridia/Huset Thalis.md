@@ -1,5 +1,3 @@
-# Huset Thalis
-
 #Familj #Meridia
 
 **Huset Thalis** är [[Meridia]]s kartografiska familj – de som finansierar [[Kartografiska Kollegiet]], kontrollerar de mest spridda kartverken på [[Prima]] och sitter i rådet som representanter för en institution de i praktiken äger. De kallar sig lärda. Det stämmer. De kallar sig inte handelsmän. Det stämmer också, om man är noga med definitionerna.

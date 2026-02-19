@@ -1,4 +1,4 @@
-﻿# Aeteras A V
+# Aeteras A V
 
 > Världsbygge: **[[Thalorn]]** – *Den förlorade systern*
 

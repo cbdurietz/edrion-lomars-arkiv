@@ -1,5 +1,3 @@
-# Zenitrådet
-
 Zenitrådet är det organ som fattar beslut om korrektioner i Primas kalender – i synnerhet om och när en **Obruten cyklad** skall kungöras. Rådet har sin hemvist i **[[Högobservatoriet]]** i [[Meridia]], och dess beslut är inte formellt bindande för Prima i sin helhet, men har med tiden kommit att utgöra praxis för den meridianska tideräkning som följs av merparten av handelsstater och sjöfarande folk.
 
 → *Se [[Cyklader|Tideräkning i cyklader]] för cykladens struktur, zenitdrift och den Obrutna cykladen.*

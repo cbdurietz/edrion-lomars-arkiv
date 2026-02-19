@@ -1,5 +1,3 @@
-# Huset Aveí
-
 #Familj #Meridia
 
 **Huset Aveí** anlände till [[Meridia]] för tre eller fyra generationer sedan och har sedan dess etablerat sig som en av stadsstatens viktigaste handelsfamiljer. Deras maktbas är handelsnätverk österut – rutter, kontakter och kunskaper om marknader som ingen meridisk familj kan matcha på egna meriter. De är djupt rotade i Meridia. De betraktas fortfarande, av de äldsta familjerna, som inte riktigt därifrån.

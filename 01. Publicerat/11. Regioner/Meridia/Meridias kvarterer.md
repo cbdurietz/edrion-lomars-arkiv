@@ -1,5 +1,3 @@
-# Meridias kvarterer
-
 [[Meridia]] är en vertikal stad. Klippan reser sig ur havet, och med den reser sig allt annat – hamnarbetarna vid vattnet, köpmännen på mellannivåerna, de lärda och förmögna nära toppen. Höjd är social status, renare luft och utsikt. Att bo lågt är att bo nära arbetet; att bo högt är att ha råd att slippa det. Klippvägen binder samman alla lager, men de flesta tillbringar sina liv på sin egna nivå.
 
 → *Se [[Meridia]] för stadsstatens geografi, ekonomi och politiska struktur.*

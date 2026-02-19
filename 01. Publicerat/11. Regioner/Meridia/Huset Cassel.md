@@ -1,5 +1,3 @@
-# Huset Cassel
-
 #Familj #Meridia
 
 **Huset Cassel** lånar ut pengar, försäkrar last och finansierar expeditioner. De kallar sig bankirer. Det stämmer. Det är också det minst intressanta som kan sägas om dem.

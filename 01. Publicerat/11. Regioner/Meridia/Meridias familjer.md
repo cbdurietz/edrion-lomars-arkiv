@@ -1,5 +1,3 @@
-# Meridias familjer
-
 Den formella makten i [[Meridia]] utövas av rådet – representanter från akademier, handelsgillen och militär. Den verkliga makten utövas till stor del av ett tiotal förmögna familjer vars inflytande är äldre, djupare och mer svårgreppbart än rådsprotokollen låter förstå. Några sitter öppet i rådet. Andra syns aldrig i rådsalen men är ändå närvarande i varje beslut.
 
 → *Se [[Meridia]] för stadsstatens politiska struktur.*

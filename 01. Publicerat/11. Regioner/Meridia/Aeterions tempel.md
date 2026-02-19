@@ -1,5 +1,3 @@
-# Aeterions tempel
-
 #Plats #Religion
 
 **Aeterions tempel** – i folkmun ofta kallat **Aeterions Helgedom** – är [[Meridia]]s mest framträdande religiösa institution och det enda kultcentrum i stadsstaten med ett fast säte i [[Zenitrådet]]. Byggnaden ligger i höjdkvarteren, granne med rådshusen och familjepalatsen. Dess siktfönster – en smal vertikal öppning i östfasaden – är konstruerat för att fånga Aeterions zenitpassage: vid rätt ögonblick faller ljuset rakt ner längs templets mittaxel och träffar altarplattan utan att beröra väggarna. Det är inte Meridias äldsta kultplats, men det är den mest medvetet konstruerade.

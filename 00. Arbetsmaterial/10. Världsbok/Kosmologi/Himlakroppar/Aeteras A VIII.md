@@ -1,4 +1,4 @@
-﻿# Aeteras A VIII
+# Aeteras A VIII
 
 > Världsbygge: **[[Nycthor]]** – *Den nattlige*
 

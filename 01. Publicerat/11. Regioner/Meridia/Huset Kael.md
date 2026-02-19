@@ -1,5 +1,3 @@
-# Huset Kael
-
 #Familj #Meridia
 
 **Huset Kael** är det yngsta av [[Meridia]]s åtta ledande familjer och det enda vars uppgång kan dateras till ett enskilt skifte: introduktionen av en tillverkningsprocess för navigationsinstrument som på kort tid etablerade sig som industristandard. Varje lots utbildad vid [[Navigationsskolan]] navigerar med Kael-märkta instrument. Exporten täcker hela [[Prima]]. De knackar på rådets dörr med allt mer kapital bakom sig och förstår genuint inte varför ålder i sig ska vara ett argument för att hålla den stängd.

@@ -1,5 +1,3 @@
-# Huset Sorne
-
 #Familj #Meridia
 
 **Huset Sorne** är en gammal familj med ett anrikt namn och ett krympande kapital. De sitter fortfarande i rådet. De tar fortfarande emot gäster i sitt stadshus i höjdkvarteren. De klär sig fortfarande som den familj de var för trettio cyklader sedan, vilket inte är vad de är nu.

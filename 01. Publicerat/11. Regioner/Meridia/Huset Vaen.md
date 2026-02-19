@@ -1,5 +1,3 @@
-# Huset Vaen
-
 #Familj #Meridia
 
 **Huset Vaen** är [[Meridia]]s militära familj – den som finansierar flottan, bemannar befästningarna och, viktigast av allt, håller passagen öppen för den som betalar och stängd för den som hotar. Utan Vaen är Meridia en klippa med goda bibliotek. Det är deras favoritformulering om sig själva, och de använder den inte utan beräkning.

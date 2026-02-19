@@ -1,5 +1,3 @@
-# Meridias historia
-
 [[Meridia]] är en stad som gärna berättar sin historia – men inte alltid samma historia. Grundarberättelserna är flera, krigsåren är omtvistade, och de beslut som format stadsstaten presenteras i efterhand som oundvikliga snarare än vad de var: riskabla, omdebatterade och ibland tagna av fel skäl. Det som följer är ett försök att skilja det väldokumenterade från det mytologiserade, utan att förneka att gränsen ibland är svår att dra.
 
 → *Se [[Meridia]] för stadsstatens geografi, ekonomi och politiska struktur.*

@@ -1,5 +1,3 @@
-# Huset Merí
-
 #Familj #Meridia
 
 **Huset Merí** är den äldsta och, i symbolisk bemärkelse, mest centrala av [[Meridia]]s ledande familjer. Staden bär deras namn – eller omvänt: de bär stadens. Vem som gav vem namnet hålls medvetet öppet i Meridias historieskrivning, och ingen i familjen har ett intresse av att frågan besvaras. Svaret kan bara göra dem mindre.
