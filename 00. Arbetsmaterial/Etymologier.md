@@ -47,7 +47,7 @@ Kustsubstratet utmärks av mjukare konsonanter, vokalrika stavelser och en tende
 | Stam | Betydelse | Exempel |
 |------|-----------|---------|
 | o- | hedersprefix för namn och titlar | Oshari, Orishima |
-| sha | okänt; morfemets betydelse ej fastställd | Oshari |
+| sha | egennamnsrot; troligen ett klan- eller ursprungsnamn | Oshari |
 | ri | klan, familj, samhörighet | Oshari, Orishima |
 | shima | gräns, mellanutrymme | Orishima |
 | oshi / asha | hav, vatten; att färdas | – |
@@ -63,14 +63,14 @@ Kustsubstratet utmärks av mjukare konsonanter, vokalrika stavelser och en tende
 
 ### Belagda namn och tolkningar
 
-- **Oshari** – O- (hedersprefix) + sha (okänd stam) + ri (klan, tillhörighet). Trolig tolkning: "det hedervärda sha-sällskapet" eller "den hedervärde sha-tillhörige". Vad *sha* betecknar är inte fastslaget – möjligen en verksamhetstyp, en ursprungsidentitet eller en kvalitet som inte längre är transparent i levande bruk. Familjens egna etymologi är inte dokumenterad och de korrigerar ingen.
+- **Oshari** – O- (hedersprefix) + sha (egennamnsrot) + ri (klan, tillhörighet). Tolkning: "den hedervärda familjen Sha" eller "det hedervärda Sha-sällskapet". *Sha* är sannolikt ett ursprungligt klan- eller familjenamn vars referens förlorats men vars form bevarats i sammansättningen. Familjens egna etymologi är inte dokumenterad och de korrigerar ingen.
 
 - **Orishima** – O- (hedersprefix) + ri (klan, tillhörighet) + shima (gräns, mellanutrymme). Tolkning: "det hedervärda sällskapet i mellanrummet". Beteckning för de lojalitetsstrukturer på Ythea som verkar i de operativa tomrum som blodsklaner inte kan eller vill fylla. Se [[Ythea]].
 
 ### Anmärkningar
 
 - *shima* betecknar gräns och mellanutrymme i social/operativ bemärkelse – inte geografisk ö eller kust, trots ytlig likhet med ord i andra substrat.
-- *sha* är kustsubstratets öppna fråga. Att morfemets betydelse inte är fastställd kan bero på att det är ett arkaiskt lånord, en egennamnsrot eller en term vars referens förlorats i bruk.
+- *sha* är sannolikt en egennamnsrot – ett ursprungligt klan- eller familjenamn inbyggt i sammansättningen. Formen bevaras men ursprungsreferensen är förlorad.
 - Kustsubstratet och inlandssubstratet är separata traditioner. Gränsen går ungefär vid Ytharbergen – handelsstäderna längs kusten och floddalarna mot havet bär kustmönstret; de feodala rikena inåt landet det hårdare inlandssubstratet (se nedan).
 - Kaldris uppvisar drag från bägge traditioner, som en stad i gränslandet.
 
