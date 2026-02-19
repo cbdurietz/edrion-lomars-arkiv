@@ -93,6 +93,20 @@ Ythea har en lång historia av feodala riken, klaner och dynastier som konkurrer
 
 ---
 
+## Orishima – klanerna mellan klanerna
+
+Bredvid det officiella klansystemet – de blodslinjekopplade dynastier och feodalstrukturer som Ytheas historia skrivs i termer av – existerar en annan typ av strukturer vars existens sällan återges i officiella krönikorna.
+
+Dessa kallas **orishima**: ungefär "de av mellanstyckena" eller "gränslandsfolket". Sammansättningen är geografisk snarare än social – *ori* (av, från, tillhörande) och *shima* (ö, gräns, det instängda mellanutrymmet) – och beskriver det utrymme de existerar i snarare än vad de är. De är inte klaner i blodsmässig bemärkelse, inte handelsgillen i formell och inte hemliga sällskap i romantiserad. De är något äldre och mer pragmatiskt: lojalitetsstrukturer som fyllt de luckor som klansystemet inte täcker – relationer mellan folk som inte delar blod, inte delar stat, men delar intresse i att saker rör sig utan för mycket friktion.
+
+Orishima opererar i passager, bokstavliga och bildliga. Handelsstäder som [[Kaldris]] är naturliga knutpunkter, inte för att de är avskilda från makten utan precis tvärtom: i kontaktytorna mellan stora system uppstår de utrymmen där en orishima kan verka utan att vara alltför synlig för någondera sidan. En orishima som opererar längs floden [[Amunir]] är tekniskt sett varken [[Xenthar|Xentharsk]] eller [[Otharam|Otharamsk]]; den är mellanlandets, och ingen av de feodala makterna finner det värt att förklara krig mot den.
+
+Utomstående som stöter på orishima-strukturer tar dem ofta för välkopplade handelsfamiljer, diskreta smugglarnätverk eller professionella mellanhänder – vilket de kan vara, beroende på vilken orishima det gäller. Skillnaden är inte i verksamheten utan i lojalitetens natur: en orishima rekryterar inte via blod utan via förtroende. Den som visat att de håller sina åtaganden, är tillräckligt diskreta och har rätt typ av kompetens kan med tiden räknas som orishima – och det innebär tillgång till nätverk, skydd och resurser som ingen officiell handelsregistrering ger, och som inget blodsband ensamt kan förmedla.
+
+Huruvida de stora orishima-nätverken är kriminella i någon meningsfull bemärkelse är en fråga utan enkelt svar. De verkar i utrymmen lagen inte reglerar, vilket antingen beror på att verksamheten är legitim eller på att de är skickliga nog att hålla den legala sidan synlig.
+
+---
+
 ## Kultur och Religion
 
 Ythea har en rik och mångfacetterad kultur, där religion, filosofi och magi spelar en central roll. Varje rike och region på kontinenten har sina egna unika traditioner och trosuppfattningar, men vissa gemensamma drag kan skönjas över hela kontinenten.

@@ -93,7 +93,7 @@ Cassel finansierar expeditioner, försäkrar last och lånar ut pengar till gill
 
 **Maktbas:** Östhandeln och utländska kontakter.
 
-Oshari anlände till Meridia för tre eller fyra generationer sedan. Familjen uppger Serthara som ursprung, men antyder ibland rötter längre österut – möjligen i riktning mot Ythea. De etablerade sig snabbt tack vare handelsnätverk österut som ingen meridisk familj hade: agenter och kontakter i hamnar dit meridianska fartyg sällan räcker på egen hand. Deras gods rör sig längs rutter som inte syns på Thalis kartor.
+Oshari anlände till Meridia för tre eller fyra generationer sedan. Familjen uppger [[Kaldris]] i södra [[Ythea]] som ursprungsort, men antyder ibland rötter längre in i kontinenten. De etablerade sig snabbt tack vare handelsnätverk österut som ingen meridisk familj hade: agenter och kontakter i hamnar dit meridianska fartyg sällan räcker på egen hand. Deras gods rör sig längs rutter som inte syns på Thalis kartor.
 
 De är nu djupt rotade i Meridia men bär fortfarande på stämpeln av att ha kommit utifrån.
 
