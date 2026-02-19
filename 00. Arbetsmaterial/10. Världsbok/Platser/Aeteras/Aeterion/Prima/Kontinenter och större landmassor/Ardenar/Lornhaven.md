@@ -1,4 +1,4 @@
-#Plats #Stad
+#Plats #Stad #Bosättning
 
 > [!quote] [[Edrion Lomar]], _[[Över Hav och Djup]]_
 > Lornhaven. Jag minns den som en pärla i gryningens ljus, inbäddad vid kanten av den mörka skog som få vågade beträda. Där, vid den saltstänkta kusten, reste sig stadens murar som en skyddande hand, inte mot något främmande yttre hot, utan mot själva naturens obändiga krafter. För vinden, som alltid tycktes leka över hustaken, bar med sig viskningar från djupet av den stora skogen - viskningar som stadens invånare lärde sig att ignorera, om de alls hörde dem.

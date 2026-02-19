@@ -1,4 +1,4 @@
-﻿#Plats #Nation 
+﻿#Plats #Nation #Bosättning
 
 > [!quote] [[Edrion Lomar]]
 > I Kaldris säljs inte bara varor, utan också drömmar. Här möts människor från alla världens hörn, och under marknadens myller ekar röster fyllda med hopp om makt och rikedom. Men staden ruvar på sina egna hemligheter – för varje avtal som sluts i ljuset, finns ett annat som formas i skuggorna.

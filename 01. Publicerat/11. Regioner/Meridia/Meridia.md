@@ -1,4 +1,4 @@
-#Plats #Stadsstat
+#Plats #Stadsstat #Bosättning
 
 > [!quote] [[Edrion Lomar]], _[[Över Hav och Djup]]_
 > Vi närmade oss Meridia i gryningens första ljus, och jag förstår nu varför sjöfarare som gjort denna resa förr talar om den med en stillhet som gränsar till respekt. Ön stiger ur vattnet som ett argument – inte som en inbjudan. Klipporna är höga och svarta mot himlen, och det är inte förrän man kommit nära nog att urskilja facklorna längs murarna som man inser att det faktiskt bor folk där uppe. Längst upp, synlig från två dagars håll, ligger Högobservatoriets silhuett som en krona man glömt ta av sig.

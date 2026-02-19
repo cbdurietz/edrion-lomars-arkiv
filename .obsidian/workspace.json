@@ -10,7 +10,7 @@
           {
             "id": "5877abf10f9551fa",
             "type": "tabs",
-            "dimension": 79.30871212121212,
+            "dimension": 80.62015503875969,
             "children": [
               {
                 "id": "35bb55708ec24cb2",
@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "01. Publicerat/20. Arkivet/fragment/kungörelse-zenitrådet-cyklad-313.md",
+                    "file": "99. Templates/Country.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "kungörelse-zenitrådet-cyklad-313"
+                  "title": "Country"
                 },
                 "group": "905a88a5f8eafb84"
               }
@@ -32,7 +32,7 @@
           {
             "id": "1b22511f7e85d622",
             "type": "tabs",
-            "dimension": 20.69128787878788,
+            "dimension": 19.379844961240313,
             "children": [
               {
                 "id": "3a3f5e7cc55b1918",
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "01. Publicerat/20. Arkivet/fragment/kungörelse-zenitrådet-cyklad-313.md",
+                    "file": "99. Templates/Country.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for kungörelse-zenitrådet-cyklad-313"
+                  "title": "Backlinks for Country"
                 },
                 "group": "905a88a5f8eafb84"
               }
@@ -120,11 +120,12 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 586.5
+    "width": 910.5
   },
   "right": {
     "id": "c29c42bbe9f4749e",
@@ -228,37 +229,39 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "notebook-navigator:Notebook Navigator": false
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "35bb55708ec24cb2",
   "lastOpenFiles": [
-    "01. Publicerat/20. Arkivet/kronikor/kronikeanteckning-cyklad-313.md",
-    "01. Publicerat/11. Regioner/Meridia/Meridia.md",
-    "00. Arbetsmaterial/10. Världsbok/Väsen/Isvandrare.md",
-    "00. Arbetsmaterial/00. Arbetsmaterial.md",
-    "01. Publicerat/11. Regioner/11. Regioner.md",
-    "01. Publicerat/11. Regioner/Meridia/Aeterions tempel.md",
-    "01. Publicerat/11. Regioner/Meridia/Meridias familjer.md",
-    "01. Publicerat/11. Regioner/Meridia/Meridias historia.md",
-    "01. Publicerat/11. Regioner/Meridia/Meridias kvarterer.md",
-    "01. Publicerat/11. Regioner/Meridia/Zenitrådet.md",
-    "01. Publicerat/11. Regioner/Meridia/Huset Aveí.md",
-    "01. Publicerat/20. Arkivet/kronikor/kronikor.md",
-    "01. Publicerat/20. Arkivet/fragment/kungörelse-zenitrådet-cyklad-313.md",
-    "01. Publicerat/10. Världsbok/03. Folk och seder/7. Tungomål/7. Tungomål.md",
-    "01. Publicerat/10. Världsbok/03. Folk och seder/6. Seder och bruk/6. Seder och bruk.md",
-    "01. Publicerat/10. Världsbok/03. Folk och seder/5. Samhällsordning/5. Samhällsordning.md",
-    "01. Publicerat/10. Världsbok/03. Folk och seder/03. Folk och seder.md",
-    "01. Publicerat/10. Världsbok/02. Geografi/02. Geografi.md",
+    "99. Templates/99. Templates.md",
+    "99. Templates/Country.md",
     "01. Publicerat/10. Världsbok/01. Inledning/01. Inledning.md",
-    "01. Publicerat/10. Världsbok/10. Världsbok.md",
+    "00-meta/_templates/_templates.md",
+    "00-meta/_templates",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Aeloria/Aeloria.md",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Drakhjärta.md",
     "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ardenar.md",
-    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Solarithar.md",
-    "01. Publicerat/11. Regioner/Meridia/Huset Vaen.md",
-    "01. Publicerat/11. Regioner/Meridia/Huset Thalis.md",
-    "01. Publicerat/11. Regioner/Meridia/Huset Sorne.md",
-    "01. Publicerat/11. Regioner/Meridia/Huset Orren.md",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Iskronans Rygg.md",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Ilionis.md",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Frostslätten.md",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Kyrathis/Aetherion.md",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Kyrathis/Melethis.md",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Solmaren.md",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Lornhaven.md",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Lorn.md",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Kharanos.md",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Marisan.md",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ardenar/Varghall.md",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Prima.md",
+    "01. Publicerat/10. Världsbok/02. Geografi/Meridia.md",
+    "01. Publicerat/10. Världsbok/02. Geografi/02. Geografi.md",
+    "00. Arbetsmaterial/10. Världsbok/Platser/Platser.md",
+    "00. Arbetsmaterial/80. Äventyr/80. Äventyr.md",
+    "01. Publicerat/11. Regioner/Meridia/Meridia.md",
+    "01. Publicerat/11. Regioner/Meridia/Meridias historia.md",
+    "01. Publicerat/11. Regioner/Meridia/Meridias familjer.md",
     "01. Publicerat/11. Regioner/Meridia",
     "00. Arbetsmaterial/90. Regelbok",
     "00. Arbetsmaterial/30. Spelledarboken",
@@ -270,7 +273,6 @@
     "00. Arbetsmaterial/Resursfiler/ArdenarDiagram.png",
     "01. Publicerat/90. Regelbok",
     "01. Publicerat/80. Äventyr",
-    "01. Publicerat/30. Spelledarboken",
-    "01. Publicerat/20. Arkivet"
+    "01. Publicerat/30. Spelledarboken"
   ]
 }

@@ -1,4 +1,4 @@
-#Plats #Stad 
+#Plats #Stad #Bosättning
 
 Det finns en fascinerande och komplex historia bakom namngivningen av både stadsstaten **[[Solarith]]** på **[[Kyrathis|Kyrathis]]** och landet **[[Solarithar]]** på **[[Ardenar|Ardenar]]**, och deras koppling är en produkt av både gamla migrationer och gemensamma kulturella rötter. Låt oss utforska denna bakgrund och relationen mellan de två regionerna.
 

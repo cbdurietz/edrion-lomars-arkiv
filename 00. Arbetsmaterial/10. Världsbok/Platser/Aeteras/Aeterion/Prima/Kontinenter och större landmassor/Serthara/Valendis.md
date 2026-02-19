@@ -1,2 +1,2 @@
-#Plats 
+#Plats #Bosättning
 [[Valendis]], Stjärnans Väktare – **[[Valendis]]**, en av de största städerna i **[[Arkhelen]]**, är hem för **[[Stjärnans Hjärta]]**, det kraftfulla stjärnfragment som stulits. [[Valendis]] är en plats av stor betydelse, både som ett religiöst och politiskt centrum i riket. Här börjar äventyret, då spelarna dras in i sökandet efter ledtrådar kring vem som har stulit fragmentet. Stadens stora **[[Astralis Tempel]]**, där fragmentet en gång vilade, är en plats fylld av mystik och uråldriga ritualer, men också av hemligheter.
