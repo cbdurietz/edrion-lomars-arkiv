@@ -1,19 +1,28 @@
 #Plats #Planet
 
-- Prima ligger i den **beboeliga zonen** runt [[Aeterion]] och har förhållanden som liknar Jorden. Gravitationen, miljön, och atmosfären tillåter ett rikt ekosystem med flora och fauna, och dess klimat kan variera beroende på region, precis som på Jorden.
-- Planeten har en måne, **[[00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Vael]]**, som syns tydligt på natthimlen. Vael påverkar tidvatten och dess 30-dagarscykel ligger till grund för kalenderberäkningar.
+> [!quote] [[Edrion Lomar]], _[[Dansen mellan Sol och Skugga]]_
+> Av alla himlakroppar jag skrivit om i dessa sidor är Prima den enda jag aldrig kan se. [[Thraxis]] kan jag urskilja vid horisonten en gynnsam kväll, om jag vet var jag ska leta och skymningen inte slår emot mig. [[Sekara]] hänger varje afton ovanför mig, bekant och ofelbar. Med tålamod och klara nätter kan till och med det bleka [[Thalorn]] urskiljas. Men Prima – den värld jag lever på, rest på, skrivit om i fyra decennier – är för evigt osynlig för mig som helhet.
+>
+> Astronomer vid [[Högobservatoriet]] kan beräkna vad Prima ser ut som sett utifrån: blågrön mot rymdens mörker, vitaktiga molnbälten, [[Vael]]s silverrand längs kanten. Jag tar deras ord för det. Men att hålla Prima i blicken på det sätt jag håller [[Sekara]] – att se den som en hel kropp i rymden – tillhör ett perspektiv som ingen av oss kan inta. Det är en märklig form av blindhet. Att bo i ett hus är inte detsamma som att se det utifrån.
+
+**Prima** är den tredje planeten i [[Aeteras]]-systemet och den bebodda världen – den kropp vars kontinenter och hav utgör all känd historias skådeplats. Den kretsar kring [[Aeterion]] i den beboeliga zonens mitt, med förhållanden som tillåter flytande vatten och en atmosfär som bär ett artrikedom ingen enskild lärdomsman hunnit kartlägga fullt ut. Dess enda måne, [[Vael]], styr tidvatten och kalender.
 
 ![[prima-overview.png]]
-### **Planeten Prima: Kontinenter och Hav**
 
-#### Kontinenter
-- [[Ardenar|Ardenar]]
-- [[Kyrathis|Kyrathis]]
-- [[Ythea|Ythea]]
-- [[Aeloria|Aeloria]]
-- [[Serthara|Serthara]]
+---
 
-#### Hav
+## Kontinenter
+
+- [[Ardenar]] – varierad kontinent med stora riken och vildmark, gränsande till [[Den Tysta Oceanen]] i väster och [[Gryningshavet]] i söder
+- [[Kyrathis]] – sydlig kontinent med varmt klimat i norr och tundra i söder, känd för sina sjöfartsstater och rika naturresurser
+- [[Serthara]] – den största kontinenten, känd för gamla imperier, gränsande till [[Stjärnhavet]] i öster
+- [[Ythea]] – avlägsen och till stor del sluten kontinent sydöst om Serthara
+- [[Aeloria]] – kall, ogästvänlig kontinent i söder, hem till nomadiska folk och starka kungadömen
+
+---
+
+## Hav
+
 - [[Ardensjön]]
 - [[Den Tysta Oceanen]]
 - [[Det Frusna Sundet]]
@@ -25,12 +34,3 @@
 - [[Skymningshavet]]
 - [[Stjärnhavet]]
 - [[Öhavet]]
-
----
-### **Sammanfattning av Planeten Prima och Lornhavens Placering**
-
-- **[[Ardenar|Ardenar]]**: Hem till [[Lornhaven]], en varierad kontinent med stora kungariken och vildmark, gränsande till [[Den Tysta Oceanen]] i väster och [[Gryningshavet]] i söder.
-- **[[Kyrathis|Kyrathis]]**: En sydlig kontinent med varmt klimat i norr och tundra i söder, känd för sina sjöfartsstater och rika naturresurser, belägen på andra sidan [[Gryningshavet]].
-- **[[Ythea|Ythea]]**: En avlägsen och sluten kontinent sydöst om [[Serthara|Serthara]], känd för sina feodala riken och rika interna kultur men till stor del okänd för omvärlden. Gränsar till [[Stjärnhavet]] i väster och [[Den Tysta Oceanen]] i öster.
-- **[[Aeloria|Aeloria]]**: En kall, ogästvänlig kontinent i söder, hem till nomadiska folk och starka kungadömen, skild från [[Kyrathis|Kyrathis]] av [[Det Frusna Sundet]].
-- **[[Serthara|Serthara]]**: Den största kontinenten, känd för sina gamla imperier och stora riken, gränsande till [[Stjärnhavet]] som är känt för sina ljusfenomen.
