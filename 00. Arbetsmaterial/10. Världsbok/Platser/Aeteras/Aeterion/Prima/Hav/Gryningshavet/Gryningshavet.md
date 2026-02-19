@@ -3,7 +3,7 @@
 > [!quote] [[Edrion Lomar]], _[[Över Hav och Djup]]_
 > Gryningshavet är det vänligaste av Primas stora hav, men låt er inte luras – det förlåter inte slarv. Jag har sett erfarna kaptener förlora sin mast i en storm som blåste upp ur ingenting en eftermiddag i vad som borde ha varit den lugnaste årstiden. Men på en god dag, med vinden i ryggen och den solarianska kusten gyllene vid horisonten, finns det inget vackrare vatten att segla på. Det är ett hav som belönar den som respekterar det.
 
-**Gryningshavet** breder ut sig mellan den södra kusten av *[[Ardenar|Ardenar]]]** och den norra kusten av **[[Kyrathis|Kyrathis]]**, och är ett av de mest trafikerade och ekonomiskt betydelsefulla haven på **[[Prima]]**. Namnet härstammar från stadsstaten **[[Meridia]]**, belägen på en ö i havets östligaste del – sett från Meridia stiger solen upp över detta hav, därav *Gryningshavet*, i motsats till **[[Skymningshavet]]** i väster där solen går ned.
+**Gryningshavet** breder ut sig mellan den södra kusten av *[[Ardenar|Ardenar]]]** och den norra kusten av **[[Kyrathis|Kyrathis]]**, och är ett av de mest trafikerade och ekonomiskt betydelsefulla haven på **[[Prima]]**. Namnet härstammar från stadsstaten **[[Meridia]]**, belägen på en ö i havets östligaste del – sett från Meridia stiger solen upp över detta hav, därav *Gryningshavet*, i motsats till **[[Skymningshavet]]** i öster där solen går ned.
 
 ## Geografi och Klimat
 

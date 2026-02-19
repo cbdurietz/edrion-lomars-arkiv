@@ -8,7 +8,7 @@
 ## Omgivande hav
 
 - **[[Gryningshavet]]** skiljer Kyrathis norra kust från[[Ardenar|Ardenars]]] södra kust. Det är ett varmt, förhållandevis grunt hav med gynnsamma seglingsförhållanden – den viktigaste handelsvägen mellan de två kontinenterna. Stadsstaten **[[Meridia]]** ligger vid passagen där Gryningshavet övergår i Skymningshavet.
-- **[[Skymningshavet]]** breder ut sig norr och väster om Kyrathis nordöstra horn. Kontinentens **[[Stormkusten|Stormkust]]** vetter mot detta hav.
+- **[[Skymningshavet]]** breder ut sig norr och öster om Kyrathis nordöstra horn. Kontinentens **[[Stormkusten|Stormkust]]** vetter mot detta hav.
 - **[[Djävulshavet]]** är det smala, fruktade sundet mellan Kyrathis östkust och **[[Serthara]]**, där **[[Skymningshavet]]** övergår i **[[Stjärnhavet]]**. Den tektoniska aktiviteten gör passagen till en av de farligaste sjövägarna på [[Prima]].
 - **[[Stjärnhavet]]** breder ut sig öster om Kyrathis och sträcker sig mot [[Serthara]] i nordost och [[Ythea]] i öster. Havet är en viktig handelsväg och känt för sina mystiska ljusfenomen.
 - **[[Det Frusna Sundet]]** skiljer Kyrathis sydligaste delar från den frusna kontinenten [[Aeloria]]. Sundet är isbelagt större delen av året men öppnas under sommarmånaderna för begränsad handel.

@@ -12,7 +12,7 @@
 > [!quote] [[Edrion Lomar]], _[[Rikets Hjärtblod]]_
 > Det finns de som hävdar att Meridia är världens mittpunkt, och meridierna ger dem skenbart rätt. Men sanningen är enklare och mer beundransvärd: Meridia blev världens mittpunkt för att dess invånare bestämde sig för att mäta världen, och den som mäter bestämmer var måttet börjar. Deras makt vilar inte på arméer eller flottor – även om de har gott om båda – utan på det faktum att varje kartograf på Prima ritar sina kartor med Meridia i centrum.
 
-**Meridia** är en stadsstat belägen på en ö i den trånga passagen där **[[Gryningshavet]]** i öster övergår i **[[Skymningshavet]]** i väster. Dess strategiska position – vid den enda naturliga sjövägen mellan de två haven – har gjort Meridia till ett av de mest inflytelserika samhällena på **[[Prima]]**, inte genom territoriell expansion utan genom kontroll över kunskap, handel och den passage som förbinder södra och norra [[Ardenar|Ardenar]] med **[[Serthara|Serthara]]** och de östliga kontinenterna.
+**Meridia** är en stadsstat belägen på en ö i den trånga passagen där **[[Gryningshavet]]** i väster övergår i **[[Skymningshavet]]** i öster. Dess strategiska position – vid den enda naturliga sjövägen mellan de två haven – har gjort Meridia till ett av de mest inflytelserika samhällena på **[[Prima]]**, inte genom territoriell expansion utan genom kontroll över kunskap, handel och den passage som förbinder södra och norra [[Ardenar|Ardenar]] med **[[Serthara|Serthara]]** och de östliga kontinenterna.
 
 ## Geografi
 
