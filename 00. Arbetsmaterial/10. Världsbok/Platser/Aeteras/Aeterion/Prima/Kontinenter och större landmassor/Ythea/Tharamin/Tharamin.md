@@ -28,9 +28,9 @@ Vad som håller ihop Tharamin som begrepp är framförallt geografin och handels
 
 **[[Veltharan]]** – Bergsteokrati vid [[Veltharpasset]]. Grundad av präster som flydde under Xelgathons schism och anser sig bära den enda obrutna prästliga traditionen. Hävdar att kejsartronen är vakant och sitter i permanent interregnum. Liten och militärt obetydlig, men omöjlig att ignorera så länge de kontrollerar passet.
 
-**[[Kaltharis]]** – Det nordligaste av Tharamins f.d. imperieprovinser. Starkast Xenthar-arv i hela regionen – administrationen, titlarna och statsreligionen speglar fortfarande imperiet. Ingår i [[Det norra förbundet]].
+**[[Xethran]]** – Det nordligaste av Tharamins f.d. imperieprovinser. Starkast Xenthar-arv i hela regionen – administrationen, titlarna och statsreligionen speglar fortfarande imperiet. Namnets rot delar ursprung med Xenthara. Ingår i [[Det norra förbundet]].
 
-**[[Xethran]]** – Nordligt kungadöme, f.d. imperieprovins men med ett lösare grepp om Xenthar-arvet. Pragmatiskt och handelsinriktat. Ingår i [[Det norra förbundet]].
+**[[Kaltharis]]** – Nordligt kungadöme, f.d. imperieprovins men med ett lösare grepp om Xenthar-arvet. Pragmatiskt och handelsinriktat. Ingår i [[Det norra förbundet]].
 
 **[[Det norra förbundet]]** – Lös konfederation mellan Kaltharis och Xethran. Gemensamma försvarsförpliktelser och handelspolitik, primärt syftande till att hålla Xenthars inflytande på armlängds avstånd. Inte en stat utan en ram.
 

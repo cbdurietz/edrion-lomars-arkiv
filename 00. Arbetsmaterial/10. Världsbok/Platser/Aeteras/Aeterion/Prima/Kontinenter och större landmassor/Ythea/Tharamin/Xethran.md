@@ -1,5 +1,5 @@
 #Plats #Nation #Kungadöme #Tharamin
 
-**Xethran** är ett kungadöme i norra [[Tharamin]], f.d. imperieprovins men med ett lösare grepp om det Xenthar-arvet än grannen [[Kaltharis]] i norr. Handelsintressen väger tungt i Xethrans politik, och kungadömet undviker gärna principfasta ståndpunkter när pragmatism är tillgängligt.
+**Xethran** är det nordligaste av Tharamins f.d. imperieprovinser och det av regionens kungadömen som bär det tydligaste Xenthar-arvet. Administrationen speglar imperiets struktur, Sol- och månkulten är statsreligion utan kvalifikationer, och hovet talar fortfarande ett formellt språk med starka lånord från Xenthara.
 
-Xethran ingår i [[Det norra förbundet]] och fungerar ofta som den mjukare rösten i förhållande till Kaltharis – mer benäget att söka kontakter söderut och mer tolerant mot religiös variation inom sina gränser.
+Xethran ingår i [[Det norra förbundet]] tillsammans med [[Kaltharis]], primärt för att hålla Xenthars inflytande på armlängds avstånd – en ironi som ingen vid hovet kommenterar öppet.
