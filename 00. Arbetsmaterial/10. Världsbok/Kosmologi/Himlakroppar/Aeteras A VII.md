@@ -1,4 +1,4 @@
-# Aeteras A VII
+#Planet #Himlakropp 
 
 > Världsbygge: **[[Drakis]]** – *Ishärskaren*
 

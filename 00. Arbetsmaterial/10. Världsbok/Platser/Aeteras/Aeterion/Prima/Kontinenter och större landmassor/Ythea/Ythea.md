@@ -1,169 +1,125 @@
-﻿#Plats #Kontinent 
+#Plats #Kontinent
 
-- **Kontinentens Beskrivning:**  
-    [[Ythea|Ythea]] är en något mindre kontinent belägen långt österut, ofta kallad "Solens Land" av dem som bor på[[Ardenar|Ardenar]]], eftersom den ligger så långt österut att solen alltid verkar stiga därifrån. Ythea är en plats av mystik, med tät dimma som omsveper dess kuster och höga, imponerande bergskedjor som reser sig mot himlen. Många av dess inre regioner är nästan helt isolerade från varandra på grund av terrängen.
-- **Hav väster om Ythea:**
-    **[[Stjärnhavet]]** breder ut sig väster om Ythea, mot **[[Kyrathis|Kyrathis]]** och **[[Serthara|Serthara]]**. Det är genom detta hav som den begränsade handeln med omvärlden sker, främst via hamnstaden **[[Kaldris]]** på den södra kusten.
-- **Hav öster om Ythea:**
-    **[[Dimhavet]]** ligger omedelbart öster om Ythea och skiljer kontinenten från **[[Dimöarna]]**. Det är ett litet men djupt hav, instängt mellan [[Ytharbergen|Ytharbergens]] östliga utlöpare och Dimöarnas bergiga öar, och i stort sett ständigt täckt av dimma. Bortom Dimöarna breder **[[Den Tysta Oceanen]]** ut sig – ett vidsträckt och till synes oändligt hav som sällan navigeras och som utgör den långa, alternativa sjövägen till *[[Ardenar|Ardenar]]]** i fjärran väster.
-- **Sjövägar:**
-    Den mest direkta sjövägen mellan[[Ardenar|Ardenar]]] och [[Ythea|Ythea]] går österut via [[Skymningshavet]] förbi [[Serthara|Serthara]] och vidare över [[Stjärnhavet]], men kontinenterna kan också nås den långa vägen västerut över [[Den Tysta Oceanen]].
-- **Politisk Kontext:**  
-    Ytheas befolkning är till stor del okänd för resten av [[Prima]], men de få diplomatiska kontakterna som existerar beskriver riken där klaner och stora dynastier styr över landskap med tät magi och urgamla traditioner. Det ryktas att Ythea har hemligheter från en svunnen tid, dolda i dess dolda dalar och svåråtkomliga tempel.
----
-# Ythea – Mystik och Isolation
+**Ythea** är en avlägsen kontinent belägen långt österut, sydöst om [[Serthara]] och bortom [[Stjärnhavet]] sett från [[Ardenar]]. Ofta kallad "Solens Land" av dem som bor på Ardenar – eftersom solen, som på Prima går upp i väster, alltid verkar sjunka ned mot Ythea. Kontinenten rymmer en rik historia av feodala riken, dynastier och klanvälden vars intriger sällan når omvärldens öron.
 
-- **Terräng och Klimat:** Ythea är en kontinent som är mycket mer otillgänglig och **geografiskt isolerad**. Högresta bergskedjor, djupa dalar och dimmiga kuststräckor gör det svårt att resa inom Ythea, vilket har lett till att delar av kontinenten förblir outforskat för den större världen. Det kalla, dimmiga klimatet i Ytheas kustregioner har också bidragit till dess rykte som en mystisk plats.
-    
-- **Kultur:** Till skillnad från [[Serthara|Sertharas]] stora riken är [[Ythea|Ythea]] mer fragmenterat. Små, isolerade samhällen och klansystem dominerar, och dessa samhällen är ofta väldigt traditionella och slutna. Magi och mystik spelar en mycket större roll i Ythea än i andra delar av [[Prima]], och det finns berättelser om att gamla magikerklaner härskar över dolda dalar och hemliga städer. Mytologi och andetro är starkt rotade, och det finns många kulturer som ser Ythea som ett land där gränserna mellan de dödliga och det övernaturliga är särskilt tunna.
-
----
-## **Relationer Mellan [[Serthara|Serthara]] och [[Ythea|Ythea]]**
-
-- **Handel och Interaktion:** Det finns historiska exempel på handel mellan vissa kuststäder på Ythea och de stora imperierna på [[Serthara|Serthara]]. [[Ythea|Ythea]] är känt för sina **sällsynta magiska mineraler**, medicinalväxter och andra unika resurser som är eftertraktade på [[Serthara|Serthara]]. Dock är kontakten sporadisk och ofta fylld av skepsis och rädsla från båda sidor.
-    
-- **Vidskepelse:** På [[Serthara|Serthara]] ses [[Ythea|Ythea]] ofta som en **mystisk och farlig plats**, med rykten om märkliga varelser och uråldriga, glömda civilisationer som fortfarande ruvar där. [[Ythea|Ythea]] ses ibland som en plats fylld av hemligheter och faror, medan de som bor på Ythea ser Sertharas storslagna imperier som dekadenta och andligt förlorade.
-    
-- **Krig och Konflikter:** Sertharas större riken, särskilt **[[Shalmarin]]**, har gjort försök att kolonisera delar av [[Ythea|Ythea]], främst för att komma åt dess resurser. Dessa försök har dock ofta misslyckats, antingen på grund av de ogästvänliga terrängerna, eller motstånd från de mystiska klanerna och magikerna som styr vissa regioner. Några expeditioner har helt enkelt försvunnit, vilket har bidragit till den mystiska auran kring [[Ythea|Ythea]].
+Ytheas landskap är extremt varierat: bördiga floddalar och öppna slätter i norr, djupa skogar och branta bergskedjor i mitten, och i öst ett dimmigt kustland med öar som försvinner och återkommer i havsdimman. Terrängen har format isolerade folk och kulturer som under årtusenden byggt städer och riken i relativ avskildhet från resten av Prima.
 
 ---
 
-**Ythea** är en avlägsen och till stor del sluten kontinent på **[[Prima]]**, belägen långt österut – sydöst om **[[Serthara|Serthara]]** och bortom **[[Stjärnhavet]]** sett från *[[Ardenar|Ardenar]]]**. Kontinenten rymmer en rik historia av feodala riken, dynastier och klanvälden vars intriger sällan når omvärldens öron. Dess varierade landskap, från bördiga floddalar och djupa skogar till karga öknar och höga bergskedjor, har format isolerade folk och kulturer som under årtusenden har byggt städer och riken i relativ avskildhet från resten av [[Prima]]. Ythea är en plats där forntida traditioner och strikta hierarkier präglar vardagen, och där magi och filosofi är djupt sammanflätade med samhällets alla skikt.
-## Geografi och Klimat
+## Havsomgivning
 
-Ytheas geografi är lika varierad som dess kultur, med stora floder som skär genom kontinenten, djupa skogar och bördiga slätter i norr, medan ökenlandskap och bergskedjor dominerar de södra delarna. Kontinentens rika naturresurser har gjort det möjligt för flera riken att blomstra, men den svåra terrängen har samtidigt bidragit till att hålla dem isolerade från varandra och från omvärlden.
-### Norra Ythea: Flodriket och de Stora Slätterna
+**[[Stjärnhavet]]** breder ut sig väster och nordväst om Ythea, mot [[Kyrathis]] och [[Serthara]]. Det är via den nordvästra kusten som den begränsade handeln med omvärlden sker, framförallt genom hamnstaden [[Kaldris]].
 
-#### Floden Amunir
-Det mest kända geografiska kännetecknet i norra Ythea är den mäktiga **floden [[Amunir]]**, som slingrar sig genom flera riken och spelar en avgörande roll för jordbruk och handel. Floden har skapat ett bördigt flodområde som är hem för några av de mest utvecklade och befolkade regionerna på Ythea. Längs dess stränder finns flera gamla städer, tempel och fästningar, var och en med sin egen historia och kultur.
-#### De Stora Slätterna
-Norr om floden Amunir breder de **[[Stora Slätterna]]** ut sig, ett enormt, gräsbevuxet landskap som är både bördigt och viktigt för jordbruk och boskapsskötsel. Slätterna är hem för både stora jordbrukssamhällen och nomadiska stammar, som har rört sig över dessa marker i årtusenden. Det finns också flera handelsvägar som korsar slätterna och förbinder Ythea med andra kontinenter.
+**[[Dimhavet]]** ligger omedelbart öster om Ythea och skiljer kontinenten från [[Dimöarna]] – ett skärgårdslandskap i ständig dimma, instängt mellan [[Ytharbergen|Ytharbergens]] östliga utlöpare och öarnas bergiga silhuetter. Bortom Dimöarna breder **[[Den Tysta Oceanen]]** ut sig, ett vidsträckt och till synes oändligt hav som sällan navigeras och som utgör den långa alternativa sjövägen till Ardenar i fjärran väster.
 
-### Centrala Ythea: Berg och Djupa Skogar
+Den mest direkta sjövägen mellan Ardenar och Ythea går österut via [[Skymningshavet]], förbi Serthara och vidare över Stjärnhavet.
 
-#### Ytharbergen
-Centrala Ythea domineras av den massiva bergskedjan **[[Ytharbergen]]**, en rad höga och svårgenomträngliga berg som markerar en naturlig gräns mellan norra och södra Ythea. Ytharbergen är inte bara svåra att korsa, utan de är också hem för flera mystiska och isolerade kloster, samt gamla ruiner som en gång tillhörde uråldriga imperier. Många tror att bergen fortfarande ruvar på hemligheter och gömda skatter, men de flesta expeditioner har försvunnit spårlöst i de farliga passagen.
-#### Djupa skogar
-På den centrala delen av kontinenten finns också de **[[Djupa Skogarna]]**, stora skogsmarker som sträcker sig över flera hundra mil. Dessa skogar är kända för sina magiska väsen, inklusive gamla trädandar och andra varelser som sägs ha bott där sedan urminnes tider. Folket som bor i dessa skogar har utvecklat en nära relation till naturen och använder sig av den Livs-präglade Aether som skogens kretslopp genererar för att överleva och försvara sig mot inkräktare.
+---
 
-### Södra Ythea: Öknar och Halvtorra Landskap
+## Ytharbergen – kontinentens ryggrad
 
-#### Silvansöknen
-I södra Ythea breder **[[Silvansöknen]]** ut sig, ett kargt och torrt landskap som en gång var hem för ett mäktigt imperium, men som nu är nästan helt övergivet. [[Silvansöknen]] är känd för sina sandstormar och sina sällsynta men dramatiska oaser. Nomadiska stammar vandrar genom öknen, och det sägs att de har utvecklat sätt att överleva där som andra civilisationer aldrig kunnat förstå.
+Den massiva bergskedjan **[[Ytharbergen]]** löper i nord-sydlig riktning genom Ytheas inre och markerar en naturlig gräns mellan kontinentens västra och östra delar. Bergen är svåra att korsa och hem för flera isolerade kloster och urgamla ruiner. Många tror att de fortfarande ruvar på hemligheter från försvunna imperier – de flesta expeditioner som sökt dessa svar har aldrig återvänt.
 
-#### Den Brända Kusten
-Längs den södra kusten ligger den så kallade **[[Brända Kusten]]**, ett område som präglas av höga temperaturer och torra vindar. Trots de hårda förhållandena finns det längs Brända Kusten ett fåtal hamnstäder som bedriver begränsad handel med omvärlden, framförallt export av kryddor, ädelstenar och andra sällsynta varor som utvinns i Ytheas inre. Dessa hamnar utgör några av de få kontaktpunkterna mellan Ythea och övriga kontinenter.   
-## Politiska Riken och Maktstrukturer
+I Ytharbergens inre finner man kungadömet **[[Otharam]]**, beläget kring den massiva bergsfästningen **[[Galdaroth]]**. Otharams härskare bär titeln Stormkung, och riket är känt för sina mineralrikedomar och för de bergsmagiker som under generationer utvecklat tekniker för att manipulera sten och jord. En stark isolationistisk tradition präglar Otharam; de deltar sällan i Ytheas politiska konflikter men säljer vapen och rustningar till alla som har råd.
 
-Ythea har en lång historia av feodala riken, klaner och dynastier som konkurrerat om makt och territorium. Kontinentens politiska landskap har skiftat många gånger, och otaliga riken har uppstått och fallit. Idag domineras Ythea av ett fåtal större makter omgivna av ett virrvarr av småkungariken, klanvälden och oberoende stadsstater – alla indragna i ett ständigt skiftande nät av allianser, rivaliteter och vasallförhållanden.
+---
 
-### Imperiet [[Xenthar]]
+## De fyra regionerna
 
-- **Det dominerande riket vid Floden [[Amunir]]:**
-    **[[Xenthar]]** är det största och mäktigaste riket på [[Ythea|Ythea]], beläget längs floden Amunirs bördiga stränder. Riket har en lång historia av dynastiska maktkamper och territoriell expansion inom kontinenten, och dess huvudstad, **[[Xenthara]]**, är en av de mest storslagna städerna på Ythea – känd för sina palats, tempel och den strikta hierarki som genomsyrar allt från hovet till de lägsta skikten i samhället.
+### Xenthar – det krympta imperiet
 
-- **Kulturell och religiös makt:**
-    [[Xenthar]] är inte bara en politisk maktfaktor, utan också det kulturella och religiösa centrumet på Ythea. Imperiet har under århundraden utvecklat en komplex religion, där sol- och månkulten spelar en central roll. Prästerna i [[Xenthar]] har ett starkt inflytande över politiken, och kejsaren anses vara en halvgud som får sin makt direkt från himlakropparna.
+**[[Xenthar]]** är det rike som bär kontinentens tyngsta arv. Det var en gång ett imperium som sträckte sig långt bortom sina nuvarande gränser – in i vad som idag är Tharamin i väster och, under perioder, ned i Kaeshirus norra klansland. Idag är det fortfarande ett fungerande centralstyre med en kejsare i spetsen och en lång tradition av dynastisk makt, men territoriet har krympt och legitimitetens glans är inte densamma.
 
-- **Militär styrka:**
-    [[Xenthar]] har en mäktig armé som under århundradena har utvidgat rikets gränser genom både erövring och tvingande allianser med kringliggande småkungariken. Deras **legioner**, kända för sin strikta disciplin och skicklighet i strid, är fruktade på hela kontinenten. [[Xenthar]] har också en stark flotta som patrullerar floden [[Amunir]] och bevakar rikets kustområden.
+Imperiets kärna vilar kring floden **[[Amunir]]** och de **[[Stora Slätterna]]** norr om den. Amunir är Xentars livslinje: längs dess stränder finns de äldsta städerna, de rikaste jordbruksmarkerna och de viktigaste handelsstationerna. Huvudstaden **[[Xenthara]]** reser sig vid flodens övre lopp, känd för sina palats och tempel och för den strikta hierarki som genomsyrar allt från hovet till de lägsta skikten i samhället.
 
-### Stadsstaten [[Kaldris]]
+Kejsaren anses i den officiella doktrinen vara en halvgud – utvald av solen och månen och deras representant bland de levande. Prästerskapet inom [[Sol- och Månkulten]] är tätt sammanflätat med statsmakten och har historiskt haft stort inflytande över dynastiska val och successionsordningar. Huruvida kejsardömet faktiskt är av gudomligt ursprung, eller om det är en berättelse som tjänar makten, är en fråga lärda på andra kontinenter ställer sig men som Xenthars egna lärde sällan formulerar högt.
 
-- **En av Ytheas få hamnar med kontakter utåt:**
-    **[[Kaldris]]** är en stadsstat belägen längs den södra delen av Brända Kusten. Tack vare sitt läge vid **[[Stjärnhavet]]** har [[Kaldris]] blivit en av de få platserna på Ythea som bedriver regelbunden, om än begränsad, handel med **[[Kyrathis|Kyrathis]]** och **[[Serthara|Serthara]]**. Stadens marknad är känd för sina sällsynta varor – kryddor, ädelstenar och magiska ingredienser som lockar de köpmän från andra kontinenter som vågar sig hit.
+Xenthar har en mäktig armé – legionerna, kända för sin disciplin – och en flotta som patrullerar Amunir och kustområdena. Men dessa styrkor är idag defensiva snarare än expansiva. Imperiet håller vad det har.
 
-- **Ett centrum för magi och lärdom:**
-    [[Kaldris]] är också känt som ett centrum för **magi och lärdom** inom Ythea, med flera framstående akademier och bibliotek. Här studeras både naturvetenskap och magi, och staden har blivit en fristad för magiker och lärda från kontinentens olika riken. [[Kaldris]] styrs av ett råd av köpmän och magiker, och dess inflytande sträcker sig framförallt över de södra delarna av Ythea.
+### Tharamin – de västra nationerna
 
-- **Neutralitet och diplomati:**
-    [[Kaldris]] är känt för sin **neutralitet** i de konflikter som regelbundet blossar upp mellan Ytheas feodala riken. Stadsstaten har undvikit att bli indragen i de ständiga krigen genom skicklig diplomati och genom att erbjuda sina tjänster som medlare. Trots sin neutralitet har [[Kaldris]] en vältränad milis som skyddar staden och dess hamnar.
+**Tharamin** är inte ett rike utan ett landskap av nationer – länder av skilda slag, med skilda historia och styrelseskick, som ändå delar ett geografiskt hem och en komplex relation till Xenthar.
 
-### Kungadömet [[Otharam]]
+Den norra delen av Tharamin var en gång en del av imperiet självt. Städerna i norr bär fortfarande drag av den imperiella arkitekturen; rättstraditionerna har imperiella rötter; och i de gamla adelssläkternas genealogier kan man hitta kejserliga förfäder. Dessa länder bröt sig fria – eller tappades av ett försvagat imperium – och bär nu sin bakgrund som en blandning av stolthet och ambivalens. De är inte Xenthar, men de påminner ibland om vad Xenthar en gång var.
 
-- **Ett kungarike i Ytharbergen:**  
-    **[[Otharam]]** är ett gammalt kungadöme beläget i den centrala delen av [[Ythea|Ythea]], djupt inne i **[[Ytharbergen]]**. Riket har varit känt för sin isolering och sina starka försvarsmurar, vilket har gjort det nästan omöjligt för yttre fiender att erövra. Otharams härskare bär titeln **Stormkung**, och deras släkt har styrt landet i generationer från den massiva bergsfästningen **[[Galdaroth]]**.
-    
-- **Mineralrikedomar och bergsmagi:**  
-    [[Otharam]] har stora rikedomar i form av **mineraler och ädelstenar** som bryts i bergen, vilket gör kungadömet till en viktig ekonomisk spelare. Deras smeder är kända för att skapa några av de finaste vapnen och rustningarna i världen, och många kungar och kejsare på Ythea har handlat med [[Otharam]] för att få tillgång till deras produkter.
-    
-- **Bergsmagiker och isolationism:**  
-    [[Otharam]] är också känt för sina **bergsmagiker**, som har utvecklat magiska tekniker för att manipulera sten och jord. Dessa magiker har hjälpt till att skapa de nästan ointagliga försvarsmurarna och de underjordiska städerna som finns utspridda under Ytharbergen. [[Otharam]] har en stark isolationistisk tradition och deltar sällan i Ytheas större politiska konflikter, även om de ibland allierar sig med andra riken i bergsområdet.
-    
+Den södra delen av Tharamin har en annan historia. Här har nationerna alltid styrt sig själva, aldrig fullt underordnade Xenthar trots perioder av tribut och tvingade allianser. De södra nationerna ser sig inte som arvtagare till något imperium.
+
+Regionen definieras geografiskt av de många floderna som löper öst-väst från Ytharbergen ned mot Stjärnhavet. Inte en stor flod som Amunir, utan ett nätverk av mindre vattendrag – det som gett regionen dess karaktär av fruktbart, rörligt land där städer och handelsstationer vuxit upp vid vadställen och mynningar.
+
+I Tharamins inre sträcker sig de **[[Djupa Skogarna]]** – stora skogsmarker kända för sina magiska väsen och gamla trädandar. Folket som bor i dessa skogar har utvecklat en nära relation till naturen och till den Livs-präglade Aether som skogens kretslopp genererar.
+
+### Kaeshiru – klanernas dimmiga kust
+
+Öster om Ytharbergen ligger ett annat slags land.
+
+**Kaeshiru** – namnet är klanernas eget och låter sig inte riktigt analyseras i de ord de västra lärdas ordböcker erbjuder – är ett landskap av klippiga kuster, tät barrskog och öar som dyker upp och försvinner i Dimhavets ständiga dimma. Det är ett land som ser annorlunda ut beroende på vem man frågar, och beroende på vilket väder som råder när man försöker se det.
+
+Klanerna som bor här är äldre än Xenthar. De existerade innan imperiet hade ett namn, och de minns det – eller hävdar att de minns det, vilket i detta sammanhang är ungefär samma sak. Under perioder utvidgade imperiet sin makt in i Kaeshirus norra delar och lyckades köpa eller tvinga lojalitet av flera klaner. Men aldrig i söder, och aldrig fullständigt.
+
+Det finns en spricka i Kaeshiru som går norr till söder och som alla vet om men få talar öppet om. De norra klanerna har en historia av imperiesamarbete – av att ta guld från Xenthara och leverera militär tjänst i gengäld, av att blanda sina kulturella uttryck med imperiets. De södra klanerna har en historia av motstånd – av att se varje kontakt med imperiet som en kompromiss, av att bevara sina traditioner desto striktare ju hårdare trycket utifrån var. Den friktionen lever kvar, lång efter att imperiet dragit tillbaka sin hand.
+
+[[Dimöarna]] i Dimhavet är en del av Kaeshiru, åtminstone i de flesta klanernas förståelse. Huruvida Dimöarnas egna folk delar den uppfattningen är en annan fråga.
+
+### Varathi – sydlandets folk
+
+Längst i söder, i terräng som är nog svår och nog resursfattig för att den mer moderna civilisationen aldrig riktigt orkat bry sig om den, lever resterna av ett äldre folk.
+
+**Varathi** kallas både landet och dess folk i omvärldens munnar – huruvida det är vad de kallar sig själva är oklart för de flesta som skriver om dem. De är kända. De är mer än en kuriositet. Men de är inte koloniserade, inte erövrade och inte, vad man vet, intresserade av att ändra på det.
+
+Vad man vet om Varathi är fragmentariskt och filtrerat genom handelsmän och sjöfarare som stannat till vid deras kuster utan att tränga sig längre in.
 
 ---
 
 ## Orishima – klanerna mellan klanerna
 
-Det etablerade klansystemet på Ythea vilar på blodslojalitet, ärvda förpliktelser och kulturella koder som reglerar vem man kan handla med, gifta in sig i och lita på. Det är ett system som fungerar – men ett system som skapar sina egna blinda fläckar. En klan kan inte ta affärer med sin rivals leverantörer utan att signalera svaghet. En dynasti kan inte rekrytera den mest kompetenta personen om denne bär fel namn. Ett handelshus med klanbakgrund kan inte röra sig tillräckligt snabbt utan att bryta mot de lojalitetsnormer som är grunden för dess status. Möjligheter som kräver att man agerar över klangränserna – eller som inte passar in i klanernas hederskoder och traditionella verksamhetsfält – förblir outnyttjade, inte för att de inte finns utan för att klanerna inte kan ta dem.
+Orishima är i grunden ett fenomen från [[Kaeshiru]]. Det är där det etablerade klansystemet är som äldst, som mest förgrenat och som mest belastat av sin egen historia – inklusive sprickan mellan de norra klanerna med sin tradition av imperiesamarbete och de södra med sin tradition av motstånd. En aktör som ville verka i Kaeshiru utan att bli indragna i någon av dessa lojaliteter behövde en annan form. Det var ur det behovet orishima växte fram.
+
+Därifrån har strukturerna spridit sig längs handelsvägarna. Orishima-nätverk finns i Tharamin och, i mer diskret form, i Xenthar. Några uppges verka långt bortom Ytheas kuster – om det är sant, är det i sig ett mått på vad en orishima kan åstadkomma när den väl frigör sig från de geografiska begränsningarna.
+
+Det etablerade klansystemet på Ythea vilar på blodslojalitet, ärvda förpliktelser och kulturella koder som reglerar vem man kan handla med, gifta in sig i och lita på. Det är ett system som fungerar – men ett system som skapar sina egna blinda fläckar. En klan kan inte ta affärer med sin rivals leverantörer utan att signalera svaghet. En dynasti kan inte rekrytera den mest kompetenta personen om denne bär fel namn. Ett handelshus med klanbakgrund kan inte röra sig tillräckligt snabbt utan att bryta mot de lojalitetsnormer som är grunden för dess status. Möjligheter som kräver handling över klangränserna – eller som inte passar in i hederskoder och traditionella verksamhetsfält – förblir därför outnyttjade. Inte för att de saknas, utan för att klanerna inte kan ta dem.
 
 Det är i dessa tomrum – affärsmässiga, sociala, operativa – som **orishima** lever. Termen är svår att översätta exakt: *ori* (av, tillhörande) och *shima* (gräns, mellanutrymmet) pekar mot de strukturer som äger det som befinner sig emellan, det klanerna lämnar åt sidan. En orishima är inte en klan. Den saknar blodslinjer, titlar och de förfäder vars rykte man kan låna. Vad den har istället är rörelsefrihet: möjligheten att operera på bägge sidor om en klangräns utan att vara bunden av endera sidans förpliktelser, traditioner eller fiender.
 
 Det gör en orishima snabb på sätt klanerna sällan är och anpassningsbar på sätt som klankulturernas konservatism förhindrar. En orishima kan bygga ett logistiknätverk som korsar tre klangränser i en enda affärsrörelse – något som för en klan vore tre separata och ömsesidigt problematiska förhandlingar. Den kan rekrytera den skickligaste personen oberoende av vilket namn denne bär. Den kan byta riktning utan att behöva kalla det ett svek mot förfäderna.
 
+För en klan är detta otänkbart. För en orishima är det en förutsättning.
+
 Utomstående som stöter på orishima-strukturer tar dem ofta för välkopplade handelsfamiljer, diskreta mellanhänder eller professionella förmedlare – vilket de kan vara, beroende på vilken orishima det gäller. Skillnaden är inte verksamheten utan lojalitetens grund: en orishima rekryterar inte via blod utan via förtroende och kompetens. Den som visat att de håller sina åtaganden, är tillräckligt diskreta och arbetar på rätt sätt kan med tiden räknas som orishima – med tillgång till nätverk, skydd och resurser som inget blodsband ensamt kan ge.
 
-Huruvida de stora orishima-nätverken är kriminella i någon meningsfull bemärkelse är en fråga utan enkelt svar. De verkar i utrymmen som klanernas egna normer inte täcker – vilket antingen beror på att verksamheten är acceptabel, eller på att de är skickliga nog att hålla gränsen dit de räknas.
+Vad en orishima saknar i arv och namn måste den ersätta med ständig pålitlighet. Ett brutet förtroende väger tyngre än ett brutet blodsband – eftersom inget annat finns kvar.
+
+Huruvida de stora orishima-nätverken är kriminella i någon meningsfull bemärkelse är en fråga utan enkelt svar. De verkar i utrymmen som klanernas egna normer inte täcker – vilket antingen beror på att verksamheten i sig är acceptabel, eller på att de är skickliga nog att avgöra exakt var acceptansen upphör.
 
 ---
 
-## Kultur och Religion
-
-Ythea har en rik och mångfacetterad kultur, där religion, filosofi och magi spelar en central roll. Varje rike och region på kontinenten har sina egna unika traditioner och trosuppfattningar, men vissa gemensamma drag kan skönjas över hela kontinenten.
+## Kultur och religion
 
 ### Sol- och Månkulten
 
-- **Gudomlig dualism:**  
-    En av de mest utbredda religiösa traditionerna på Ythea är **Sol- och Månkulten**, som dyrkar både solen och månen som gudar som representerar makt, visdom och balans. Solen symboliserar styrka, ljus och rättvisa, medan månen representerar visdom, mystik och förändring. Tillsammans anses de styra över både världslig och andlig makt.
-    
-- **Templens makt:**  
-    Prästerskapet i Sol- och Månkulten har stort inflytande över många av Ytheas riken, särskilt i **[[Xenthar]]**, där kejsaren ses som en halvgud utvald av solen och månen. Många stora tempel, dekorerade med gyllene och silverfärgade symboler, finns utspridda över hela kontinenten och fungerar både som religiösa och politiska centra.
-    
+En av de mest utbredda religiösa traditionerna på Ythea är **[[Sol- och Månkulten]]**, som dyrkar solen och månen som gudar representerande makt, visdom och balans. Solen symboliserar styrka, ljus och rättvisa, medan månen representerar visdom, mystik och förändring. Kulten är starkast i Xenthar, där kejsaren ses som halvgud utvald av de två himlakropparna, men dess symboler och berättelser återfinns i varianter över hela kontinenten – anpassade, synkretiserade och ibland oigenkännliga i sin lokala form.
 
-### Magins Roll
+Prästerskapet i Sol- och Månkulten har stort inflytande i många av Ytheas riken, särskilt i Xenthar. Många stora tempel, dekorerade med gyllene och silverfärgade symboler, finns utspridda över kontinenten och fungerar som religiösa, politiska och ibland juridiska centra.
 
-- **Akademier och magikerordnar:**  
-    Magi är en central del av många samhällen på [[Ythea|Ythea]], och flera riken har utvecklat avancerade akademier och magikerordnar där unga magiker tränas. **[[Kaldris]]** är ett viktigt centrum för magisk utbildning, men även andra riken, såsom **[[Otharam]]**, har sina egna traditioner när det gäller magisk träning. Magiker kan specialisera sig inom olika traditioner – naturmagi (kopplad till Livs-präglad Aether), astrologi och elementärt fokuserade skolor (knutna till Aether präglad av Eld, Vatten, Jord eller Luft).
-    
-- **Respekt och fruktan:**  
-    Magiker åtnjuter ofta stor respekt i samhället, men de fruktas också av den vanliga befolkningen, som ser på magi som något både kraftfullt och potentiellt farligt. I vissa områden, särskilt i de mer konservativa regionerna, är magi strikt reglerad och magiker hålls under strikt uppsikt av både staten och religiösa ledare.
-    
+### Magins roll
 
-### Forntida Filosofi
+Magi är en central del av många samhällen på Ythea, och flera riken har utvecklat avancerade akademier och magikerordnar. Magiker kan specialisera sig inom olika traditioner – naturmagi kopplad till Livs-präglad Aether, astrologi, eller elementärt fokuserade skolor knutna till eld, vatten, jord eller luft. [[Kaldris]] är ett viktigt centrum för magisk utbildning, men även Otharam har sina egna traditioner.
 
-- **Visdom från urtiden:**  
-    Ythea är också känt för sin **forntida filosofi**, där många lärda skolor fortfarande studerar gamla texter som går tillbaka till de försvunna imperiernas tid. Filosofin på Ythea är ofta kopplad till både religion och vetenskap, och lärda från hela kontinenten samlas i akademierna för att diskutera etik, kosmos och mänsklighetens plats i universum.
-    
-- **Den Stora Cirkeln:**  
-    En av de mest kända filosofiska rörelserna på [[Ythea|Ythea]] är **[[Den Stora Cirkeln]]**, som lär att allt i världen är en del av en ständigt återkommande cykel av liv och död, skapelse och förstörelse. Denna filosofi har stort inflytande i riken som **[[Xenthar]]** och **[[Kaldris]]**, där den används för att rättfärdiga både politiska och religiösa beslut.
-    
+Magiker åtnjuter ofta stor respekt men fruktas också av den vanliga befolkningen. I vissa mer konservativa regioner är magi strikt reglerad och utövarna hållna under uppsikt av både stat och religion.
+
+### Forntida filosofi
+
+Ythea är känt för sin forntida filosofi, där lärda skolor fortfarande studerar texter från de försvunna imperiernas tid. Filosofin är ofta sammanflätad med religion och naturvetenskap.
+
+En av de mest kända rörelserna är **[[Den Stora Cirkeln]]**, som lär att allt i världen är en del av en ständigt återkommande cykel av liv och död, skapelse och förstörelse. Denna filosofi har stort inflytande i Xenthar och Kaldris, där den används för att rättfärdiga både politiska och religiösa beslut.
 
 ---
 
-## Handel och Ekonomi
+## Handel och ekonomi
 
-[[Ythea|Ytheas]] ekonomi är till största delen intern, driven av handeln mellan kontinentens riken och regioner. Den begränsade kontakten med omvärlden gör dock de varor som når ut – framförallt lyxartiklar som kryddor, ädelstenar och sällsynta textilier – desto mer eftertraktade.
+Ytheas ekonomi är till stor del intern, driven av handeln mellan kontinentens riken och regioner. Den begränsade kontakten med omvärlden sker primärt via den nordvästra kusten och hamnstaden [[Kaldris]], varifrån skepp korsar Stjärnhavet mot Kyrathis och i sällsynta fall vidare mot Serthara.
 
-### Handelsvägar och Karavaner
+Exporten består framförallt av lyxartiklar – kryddor, ädelstenar, sällsynta textilier och magiska ingredienser – varor som betingar höga priser på andra kontinenter just på grund av Ytheas avskildhet. Importen är mer begränsad och handlar ofta om metaller och hantverksprodukter som Ythea saknar inhemsk kapacitet att producera i tillräcklig mängd.
 
-- **Handel längs [[Amunir]]:**
-    **Floden Amunir** är Ytheas viktigaste handelsled, där varor transporteras mellan de inre rikena och kustområdena. Karavaner och flodskepp förbinder städer som **[[Xenthara]]** och **[[Kaldris]]** med mindre byar och handelsstationer. Denna handel är avgörande för att hålla kontinentens feodala riken sammanlänkade.
+Floden **Amunir** är Ytheas viktigaste interna handelsled. Längs dess stränder transporteras varor mellan de inre rikena och kustområdena. Xenthar har en stark flottilj som patrullerar floden och bevakar rikets handelsvägar.
 
-- **Karavaner över slätterna:**
-    Längs de **[[Stora Slätterna]]** reser karavaner med boskap, spannmål och textilier, samt mer sällsynta varor som **magiska artefakter** och mineraler från de centrala bergen. Dessa handelsvägar är livsviktiga, och karavanerna skyddas ofta av beväpnade eskortörer för att undvika överfall.
-    
-
-### Hamnstäder och Begränsad Sjöfart
-
-- **[[Kaldris]] och de södra hamnarna:**
-    Ytheas södra kuster, längs **[[Brända Kusten]]**, hyser de få hamnstäder som upprätthåller kontakt med omvärlden. **[[Kaldris]]** är den viktigaste av dessa, och härifrån seglar skepp över **[[Stjärnhavet]]** till **[[Kyrathis|Kyrathis]]** och i sällsynta fall vidare. Exporten består främst av **kryddor, ädelstenar, sällsynta textilier och magiska ingredienser** – lyxvaror som betingar höga priser på andra kontinenter just på grund av Ytheas avskildhet.
-
-- **Intern sjöfart:**
-    Inom Ythea har **[[Xenthar]]** en stark flotta som patrullerar kusten och floden [[Amunir]], men denna flotta tjänar främst interna syften – att säkra handelsvägar mellan rikena och skydda mot piratverksamhet snarare än att bedriva handel med andra kontinenter.
-    
-
----
-
-### Sammanfattning av Ythea
-
-**Ythea** är en avlägsen och sluten kontinent, där storslagna floder, enorma berg och ökenlandskap bildar scenen för feodala intriger och en rik men isolerad kultur. Kontinentens riken, som **[[Xenthar]]**, **[[Kaldris]]** och **[[Otharam]]**, kämpar om makt och inflytande sinsemellan, men Ythea förblir till stor del okänt för omvärlden. **Magi, filosofi och religion** genomsyrar varje aspekt av samhället, och de strikta traditioner och hierarkier som präglar Ytheas folk gör kontinenten till en av de mest fascinerande – och svårtillgängliga – platserna på [[Prima]].
+Längs de **[[Stora Slätterna]]** reser karavaner med boskap, spannmål och textilier, skyddade av beväpnade eskortörer mot de överfall som är ett ständigt inslag längs de längre sträckorna.

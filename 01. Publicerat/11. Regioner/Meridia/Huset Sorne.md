@@ -1,6 +1,6 @@
 #Familj #Meridia
 
-**Huset Sorne** är en gammal familj med ett anrikt namn och ett krympande kapital. De sitter fortfarande i rådet. De tar fortfarande emot gäster i sitt stadshus i höjdkvarteren. De klär sig fortfarande som den familj de var för trettio cyklader sedan, vilket inte är vad de är nu.
+**Huset Sorne** är en gammal familj med ett anrikt namn och ett krympande kapital. De sitter fortfarande i rådet. De tar fortfarande emot gäster i sitt stadspalats i höjdkvarteren. De klär sig fortfarande som den familj de var för trettio cyklader sedan, vilket inte är vad de är nu.
 
 Fasaden håller, om man inte tittar alltför noga. De flesta i Meridia tittar inte alltför noga – dels av artighet, dels för att en Sorne i förfall är besvärligare att hantera än en Sorne som låtsas vara hel.
 
@@ -12,7 +12,7 @@ Sornes ursprungliga välstånd kom från varvsdrift och skeppsbyggnad. Under de 
 
 Det var inte enbart en affärsmässig ställning. Att kontrollera hur och var skeppen byggdes innebar inflytande över [[Huset Vaen|Vaens]] flottas kapacitet och över de handelsskepp som utgjorde Transithamnarnas dagliga trafik. [[Huset Orren|Orren]] ägde kajerna; Sorne visste vad som låg vid dem.
 
-Den positionen är borta. Vad som återstår av varvsverksamheten är ett enda mindre docka i Norrhamnen, vars kontrakt löper ut om sju cyklader och om vars förnyelse det råder tystnad från bägge sidor.
+Den positionen är borta. Vad som återstår av varvsverksamheten är ett enda mindre docka i Norrehamn, vars kontrakt löper ut om sju cyklader och om vars förnyelse det råder tystnad från bägge sidor.
 
 ## Fallet
 
@@ -24,18 +24,18 @@ Deras motparters version – formulerad med varierande grad av öppenhet beroend
 
 Den tredje versionen, som ingen framför öppet men som cirkulerar i Meridias mer välbevakade rum, är att fallet inte var olyckligt i sin helhet. Att en konkurrent med tillräcklig motivation och tillräckliga resurser skapade de rätta förutsättningarna för att Sornes tillgångar skulle avyttras under marknadsvärdet. Vem den konkurrenten i så fall var – Kael, Orren, någon annan – varierar med vem som berättar.
 
-Sorne har inte stämt någon. Det kan bero på att det inte finns bevis. Det kan bero på att de inte råd med en process. Det kan bero på att de vet vem de i så fall skulle stämma, och att det är en part de hellre har skuldsatt till sig.
+Sorne har inte stämt någon. Det kan bero på att det inte finns bevis. Det kan bero på att de inte har råd med en process. Det kan bero på att de vet vem de i så fall skulle stämma, och att det är en part de hellre har skuldsatt till sig.
 
 ## Två fordringsägare
 
 Huset Sorne är i skuld till [[Huset Cassel]]. Det är känt.
-Huset Sorne är i skuld till [[Huset Oshari]]. Det är mindre känt, men tillräckligt känt för att inte vara en hemlighet.
+Huset Sorne är även i skuld till [[Huset Oshari]]. Det är mindre känt, men tillräckligt känt för att inte vara en hemlighet.
 
 Vad som inte är känt är om de två fordringsägarnas exponering mot Sorne är känd för varandra, och om de vet vad den andra parten faktiskt vill ha tillbaka.
 
 Cassel håller Sorne flytande med en tålmodighet som inte är kommersiellt motiverad i strikt bemärkelse. En fordring mot en familjefirma i den tillståndet borde sedan länge ha föranlett aktiva återvinningsåtgärder – men Cassel agerar inte. De förnyar, förlänger och väntar på ett sätt som mer liknar ett bevarat optionsvärde än en bankirs rutinhantering av en dålig kredit.
 
-Oshari håller en annan del av Sornes skulder, via arrangemang vars exakta utformning inte är offentlig, och får i gengäld en röst i rådet som konsekvent landar på positioner som Oshari föredrar. Sorne presenterar sina rådsståndpunkter med argument. Argumenten bär sällan upp under närmre granskning, och de vet om det, och det spelar ingen roll.
+Oshari håller en annan del av Sornes skulder, via arrangemang vars exakta utformning inte är offentlig, och får i gengäld en röst i rådet som konsekvent landar på positioner som Oshari föredrar. Sorne presenterar sina rådsståndpunkter med argument. Argumenten bär sällan upp under närmre granskning. De vet om det, och det spelar ingen roll.
 
 Att navigera mellan två fordringsägare med delvis överlappande och delvis motstridiga intressen kräver en precision som en familj utan ekonomisk rörelsefrihet har svårt att upprätthålla. Sorne gör det med den disciplin som återstår när all annan disciplin är borta: stolthetens.
 
@@ -45,7 +45,7 @@ Sornes rådsmandat är tekniskt sett legitimt. Det härstammar från en period d
 
 Det är möjligt att det en dag görs. Tills dess sitter Sorne och röstar på sätt som gynnar de som håller skuldboken, och ingen i rummet låtsas om vad som pågår.
 
-Vad Sorne faktiskt har kvar utöver mandatet och fasaden är oklart. Det finns ett stadshus vars underhåll kostat mer än vad familjen egentligen kan bära de senaste fem cykladerna. Det finns ett nätverk av bekantskaper från mer välmående tider, varav en del fortfarande söker upp familjen av gammal vana eller av en försiktig undran om vad de fortfarande vet. Det finns en samling handlingar och kontrakt från varvsverksamhetens storhetstid vars innehåll ingen utomstående granskare fått tillgång till.
+Vad Sorne faktiskt har kvar utöver mandatet och fasaden är oklart. Det finns ett stadspalats vars underhåll kostat mer än vad familjen egentligen kan bära de senaste fem cykladerna. Det finns ett nätverk av bekantskaper från mer välmående tider, varav en del fortfarande söker upp familjen av gammal vana eller av en försiktig undran om vad de fortfarande vet. Det finns en samling handlingar och kontrakt från varvsverksamhetens storhetstid vars innehåll ingen utomstående granskare fått tillgång till.
 
 Det sista punkten är den Cassel aldrig nämner och aldrig slutar tänka på.
 

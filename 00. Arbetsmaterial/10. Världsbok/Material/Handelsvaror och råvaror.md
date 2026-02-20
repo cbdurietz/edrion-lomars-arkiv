@@ -1,4 +1,4 @@
-﻿# Handelsvaror och råvaror på Prima
+# Handelsvaror och råvaror på Prima
 
 Denna artikel sammanställer de råvaror, handelsvaror och naturresurser som omnämns i arkivets olika texter, organiserade efter kategori och ursprung. Syftet är att ge en överblick över vad som produceras var, och att ligga till grund för en mer detaljerad kartläggning av [[Prima|Primas]] handelsnätverk.
 
@@ -30,12 +30,12 @@ Handelsmetall med bred användning.
 **Ursprung:** Nordöstra [[Kyrathis]], sydvästra [[Serthara]], [[Djävulshavet|Djävulshavets]] havsbotten
 Den geologiskt aktiva zonen längs plattgränsen mellan [[Kyrathis]] och [[Serthara]] – som löper genom [[Djävulshavet]] – ger upphov till mineraler, kristaller och metaller som inte återfinns på andra håll. [[Melethis]] och dess magiska akademi är det främsta centrumet för handel med dessa material. Se [[Vulkanzonens mineraler]] för fullständig beskrivning. De viktigaste är:
 
-- **Ignarit** – mörkröd kristall som lagrar Eld-präglad [[Aether]]. Energikälla för alkemister och magientister, material för eldmagiska vapen. Den mest omsatta av vulkanzonens mineraler.
-- **Svartskal** – vulkaniskt glas som blockerar Aether-flöden. Används för isolering och lagring av instabil magi.
-- **Djupeld** – extremt sällsynt metall från Djävulshavets undervattensventiler. Bär prägel av både Eld och Vatten – en teoretisk omöjlighet som gör den ovärderlig för forskning.
-- **Askite** – porös sten som absorberar Död-präglad Aether. Restriktionsbelagd handelsvara.
-- **Thalite** – grönblå kristall som neutraliserar Aether-präglar. Viktig för alkemi och magisk arkitektur.
-- **Flödeskvarts** – gyllene kvarts med Jord-präglad resonans. Stapelvara i konstruktion och befästningsarbete.
+- **[[Ignarit]]** – mörkröd kristall som lagrar Eld-präglad [[Aether]]. Energikälla för alkemister och magientister, material för eldmagiska vapen. Den mest omsatta av vulkanzonens mineraler.
+- **[[Svartskal]]** – vulkaniskt glas som blockerar Aether-flöden. Används för isolering och lagring av instabil magi.
+- **[[Djupeld]]** – extremt sällsynt metall från Djävulshavets undervattensventiler. Bär prägel av både Eld och Vatten – en teoretisk omöjlighet som gör den ovärderlig för forskning.
+- **[[Askite]]** – porös sten som absorberar Död-präglad Aether. Restriktionsbelagd handelsvara.
+- **[[Thalite]]** – grönblå kristall som neutraliserar Aether-präglar. Viktig för alkemi och magisk arkitektur.
+- **[[Flödeskvarts]]** – gyllene kvarts med Jord-präglad resonans. Stapelvara i konstruktion och befästningsarbete.
 
 ### Ädelträ
 **Ursprung:** [[Solarithar]]

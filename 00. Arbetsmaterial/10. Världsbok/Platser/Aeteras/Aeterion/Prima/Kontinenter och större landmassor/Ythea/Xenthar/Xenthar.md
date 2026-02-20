@@ -1,74 +1,75 @@
-﻿#Plats #Nation 
+#Plats #Nation #Imperium
 
-> [!quote] [[Edrion Lomar]]
-> Xenthar är ett imperium av överdåd och förödelse. Varje sten i dess vägar bär vikten av tusentals år av historia, och varje viskning i dess palats är en påminnelse om att makt är både en välsignelse och en förbannelse.
+**Xenthar** är ett imperium på kontinenten [[Ythea]] med en lång historia av militär och kulturell dominans. Det var en gång det mäktigaste riket på kontinenten, och dess forna gränser sträckte sig in i vad som idag är [[Tharamin]] i väster och in i [[Kaeshiru|Kaeshirus]] norra klansland i öster. Idag är det ett fungerande men krympat centralstyre – ett imperium som håller vad det har, men inte längre expanderar.
 
-**Xenthar** är ett mäktigt och expansivt imperium på kontinenten **[[Ythea|Ythea]]**, präglat av en lång historia av både militär och kulturell dominans. Dess starka jordbruksekonomi, dess kontroll över de viktiga handelsvägarna längs **Amunirfloden**, och dess mäktiga armé har gjort det till ett av de mest inflytelserika rikena på kontinenten. Samtidigt är Xenthar ett rike där religion och politik är oskiljaktiga, och där kejsaren ses som en halvgud som styr både det andliga och det världsliga. Med sina starka militära traditioner och sitt rika kulturella arv är Xenthar både fruktat och beundrat över hela [[Ythea|Ythea]], och dess framtid är både lovande och osäker i en värld där makt alltid är i förändring.
+---
 
-## Geografi och Klimat
+## Geografi och klimat
 
-**Xenthar** är det största och mest inflytelserika imperiet på kontinenten **[[Ythea|Ythea]]**, och dess hjärta ligger längs den mäktiga **Amunirfloden**. Floden rinner från de snöklädda bergen i norr, slingrar sig genom [[Ythea|Ytheas]] stora slätter och skogar, innan den mynnar ut i det varma havet vid imperiets södra kust. Amunir är Xenthars livsnerv, och längs dess bördiga stränder har civilisationer vuxit fram och blomstrat i tusentals år. Den rika floddalen, med sitt milda och bördiga klimat, gör regionen till en av de mest produktiva jordbruksområdena på hela [[Ythea|Ythea]]. Det är här imperiets enorma städer, tempel och monument har byggts, och det är här som dess enorma rikedomar har samlats.
+Xenthars hjärta är floden **[[Amunir]]** och de **[[Stora Slätterna]]** som löper längs dess stränder. Amunir är imperiets livsnerv: längs dess bördiga stränder har de äldsta städerna vuxit fram, de rikaste jordbruksmarkerna etablerats och de viktigaste handelsstationerna byggts. Det milda, tempererade klimatet i floddalen gör regionen till en av de mest produktiva jordbruksområdena på hela Ythea.
 
-I norr omgärdas Xenthar av **[[Amunirbergen]]**, där snösmältningen ger floden sitt vatten. Bergen är kalla och ogästvänliga, men fulla av mineraler och resurser som järn och ädelmetaller, vilka har gett Xenthar både ekonomisk och militär styrka. Dessa områden är dock svåra att nå, och bara de mest härdade gruvkolonierna och soldaterna har lyckats etablera sig här. De flesta av Xenthars invånare bor i de mer bördiga och tempererade områdena längre söderut.
+I norr omgärdas Xenthar av **[[Amunirbergen]]**, vars snösmältning ger floden sitt vatten. Bergen är svårtillgängliga men mineralrika – järn och ädelmetaller har gett imperiet ekonomisk och militär styrka. I söder övergår slätterna gradvis i mer kuperad terräng mot [[Ytharbergen|Ytharbergens]] utlöpare, som markerar gränsen mot det land imperiet aldrig fullt ut erövrade.
 
-Söder om floden breder **Xenthars slätter** och odlingsmarker ut sig. Detta område är inte bara rikt på jordbruk, utan också ett strategiskt centrum för imperiets ekonomi. Här växer vete, ris, vinrankor och olivträd, och området är berömt för sina stora plantager som drivs av både fria bönder och slavar. Dessa jordbruk ger Xenthar en stabil matförsörjning och en stor del av deras exportvaror. Söderut finns också imperiets kust mot **Stjärnhavet**, där flodens mynning förvandlas till en enorm hamn vid huvudstaden **Xenthara**.
+---
 
-Klimatet i Xenthar varierar beroende på region. Floddalen är tempererad och bördig, med varma somrar och milda vintrar. Längre norrut i bergen är klimatet betydligt kyligare, medan kusten vid Stjärnhavet har ett varmt och fuktigt klimat året runt, vilket gör området idealiskt för handel och sjöfart.
+## Politiskt system
 
-## Kultur och Religion
+Xenthar är ett imperium med en kejsare i spetsen vars makt i teorin är absolut och i praktiken är ständigt förhandlad. Den sittande kejsaren, **[[Valerion XI]]**, styr från **[[Xenthara]]** – imperiets huvudstad och kulturella centrum.
 
-**Xenthar** är inte bara en politisk och militär stormakt, utan också ett **kulturellt och religiöst centrum** på kontinenten [[Ythea|Ythea]]. Imperiet har genom årtusenden utvecklat en komplex och inflytelserik kultur, som genomsyrar allt från konst och litteratur till politik och religion. Xentharierna betraktar sitt imperium som civilisationens vagga på [[Ythea|Ythea]], och deras stolthet över sin långa historia och sitt kulturella arv är påtaglig.
+Kejsarens auktoritet vilar på en teologisk grund: han är syntesen av de gudomliga principerna sol och måne, deras levande kropp i världen. Det är en konstruktion som gör öppen opposition svår att formulera – att ifrågasätta kejsaren är att ifrågasätta kosmisk ordning. Men konstruktionens verkliga makt ligger hos **prästerskapet**, som ensamt äger rätten att bekräfta huruvida en kejsare uppnått denna syntes – och, vid behov, att förkunna att syntesen lämnat honom.
 
-Den kulturella hjärtat av Xenthar är huvudstaden **[[Xenthara]]**, en av de mest imponerande och mäktiga städerna på kontinenten. Xenthara är känd för sina enorma **palats**, stora **tempel** och ett blomstrande **konst- och vetenskapsliv**. Det är en stad där handel, politik, och religion sammanflätas i en dynamisk och ibland farlig dans. Arkitekturen är präglad av storslagna pelare, skulpturer och monument som speglar imperiets makt och storhet. Här finns **Solen och Månens Tempel**, två av de viktigaste religiösa platserna i Xenthar, där prästerna dagligen utför ritualer till ära för himlakropparna.
+Under kejsaren finns en hierarki av guvernörer och ämbetsmän som styr imperiets provinser. Dessa är i regel lojala adelsmän som belönats med land och titlar men som i gengäld är skyldiga skatt och militära resurser. Konflikter mellan den sekulära och religiösa sfären är ett återkommande inslag i Xenthars inre politik – de är strukturellt inbyggda i ett system där prästerskapet och kejsaren behöver varandra men aldrig fullt ut kan lita på varandra.
 
-Xenthars religion är central i deras kultur och samhälle. Den domineras av en **sol- och månkult**, där dessa himlakroppar symboliserar balans, makt och öde. **Solen** står för styrka, kunglig makt och livets skapande krafter, medan **Månen** representerar död, förvandling och det mystiska. Dessa två krafter anses vara i ständig cykel, och kejsaren av Xenthar betraktas som en halvgud som förkroppsligar denna balans. Han anses ha fått sin makt direkt från himlakropparna och fungerar som både politisk ledare och religiös symbol.
+---
 
-Prästerna i Xenthar har ett starkt inflytande över både det politiska och det religiösa livet. De anses ha förmågan att tolka solens och månens vilja och att förutse framtida händelser baserat på stjärnornas rörelser och andra astrologiska tecken. Detta ger dem en stor makt i samhället, och deras välsignelse är avgörande för alla stora politiska och militära beslut. De står ofta vid kejsarens sida och är viktiga rådgivare i frågor om krig, diplomati och inre angelägenheter.
+## Religion
 
-**Konst och vetenskap** har blomstrat i Xenthar, delvis på grund av de rika resurserna och imperiets expansiva handel med andra länder. Stora filosofer, poeter och konstnärer har gjort Xenthar till ett centrum för kulturell utveckling på [[Ythea|Ythea]]. Deras vetenskap har nått långt inom astronomi och matematik, mycket tack vare det stora inflytandet från deras astrologiska religion.
+Xenthar är [[Sol- och månkulten|Sol- och månkultens]] kärnland. Religionens treenighet – solen, månen och kejsaren som deras levande syntes – är inte bara en trosuppfattning utan grunden för imperiets politiska legitimitet. Solen representerar det aktiva och uppenbarade; månen det mottagande och dolda. Kejsaren är deras förening i en enda person.
 
-## Politiskt System
+Prästerskapets tempel fungerar som religiösa, administrativa och rättsliga centra i ett. Att befinna sig utanför deras inflytande är att befinna sig utanför ett system av rättigheter och skyldigheter som de flesta invånare aldrig ifrågasätter – det är bara hur saker fungerar.
 
-Xenthar är ett imperium med en lång och komplex historia av både **monarki och teokrati**. Kejsaren, som anses vara en halvgud, har absolut makt och regerar över hela riket från sin tron i Xenthara. Den nuvarande kejsaren, **[[Valerion XI]]**, ses som en vis och mäktig ledare, men hans regeringstid har också kantats av intriger och maktspel inom hovet. Kejsarens makt är inte oinskränkt, då han ofta måste navigera genom de inflytelserika prästerskapets krav och den aristokratiska eliten som kontrollerar mycket av landets rikedomar och militära resurser.
+Utanför imperiets nuvarande gränser, i de delar av Tharamin och Kaeshiru som en gång var under Xenthars inflytande, lever en reformtolkning som prästerskapet betecknar som kättersk: att syntesen inte är exklusiv för kejsaren utan finns i allt levande. Inom Xenthars gränser hålls denna uppfattning med den försiktighet den kräver.
 
-Det politiska systemet i Xenthar är starkt centraliserat kring kejsarens makt, men det finns också en **hierarki av ämbetsmän** och lokala guvernörer som ansvarar för de olika provinserna i imperiet. Guvernörerna är ofta lojala adelsmän eller krigsherrar som har belönats med land och titlar i utbyte mot deras tjänster och lojalitet till tronen. Dessa guvernörer har betydande makt i sina provinser, men de är skyldiga att betala skatt och förse kejsaren med soldater och resurser vid behov.
+*Se [[Sol- och månkulten]] för en utförligare behandling.*
 
-Xenthar har genom åren utvecklat ett komplext **rättssystem** där både präster och ämbetsmän spelar viktiga roller. Prästerskapet är ansvarigt för att övervaka och tolka lagar som rör religion och moral, medan den sekulära makten styr över mer världsliga frågor som handel, jordbruk och militära angelägenheter. Konflikter mellan dessa två sfärer har ofta lett till intriger och maktkamper, men de båda har alltid varit tvungna att samarbeta för att upprätthålla ordningen i riket.
+---
 
-Makten i Xenthar har dock inte alltid varit stabil. Genom sin långa historia har imperiet drabbats av flera **inbördeskrig** och maktkamper, där olika fraktioner har kämpat om tronen. Aristokratin, som kontrollerar mycket av rikets rikedomar och militära resurser, har ibland utmanat kejsarens makt, särskilt i tider då kejsardömet har försvagats av yttre hot eller dåliga skördar. Detta har lett till en ständig balansgång mellan kejsaren och adeln, där lojaliteter och allianser ständigt förändras.
+## Historia
 
-## Militär och Expansion
+Xenthars nuvarande tillstånd – ett fungerande men krympat imperium – är resultatet av en inre kris vars exakta förlopp fortfarande är omtvistat.
 
-Xenthar har genom århundradena blivit känt för sin **militära styrka** och sin aggressiva expansionspolitik. Imperiets legioner är bland de mest disciplinerade och vältränade på hela kontinenten, och deras skicklighet på slagfältet är legendarisk. **Xenthars legioner**, som har erövrat stora delar av [[Ythea|Ythea]], är organiserade efter strikta hierarkier och taktiker som gör dem till fruktade fiender i strid. De är kända för sin förmåga att snabbt etablera befästa läger och deras effektivitet i både offensiva och defensiva operationer.
+Det som är klarlagt: en kejsare dog utan en kandidat som prästerskapet kunde enas kring. Under det interregnum som följde klövs prästerskapet i fraktioner. **Xelgathon**, vid den tidpunkten överstepräst, bröt med den etablerade ordningen och utropade sig själv till kejsare – hävdade att syntesen av sol och måne bodde i honom, inte i någon kandidat prästerskapet borde bekräfta.
 
-Xenthars militär är inte bara mäktig på land, utan även till sjöss. Imperiet har en stark **flotta**, som patrullerar både floden **Amunir** och den närliggande kusten vid **Stjärnhavet**. Flottan skyddar Xenthars hamnstäder och säkerställer imperiets handel och sjöfart, vilket har gjort det möjligt för Xenthar att dominera de viktiga handelsrutterna längs floden och ut till andra delar av [[Ythea|Ythea]] och [[Prima]]. Skepp från Xenthar är kända för sin snabbhet och sina tunga beväpningar, och de är en avgörande del av imperiets försvar.
+Det var en teologisk bomb. Hela konstruktionen – prästerskapets makt, kejsarens legitimitet, systemets stabilitet – vilade på separationen mellan *den som är syntesen* och *den som bekräftar syntesen*. Xelgathon hävdade att han var bägge. De delar av prästerskapet som avvisade anspråket hade inget alternativ kvar: om systemet var korrupt inifrån var det svårt att försvara från utsidan.
 
-Expansionen av imperiet har dock inte alltid varit fredlig. Xenthar har genomfört många **militära erövringar** för att utöka sitt territorium, och deras legioner har slagits mot både inhemska stammar och andra riken på [[Ythea|Ythea]]. I många fall har Xenthar erbjudit sina grannar **diplomatiska allianser** och beskydd, men de som har vägrat har ofta tvingats underkasta sig imperiets styre med vapenmakt. Trots detta har Xenthar ofta förvaltat sina erövrade territorier väl, och många av de länder som har blivit en del av imperiet har blomstrat under dess skydd.
+Provinserna – framförallt i vad som idag är [[Tharamin]] och norra [[Kaeshiru]] – bröt sig loss, men inte för att de förkastade treenigheten. De flesta av dessa regioner delade fortfarande tron på syntesen och erkände i princip kejsarens gudomliga roll. Det de inte accepterade var att en överstepräst från Xenthara ensidigt konsoliderade bägge rollerna och därmed eliminerade det system där en ny kejsare kunde komma från vilken del av imperiet som helst. Att lämna imperiet var ett svar på en maktkoncentration, inte ett religiöst uppbrott.
 
-## Ekonomi och Handelsförbindelser
+Inbördeskriget som följde försvagade legionerna, öppnade gränser och lämnade kvar ett imperium vars territorium aldrig återvann sin gamla utsträckning.
 
-Xenthar har en stark och diversifierad **ekonomi**, som framförallt vilar på **jordbruksproduktion** och **intern handel**. De bördiga markerna längs **Amunirfloden** producerar stora mängder spannmål, frukt, vin och oliver, och dessa varor säljs till andra delar av [[Ythea|Ythea]] genom ett omfattande nätverk av flodskepp och karavaner. Stora lastade fartyg fyller hamnarna i Xenthara och andra viktiga städer längs floden, och det är denna inre handel som ger imperiet dess ekonomiska grundval.
+Perioden kallas olika beroende på vem man frågar. I Xenthar talar man om **den stora söndringen** – ett namn som lägger skulden på provinserna och konsekvent undviker att namnge Xelgathon (att ge en förrädare ett namn är att hedra honom). I Tharamin och Kaeshiru används **Xelgathons förräderi** – det var han som bröt den imperiella traditionen, inte de. Historiografer utan lojalitet åt något håll tenderar att använda det mer neutrala **Xelgathons schism**.
 
-Handel är en viktig del av Xenthars ekonomi, och deras kontroll över **Amunirfloden** har gjort dem till den dominerande ekonomiska makten på kontinenten. Floden fungerar som en naturlig transportväg, och Xenthar har utvecklat ett avancerat nätverk av hamnar och marknadsplatser där varor från hela [[Ythea|Ythea]] byts och säljs. Detta har gett imperiet stora rikedomar och en stabil ekonomisk bas som möjliggör deras militära styrka och politiska inflytande över kringliggande riken.
+Vad som hände Xelgathon själv är oklart. Prästerskapets egna arkiv innehåller luckor som ingen förklarat.
 
-Förutom jordbruk och handel har Xenthar också en blomstrande **tillverkningsindustri**, där skickliga hantverkare producerar allt från vapen och rustningar till konst och smycken. Deras metallurgi och hantverk är kända för sin höga kvalitet, och deras produkter är eftertraktade över hela kontinenten.
+---
 
-## Förhållande till Andra Länder
+## Militär
 
-Som ett av de mest inflytelserika rikena på **[[Ythea|Ythea]]**, har Xenthar många allierade, men också många fiender. Deras långvariga **expansionspolitik** har gjort dem till en dominerande makt i regionen, och många mindre riken och städer har tvingats underkasta sig imperiets makt genom antingen diplomati eller militära erövringar.
+Xenthars legioner är bland de mest disciplinerade på Ythea, kända för sin strikta hierarki och sin skicklighet i befäst strid. Deras roll har förändrats under imperiets nedgångsfas: de är idag defensiva snarare än expansiva, inriktade på att hålla det befintliga territoriet och skydda de handelsvägar längs Amunir som är imperiets ekonomiska ryggrad.
 
-### Allianser och Fiender
+Flottan patrullerar floden och kustområdena men söker inte längre de konfrontationer med omvärlden som karakteriserade imperiets expansiva period.
 
-Xenthar har flera strategiska **allianser** med andra mäktiga riken på [[Ythea|Ythea]], särskilt de som ligger längs floden Amunir. Dessa allianser bygger ofta på **beskydd och handel**, där Xenthar erbjuder sina mindre grannar skydd i utbyte mot tribut och lojalitet. Detta har skapat ett nätverk av allierade städer och provinser som stärker imperiets position i regionen.
+---
 
-Samtidigt har Xenthar också många **fiender**, särskilt de riken som ligger utanför deras direkta kontroll. Många av de fria städerna och nationerna på [[Ythea|Ythea]] ser Xenthars expansion som ett hot mot deras egen suveränitet och frihet, och det har förekommit flera militära konflikter där dessa stater har kämpat för att stå emot imperiets expansion.
+## Ekonomi
 
-### Kontakter bortom Ythea
+Xenthars ekonomi vilar på jordbruksproduktion och intern handel. De bördiga markerna längs Amunir producerar spannmål, frukt och vin i mängder som försörjer inte bara imperiet självt utan också utgör viktiga exportvaror längs flodhandelsnätverket. Imperiets kontroll över Amunir gör det till den dominerande ekonomiska makten i sin del av Ythea.
 
-Xenthar har sporadisk kontakt med omvärlden, främst genom de få hamnstäder längs **[[Brända Kusten]]** som bedriver handel över **[[Stjärnhavet]]**. Imperiet har dock aldrig aktivt sökt utomkontinentala förbindelser – deras fokus ligger på dominans inom Ythea snarare än expansion bortom dess kuster. De varor som når andra kontinenter, som **[[Kyrathis|Kyrathis]]** och **[[Serthara|Serthara]]**, passerar framförallt genom oberoende köpmän i **[[Kaldris]]**, inte genom Xenthars egen flotta.
+Tillverkning – framförallt vapen, rustningar och metallhantverk – håller hög kvalitet och är eftertraktad i hela regionen. Kontakten med världen utanför Ythea sker indirekt, framförallt via oberoende köpmän i [[Kaldris]] snarare än genom Xenthars egna handelsfartyg.
 
-## Mysterier och Legender
+---
 
-Xenthar är ett rike fyllt med **legender och myter**, särskilt kring dess grundande och kejsarens gudomliga status. En av de mest kända legenderna handlar om **Solens Krigare**, en grupp uråldriga kämpar som sägs ha fått sin styrka från solguden själv. Enligt myten grundade dessa krigare det första Xenthar, och deras arv lever vidare i dagens legioner.
+## Legender och myter
 
-En annan populär legend berättar om **[[Månens Tempel]]**, en hemlig plats djupt i [[Amunirbergen]], där det sägs att mångudens kraft vilar. Endast ett fåtal utvalda präster och prästerinnor tillåts närma sig templet, och de som har försökt utan tillstånd sägs ha försvunnit i skuggorna.
+Bland de mest kända legenderna i Xenthar är berättelsen om **Solens Krigare** – en grupp uråldriga kämpar som sägs ha grundat det första Xenthar med kraft hämtad direkt från solprincipen. Deras arv lever i legionernas självförståelse, om inte i historisk verifiering.
+
+Det berättas också om **[[Månens Tempel]]** – en hemlig plats djupt i Amunirbergen dit endast ett fåtal utvalda präster tillåts. Vad som faktiskt finns där, och varför platsen kräver sådan sekretess, är inte dokumenterat i de källor som är tillgängliga utanför prästerskapets egna arkiv.

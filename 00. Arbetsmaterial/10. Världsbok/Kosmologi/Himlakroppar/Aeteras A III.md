@@ -1,4 +1,4 @@
-﻿# Aeteras A III
+#Planet #Himlakropp 
 
 > Världsbygge: **[[Prima]]** – *Den levande världen*. Kampanjvärldens hemvist.
 

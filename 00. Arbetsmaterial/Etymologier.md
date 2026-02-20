@@ -52,6 +52,9 @@ Kustsubstratet utmärks av mjukare konsonanter, vokalrika stavelser och en tende
 | shima | gräns, mellanutrymme | Orishima |
 | oshi / asha | hav, vatten; att färdas | – |
 | kira | handel, utbyte | – |
+| vai | dis, halvgömd, det skymda; det som är tillräckligt nära för att anas men aldrig klart sett | – |
+| oru | glöd underifrån; det som lyser genom ett annat skikt – eld bakom dimma, måne bakom moln, levande under vatten | – |
+| kae | tröskelns tillstånd; det liminala; ögonblicket av övergång som varken tillhör det ena eller det andra | – |
 
 ### Suffix och partiklar
 

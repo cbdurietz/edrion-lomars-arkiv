@@ -1,4 +1,4 @@
-﻿# Vael
+#Måne  #Himlakropp 
 
 **Vael** är [[Prima]]s enda måne. Tidsenheten baserad på Vaels cykel kallas en **vaelar** (~30 dagar).
 

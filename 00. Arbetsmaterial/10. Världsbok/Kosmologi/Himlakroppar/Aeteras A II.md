@@ -1,4 +1,4 @@
-﻿# Aeteras A II
+#Planet #Himlakropp 
 
 > Världsbygge: **[[Varun]]** – *Den beslöjade ugnen*, *Den dolda lågan*
 

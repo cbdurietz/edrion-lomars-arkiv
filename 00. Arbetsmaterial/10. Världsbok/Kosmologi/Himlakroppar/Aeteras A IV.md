@@ -1,4 +1,4 @@
-# Aeteras A IV
+#Planet #Himlakropp 
 
 > Världsbygge: **[[Sekara]]** – *Den gröna systern*, *Tvillingsjälen*
 

@@ -1,4 +1,4 @@
-﻿# Vandraren
+#Himlakropp 
 
 **Vandraren** är en stor långperiodisk komet eller iskropp i dvärgplanetskala som korsar Aeteras-systemet i en extremt elliptisk, nästan polär bana. Den är astronomiskt ej numrerad – dess bana tillhör varken Aeteras A:s eller Aeteras B:s planetsystem utan korsar båda.
 

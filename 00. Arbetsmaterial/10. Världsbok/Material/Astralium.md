@@ -1,3 +1,5 @@
+#Material 
+
 De mystiska kristallerna som produceras i **[[Kharanos]]** kallas för **Astralium**.
 ## Beskrivning
 Astralium är en sällsynt och vackert skimrande kristall som sägs ha **magiska och astrologiska egenskaper**. De varierar i färg, men de vanligaste är djupblå eller violetta, med ett inre sken som liknar ljuset från stjärnor. [[Kharanos]] invånare tror att dessa kristaller är direkt kopplade till stjärnornas och planeternas rörelser. Lärda från andra delar av [[Prima]] har spekulerat i att kristallernas egenskaper snarare beror på en förmåga att lagra och förstärka [[Aether]].

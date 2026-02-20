@@ -1,4 +1,4 @@
-﻿# Aeteras A
+#Stjärna #Himlakropp
 
 > Världsbygge: **[[Aeterion]]**. Kallas allmänt **solen**, eller i religiösa sammanhang **Aetheria** (Solens Förbunds tradition).
 
