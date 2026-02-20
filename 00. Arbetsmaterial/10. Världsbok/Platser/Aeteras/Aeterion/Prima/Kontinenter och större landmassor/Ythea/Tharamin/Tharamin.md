@@ -6,7 +6,7 @@
 
 ## Geografi
 
-Tharamins ryggrad är [[Ytharbergen]] i öster, vars floder rinner västerut mot kusten och skapar de floddalar längs vilka de flesta av regionens befolkningscentra vuxit fram. Bortom Ytharbergen i nordöst ligger [[Xenthar]] – passet [[Veltharpasset]] är den viktigaste övergången mellan de två regionerna. Längre söderut längs samma bergskedja tar [[Kaeshiru|Kaeshirus]] klansland vid. I söder tunnar regionen ut mot [[Varathi|Varathis]] svårtillgängliga marker.
+Tharamins ryggrad är [[Ytharbergen]] i öster, vars floder rinner västerut mot kusten och skapar de floddalar längs vilka de flesta av regionens befolkningscentra vuxit fram. I nordöst avgränsar [[Amunirbergen]] regionen mot [[Xenthar]] – passet [[Veltharpasset]] är den viktigaste övergången mellan de två regionerna. Längs Ytharbergens södra utlöpare tar [[Kaeshiru|Kaeshirus]] klansland vid. I söder tunnar regionen ut mot [[Varathi|Varathis]] svårtillgängliga marker.
 
 Mitt i regionen skär **[[Silvanöknen]]** tvärs igenom Tharamin från öster mot väster – inte hela vägen till kusten, men tillräckligt för att utgöra en effektiv barriär. Det är den verkliga skiljelinjen mellan regionens norra och södra halva. Norr om öknen: f.d. imperieprovinser med Xenthar-arv. Söder om öknen: territorier som aldrig stod under imperiets flagga. Längs kusten i väster finns ett smalare beboeligt bälte där [[Tharetis]] kontrollerar passet mellan de två halvorna. Längst i öster, uppe i Ytharbergen, skyddas [[Karesh]] från ökenklimatet av fuktiga bergsvindarna från Dimhavet i öster.
 
