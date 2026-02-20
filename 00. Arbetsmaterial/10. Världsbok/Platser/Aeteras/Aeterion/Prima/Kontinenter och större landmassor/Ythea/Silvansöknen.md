@@ -1,3 +1,0 @@
-#Plats 
-
-I södra [[Ythea]] breder **[[Silvansöknen]]** ut sig, ett kargt och torrt landskap som en gång var hem för ett mäktigt imperium, men som nu är nästan helt övergivet. [[Silvansöknen]] är känd för sina sandstormar och sina sällsynta men dramatiska oaser. Nomadiska stammar vandrar genom öknen, och det sägs att de har utvecklat sätt att överleva där som andra civilisationer aldrig kunnat förstå.
