@@ -10,6 +10,8 @@ Xenthars hjärta är floden **[[Amunir]]** och de **[[Stora Slätterna]]** som l
 
 I norr omgärdas Xenthar av **[[Amunirbergen]]**, vars snösmältning ger floden sitt vatten. Bergen är svårtillgängliga men mineralrika – järn och ädelmetaller har gett imperiet ekonomisk och militär styrka. I söder övergår slätterna gradvis i mer kuperad terräng mot [[Ytharbergen|Ytharbergens]] utlöpare, som markerar gränsen mot det land imperiet aldrig fullt ut erövrade.
 
+I [[Tharamin]] väster om Ytharbergen satte **[[Silvanöknen]]** den naturliga sydgränsen för Xenthars expansion. Imperiet nådde norra Tharamin men inte längre söderut – en armé som marscherar söderut möter öknen och stannar, inte av strategisk klokhet utan av logistisk nödvändighet. Vad som låg söder om öknen nådde imperiet aldrig.
+
 ---
 
 ## Politiskt system

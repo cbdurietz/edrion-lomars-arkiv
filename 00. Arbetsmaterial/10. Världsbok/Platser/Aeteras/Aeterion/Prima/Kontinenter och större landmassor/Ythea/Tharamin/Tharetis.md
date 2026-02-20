@@ -1,5 +1,5 @@
 #Plats #Nation #Stadsstat #Tharamin
 
-**Tharetis** är en stadsstat centralt i [[Tharamin]], vars välstånd nästan helt vilar på att ligga mitt emellan alla andra. Varor, bud och resande passerar genom Tharetis oavsett vart de är på väg, och staden har organiserat sin ekonomi kring den insikten med metodisk noggrannhet.
+**Tharetis** är en stadsstat vid Tharamins västra kust, i det beboeliga kustbälte som smal­nar av där [[Silvanöknen]] möter havet. Det är den naturliga passagen längs kusten mellan Tharamins norra och södra halva – den enda landvägen som undviker öknen – och Tharetis har byggt sitt välstånd på just det läget.
 
-Politiskt håller Tharetis goda relationer med samtliga grannar som en affärsmässig nödvändighet. Att ta sida i regionala konflikter vore att stänga dörren för hälften av kunderna.
+Varor, bud och resande på väg mellan de f.d. imperieprovinserna i norr och det Xenthar-fria söder passerar genom Tharetis. Staden har organiserat sin ekonomi kring den insikten med metodisk noggrannhet och håller goda relationer med samtliga grannar som en affärsmässig nödvändighet. Att ta sida i regionala konflikter vore att stänga dörren för hälften av kunderna.
