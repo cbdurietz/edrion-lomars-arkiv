@@ -21,7 +21,7 @@ Representanter från stadens gillen, skrån och övriga organisationer kan kalla
 
 ### Det religiösa inslaget
 
-Bland de inbjudna finns alltid en representant från **Aeterions tempel**. Dennes roll är inte formellt beslutande, men närvaron är förväntad och en invändning från templet tillmäts ändå vikt – tröskeldagen är för många kulturer en helig dag, och ett beslut om att stryka den utan att templet åtminstone konsulterats skulle uppfattas som provokativt. I praktiken välsignar tempelrepresentanten de flesta beslut. Det har hänt att de framfört reservationer, vilka sedan noterats i rådets protokoll – och förblivit just protokollnotiser.
+Bland de inbjudna finns alltid en representant från **[[Aeterions tempel]]**. Dennes roll är inte formellt beslutande, men närvaron är förväntad och en invändning från templet tillmäts ändå vikt – tröskeldagen är för många kulturer en helig dag, och ett beslut om att stryka den utan att templet åtminstone konsulterats skulle uppfattas som provokativt. I praktiken välsignar tempelrepresentanten de flesta beslut. Det har hänt att de framfört reservationer, vilka sedan noterats i rådets protokoll – och förblivit just protokollnotiser.
 
 ## Rättslig ställning och praxis
 

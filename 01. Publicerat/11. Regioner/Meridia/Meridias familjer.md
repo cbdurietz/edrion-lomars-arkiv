@@ -9,9 +9,9 @@ Den formella makten i [[Meridia]] utövas av rådet – representanter från aka
 
 **Maktbas:** Tradition och symbolkapital.
 
-Staden bär deras namn – eller omvänt: de bär stadens. Vem som gav vem namnet är en fråga som medvetet hålls öppen i Meridias historieskrivning. Det råder dock ingen tvekan om att huset Merid är det äldsta av de stora familjerna, och att deras närvaro på ön föregår de flesta av de institutioner som nu definierar stadsstaten. Legenden säger att det var en Merid som först slog upp tält på klippan, drog det första repet tvärs passagen och beslöt att ta betalt för att låta det ner. Om det är sant spelar mindre roll än att folk tror det.
+Staden bär deras namn – eller omvänt: de bär stadens. Vem som gav vem namnet är en fråga som medvetet hålls öppen i Meridias historieskrivning. Det råder dock ingen tvekan om att huset Merí är det äldsta av de stora familjerna, och att deras närvaro på ön föregår de flesta av de institutioner som nu definierar stadsstaten. Legenden säger att det var en Merí som först slog upp tält på klippan, drog det första repet tvärs passagen och beslöt att ta betalt för att låta det ner. Om det är sant spelar mindre roll än att folk tror det.
 
-Deras ekonomiska tyngd har eroderat under sekler. De äger inte de största lagren, inte de snabbaste skeppen, inte det mest produktiva observatoriet. Vad de äger är en legitimitet som inte kan köpas – bara ärvas. En Merid i rådet behöver inte argumentera för sin plats. Den är given, som solens gång.
+Deras ekonomiska tyngd har eroderat under sekler. De äger inte de största lagren, inte de snabbaste skeppen, inte det mest produktiva observatoriet. Vad de äger är en legitimitet som inte kan köpas – bara ärvas. En Merí i rådet behöver inte argumentera för sin plats. Den är given, som solens gång.
 
 **Rådsrelation:** Direkt säte. Det enda säte som aldrig ifrågasatts.
 
@@ -139,15 +139,15 @@ Astrolaber, kompasser, sextanter, graderade mätcylindrar. Varje Navigationsskol
 
 ## Strukturella axlar
 
-| Axel | Familjer |
-|---|---|
+| Axel | Familjer                    |
+| -------------------------------------- | --------------------------- |
 | Gammal legitimitet vs. ny rikedom | Merid, Thalis ↔ Kael, Orren |
-| Vatten vs. kaj | Vaen ↔ Orren |
-| Akademisk prestige vs. tillämpad nytta | Thalis ↔ Kael |
-| Alla mot skuldeboken | ↔ Cassel |
-| Infödd vs. utländsk | Merid, Thalis ↔ Oshari |
-| Fallande vs. stigande | Sorne ↔ Kael |
-| Öppen makt vs. skuggmakt | Vaen, Merid ↔ Cassel, Oshari |
+| Vatten vs. kaj | Vaen ↔ Orren                |
+| Akademisk prestige vs. tillämpad nytta | Thalis ↔ Kael               |
+| Alla mot skuldeboken | ↔ Cassel                    |
+| Infödd vs. utländsk | Merid, Thalis ↔ Oshari      |
+| Fallande vs. stigande | Sorne ↔ Kael                |
+| Öppen makt vs. skuggmakt | Vaen, Merí ↔ Cassel, Oshari |
 
 ## Rådet i praktiken
 
