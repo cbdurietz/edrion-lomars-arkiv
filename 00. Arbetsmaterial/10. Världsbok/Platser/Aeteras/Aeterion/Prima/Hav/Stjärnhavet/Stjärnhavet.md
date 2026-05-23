@@ -14,7 +14,7 @@ Det som verkligen gör **Stjärnhavet** unikt är de regelbundna **ljusfenomen**
 
 I många av kulturerna som bor längs Stjärnhavets kuster kallas havet också för **De Ljusfyllda Djupen**, ett namn som speglar den vördnad och mystik som omgärdar detta hav. Det sägs att de ljus som syns i himlen och speglas i vattnet på något sätt kontrollerar händelser på jorden. Vissa sjöfarare tror att varje komet eller meteorsvärm som syns över Stjärnhavet är ett tecken på antingen stor lycka eller en kommande katastrof. Även handelsfartyg som är vana vid dessa fenomen genomför ofta små ritualer för att blidka himlens krafter innan de korsar havet.
 
-Särskilt fascinerande är den vidskepelse som omgärdar den närliggande planeten **[[Sekara]]**, en följeslagare till **[[Prima]]** i [[Aeteras]] planetsystem. Många tror att när [[Sekara]] syns tydligt på himlen över Stjärnhavet, har havet en särskild kraft att påverka både väder och öde. Sjömän som reser under dessa tider rapporterar ibland att de ser **svaga ljuskällor** på planeten som speglas i havets yta, vilket har gett upphov till legender om att [[Sekara]] är bebodd av mystiska varelser som vakar över jorden.
+Särskilt fascinerande är den vidskepelse som omgärdar den närliggande planeten **[[Sekara]]**, en följeslagare till **[[Prima]]** i [[00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeteras]] planetsystem. Många tror att när [[Sekara]] syns tydligt på himlen över Stjärnhavet, har havet en särskild kraft att påverka både väder och öde. Sjömän som reser under dessa tider rapporterar ibland att de ser **svaga ljuskällor** på planeten som speglas i havets yta, vilket har gett upphov till legender om att [[Sekara]] är bebodd av mystiska varelser som vakar över jorden.
 
 ## Handelsvägar och Sjöfart
 

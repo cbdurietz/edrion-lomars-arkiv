@@ -5,7 +5,7 @@
 >
 > Astronomer vid [[Högobservatoriet]] kan beräkna vad Prima ser ut som sett utifrån: blågrön mot rymdens mörker, vitaktiga molnbälten, [[Vael]]s silverrand längs kanten. Jag tar deras ord för det. Men att hålla Prima i blicken på det sätt jag håller [[Sekara]] – att se den som en hel kropp i rymden – tillhör ett perspektiv som ingen av oss kan inta. Det är en märklig form av blindhet. Att bo i ett hus är inte detsamma som att se det utifrån.
 
-**Prima** är den tredje planeten i [[Aeteras]]-systemet och den bebodda världen – den kropp vars kontinenter och hav utgör all känd historias skådeplats. Den kretsar kring [[Aeterion]] i den beboeliga zonens mitt, med förhållanden som tillåter flytande vatten och en atmosfär som bär ett artrikedom ingen enskild lärdomsman hunnit kartlägga fullt ut. Dess enda måne, [[Vael]], styr tidvatten och kalender.
+**Prima** är den tredje planeten i [[00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeteras]]-systemet och den bebodda världen – den kropp vars kontinenter och hav utgör all känd historias skådeplats. Den kretsar kring [[Aeterion]] i den beboeliga zonens mitt, med förhållanden som tillåter flytande vatten och en atmosfär som bär ett artrikedom ingen enskild lärdomsman hunnit kartlägga fullt ut. Dess enda måne, [[Vael]], styr tidvatten och kalender.
 
 ![[prima-overview.png]]
 

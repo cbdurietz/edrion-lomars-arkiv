@@ -7,7 +7,7 @@
 >
 > Jag frågade en gång en av [[Högobservatoriet|Meridias]] äldsta astronomer om hon trodde att Nycthor verkligen existerade. Hon svarade utan att se upp från sina tabeller: "Matematiken kräver det." Jag tar hennes ord för det.
 
-**Nycthor** är den ytterst kända kroppen i [[Aeteras]]-systemet – om den nu är en planet och inte bara ett mönster i de lärdes beräkningar. Den syns inte med blotta ögat; dess existens har slutledits ur de avvikelser som uppstår när [[Thalorn]]s rörelse inte helt stämmer med vad de kända krafterna i systemet borde ge upphov till. Bland lärda astronomer är den accepterad som en faktisk kropp; bland gemene man är den i det närmaste okänd.
+**Nycthor** är den ytterst kända kroppen i [[00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeteras]]-systemet – om den nu är en planet och inte bara ett mönster i de lärdes beräkningar. Den syns inte med blotta ögat; dess existens har slutledits ur de avvikelser som uppstår när [[Thalorn]]s rörelse inte helt stämmer med vad de kända krafterna i systemet borde ge upphov till. Bland lärda astronomer är den accepterad som en faktisk kropp; bland gemene man är den i det närmaste okänd.
 
 ---
 
@@ -21,7 +21,7 @@ Det som däremot är fastslaget är att [[Thalorn]] ibland rör sig på ett sät
 
 ## Gränsen av det kartlagda
 
-Nycthor representerar, i mer än astronomisk mening, **kanten av det kända**. Bortom den finns ingenting bekräftat – inga planeter, inga kometbanor, inget utom det mörker som skiljer [[Aeteras]] från nästa stjärna.
+Nycthor representerar, i mer än astronomisk mening, **kanten av det kända**. Bortom den finns ingenting bekräftat – inga planeter, inga kometbanor, inget utom det mörker som skiljer [[00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeteras]] från nästa stjärna.
 
 Denna symbolik har inte undgått naturfilosoferna. I lärda diskussioner om kunskapens gränser och om vad som väntar bortom det observerbara används Nycthor ibland som ett begrepp snarare än ett astronomiskt objekt – *bortom Nycthor* som en liknelse för det absolut okända, det som ännu saknar namn och kanske aldrig kommer att få ett.
 

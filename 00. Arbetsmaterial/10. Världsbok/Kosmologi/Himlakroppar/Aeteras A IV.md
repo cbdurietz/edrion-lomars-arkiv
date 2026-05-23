@@ -1,6 +1,6 @@
 #Planet #Himlakropp 
 
-> Världsbygge: **[[Sekara]]** – *Den gröna systern*, *Tvillingsjälen*
+> Världsbygge: **[[Sekara]]** – *Den döda systern*, *Tvillingsjälen*
 
 ---
 

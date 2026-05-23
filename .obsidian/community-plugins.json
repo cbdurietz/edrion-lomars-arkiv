@@ -9,5 +9,6 @@
   "notebook-navigator",
   "excalibrain",
   "obsidian-excalidraw-plugin",
-  "chatgpt-md"
+  "local-gpt",
+  "ai-providers"
 ]

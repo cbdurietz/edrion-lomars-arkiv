@@ -1,6 +1,6 @@
 ﻿# Tideräkning på Prima
 
-Denna artikel beskriver de vanligaste systemen för tideräkning på [[Prima]], baserade på de astronomiska cyklerna i [[Aeteras]]-systemet.
+Denna artikel beskriver de vanligaste systemen för tideräkning på [[Prima]], baserade på de astronomiska cyklerna i[[00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeteras]]]-systemet.
 
 → *Se [[Cyklader|Tideräkning i cyklader]] för cykladens struktur, överskottsdag, zenitdrift och den Obrutna cykladen.*
 

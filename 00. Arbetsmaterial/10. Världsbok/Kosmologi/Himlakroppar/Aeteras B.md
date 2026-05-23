@@ -8,48 +8,55 @@
 
 | Parameter | Värde |
 |---|---|
-| Typ | M3V (röd dvärg) |
-| Massa | 0,4 solmassor |
-| Luminositet | ~0,02 solluminositet |
+| Typ | M5 III (röd jätte) |
+| Massa | ~0,4 solmassor |
+| Radie | ~100 solradier |
+| Luminositet | ~10 solluminositet |
+| Yttemperatur | ~3 200 K |
 | Avstånd (semi-major axis) | 30 AU |
 | Omloppsperiod kring tyngdpunkten | ~139 år |
 | Excentricitet | 0,08 |
 | Inklination relativt planetplanet | ~6° |
+| Skenbar diameter (från Prima) | ~1,8° |
 
 ---
 
 ## Beskrivning
 
-Aeteras B är det binära systemets sekundärstjärna. Från Prima syns den som en djupröd punkt som långsamt skiftar position över decennier. Dess rörelse är märkbar inom en människoålder och har gett upphov till generationskalendrar, omenläror och astrologiska system. Den påverkar inte planetklimaten direkt men influerar långperiodiska objekt, inklusive Vandraren.
+Aeteras B är det binära systemets sekundärstjärna — en röd jätte i ett sent evolutionsstadium. Från Prima syns den som en djupröd disk (~1,8° i vinkeldiameter, drygt 3,5× fullmånens storlek) som långsamt skiftar position under loppet av decennier. Dess rörelse mot stjärnbakgrunden är märkbar inom en människoålder och har gett upphov till generationskalendrar, omenläror och astrologiska system.
 
 Tyngdpunkten (barycentern) för det binära systemet ligger ungefär 8,6 AU från Aeteras A – bortom Keveron men innanför Nycthor.
 
 ---
 
-## Transiter
+## Ockultation
 
-Med Aeteras B:s baninklination på ~6° relativt planetplanet är transiter framför Aeteras A (sett från Prima) extremt sällsynta. När de sker täcker Aeteras B bara ~0,02% av Aeteras A:s skiva – omärkligt utan instrument. Kulturella beskrivningar av att "Umbrix skymmer Aeterions strålar" bör förstås som mytologisk överdrift snarare än en faktisk synlig förmörkelse.
+Med Aeteras B:s baninklination på ~6° relativt planetplanet inträffar geometrisk ockultation — där Aeteras A:s skiva överlappar Umbrix sett från Prima — bara vid konjunktioner nära nodkorsningarna, och är alltså sällsynt. Observera att riktningen är omvänd mot vad som ibland felaktigt beskrivs: Umbrix kan aldrig passera *framför* Aeteras A sett från Prima, eftersom Umbrix befinner sig på ~30 AU och Prima på 1,1 AU från Aeteras A. Det är i stället Aeteras A som kan skymma Umbrix.
+
+Aeteras A:s skenbar disk (~0,48°) är dock avsevärt mindre än Umbrix skenbar disk (~1,7°), vilket innebär att Aeteras A aldrig kan täcka hela Umbrix — bara den centrala delen. Under konjunktionen befinner sig Umbrix nära solen på himlen, vilket gör händelsen praktiskt oobserverbar. Det astronomiskt märkbara ögonblicket är när Umbrix *åter träder fram* ur solens bländzon och första gången syns igen i skymningen — ett fenomen som har laddats med kulturell och astrologisk betydelse i många traditioner på Prima.
 
 ---
 
 ## Möjligt planetsystem
 
-Aeteras B:s Hill-sfär (gravitationellt inflytandeområde) sträcker sig ungefär **15 AU** från stjärnan. Stabila planetbanor existerar inom ungefär en tredjedel av detta, alltså **~5 AU**.
+Aeteras B:s Hill-sfär sträcker sig ungefär **12 AU** från stjärnan. Stabila planetbanor existerar inom ungefär en tredjedel av detta, alltså **~4 AU**.
 
 ### Beboeliga zonen
 
-Med en luminositet på bara ~2% av Aeteras A ligger den beboeliga zonen vid ungefär **0,2–0,4 AU** – extremt nära stjärnan. Eventuella planeter i denna zon skulle sannolikt vara **tidvattenlåsta**: samma sida alltid vänd mot stjärnan, med en permanent dagsida badande i rött ljus och en permanent nattsida i evig mörker. Dämningszonen – gränslandet mellan dag och natt – skulle kunna hysa tempererade förhållanden.
+Med en luminositet på ~10 solluminositet ligger den beboeliga zonen vid ungefär **1–3 AU** från Umbrix. På dessa avstånd är tidvattenlåsning inte aktuell — tidvattenlåsningstiden skalas med sjätte potensen av omloppsbanan, och vid 1–3 AU bevaras rotationsperioder på tidsskalor som vida överstiger systemets ålder. Eventuella planeter i denna zon skulle alltså ha normala dygn och årstider.
+
+Umbrix är i ett sent evolutionsstadium och dess luminositet ökar långsamt i takt med att det stellära höljet expanderar, vilket innebär att den beboeliga zonen gradvis migrerar utåt.
 
 ### Möjliga planettyper
 
 | Beteckning | Möjlig typ | Avstånd | Not |
 |---|---|---|---|
-| Aeteras B I–II | Klipp-/stenplaneter | 0,1–0,5 AU | Nära, möjligen tidvattenlåsta |
-| Aeteras B III+ | Isvärldar, dvärgplaneter | 1–5 AU | Kalla, mörka |
+| Aeteras B I–III | Klipp-/stenplaneter | 0,5–4 AU | Beboelig zon vid 1–3 AU |
+| Aeteras B IV+ | Isvärldar, dvärgplaneter | >4 AU | Utanför stabila banor |
 
 ### Observerbarhet från Prima
 
-Vid 30 AU avstånd och med Aeteras B:s svaga ljus (~2% av Aeteras A) skulle planeter kring Aeteras B vara **i princip omöjliga att observera** från Prima med förmodern teknologi. De utgör en okänd del av systemet – en potentiell narrativ resurs:
+Vid 30 AU avstånd och med Primas förmoderna teknologi skulle planeter kring Aeteras B vara **i princip omöjliga att observera**. De utgör en okänd del av systemet — en potentiell narrativ resurs:
 
 - Kulturer på Prima vet inte att dessa världar existerar
 - Lärda astronomer kan *teoretiskt* förutsäga att Aeteras B borde ha följeslagare, men saknar medel att bekräfta det

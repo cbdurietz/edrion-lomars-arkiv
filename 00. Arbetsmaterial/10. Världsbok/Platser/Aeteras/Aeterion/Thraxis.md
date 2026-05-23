@@ -5,7 +5,7 @@
 >
 > Det irriterande med Thraxis är att den kräver din fulla uppmärksamhet vid exakt fel tidpunkt. Skymningen är ett kaotiskt ögonblick – ljuset förändras, ögonen anpassar sig, och horisonten dansar med luftens rörelser. Det är i detta kaos man måste hitta en ensam punkt, svag och aldrig riktigt stilla, innan mörkret slukar den. Den som lyckas förstår omedelbart varför astronomerna kallar den *den flyktiga*. Det handlar inte om att den av en slump är svår att se. Det handlar om att den aktivt verkar undvika oss.
 
-**Thraxis** är den innersta kända planeten i [[Aeteras]] – ständigt nära [[Aeterion]] och därigenom nästan omöjlig att observera. Den syns aldrig högt på himlen eller mitt i natten; dess synlighetsfönster begränsas till korta perioder vid horisonten, strax efter solnedgång eller strax före soluppgång, under de vaelar då dess vinkel från solen är som störst. Tränade ögon och gynnsamma förhållanden krävs – för de flesta förblir den ett rykte snarare än en verklig syn.
+**Thraxis** är den innersta kända planeten i [[00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeteras]] – ständigt nära [[Aeterion]] och därigenom nästan omöjlig att observera. Den syns aldrig högt på himlen eller mitt i natten; dess synlighetsfönster begränsas till korta perioder vid horisonten, strax efter solnedgång eller strax före soluppgång, under de vaelar då dess vinkel från solen är som störst. Tränade ögon och gynnsamma förhållanden krävs – för de flesta förblir den ett rykte snarare än en verklig syn.
 
 ---
 

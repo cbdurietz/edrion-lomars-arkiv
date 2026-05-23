@@ -26,7 +26,7 @@ Aeteras A III är systemets tredje planet och den värld där kampanjvärldens k
 
 ## Måne
 
-→ *S[[00. Arbetsmaterial/10. Världsbok/Kosmologi/Himlakroppar/Vael]]]] för Primas måne (massa, omloppsbana, tidvatten, faser).*
+→ *Se [[00. Arbetsmaterial/10. Världsbok/Kosmologi/Himlakroppar/Vael]] för Primas måne (massa, omloppsbana, tidvatten, faser).*
 
 ## Tideräkning
 
