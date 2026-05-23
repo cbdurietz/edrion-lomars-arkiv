@@ -32,4 +32,3 @@ Det som är ställt utom allt tvivel är Edrion Lomars centrala roll i _Primas_ 
 - [[Vinden genom Nargorbergen]]
 - [[Dansen mellan Sol och Skugga]]
 - [[Vid horisontens rand]]
-- 
