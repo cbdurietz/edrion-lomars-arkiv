@@ -71,3 +71,10 @@ Oshari är idag en integrerad del av Meridias maktstruktur på ett sätt som fö
 Vad de söker på längre sikt är det svåraste att svara på. En rådsplats verkar trolig om Sorne faller, men Oshari tycks inte vara ivriga att påskynda det – möjligen för att ett öppet mandat medför synlighet de inte är säkra på att de vill ha, möjligen för att att Sornes skuld är ett mer flexibelt instrument än ett fast säte.
 
 Det som är säkert är att de inte nöjer sig med att vara vältolererade gäster i en stad de bidragit till att göra rikare. Vad tillräckligt välkomna faktiskt skulle se ut för en familj med tre generationers rötter i en stad som fortfarande kallar dem utifrån – det är en fråga de inte slutat ställa sig, oavsett hur övertygande de kommunicerar att de gjort det.
+
+## Kända personer
+
+- [[Riven Oshari]] – överhuvud
+- [[Aren Oshari]] – östliga handelsnätverk
+- [[Mirel Oshari]] – dotter, under Rivens mentorskap
+- [[Orath]] – handelsombud och koordinator (affilierad)

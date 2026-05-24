@@ -66,3 +66,11 @@ Frågan som ingen i familjen ställer högt är hur länge det räcker. En stad 
 Det är också möjligt att frågan aldrig behöver besvaras, att symboler lever längre än allt annat, och att Meridia om tusen cyklader fortfarande har en Merí i rådet av skäl som ingen längre kan förklara men som alla accepterar.
 
 Det alternativet föredrar de.
+
+## Kända personer
+
+- [[Syreth Merí]] – överhuvud, rådsledamot
+- [[Aldris Merí]] – son, utsedd arvinge
+- [[Theva Merí]] – dotter, handelskontakter österut
+- [[Iven Merí]] – farbror, äldre grenens röst
+- [[Aerid Merí]] – tidigare överhuvud (†)

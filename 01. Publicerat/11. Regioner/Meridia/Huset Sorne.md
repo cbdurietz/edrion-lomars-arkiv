@@ -76,3 +76,9 @@ Hur länge den kontrollen håller beror på faktorer de inte styr: Cassels tåla
 Familjenamnet kan inte tas ifrån dem. Det har de rätt i. Det är också sant att ett namn utan substans med tillräcklig tid upphör att vara ett namn och övergår till att vara en anekdot.
 
 Sorne vet om det. Det är förmodligen det hårdaste de bär.
+
+## Kända personer
+
+- [[Eravan Sorne]] – överhuvud, rådsledamot
+- [[Tarev Sorne]] – son, driftsansvarig för Sorne-dockan i Norrehamn
+- [[Lirien Sorne]] – dotter, på väg bort från familjen

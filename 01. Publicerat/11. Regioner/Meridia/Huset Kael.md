@@ -75,3 +75,9 @@ Vad de inte har är det rådsmandat som skulle göra allt det synligt som en pol
 De gamla familjerna vet om det. Kael vet om det. Skillnaden är att de gamla familjerna hoppas att problemet kan skjutas upp, och Kael vet att uppskjutande är en strategi som gynnar dem.
 
 Tid är deras allierade. De är den yngsta familjen. De har råd att vänta på ett sätt som ingen av deras motståndare riktigt vill erkänna.
+
+## Kända personer
+
+- [[Neven Kael]] – överhuvud
+- [[Maret Kael]] – äldre syskon, politisk strateg
+- [[Dael Kael]] – teknisk chef och chefinnovatör

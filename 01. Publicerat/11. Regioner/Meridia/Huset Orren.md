@@ -64,3 +64,10 @@ Orren är idag den familj i Meridia som har minst att frukta av förändring i d
 Vad som är mindre avlägset är att [[Huset Kael]]s kapital och teknologiska resurser söker sig mot infrastrukturprojekt av ett slag som tidigare legat utanför en instrumenttillverkares kompetensområde. Kael har ännu inte tagit ett direkt steg mot hamninfrastrukturen. Orren håller räkningen.
 
 Korta meningar, långa minnen.
+
+## Kända personer
+
+- [[Breven Orren]] – överhuvud, Hamngillets representant i rådet
+- [[Dara Orren]] – hustru, handelsrådgivare; born Velk
+- [[Harvin Orren]] – son, juridisk chef och koncessionsansvarig
+- [[Senna Orren]] – dotter, operativ chef vid Transithamnen

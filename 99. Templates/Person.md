@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Caius
-full_name: Caius II
+  - 
+full_name:
 born:
 died:
 age:
@@ -13,21 +13,21 @@ npcimage: "[[portrait.png]]"
 tags:
   - Person
 ally:
-  - "[[Kaldir]]"
+  - 
 enemy:
   - 
 family:
-  - "[[Solmaren]]"
+  - 
 friend:
   - 
 rival:
   - 
 spouse:
-  - "[[Mara]]"
+  - 
 lover:
   - 
 mentor:
-  - "[[Amunir]]"
+  - 
 parent:
   - 
 status: active
@@ -37,7 +37,7 @@ source:
 ---
 
 > [!infobox|right]
-> # Caius II
+> # <% tp.file.title %>
 > ![[portrait.png|cover hsmall]]
 > ###### Relationer
 > ```relations

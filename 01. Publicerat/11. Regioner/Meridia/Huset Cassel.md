@@ -75,3 +75,9 @@ Det mest tillfredsställande svaret är det tråkigaste: de vill att systemet fo
 Det svaret förklarar det mesta av deras beteende.
 
 Det förklarar inte varför de håller Sorne flytande.
+
+## Kända personer
+
+- [[Ceran Cassel]] – överhuvud; sällan offentlig
+- [[Vessa Cassel]] – dotter, offentlig representant
+- [[Marden Cassel]] – arkivarie och aktuar; håller Cassels bok

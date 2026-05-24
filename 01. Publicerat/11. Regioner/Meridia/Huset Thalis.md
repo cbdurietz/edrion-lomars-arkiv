@@ -84,3 +84,10 @@ Kael-familjens ökade kapital och Osharis östliga nätverk representerar de tv�
 Det är en strategi som kräver att man hela tiden rör sig något snabbare än hotet. Thalis har gjort det i tre hundra cyklader.
 
 Det är en tröttande position. De visar det inte.
+
+## Kända personer
+
+- [[Erevyn Thalis]] – överhuvud, akademirepresentant för Kartografiska Kollegiet
+- [[Pelrath Thalis]] – son, licensadministratör och distributionschef
+- [[Tael Thalis]] – dotter, kartograf och fältgeograf
+- [[Orlan Thalis]] – farbror, emeritus vid Kollegiet; äldre grenens röst

@@ -10,5 +10,7 @@
   "excalibrain",
   "obsidian-excalidraw-plugin",
   "local-gpt",
-  "ai-providers"
+  "ai-providers",
+  "relations",
+  "templater-obsidian"
 ]

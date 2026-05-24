@@ -68,3 +68,10 @@ Huset Vaen är den av Meridias familjer vars position är svårast att utmana oc
 Det är också deras begränsning. En familj vars makt vilar på en funktion kan inte lätt expandera bortom den funktionens gränser utan att riskera sin kärnidentitet. Vaen kan inte bli Thalis, kan inte bli Cassel, kan inte bli Merí. De är vad de är – och vad de är har hållit stadsstaten i liv i tre hundra cyklader.
 
 Det räcker länge. Huruvida det räcker för alltid är en fråga Vaen inte brukar formulera, eftersom familjer som planerar i decennier föredrar att inte tänka i generationer.
+
+## Kända personer
+
+- [[Orsyn Vaen]] – överhuvud, militär befälhavare
+- [[Kethar Vaen]] – son, flottbefälhavare och utsedd arvinge
+- [[Orlin Vaen]] – son, förespråkare för diversifiering
+- [[Aldor Vaen]] – farbror, äldre grenens röst; före detta flottbefälhavare
