@@ -61,6 +61,31 @@ Eftersom överskottsdagen saknar vaelartillhörighet påverkar dess bortfall int
 
 ---
 
+## Umbrix-cykeln och epoktideräkning
+
+[[Umbrix]], den andra stjärnan i Aeteras-systemet, fullbordar ett omlopp runt Aeterion på ungefär **139 cyklader**. Dess position bland stjärnorna skiftar märkbart inom en människoålder – en äldre astronom kan peka på förflyttningen sedan sina ungdomsår – och är dramatiskt annorlunda än vad föregående generations rekord visar.
+
+Denna rörelse utgör grunden för en lång period av tidmätning som sträcker sig bortom enskilda liv. Kulturer med tillräckligt gamla observationsrekord daterar historiska händelser efter Umbrix position på himlen: *under det omlopp då Umbrix stod i [stjärnbilden]* – ett system som kräver generationers ackumulerade noteringar men ger en naturlig epokindelning av historien vid sidan av den löpande cykladräkningen.
+
+En fullständig Umbrix-cykel – ett omlopp – är ungefär 139 cyklader. Den sammanfaller inte med ett jämnt antal mänskliga generationer, vilket ger epoktideräkningen sin astronomiska auktoritet: ingen enskild person bevittnar ett fullständigt omlopp. Kunskapen om var i cykeln man befinner sig är alltid nedärvd, aldrig förstahands.
+
+### Epokgränser — tre traditioner
+
+Frågan om *när* ett omlopp börjar och slutar besvaras inte enhetligt. Tre traditioner samexisterar och ger delvis olika svar på vilket omlopp som nu pågår:
+
+**Akademisk tideräkning** utgår från att ett omlopp börjar när Umbrix passerar en fastställd referenspunkt på himlavalvet — en specifik ekliptikalpunkt eller en namngiven stjärna som fungerar som nollmeridian för epokräkningen. Observatorier med långa rekord numrerar omlopp bakåt så långt källorna räcker. Eftersom Umbrix-banans excentricitet gör rörelsen något ojämn — stjärnan rör sig märkbart snabbare nära sitt närmaste läge till Aeterion — ger olika definitioner av referenspunkten marginellt olika omloppsperioder. Lärda tvistar om vilken metod som är korrekt.
+
+**Kulturell och regional tideräkning** bryr sig sällan om referenspunkter. Äldre texter daterar händelser med formuleringen *"i det omlopp då Umbrix stod vid [stjärnbilden]"* — en beskrivning av visuell position snarare än ett numrerat system. Olika kulturer väljer olika konstellationer som naturliga epokmarkörer, vilket innebär att deras omloppsräkning inte sammanfaller. Det är inte ovanligt att ett och samma historiska skeende dateras till skilda omlopp i källmaterial från olika regioner.
+
+**Profetisk och religiös tideräkning** kopplar epoker inte till Umbrix passage av en arbiträr punkt, utan till vad den *gjorde* vid en given tidpunkt: närmade sig en viss stjärna, sammanföll med [[Vandraren|Vandrarens]] genomgång av det inre systemet, eller stod i konjunktion med [[Sekara]]. Dessa händelser är astronomiskt meningsfulla men infaller oregelbundet, vilket gör de profetiska epokerna ojämna i längd och svåra att jämföra med varandra.
+
+Ingen av traditionerna är tillräckligt auktoritativ för att stänga frågan. Resultatet är att frågan *"vilket omlopp befinner vi oss i?"* ger olika svar beroende på vem man frågar.
+
+→ *Se [[Umbrix]] för rörelse, position och de kulturella traditioner som knutits till den röda stjärnans vandring.*
+→ *Se [[Tideräkning]] för hur Umbrix påverkar dygnets ljuskaraktär.*
+
+---
+
 ## Symbolik
 
 Tröskeldagen betraktas i många kulturer som en paus i tidens flöde. När den uteblir talar man om en obruten vandring runt Aeterion – en cyklad utan tröskeldag.

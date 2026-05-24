@@ -1,6 +1,6 @@
-﻿# Tideräkning på Prima
+# Tideräkning på Prima
 
-Denna artikel beskriver de vanligaste systemen för tideräkning på [[Prima]], baserade på de astronomiska cyklerna i[[00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeteras]]]-systemet.
+Denna artikel beskriver de vanligaste systemen för tideräkning på [[Prima]], baserade på de astronomiska cyklerna i [[00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeteras]]-systemet.
 
 → *Se [[Cyklader|Tideräkning i cyklader]] för cykladens struktur, överskottsdag, zenitdrift och den Obrutna cykladen.*
 
@@ -42,6 +42,16 @@ Glaset inom en vakt anges med vakt:glas – t.ex. **5:3** (tredje glaset i femte
 Var gryning och skymning faller inom vaktsystemet varierar med årstid och latitud, men zenit och midnatt är fasta. Systemet fungerar därför lika bra vid ekvatorn som i norr.
 
 > Olika kulturer kan ha vardagliga namn för vakterna (t.ex. "dödvakten" för första vakten, "skymningsvakten" för sjätte), men grundsystemet är numeriskt.
+
+### Umbrix och dygnets ljus
+
+Det sexvaktsbaserade systemet mäter dygnet efter Aeterion – men [[Umbrix]], den andra stjärnan, befinner sig alltid någonstans på himlen. När Aeterion har gått ned men Umbrix ännu är ovanför horisonten uppstår ett tillstånd utan direkt motstycke: ett karminsken täcker landskapet, skuggor faller mjukt och diffust, och ljuset är långt svagare än dagsljus men tillräckligt för att se med. Olika kulturer ger detta tillstånd olika namn, men det igenkänns överallt. När båda stjärnorna befinner sig ovanför horisonten samtidigt faller dubbla skuggor: en skarp och klar från Aeterion, en mjuk och karmintingerad från Umbrix. Den samlade ljusstyrkan ökar knappt märkbart — Umbrix bidrar med en liten bråkdel av Aeterions belysning — men färgtemperaturen förskjuts påtagligt mot det röda.
+
+För varelser med infraröd mörkersyn innebär Umbrix närvaro en annan komplikation. Det röda och nära-infraröda ljus som stjärnan utstrålar fyller omgivningen redan när Umbrix ensam är ovanför horisonten — tillräckligt för att den perioden som för andra framstår som ett svagt skymningsljus upplevs som fullt dagsljus för sådana varelser. När båda stjärnorna är uppe kan IR-flödet störa förmågan att urskilja detaljer och värmekontraster, på ungefär samma sätt som en intensiv ljuskälla bländar ett vanligt öga.
+
+Umbrix position bland stjärnorna skiftar sakta under dess ~139-cyklader långa omlopp runt Aeterion. Under de generationer när Umbrix rör sig genom himlens nattsida lyser vakt 6 och vakt 1 i ett svagt rött sken; under andra generationer är dessa vakterna verkligt mörka. Vakt 1 är alltså inte alltid den *mörkaste* vakten – den är den vakt längst från Aeterion, men hur mörk den är beror på Umbrix.
+
+→ *Se [[Umbrix]] och [[Cyklader]] för den röda stjärnans position, rörelse och långperiodiska epokräkning.*
 
 ---
 
