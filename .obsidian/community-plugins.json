@@ -12,5 +12,7 @@
   "local-gpt",
   "ai-providers",
   "relations",
-  "templater-obsidian"
+  "templater-obsidian",
+  "simple-timeline",
+  "calendarium"
 ]

@@ -93,6 +93,22 @@ Tröskeldagen betraktas i många kulturer som en paus i tidens flöde. När den 
 Vissa ser detta som ett tecken på ordningens återställande.
 Andra upplever det som att en dag har "stulits".
 
+### Tröskeldagens plats i årstiderna
+
+Överskottsdagen infaller inte mitt i vintern utan vid dess yttersta gräns. Den är den sista dagen av Dvaln – den årstid som vänder sig mot mörkret – och morgonen efter tillhör redan Vaknan, när Vaelar I börjar. Det är alltså inte en dag av stillhet mitt i stillheten. Det är *övergångens* dag: vinterns sista andedrag, vårens ännu-inte-begynnelse. En dag som tillhör ingendera.
+
+I kulturer som markerar tröskeldagen med ritualer handlar dessa sällan om vila. Det handlar om *skiftet*: att bränna det gamla, välkomna det nya, låta natten vara en fullständig avslutning innan morgonen tillhör en annan ordning.
+
+### Paradoxen med den obrutna cykladen
+
+Häri ligger den obrutna cykladens djupaste symboliska komplikation.
+
+Zenitrådet utropa en obruten cyklad av astronomiska skäl: kalendern har drivit ur fas med Aeterions faktiska rörelse, och en dag måste strykas för att återföra ordningen. Vilken dag stryks? Tröskeldagen – den dag som inte tillhör någon vaelar, den dag som saknar fast plats i det ordinarie flödet. Tekniskt är den den minst störande att ta bort.
+
+Men just den dagen är uppvaknandets tröskel. Att ta bort den innebär att Dvaln direkt kollapsar in i Vaknan utan mellanrum. Vinterns sista natt är inte längre en sista natt – det är bara kvällen innan Vaelar I, dag 1, som vilken kväll som helst. Porten förblir öppen, men gångjärnen är borta.
+
+Det rådet offrar för astronomisk precision är just den symbol som inviger den ordning rådet påstår sig värna.
+
 ---
 
 ## Sammanfattning
@@ -135,3 +151,7 @@ Systemet förenar därmed astronomisk observation med kulturell och politisk pra
 **En ung student vid observatoriet:**
 
 > "Det är inte stöld. Det är justering. Om vi inte stryker dagen nu, kommer fullmånen en dag att falla fel i tabellerna. Det är himlen som kräver detta, inte rådet."
+
+**En filosof vid stadens bibliotek:**
+
+> "Rådet stryker tröskeldagen för att hålla solen i fas med vår räkning. Men det är tröskeldagen som markerar solens återkomst. Vi offrar invigningen för att bevara det invigda. Jag vet inte om det är klokt eller absurt."

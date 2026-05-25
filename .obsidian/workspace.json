@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Publicerat/11. Regioner/Meridia/Huset Thalis.md",
+                "file": "00. Arbetsmaterial/Tidslinje.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Huset Thalis"
+              "title": "Tidslinje"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Publicerat/11. Regioner/Meridia/Huset Thalis.md",
+                "file": "00. Arbetsmaterial/Tidslinje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Huset Thalis"
+              "title": "Backlinks for Tidslinje"
             }
           },
           {
@@ -174,6 +174,333 @@
               "icon": "lucide-list",
               "title": "Outline of Kyrathis"
             }
+          },
+          {
+            "id": "c444a778c1fb7769",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_78abe9c97908",
+                "ephemeral": {
+                  "viewState": 2,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 0
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": false,
+                  "location": ""
+                },
+                "id": "ID_396b2b49d979"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "f86943dcf1a6b0d6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_78abe9c97908",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 0
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_6b0a19590b78"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "3b7f29867581e93b",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_78abe9c97908",
+                "ephemeral": {
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 0
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_db8b5b1a7bcb"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "cc4f144d6abcffdc",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_78abe9c97908",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 0
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_c838492878b8"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "c7d62bb852e5d6d3",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_78abe9c97908",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 0
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_9939cb5a9858"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "5c6c33d375ff391e",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_78abe9c97908",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 0
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_1be95bb82a6a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "63b9aceedb564b35",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_78abe9c97908",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 0
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_f958ebdaa97a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "e2b94a8416dc6bd9",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_78abe9c97908",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 0
+                  },
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 0
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayAbsoluteYear": false,
+                  "displayMoons": true,
+                  "displayWeeks": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_491a6ae8a95a",
+                "child": "ID_29cae979cab8"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "a0d463829185078e",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_78abe9c97908",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 0
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_1ae8d9780b08"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "dd8f1b7dcf20ae88",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_78abe9c97908",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 26,
+                    "month": 2,
+                    "year": 0
+                  },
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 0
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayAbsoluteYear": true,
+                  "displayMoons": false,
+                  "displayWeeks": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_a8f90bca8999",
+                "child": "ID_a83b7a9868bb"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 14
+      },
+      {
+        "id": "13ee22c7730e99ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01ae2191aacc94c0",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_78abe9c97908",
+                "id": "ID_29cae979cab8",
+                "parent": "ID_491a6ae8a95a"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      },
+      {
+        "id": "601a20f527868b3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eff4212b2faa9c24",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_78abe9c97908",
+                "id": "ID_a83b7a9868bb",
+                "parent": "ID_a8f90bca8999"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
           }
         ]
       }
@@ -194,32 +521,36 @@
       "notebook-navigator:Notebook Navigator": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "relations:Open Relations graph": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "a41bda4fb671bd72",
+  "active": "dd8f1b7dcf20ae88",
   "lastOpenFiles": [
+    "00. Arbetsmaterial/10. Världsbok/Kosmologi/Tideräkning.md.tmp.35216.155541159f79",
+    "00. Arbetsmaterial/10. Världsbok/Kosmologi/Årstider.md",
+    "00. Arbetsmaterial/10. Världsbok/Kosmologi/Årstider.md.tmp.35216.dcaab5ab2f9f",
+    "00. Arbetsmaterial/10. Världsbok/Kosmologi/Cyklader.md.tmp.35216.4b3e5aab96c1",
+    "00. Arbetsmaterial/10. Världsbok/Kosmologi/Cyklader.md.tmp.35216.6781b35a094e",
+    "00. Arbetsmaterial/10. Världsbok/Kosmologi/Himlakroppar/Vandraren.md",
+    "00. Arbetsmaterial/Tidslinje.md.tmp.39516.1bcac7b173d8",
+    "01. Publicerat/11. Regioner/Meridia/Huset Thalis.md",
+    "00. Arbetsmaterial/Tidslinje.md",
+    "00. Arbetsmaterial/Tidslinje.md.tmp.39516.edb77dae2224",
     "01. Publicerat/11. Regioner/Meridia/Huset Oshari.md.tmp.14252.027203eb5520",
     "01. Publicerat/11. Regioner/Meridia/Huset Kael.md.tmp.14252.61a1b97efef9",
     "01. Publicerat/11. Regioner/Meridia/Huset Sorne.md.tmp.14252.fe15a0f15b7d",
     "01. Publicerat/11. Regioner/Meridia/Huset Cassel.md.tmp.14252.77332b371a65",
     "01. Publicerat/11. Regioner/Meridia/Huset Orren.md.tmp.14252.16ae7efc5aab",
-    "01. Publicerat/11. Regioner/Meridia/Huset Thalis.md.tmp.14252.1ae1d0638322",
-    "01. Publicerat/11. Regioner/Meridia/Huset Vaen.md.tmp.14252.1a193b044556",
-    "01. Publicerat/11. Regioner/Meridia/Huset Merí.md.tmp.14252.6d151543f8ed",
     "00. Arbetsmaterial/10. Världsbok/Personer/Pelrath Thalis.md",
-    "00. Arbetsmaterial/10. Världsbok/Personer/Caius II.md.tmp.14252.f0a8c3e996ef",
     "00. Arbetsmaterial/10. Världsbok/Personer/Orlan Thalis.md",
     "01. Publicerat/11. Regioner/Meridia/Huset Oshari.md",
-    "00. Arbetsmaterial/10. Världsbok/Personer/Neven Kael.md.tmp.14252.a8e36bc1c52d",
-    "00. Arbetsmaterial/10. Världsbok/Personer/Vessa Cassel.md.tmp.14252.8f65010986b3",
     "00. Arbetsmaterial/10. Världsbok/Personer/Orath.md",
     "00. Arbetsmaterial/10. Världsbok/Personer/Mirel Oshari.md",
     "00. Arbetsmaterial/10. Världsbok/Personer/Aren Oshari.md",
     "00. Arbetsmaterial/10. Världsbok/Personer/Riven Oshari.md",
     "00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeterion/Prima/Kontinenter och större landmassor/Ythea/Ythea.md",
     "01. Publicerat/11. Regioner/Meridia/Meridias familjer.md",
-    "01. Publicerat/11. Regioner/Meridia/Huset Thalis.md",
     "00. Arbetsmaterial/10. Världsbok/Personer/Marden Cassel.md",
     "00. Arbetsmaterial/10. Världsbok/Perseus/Perseus.md",
     "00. Arbetsmaterial/10. Världsbok/Personer/Maret Kael.md",
@@ -232,9 +563,6 @@
     "01. Publicerat/11. Regioner/Meridia/Huset Cassel.md",
     "00. Arbetsmaterial/10. Världsbok/Personer/Ceran Cassel.md",
     "00. Arbetsmaterial/10. Världsbok/Personer/Vessa Cassel.md",
-    "01. Publicerat/11. Regioner/Meridia/Huset Orren.md",
-    "00. Arbetsmaterial/10. Världsbok/Personer/Dara Orren.md",
-    "00. Arbetsmaterial/10. Världsbok/Personer/Harvin Orren.md",
     "90. Assets/maps/Ythea (1).png",
     "90. Assets/maps/Ythea-regioner.jpg",
     "90. Assets/maps/prima-plate-tectonics.png",

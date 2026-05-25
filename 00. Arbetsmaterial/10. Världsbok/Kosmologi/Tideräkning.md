@@ -3,6 +3,7 @@
 Denna artikel beskriver de vanligaste systemen för tideräkning på [[Prima]], baserade på de astronomiska cyklerna i [[00. Arbetsmaterial/10. Världsbok/Platser/Aeteras/Aeteras]]-systemet.
 
 → *Se [[Cyklader|Tideräkning i cyklader]] för cykladens struktur, överskottsdag, zenitdrift och den Obrutna cykladen.*
+→ *Se [[Årstider]] för årstidernas indelning, Umbrix-nätternas förskjutning och fyrdelad/sjudelad tradition.*
 
 > Nedanstående beskriver det vanligaste kalendersystemet på Prima. Andra kulturer kan ha egna indelningar, namnkonventioner och sätt att hantera överskottsdagen.
 
