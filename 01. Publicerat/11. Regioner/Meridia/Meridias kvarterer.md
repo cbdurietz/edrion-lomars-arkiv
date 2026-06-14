@@ -68,3 +68,15 @@ Sedan dess har staden vuxit på ett sätt som källan inte har. Sedan ett par hu
 Svaret har blivit ett dubbelt system. Regnet fångas, leds och lagras i ett nät av **cisterner och akvadukter** som täcker hela ön – en ingenjörsmässig konstruktion som byggts ut och förfinats i generationer, och som maximerar varje droppe som faller. De övre kvarterens familjer och institutioner har egna cisterner under husen; mellankvarterets invånare är beroende av de offentliga cistervaktstationerna, dit vatten leds via akvadukten och fördelas av ett gille vars neutralitet är välbevakad. Staden vet att vattengillen inte får bli föremål för familjernas rivaliteter.
 
 Men regn är inte tillräckligt i sig, och därför kompletteras systemet med import via **Vattenkajen** – färskvatten inseglat i tunnor och fat från källor och floder på fastlandet. I torra perioder speglar vattenpriset i mellankvarterets barer exakt hur högt de övre cisternas nivåmätare står, och hur länge sedan det senast kom ett vattenskepp från norr. Det är ett av Meridias mer talande sätt att påminna om att stadens storhet vilar på förutsättningar som kan rubbas.
+
+## Halvgrunderna
+
+Under de senaste sjuttiofem cykladerna har ett tredje ben tillkommit i stadens vattenförsörjning, längs öns lägre, sydvästliga sida mot [[Gryningshavet]].
+
+Det är inte en vacker del av ön. Tidvattnet rör sig i flacka, grunda drag där klippan slutar och havsytan börjar; ingenting av strategiskt eller estetiskt värde drar blicken dit. Det är just dessa egenskaper som gjort området användbart. [[Huset Halor]] anlägger och underhåller där ett nät av tidvattenbassänger där en odlad korallart — hálkorallen — binder salt ur havsvattnet och lämnar kvar det som kan ledas in i stadens system. Vattnet är inte rent i den mening som källvatten är rent: svagt mineraliskt, med en faint smak som de med råd att välja bort den väljer bort den. Det som meridianer med tillgång till alternativ kallar *havsblandningen* är vad Meridia i övrigt dricker.
+
+[[Halorsten]] är biprodukt ur samma process: den spenderade, saltmättade korallen som inte längre bidrar till avsaltningen krossas och formas till ett kompositmaterial vars lägre grad täcker hamnkvarterets infrastruktur och vars högre, polerade variant exporteras under beteckningen *halorisk sten*.
+
+Det importerade fastlandsvattnet via Vattenkajen är inte längre en livlina — det är en lyxvara. De välbeställda dricker källvatten från fastlandet just för att det inte smakar hav. Handeln med det sköts av [[Huset Oshari]]. Det finns en viss ironi i att det vatten de gamla husen föredrar nu kontrolleras av den familj som kom utifrån, via en kaj som en gång var stadens sista försvar mot törst.
+
+→ *Se [[Huset Halor]] för familjen och bassängsystemet. Se [[Halorsten]] för kompositmaterialet.*

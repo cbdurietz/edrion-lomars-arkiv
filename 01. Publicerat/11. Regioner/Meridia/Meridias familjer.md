@@ -137,22 +137,41 @@ Astrolaber, kompasser, sextanter, graderade mätcylindrar. Varje Navigationsskol
 - Mot *Thalis*: En ömsesidig och principiell rivalitet. Thalis äger kunskapen om världens form; Kael säljer verktygen för att navigera den. De behöver inte älska varandra.
 - Mot *Sorne*: Kael är vad Sorne en gång var. Sorne förlåter dem inte för det.
 
+## Huset Halor
+
+→ *Se [[Huset Halor]] för en utförligare artikel om familjen.*
+
+**Maktbas:** Avsaltning och [[halorsten]].
+
+Huset Halor är det yngsta av Meridias ledande familjer. Under de senaste sjuttiofem cykladerna har de omvandlat stadens djupaste sårbarhet — vattenbristen — till en resurs, genom ett system av tidvattenbassänger i [[Halvgrunderna]] där odlad hálkorall binder salt ur havet och lämnar kvar vatten man kan dricka. Spillkorallen från processen har de gjort till halorsten: ett kompositmaterial vars låga grad täcker hamnkvarterets golv och vars haloriska sten glimrar i välbeställda rådsrum. De håller ett av de starkaste anspråken på ett rådsäte av alla familjer utan ett.
+
+**Rådsrelation:** Inget direkt säte. Närmast en av alla utan ett — och med ett tyngre argument än Kael. Dörren hålls stängd inte för att anspråket är otillräckligt, utan för att konsekvensen av att erkänna det är för stor för de gamla husen att hantera.
+
+**Karaktär:** Nyrika med moralisk tyngd. Vet precis vilket kort de håller och har inte råd att spela det dumt. Vill ha respekten, vilket skiljer dem från Orren som inte bryr sig om den. Den tredje generationen sträcker efter legitimitet; den fjärde är mer intresserad av genomströmning.
+
+**Spänningar:**
+- Mot *Orren*: Kronisk kamp om kustvatten och bassängrättigheter längs den sydvästra kustlinjen. Alltid förhandlingsbar, aldrig enkel.
+- Mot *Merí* och *Thalis*: Motvilja. Vattenanspråket är för tungt att avfärda öppet, men erkännandet dröjer.
+- Med *Kael*: Ambivalent solidaritet. Bägge klättrar mot samma tröskel; det finns troligen bara en nästa plats.
+- Med *Cassel*: En relation som i teorin är avslutad och i praktiken håller på att återöppnas — av den fjärde generationens egna val.
+
 ## Strukturella axlar
 
 | Axel | Familjer                    |
 | -------------------------------------- | --------------------------- |
-| Gammal legitimitet vs. ny rikedom | Merid, Thalis ↔ Kael, Orren |
-| Vatten vs. kaj | Vaen ↔ Orren                |
+| Gammal legitimitet vs. ny rikedom | Merí, Thalis ↔ Kael, Orren, Halor |
+| Vatten vs. kaj | Vaen, Halor ↔ Orren         |
 | Akademisk prestige vs. tillämpad nytta | Thalis ↔ Kael               |
 | Alla mot skuldeboken | ↔ Cassel                    |
-| Infödd vs. utländsk | Merid, Thalis ↔ Oshari      |
+| Infödd vs. utländsk | Merí, Thalis ↔ Oshari      |
 | Fallande vs. stigande | Sorne ↔ Kael                |
 | Öppen makt vs. skuggmakt | Vaen, Merí ↔ Cassel, Oshari |
+| Anspråkets tyngd vs. rättens form | Halor ↔ gamla husen         |
 
 ## Rådet i praktiken
 
 Rådet är formellt sammansatt av representanter för akademier, handelsgillen och militär. Av de åtta familjerna sitter två med egna röster öppet: **Merí** (av tradition) och **Vaen** (som militär befälhavare). **Thalis** och **Orren** sitter formellt som akademi- respektive gillesrepresentanter – en distinktion alla genomskådar.
 
-**Sorne** håller ett allt skörare mandat. **Oshari** talar genom Orren och Sornes röst. **Cassel** har inget säte och vill inte ha det. **Kael** knackar på.
+**Sorne** håller ett allt skörare mandat. **Oshari** talar genom Orren och Sornes röst. **Cassel** har inget säte och vill inte ha det. **Kael** knackar på. **Halor** knackar hårdare och med ett tyngre argument — men kortets tyngd är just vad som håller dörren stängd, eftersom de gamla husen vet vad det kostar att öppna den.
 
-Utanför protokollet: Cassel håller skuldeboken över halva rummet, och Oshari vet vilka rutter Thalis kartor inte visar.
+Utanför protokollet: Cassel håller skuldeboken över halva rummet, och Oshari vet vilka rutter Thalis kartor inte visar. Halor håller stadens vatten.
